@@ -1,48 +1,48 @@
 {
   "Main Tutorial": {
     "TEXT": [
-		"Defeat enemies by playing cards from your hand! NL NL Cards require #yEnergy to play. NL Once you are out, end your turn. NL NL At the start of your turn, new cards are drawn and your #yEnergy is replenished.",
-		"Play defensive cards to gain #yBlock when enemies are about to attack you. NL NL #yBlock reduces incoming attack damage but NL #rwears #roff at the start of your next turn.",
-		"During your turn, you can observe an enemy's #yIntent above them. NL NL If an enemy is intent on attacking you, be sure to gain some #yBlock!"
+		"Долай ворогів граючи карти з вашої руки! NL NL Карти потребують #yЕнергію для гри. NL Коли бракуватиме енергії, закінчіть свій хід. NL NL На початку нового ходу, Вам натасують карт, та поповнять #yЕнергію.",
+		"Коли ворог планує атакувати, грайте захисні карти щоб покращити оборону #yБлок(ом). NL NL #yБлок зменшує шкоду ворога, але NL #rзношується на початку наступного ходу.",
+		"Під час вашого ходу, Ви можете побачити #yНамір ворога, над ними. NL NL Якщо ворог планує атакувати, не забувайте #yБлок!"
 	],
 	"LABEL": [
-		"Next",
-		"I'm Ready!",
-		"Tutorial",
-		"(Page ",
-		" of 3)"		
+		"Далі",
+		"Я готовий!",
+		"Навчання",
+		"(Сторінка ",
+		" з 3-ох)"		
 	]
   },
   "FTUE Tips": {
     "TEXT": [
 	],
 	"LABEL": [
-		"Tip: ",
-		"Got It"
+		"Порада: ",
+		"Само собою"
 	]
   },  
   "Potion Tip": {
     "TEXT": [
-		"Drink or throw potions during combat! NL Potions stay with you between rooms."
+		"Киньте або випийте зілля під час бою! NL Зілля лишаються з вами між кімнатами."
 	],
 	"LABEL": [
-		"Potions"
+		"Зілля"
 	]
   },  
   "Energy Tip": {
     "TEXT": [
-		"Cards require energy to play! NL This orb on the bottom left indicates how much energy you have remaining for the turn."
+		"Карти потребують енергії, для гри! NL Ця куля зліва внизу, вказує скільки енергії у Вас залишилось, у цьому ході."
 	],
 	"LABEL": [
-		"Energy Cost"	
+		"Витрата Енергії"	
 	]
   },  
   "Shuffle Tip": {
     "TEXT": [
-		"NL If there are no cards to draw, your discard pile is shuffled into the draw pile."
+		"NL Якщо бракує карт, карти зі Стопки Скиду перемішуються у вашу колоду."
 	],
 	"LABEL": [
-		"No More Cards?"	
+		"Скінчились Карти?"	
 	]
   },  
   "Player Tips": {
@@ -53,7 +53,7 @@
 	],
 	"LABEL": [
 		"Power Cards",
-		"Energy Cost"
+		"Витрата Енергії"
 	]
   },  
   "Relic Tip": {
