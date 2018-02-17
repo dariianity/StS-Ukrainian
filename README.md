@@ -9,9 +9,11 @@ Refer to the original files found in [eng/](eng/) to help translate the game. Th
 
 ## Discord servers
 Slay the Spire official discord: https://discord.gg/fZrCgyW 
+	-Join our #Ukrainian channel
 
 ## Дискорд
 Офіційний сервер Slay the Spire: https://discord.gg/fZrCgyW 
+	-Приєднуйся до #Ukrainian каналу
 
 ## Перекладаємо без суржика та запозичень з інших мов
 Синоніми: 	https://ukrainskamova.com/search/
