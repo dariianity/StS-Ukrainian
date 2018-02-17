@@ -1,4 +1,4 @@
-# StS-Ukrainian - Slay the Spire Ukrainian Tranlation
+# StS-Ukrainian - Slay the Spire Ukrainian Translation
 ## Translation guidelines
 Guidelines can be found in [TRANSLATOR_README.md](TRANSLATOR_README.md).  
 Refer to the original files found in [eng/](eng/) to help translate the game. The Ukrainian translations are in [ukr/](ukr/).
