@@ -13,7 +13,7 @@ Slay the Spire official discord: https://discord.gg/fZrCgyW
 ## Дискорд
 Офіційний сервер Slay the Spire: https://discord.gg/fZrCgyW 
 
-## Перекладаємо без суржика та запозичень з інщих мов
+## Перекладаємо без суржика та запозичень з інших мов
 Синоніми: 	https://ukrainskamova.com/search/
 			https://r2u.org.ua/s?w=&scope=all&dicts=all
 			http://sum.in.ua/s
