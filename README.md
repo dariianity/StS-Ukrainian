@@ -17,8 +17,9 @@ Slay the Spire official discord: https://discord.gg/fZrCgyW
 
 ## Перекладаємо без суржика та запозичень з інших мов
 Синоніми: 	https://ukrainskamova.com/search/
-			https://r2u.org.ua/s?w=&scope=all&dicts=all
-			http://sum.in.ua/s
+Словники Укр:	http://sum.in.ua/s
+Словники Рус-Укр:	https://r2u.org.ua/s?w=&scope=all&dicts=all
+
 
 Переклад запозичених слів
 			https://slovotvir.org.ua/
