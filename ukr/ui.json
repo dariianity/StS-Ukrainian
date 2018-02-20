@@ -603,19 +603,19 @@
   },
     "DailyScreen": {
     "TEXT": [
-		"Daily Challenge",
-		"Connecting to Time Server...",
-		"You have done today's challenge",
-		"Return",
-		"Embark",
-		"Today's character: ",
-		"dd/MM/yyyy HH:mm:ss",
-		"Time Left: ",
-		"#yFloor #yReached: NL  ",
-		" NL NL  #yDeck: NL ",
-		" NL NL  #yRelics: NL  ",
-		" NL Today's Challenge: NL TAB #yClass: NL TAB ",
-		" NL TAB #yMods: "
+		"Щоденний виклик",
+		"Підключення до часового серверу...",
+		"Ви закінчили сьогоднішній виклик",
+		"Назад",
+		"У Дорогу",
+		"Сьогоднішній Герой: ",
+		"дд/ММ/рррр ГГ:хх:сс",
+		"Час: ",
+		"#yДосягнуто #yПідлога: NL  ",
+		" NL NL  #yКолода: NL ",
+		" NL NL  #yМощі: NL  ",
+		" NL Щоденний виклик: NL TAB #yТип: NL TAB ",
+		" NL TAB #yМоди: "
 	]
   },
   "SettingsScreen": {
