@@ -47,174 +47,174 @@
   },  
   "Player Tips": {
     "TEXT": [
-		"Ця картка застосовує Снагу - зміцнює вас. NL Снага то пасивна здібність, вона залишається з вами до кінця бою.",
-		"Карти потребують Енергію, для гри! NL Ця куля зліва внизу, вказує скільки енергії у Вас залишилось, у цьому ході.",
-		"#rМої #rРуки #rПовні !"
+		"This card applies a Power to you when used. NL Powers are passive abilities that remain for the duration of the combat.",
+		"Cards require energy to play! NL This orb on the bottom left indicates how much energy you have remaining for the turn.",
+		"My #rHand #ris #rFull!"
 	],
 	"LABEL": [
-		"Карта Снаги",
+		"Power Cards",
 		"Витрата Енергії"
 	]
   },  
   "Relic Tip": {
     "TEXT": [
-		"Мощі знайдені протягом всієї гри, дарують унікальні бонуси та залишаються з Вами протягом усієї гри. NL Знайти їх можна перемігши потужних ворогів (Босів) або всередині скарбниць.",
-		"Небачена моща.",
-		"Її сила на жаль, вже вичерпана."
+		"Relics found throughout the Spire grant unique bonuses and remain throughout your run. NL They can be found by defeating powerful foes or within chests.",
+		"This relic remains to be seen.",
+		"Its power is all used up."
 	],
 	"LABEL": [
-		"Мощі",
-		"Невідоме",
-		"Не розблокована моща.",
-		"Заблоковане"
+		"Relics",
+		"Unknown",
+		"This relic has yet to be unlocked.",
+		"Locked"
 	]
   },  
   "Rewards Tip": {
     "TEXT": [
-		"Не забувайте скарби свої! NL Просто клацніть по ним, щоб підібрати їх."
+		"Don't forget your rewards! NL Just click on them to pick them up."
 	],
 	"LABEL": [
-		"Скарби"	
+		"Rewards"	
 	]
   },  
   "Draw Tip": {
     "TEXT": [
-		"На початку кожного ходу, NL #b",
-		" карти тасуються звідси. NL NL Клацніть, щоб переглянути картки у Стопці Дібрання (потасовані).",
-		" карти тасуються звідси. NL NL Клацніть, щоб переглянути картки у Стопці Дібрання."
+		"At the start of each turn, NL #b",
+		" cards are drawn from here. NL NL Click to view the cards in your draw pile (shuffled).",
+		" cards are drawn from here. NL NL Click to view the cards in your draw pile."
 	],
 	"LABEL": [
-		"Стопка Дібрання"	
+		"Draw Pile"	
 	]
   },  
   "Exhaust Tip": {
   	    "TEXT": [
-		"Клацніть, щоб переглянути карти виснажені з цього бою."
+		"Click to view cards Exhausted this combat."
 	],
 	"LABEL": [
-		"Виснажені Карти"	
+		"Exhausted Cards"	
 	]
   },
   "Options Tip": {
     "TEXT": [
-		"Дані ігроладу та всякі помилки надсилаються до Mega Crit для збалансування гри. NL NL Особиста ідентифікаційна інформація НЕ збирається.",
-		"Slay the Spire працює найшвидше, в повноекранному режимі. Рекомендовано для OSX так як Dock і Menubar приховуються. NL ПРИМІТКА: На ПК, alt-tab назад у Slay the Spire може не працювати в повноекранному режимі.",
-		"Так як Slay the Spire не вимоглива гра, ми рекомендуємо у вікні без рамки для швидкого alt-tab.",
-		"ПРИМІТКА: Якщо VSync включено, Макс. Частота кадрів не перевищить частоту оновлення Вашого монітор."
+		"Gameplay data and error logs are sent to Mega Crit for game balancing purposes. NL NL Personally identifying information is NOT collected.",
+		"Slay the Spire runs the fastest when running in true fullscreen. Recommended for OSX as the Dock and Menubar are hidden. NL NOTE: On PC, alt-tabbing back to Slay the Spire may not work with fullscreen.",
+		"As Slay the Spire isn't a demanding game, we recommend Borderless Fullscreen for fast alt-tab. Works best on PC.",
+		"Note: If VSync is on, the Max Framerate cannot go above your monitor refresh rate."
 	],
 	"LABEL": [
-		"Телеметрія",
-		"Повноекранний",
-		"У вікні без рамки",
-		"Макс. Частота кадрів"
+		"Metrics",
+		"Fullscreen",
+		"Borderless Fullscreen",
+		"Max Framerate"
 	]
   },  
   "Shop Tip": {
     "TEXT": [
-		"Приберіть карту з колоди. Вартість цієї послуги збільшується на #b",
-		" до кінця гри."
+		"Remove a card from your deck. The cost of this service increases by #b",
+		" for the rest of this run."
 	],
 	"LABEL": [
-		"Послуга видалення карт"	
+		"Card Removal Service"	
 	]
   },  
   "End Turn Tip": {
     "TEXT": [
-		"Клацніть цей ґудзик, щоб закінчити ваш хід. NL NL Ви викинете карти з руки у Стопку Скиду, настане черга ворога, Ви натасуєте ",
-		" карт, та й знов буде ваш хід."
+		"Pressing this button will end your turn. NL NL You will discard your hand, enemies will take their turn, you will draw ",
+		" cards, then it will be your turn again."
 	],
 	"LABEL": [
-		"Закінчити Хід"	
+		"End Turn"	
 	]
   },
  "Discard Tip": {
     "TEXT": [
-		"Карти звідси перемішуються у вашу колоду, коли бракує карт. NL NL Клацніть, щоб переглянути карти у Стопці Скиду."
+		"If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL Click to view the cards in your discard pile."
 	],
 	"LABEL": [
-		"Стопка Скиду"	
+		"Discard Pile"	
 	]
   },
  "Energy Panel Tip": {
     "TEXT": [
-		"Ваша поточна енергія. Карти потребують Енергію, для гри."
+		"Your current energy count. Cards require energy to play."
 	],
 	"LABEL": [
-		"Енергія"	
+		"Energy"	
 	]
   },
  "Potion Panel Tip": {
     "TEXT": [
-		"Гепнути зілля у ворога.",
-		"Випити зілля.",
-		"Викинути зілля NL (#rне #rможливо #rвідмінити #rдію)"
+		"Throws this potion at your enemy.",
+		"Consume this potion.",
+		"Discards this potion NL #r(cannot #rbe #rundone)"
 	],
 	"LABEL": [
-		"Гепнути",
-		"Випити",
-		"Викинути"
+		"Throw",
+		"Drink",
+		"Discard"
 	]
   },
  "Top Panel Tips": {
     "TEXT": [
-		"Відкриває меню гри. NL NL Зміни налаштування графіки, аудіо та ігроладу тут.",
-		"Переглянути усі карти в колоді.",
-		"Переглянути площир (мапу).",
-		"Ви помрете, якщо закінчиться Ваше ОЗ (Одиниці Здоров'я).",
-		"Показує, скільки у Вас золота. Золото - валюта цієї грі.",
+		"Opens the game menu. NL NL Change or update your graphics, audio, and gameplay preferences here.",
+		"View all of the cards in your deck.",
+		"View this current dungeon's map.",
+		"If you run out of HP, you die.",
+		"Shows how much gold you are carrying. Gold is the currency within the Spire.",
 		"",
 		"",
-		"Час, цієї гри."
+		"Elapsed time for this run."
 	],
 	"LABEL": [
-		"Налаштування",
-		"Колода",
-		"Площир",
-		"Одиниці Здоров'я (ОЗ)",
-		"Гаманець",
-		"Годинник"
+		"Settings",
+		"Deck",
+		"Map",
+		"Hit Points (HP)",
+		"Money Pouch",
+		"Run Timer"
 	]
   },
   "Random Tips": {
     "TEXT": [
-		"Грайте з друзями, та діліться різними стратегіями.",
-		"Перед босом завжди є місце відпочинку.",
-		"Витрачайте золото у торговця! (Спонсор поради - Торговець)",
-		"Відпочивайте час від часу.",
-		"Вороги не використовуватимуть ту саму дію 3 рази поспіль.",
-		"Відсотки завжди округляються в кінці розрахунку.",
-		"Під час бою ви можете переглянути вміст ваших стопок скиду / дібрання.",
-		"Корисна інформація показується при наведенні курсору на більшість об'єктів.",
-		"Увімк/вимк поради можна натиснувши ґудзик (?) у верхньому правому куті.",
-		"Клацнувши правою кнопкою миші, можна випустити карти які ви перетягуєте.",
-		"Наведіть курсор на ворога, щоб побачити ім'я та інформацію про статуси.",
-		"Використовуйте колесо миші або клацніть-і-перетягніть екран для прокрутки на Площирі.",
-		"Якщо цікавить предмет, наведіть курсор, він перетвориться на збільшувальне скло.",
-		"Ви можете мати необмежену кількість мощь.",
-		"Скарби завжди містять мощі.",
-		"Кожен шлях, завжди матиме принаймні 1 скарбницю.",
-		"Використовуйте колесо миші або клацніть-і-перетягніть екран для прокрутки на Площирі та картах.",
-		"Перемога над панами завжди принесе мощь(-і).",
-		"Ви ніколи не побачите одну і ту ж мощь двічі за одну гру.",
-		"Незвичайні карти мають синю рамку та банер.",
-		"Рідкі карти мають золоту рамку та банер.",
-		"Рідкість карти видна по самій карті.",
-		"Інколи не доцільно додавати карти до вашої колоди.",
-		"Карти, виснажені під час бою, не видаляються з вашої колоди.",
-		"В руки лізе лише 10 карт.",
-		"У кінці бою всі Стани зчищаються.",
-		"Прокляття неможливо покращити. Як тобі це в голову прийшло?",
-		"Покращені карти з'являються після Першого Акт(у).",
-		"Зілля використовується під час бою.",
-		"Зілля не можна викинути під час бою.",
-		"Невідомі кімнати містять скарби, монстри, крамниці чи події.",
-		"Торговець не повертає гроші. Щоб він скис!",
-		"Послуга видалення карт дорожчає при кожному використанні",
-		"Послугу видалення карт можна використовувати лише раз у кожній крамниці.",
-		"Шкода від зілля, мощь та снаги не вважаються атакою."
+		"Engage with other players to discover new and effective strategies.",
+		"There is always a rest site before a boss.",
+		"Spend gold at shops! (Tip paid for by Merchant)",
+		"Take a break every now and then.",
+		"No enemy will use the same move 3 times in a row.",
+		"Percentage-based calculations always round down at the end.",
+		"During combat, you can view the contents of your draw and discard piles.",
+		"Useful information can be revealed by hovering over most objects.",
+		"Toggle tips on/off by clicking on the ? button in the top right corner.",
+		"Right click will release any cards you are dragging.",
+		"Hover over an enemy to see their name and Power information.",
+		"Use the scroll wheel or click and drag the screen to scroll.",
+		"If you can inspect an item, your cursor will become a magnifying glass.",
+		"There is no limit to how many relics you can carry.",
+		"Chests will always drop a relic.",
+		"Every path you take will always have at least 1 treasure room.",
+		"Use the scrollwheel or click and drag to scroll maps, card screens, and others.",
+		"Elite enemies will always drop a relic.",
+		"You will never see the same relic twice in one run.",
+		"Uncommon cards have a blue frame and banner.",
+		"Rare cards have a golden frame and banner.",
+		"The rarity of a card is visible on the card itself.",
+		"It is not always wise to add cards to your deck.",
+		"Cards exhausted during combat are not removed from your deck.",
+		"You can only have up to 10 cards in your hand.",
+		"Status cards go away at the end of combat.",
+		"Curses cannot be upgraded. Why would you?",
+		"Upgraded cards may appear in rewards past Act 1.",
+		"Potions can only be used during combat.",
+		"Potions cannot be discarded during combat.",
+		"Unknown rooms may contain treasures, monsters, shops, or events.",
+		"The Merchant doesn't offer refunds. He is a jerk.",
+		"The card removal service increases in price whenever you use it.",
+		"The card removal service can only be used once at each shop.",
+		"Damage from potions, relics, and powers are not considered attack damage."
 	],
 	"LABEL": [
-		"Ви можете викинути зілля, щоб звільнити місце."	
+		"You can discard potions to make room for others."	
 	]
   }
 }
