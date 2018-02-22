@@ -1,0 +1,58 @@
+{
+	"Cursed Run": {
+		"NAME": "Прокляте",
+		"DESCRIPTION": "Після кожного боса, стаєте проклятим(-ою)."
+	},
+	"Elite Swarm": {
+		"NAME": "Панський Яр",
+		"DESCRIPTION": "Кількість Панів збільшено."
+	},
+	"Greed": {
+		"NAME": "Прожерливість",
+		"DESCRIPTION": "Вам совість не дає уникнути додавання карт."
+	},
+	"Growing Enemies": {
+		"NAME": "Роз'їдливі Вороги",
+		"DESCRIPTION": "З кожним ходом, вороги стають сильнішими."
+	},
+	"Heirloom": {
+		"NAME": "Спадщина",
+		"DESCRIPTION": "Починаєш гру з випадковою мощю."
+	},
+	"Lethal Enemies": {
+		"NAME": "Смертельні вороги",
+		"DESCRIPTION": "Усі вороги починають з +3 Сили."
+	},
+	"Night Terrors": {
+		"NAME": "Нічні Жахи",
+		"DESCRIPTION": "Відпочинок біля вогнища зціляє 20% вашого ОЗ, а не 30%."
+	},
+	"Restless Journey": {
+		"NAME": "Невгамовна Подорож",
+		"DESCRIPTION": "Ви більше не зцілюєтесь, при нових Акт(ах)."
+	},
+	"Slow Start": {
+		"NAME": "Повільний початок",
+		"DESCRIPTION": "Ви починаєте з додатковим Удар та Захист."
+	},
+	"Tough Enemies": {
+		"NAME": "Тяжкі Вороги",
+		"DESCRIPTION": "Вороги мають на 25% більше ОЗ."
+	},
+	"Shiny": {
+		"NAME": "Розкішне",
+		"DESCRIPTION": "Починаєте з одної рідкісної картки."
+	},
+	"Allstar": {
+		"NAME": "All Star",
+		"DESCRIPTION": "Start with 2 colorless cards."
+	},
+	"Diverse": {
+		"NAME": "Diverse",
+		"DESCRIPTION": "Start with 2 cards from another class."
+	},
+	"Vintage": {
+		"NAME": "Vintage",
+		"DESCRIPTION": "The Merchant's prices are increased by 25%."
+	}
+}
