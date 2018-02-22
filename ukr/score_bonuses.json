@@ -1,0 +1,174 @@
+{
+  "Ascension": {
+    "NAME": "Вознесіння",
+    "DESCRIPTIONS": [
+      "+5% до рахунка за кожен Рівень Вознесіння."
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "Панів Вбито в Далині",
+    "DESCRIPTIONS": []
+  },
+  "Bosses Slain": {
+    "NAME": "Босів Вбито",
+    "DESCRIPTIONS": []
+  },
+  "City Elites Killed": {
+    "NAME": "Панів Вбито у Місті",
+    "DESCRIPTIONS": []
+  },
+  "Exordium Elites Killed": {
+    "NAME": "Панів Вбито при Воротах",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "Чемпіон",
+    "DESCRIPTIONS": [
+      "Вбий Пана не отримавши шкоди." 
+    ]
+  },
+  "Perfect": {
+    "NAME": "Неперевершений",
+    "DESCRIPTIONS": [
+      "Вбий Боса не отримавши шкоди."
+    ]
+  },
+  "Beyond Perfect": {
+    "NAME": "Ідеально",
+    "DESCRIPTIONS": [
+      "Вбий 3 Боса не отримавши шкоди."
+    ]
+  },
+  "Overkill": {
+    "NAME": "Занадто",
+    "DESCRIPTIONS": [
+      "Нанеси 99 шкоди однією атакою."
+    ]
+  },
+  "Combo": {
+    "NAME": "К-к-к-комбо",
+    "DESCRIPTIONS": [
+      "Зіграй 20 карт за один хід."
+    ]
+  },
+  "Poopy": {
+    "NAME": "Сморід",
+    "DESCRIPTIONS": [
+      "Сила нечиста щось підкинула.."
+    ]
+  },
+  "Cheater": {
+    "NAME": "Шахрай",
+    "DESCRIPTIONS": [
+      "Вас застали у шахрайстві. Якщо попадетесь двічі, ваш рахунок ніколи не завантажуватиметься на Лідерське Табло."
+    ]
+  },
+  "Speedster": {
+    "NAME": "Скорогон",
+    "DESCRIPTIONS": [
+      "Перемога за менш ніж годину."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "Зі швидкістю світла",
+    "DESCRIPTIONS": [
+      "Перемога за менш ніж 45хв."
+    ]
+  },
+  "Money Money": {
+    "NAME": "Гроші Гроші",
+    "DESCRIPTIONS": [
+      "Зібрав 1,000 золота."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "Мажор",
+    "DESCRIPTIONS": [
+      "Зібрав 2,000 золота."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "Мені Подобається Золото",
+    "DESCRIPTIONS": [
+      "Зібрав 3,000 золота."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "Мінімаліст",
+    "DESCRIPTIONS": [
+      "Вилучив(-ла) більше п'яти карт з колоди."
+    ]
+  },
+  "Highlander": {
+    "NAME": "Горець",
+    "DESCRIPTIONS": [
+      "Ваша колода не містить дублікатів (не рахуючи стартові карти)."
+    ]
+  },
+  "Shiny": {
+    "NAME": "Мені Подобається Все Блискуче",
+    "DESCRIPTIONS": [
+      "Зібрав(-ла) 25 реліквій."
+    ]
+  },
+  "Collector": {
+    "NAME": "Колекціонер",
+    "DESCRIPTIONS": [
+      "Зібрав(-ла) 4 копії будь-якої не-елементарної карт."
+    ]
+  },
+  "Pauper": {
+    "NAME": "Бідняк",
+    "DESCRIPTIONS": [
+      "Зібрав(-ла) 0 рідкісних карт."
+    ]
+  },
+ "Librarian": {
+    "NAME": "Бібліотекар",
+    "DESCRIPTIONS": [
+      "У Колоді більше 35-ти карт."
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "Енциклопед",
+    "DESCRIPTIONS": [
+      "У Колоді більше 50-ти карт."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "Ситий",
+    "DESCRIPTIONS": [
+      "Збільшив Макс. ОЗ на 15+."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "Обіжрався",
+    "DESCRIPTIONS": [
+      "Збільшив Макс. ОЗ на 30+."
+    ]
+  },
+  "Curses": {
+    "NAME": "Прокляття!",
+    "DESCRIPTIONS": [
+      "У Колоді 5 Проклять."
+    ]
+  },
+  "Alchemist": {
+    "NAME": "Алхімік",
+    "DESCRIPTIONS": [
+      "Придбав 5 Зілль."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "Машина Таємниць",
+    "DESCRIPTIONS": [
+      "Побував у 15+ ? Кімнат."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "На власних умовах",
+    "DESCRIPTIONS": [
+      "Вбив себе."
+    ]
+  }
+}

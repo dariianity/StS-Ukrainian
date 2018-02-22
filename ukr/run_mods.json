@@ -45,14 +45,14 @@
 	},
 	"Allstar": {
 		"NAME": "All Star",
-		"DESCRIPTION": "Start with 2 colorless cards."
+		"DESCRIPTION": "Починаєте з 2-ма безбарвних карт."
 	},
 	"Diverse": {
 		"NAME": "Diverse",
-		"DESCRIPTION": "Start with 2 cards from another class."
+		"DESCRIPTION": "Починаєте з 2-ма картами інший класу."
 	},
 	"Vintage": {
-		"NAME": "Vintage",
-		"DESCRIPTION": "The Merchant's prices are increased by 25%."
+		"NAME": "Осучас",
+		"DESCRIPTION": "Ціни торговця збільшені на 25%."
 	}
 }
