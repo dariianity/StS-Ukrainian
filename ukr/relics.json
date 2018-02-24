@@ -1,49 +1,49 @@
 {
   "Anchor": {
-	"NAME": "Anchor",
-	"FLAVOR": "Holding this miniature trinket, you feel heavier and more stable.",
+	"NAME": "Якір",
+	"FLAVOR": "Тримаючи цей мініатюрний якір, ви відчуваєте себе стабільніше.",
     "DESCRIPTIONS": [
-	"Start each combat with #b", 
-	" #yBlock." 
+	"Починаєте кожен бій з #b", 
+	" #yБлок." 
 	]
   },
   "Art of War": {
-	"NAME": "Art of War",
-	"FLAVOR": "This ancient manuscript contains wisdom from a past age.",
+	"NAME": "Мистецтво Війни",
+	"FLAVOR": "Цей стародавній рукопис, містить мудрість з минулих віків.",
     "DESCRIPTIONS": [
-	"If you do not play any #yAttacks during your turn, gain an extra ",
-	"[R] next turn.", 
-	"[G] next turn.", 
-	"[B] next turn."
+	"Якщо ви не будете #yАтакувати під час вашої черги, отримаєте додатковий(-е) ",
+	"[R] у наступному ході.", 
+	"[G] у наступному ході.", 
+	"[B] у наступному ході."
 	]
   },
   "Astrolabe": {
-	"NAME": "Astrolabe",
-	"FLAVOR": "A tool to glean invaluable knowledge from the stars.",
+	"NAME": "Астролябія",
+	"FLAVOR": "Інструмент для дослідження зірок.",
     "DESCRIPTIONS": [
-	"Upon pickup, choose and #yTransform #b3 cards, then #yUpgrade them.",
-	"Choose 3 cards for "
+	"Обери та #yПеретвори #b3 карти, потім #yПокращ їх.",
+	"Оберіть 3 карти для "
 	]
   },
   "Bag of Marbles": {
-	"NAME": "Bag of Marbles",
-	"FLAVOR": "A once popular toy in the City. Useful for throwing enemies off balance.",
+	"NAME": "Мішечок з Камінцями",
+	"FLAVOR": "Колись була популярною іграшкою в місті. На цей день використовується щоб збивати ворогів з балансу.",
     "DESCRIPTIONS": [
-	"At the start of each combat, apply #b",
-	" #yVulnerable to ALL enemies."
+	"На початку кожного бою, накладає #b",
+	" #yУразливий на ВСІХ ворогів."
 	]
   },
   "Bag of Preparation": {
-	"NAME": "Bag of Preparation",
-	"FLAVOR": "Oversized adventurer's pack. Has many pockets and straps.",
+	"NAME": "Добре Спакований Рюкзак",
+	"FLAVOR": "Має багато кишень і ремінців.",
     "DESCRIPTIONS": [
-	"At the start of each combat, draw #b", 
-	" additional cards."
+	"На початку кожного бою, тасуються #b", 
+	" додаткових карт."
 	]
   },
   "Bird Faced Urn": {
-	"NAME": "Bird-Faced Urn",
-	"FLAVOR": "This urn shows the crow god Mazaleth looking mischievous.",
+	"NAME": "Урна з Головою Пташки",
+	"FLAVOR": "Ця урна зображує бога ворона-Мазалефа, який виглядає зловісним.",
     "DESCRIPTIONS": [
 	"Whenever you play a #yPower, heal #b", 
 	" HP."
