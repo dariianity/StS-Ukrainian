@@ -2,12 +2,14 @@
 ## Translation guidelines
 Guidelines can be found in [TRANSLATOR_README.md](TRANSLATOR_README.md).  
 Refer to the original files found in [eng/](eng/) to help translate the game. The Ukrainian translations are in [ukr/](ukr/).  
-Frequently used words are located in [Dictionary.txt](Dictionary.txt)
+Frequently used words are located in [Dictionary.txt](Dictionary.txt).  
+Use them. They are there for consistency throughout the game.
 
 ## Процес Перекладу
 Рекомендації Англійською можна знайти в [TRANSLATOR_README.md](TRANSLATOR_README.md).  
 Перекладаємо за оригінальними файлами [eng/](eng/), сюди [ukr/](ukr/).  
-Часто використовувані слова знаходяться у [Dictionary.txt](Dictionary.txt)
+Часто використовувані слова знаходяться у [Dictionary.txt](Dictionary.txt).  
+Використовуйте їх. Вони тут для повноцінного перекладу гри.
 
 ## Discord servers
 Slay the Spire official discord: https://discord.gg/fZrCgyW .  

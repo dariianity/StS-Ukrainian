@@ -1,30 +1,49 @@
-Attack - Атакувати
+Attack - Атак(-увати)
 Block - Блок
-Vulnerable - Уразливий
-Weak - Слабкість
-Draw - тасують(-ється)
-Deck - Колода
-damage - шкода
-Curse - прокляття
+Button - ґудзик
 Character - Герой
-Score - Рахунок
-Merchant - Торговець
-Treasure - Скарби 
-Treasure Rooms - Скарбниця
-Rest - Табір
-Rest Sites - Табори
-Ironclad - Броненосець
-The Silent - Тінь
+Chest - скриня
+Click - Клац(-ніть)
+Curse - прокляття
+Damage - шкода
+Deck - Колода
+Deal - наносити / також наноситься
+Dexterity - Спритність
+Discard - Усунути
+Draw - тасують(-ється)
+Drop - залишають по собі
 Elite - Пан
 Elites - Пани
+Exhaust - виснажені(-а/-е)
+Heal - зцілює(-тесь)
+HP - ОЗ
+Ironclad - Броненосець
+Map - мапа (НЕ карта)
+Merchant - Торговець
+Obtain - отримуєте
+Potion - зілля
+Power - Снага
+Rest - Табір
+Rest Sites - Табори
+Relic - Мощь
+Score - Рахунок
+Shop - Крамниці
+Skill - Вміння
+Status - Статус
+Strength - Міць
+Spire - Вежа
+Treasure - Скарби 
+Treasure Rooms - Скарбниця
+The Silent - Тінь
+Turn - Хід (ходу)
+Upgrade (card) - Поліпшити (карту)
+Vulnerable - Уразливий
+Weak - Слабкість
+Weakened - Ослаблений(-ити)
+Wounds - Рани
+Whenever you (deal) - Щоразу Ви (наносите)
+You can no longer become (Weakened) - Вас неможливо (Ослабити)
+
 Акт 1 - Exordium - Ворота
 Акт 2 - The City - Місто
 Акт 3 - The Beyond - Далина
-Relic - Мощь
-Heal - зцілює(-тесь)
-Upgrade (card) - Поліпшити (карту)
-HP - ОЗ
-potion - зілля
-Map - мапа (НЕ карта)
-Click - Клац(-ніть)
-Button - ґудзик
