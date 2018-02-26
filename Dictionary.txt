@@ -1,0 +1,30 @@
+Attack - Атакувати
+Block - Блок
+Vulnerable - Уразливий
+Weak - Слабкість
+Draw - тасують(-ється)
+Deck - Колода
+damage - шкода
+Curse - прокляття
+Character - Герой
+Score - Рахунок
+Merchant - Торговець
+Treasure - Скарби 
+Treasure Rooms - Скарбниця
+Rest - Табір
+Rest Sites - Табори
+Ironclad - Броненосець
+The Silent - Тінь
+Elite - Пан
+Elites - Пани
+Акт 1 - Exordium - Ворота
+Акт 2 - The City - Місто
+Акт 3 - The Beyond - Далина
+Relic - Мощь
+Heal - зцілює(-тесь)
+Upgrade (card) - Поліпшити (карту)
+HP - ОЗ
+potion - зілля
+Map - мапа (НЕ карта)
+Click - Клац(-ніть)
+Button - ґудзик
