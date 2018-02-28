@@ -46,7 +46,7 @@
 	"FLAVOR": "Ця урна зображує бога ворона-Мазалефа, який виглядає зловісним.",
     "DESCRIPTIONS": [
 	"Кожного разу, коли ви граєте карту #yСнаги, зцілюєтесь на #b", 
-	" HP."
+	" ОЗ."
 	]
   },
   "Black Blood": {
@@ -54,7 +54,7 @@
 	"FLAVOR": "Нечиста злість.",
     "DESCRIPTIONS": [
 	"Замінює #rПалаючу #rКров. В кінці бою, зцілюєтесь на #b", 
-	" HP."
+	" ОЗ."
 	]
   },
   "Black Star": {
@@ -69,7 +69,7 @@
 	"FLAVOR": "Флакон з кров'ю чистокровного вампіра.",
     "DESCRIPTIONS": [
 	"На початку кожного бою, зцілюєтесь на #b", 
-	" HP."
+	" ОЗ."
 	]
   },
   "Bloody Idol": {
@@ -77,7 +77,7 @@
 	"FLAVOR": "Ідол плаче постійним потоком крові.",
     "DESCRIPTIONS": [
 	"Кожного разу, як ви отримуєте #yЗолото, зцілюєтесь на #b", 
-	" HP."
+	" ОЗ."
 	]
   },
   "Blue Candle": {
@@ -308,7 +308,7 @@
     "DESCRIPTIONS": [
 	"За кожну #b", 
 	" карту у вашій колоді, зцілює #b",
-	" ОЗ Щоразу ви зупиняєтесь у Таборі." 
+	" ОЗ Щоразу ви зупиняєтесь у Таборі відпочинку." 
 	]
   },
   "Frozen Egg": {
@@ -337,7 +337,7 @@
 	"NAME": "Тягарець",
 	"FLAVOR": "Цей Тягарець незмінно важкий. Ви могли б тренуватися з ним, щоб зміцніти.",
     "DESCRIPTIONS": [
-	"Ви можете отримувати #yМіць Таборах. (макс. 3 рази)"
+	"Ви можете отримувати #yМіць у Таборах відпочинку. (макс. 3 рази)"
 	]
   },
   "Golden Idol": {
@@ -499,181 +499,181 @@
 	]
   },
   "Necronomicon": {
-	"NAME": "Necronomicon",
-	"FLAVOR": "Only a fool would try and harness this evil power. At night your dreams are haunted by images of the book devouring your mind.",
+	"NAME": "Некрономікон",
+	"FLAVOR": "Тільки дурень намагався б використати цю злу силу. Вночі ваші мрії переслідуються образами книги, яка пожирає ваш розум.",
     "DESCRIPTIONS": [
-	"The first #yAttack played each turn that costs #b",
-	" or more is played twice. When you take this relic, become #rCursed.", 
-	" or more is played twice."
+	"Перша #yАтака карта зіграна у кожному ході, коштує #b",
+	" або більше, грається двічі. Підіймаючи цю мощу, отримуєте #rПрокляту карту.", 
+	" або більше, грається двічі."
 	]
   },
   "Nilry's Codex": {
-	"NAME": "Nilry's Codex",
-	"FLAVOR": "Crafted by the infamous game master himself. Said to expand one's mind.",
+	"NAME": "Кодекс Нілрі",
+	"FLAVOR": "Створено самим цяцькописом (розробником) цієї гри. Очевидно, розвиває розум власника.",
     "DESCRIPTIONS": [
-	"At the end of each turn, you can choose #b1 of #b3 random cards to shuffle into your draw pile."
+	"Наприкінці кожного ходу, можете обрати #b1 з #b3 випадкових карт, тасуються у вашу колоду."
 	]
   },
   "Nine Lives": {
 	"NAME": "Nine Lives",
 	"FLAVOR": "DEPRECATED.",
     "DESCRIPTIONS": [
-	"When you would die, heal to full HP instead. NL (Works #b9 times)",
-	"When you would die, heal to full HP instead. NL (No more lives)",
-	"When you would die, heal to full HP instead. NL (Works #b", 
+	"When you would die, heal to full ОЗ instead. NL (Works #b9 times)",
+	"When you would die, heal to full ОЗ instead. NL (No more lives)",
+	"When you would die, heal to full ОЗ instead. NL (Works #b", 
 	" more times)"
 	]
   },
   "Ninja Scroll": {
-	"NAME": "Ninja Scroll",
-	"FLAVOR": "Contains the secrets of assassination.",
+	"NAME": "Пропис Ніндзі",
+	"FLAVOR": "Містить секрети душогубства.",
     "DESCRIPTIONS": [
-	"Start each combat with #b", 
-	" #yShivs in hand."
+	"Починаєте кожен бій з #b", 
+	" #yЦизорик(а) в руці."
 	]
   },
   "Nloth's Gift": {
-	"NAME": "Nloth's Gift",
-	"FLAVOR": "The strange gift from N'loth. Щоразу you try and unwrap it, another wrapped box of the same size lies within.",
+	"NAME": "Подарунок Нлота",
+	"FLAVOR": "Дивний дарунок від Нлоту. Щоразу Ви намагаєтесь розгорнути його, інша упакований дарунок такого ж розміру лежить всередині.",
     "DESCRIPTIONS": [
-	"#bTriples the chance of receiving rare cards as monster rewards."
+	"В #bТри рази більша ймовірність отримання рідкісних карт при смерті простих монстрів."
 	]
   },
   "Nullstone Periapt": {
 	"NAME": "Nullstone Periapt",
 	"FLAVOR": "DEPRECATED.",
     "DESCRIPTIONS": [
-	"Negate the next #yDebuff you receive from an enemy. NL Recharges in #b10 turns."
+	"Анулюєте наступні #yDebuff you receive from an enemy. NL Recharges in #b10 turns."
 	]
   },
   "Oddly Smooth Stone": {
-	"NAME": "Oddly Smooth Stone",
-	"FLAVOR": "You have never seen something so smooth and pristine. This must be the work of the Ancients.",
+	"NAME": "Незвичайно Гладкий Камінець",
+	"FLAVOR": "Ви ніколи не бачили щось настільки гладке.",
     "DESCRIPTIONS": [
 	"На початку кожного бою, Отримуєте #b", 
-	" #yDexterity."
+	" #yСпритність."
 	]
   },
   "Odd Mushroom": {
-	"NAME": "Odd Mushroom",
-	"FLAVOR": "\"After consuming trichella parastius I felt larger and less... susceptible.\" - Ranwid ",
+	"NAME": "Дивний Гриб",
+	"FLAVOR": "\"Після споживання \"Трічелли\" я відчув себе менше й менше... вразливим.\" - Ранвід ",
     "DESCRIPTIONS": [
-	"When #yVulnerable, take #b25% more damage rather than #b50%."
+	"Коли #yУразливий, отримуєш #b25% більше шкоди, замість #b50%."
 	]
   },
   "Old Coin": {
-	"NAME": "Old Coin",
-	"FLAVOR": "Unique coins are highly valued by Merchants for their historical value and rare metallic composition.",
+	"NAME": "Стара Мідяк",
+	"FLAVOR": "Унікальні монети високо оцінюються купцями за їх історичну цінність та рідкісний металевий склад.",
     "DESCRIPTIONS": [
-	"Отримуєте #b300 #yGold."
+	"Отримуєте #b300 #yЗолота."
 	]
   },
   "Omamori": {
-	"NAME": "Omamori",
-	"FLAVOR": "A common charm for staving off vile spirits. This one seems to possess a spark of divine energy.",
+	"NAME": "Омаморі",
+	"FLAVOR": "Простонародний амулет проти огидних духів. Цей має іскру божественної енергії.",
     "DESCRIPTIONS": [
-	"Negate the next #b2 #rCurses you obtain.", 
-	"Negate the next #rCurse you obtain.", 
-	"This relic is all used up." 
+	"Анулюєте наступні #b2 #rПрокляття.", 
+	"Анулюєте наступні #rПрокляття.", 
+	"Ця моща вичерпана." 
 	]
   },
   "Orichalcum": {
-	"NAME": "Orichalcum",
-	"FLAVOR": "A green tinted metal of an unknown origin. Seemingly indestructible.",
+	"NAME": "Орихалкум",
+	"FLAVOR": "Зеленуватий метал, невідомого походження. На вигляд незламний.",
     "DESCRIPTIONS": [
-	"If you end your turn without #yBlock, Отримуєте #b", 
-	" #yBlock."
+	"Якщо ви закінчуєте свій хід без #yБлоку, отримуєте #b", 
+	" #yБлок."
 	]
   },
   "Ornamental Fan": {
-	"NAME": "Ornamental Fan",
-	"FLAVOR": "The fan seems to extend and harden as blood is spilled.",
+	"NAME": "Декоративне Віяло",
+	"FLAVOR": "Схоже, це віяло розширюється та твердіє коли проливається кров.",
     "DESCRIPTIONS": [
-	"Щоразу Ви граєте #b3 #yAttacks in a single turn, Отримуєте #b",
+	"Щоразу Ви граєте #b3 #yАтаки за один хід, отримуєте #b",
 	" #yBlock."
 	]
   },
   "Orrery": {
-	"NAME": "Orrery",
-	"FLAVOR": "\"Once you understand the universe...\" - Zoroth",
+	"NAME": "Кишеньковий Планетарій",
+	"FLAVOR": "\"Як тільки ви зрозумієте Всесвіт...\" - Зорот",
     "DESCRIPTIONS": [
-	"Choose and add #b5 cards to your deck.", 
-	"Knowledge!"
+	"Оберіть та додайте #b5 карт до вашої колоди.", 
+	"Знавство!"
 	]
   },
   "Pandora's Box": {
-	"NAME": "Pandora's Box",
-	"FLAVOR": "You have a bad feeling about opening this.",
+	"NAME": "Коробка Пандори",
+	"FLAVOR": "У Вам не хочеться відкрити цю коробку.",
     "DESCRIPTIONS": [
-	"#bTransform all Strikes and Defends.",
-	"Pandoras Box has been opened..."
+	"#bПеретвори усі карти Удару та Захисту.",
+	"Коробка Пандори відкрита..."
 	]
   },
   "Pantograph": {
-	"NAME": "Pantograph",
-	"FLAVOR": "\"Solid foundations are not accidental. Tools for planning are a must.\" - The Architect",
+	"NAME": "Пантограф",
+	"FLAVOR": "\"Суцільний фундаменти не випадкові. Інструменти для планування є обов'язковими.\" - Архітектор",
     "DESCRIPTIONS": [
-	"At the start of boss combats, heal #b", 
-	" HP."
+	"На початку боротьби з босами, зцілюєтесь на #b", 
+	" ОЗ."
 	]
   },
   "Paper Crane": {
-	"NAME": "Paper Krane",
-	"FLAVOR": "An origami of a creature from a past age.",
+	"NAME": "Паперовий Кране",
+	"FLAVOR": "Істота з Орігамі, з минулого віку.",
     "DESCRIPTIONS": [
-	"Enemies with #yWeak deal #b50% less damage rather than #b25%."
+	"Вороги з #yСлабкістю наносять #b50% менше шкоди, замість #b25%."
 	]
   },
   "Paper Frog": {
-	"NAME": "Paper Phrog",
-	"FLAVOR": "The paper continually folds and unfolds itself into the shape of a small creature.",
+	"NAME": "Паперовий Phrog",
+	"FLAVOR": "Папір постійно складається і розвертається у формі маленької істоти.",
     "DESCRIPTIONS": [
-	"Enemies with #yVulnerable take #b75% more damage rather than #b50%."
+	"Вороги з #yУразливістю отримують #b75% більше шкоди, замість #b50%."
 	]
   },
   "Peace Pipe": {
-	"NAME": "Peace Pipe",
-	"FLAVOR": "Clears the mind and cleanses the soul.",
+	"NAME": "Труба Миру",
+	"FLAVOR": "Очищає душу й розум.",
     "DESCRIPTIONS": [
-	"You can now remove cards from your deck at Rest Sites."
+	"Ви тепер можете усунути одну карту з колоди на Таборах відпочинку."
 	]
   },
   "Pear": {
-	"NAME": "Pear",
-	"FLAVOR": "A common fruit before the Spireblight.",
+	"NAME": "Груша",
+	"FLAVOR": "Простонародний фрукт до чуми.",
     "DESCRIPTIONS": [
-	"Raise your Max HP by #b"
+	"Піднімає макс. ОЗ на #b"
 	]
   },
   "Pen Nib": {
-	"NAME": "Pen Nib",
-	"FLAVOR": "Holding the nib, you can see everyone ever slain by a previous owner of the pen. A violent history.",
+	"NAME": "Ручка",
+	"FLAVOR": "Тримаючи ручку, ви бачите кожного вбитого, попереднього власника ручки. Нестямна історія.",
     "DESCRIPTIONS": [
-	"Every #b10th #yAttack you play deals double damage."
+	"Кожна #b10-та карта #yАтаки яку ви граєте, наносить подвійну шкоду."
 	]
   },
   "Philosopher's Stone": {
-	"NAME": "Philosopher's Stone",
-	"FLAVOR": "Raw energy emanates from the stone, empowering all nearby.",
+	"NAME": "Філософський Камінь",
+	"FLAVOR": "Невидима енергія випромінюється з цього каменю, надаючи всім поряд могутність.",
     "DESCRIPTIONS": [
-	" ALL enemies start with #b2 #yStrength.",
+	" ВСІ вороги починаються з #b+2 #yМіці.",
 	"Отримуєте [R] на початку кожного ходу.", 
 	"Отримуєте [G] на початку кожного ходу.",
 	"Отримуєте [B] на початку кожного ходу."
 	]
   },
   "Prayer Wheel": {
-	"NAME": "Prayer Wheel",
-	"FLAVOR": "The wheel continues to spin, never stopping.",
+	"NAME": "Молебне Колесо",
+	"FLAVOR": "Колесо крутитися, не зупиняючись.",
     "DESCRIPTIONS": [
-	"Non-Boss chests now also contain cards."
+	"Усі не-босові скрині тепер додатково, містять карти."
 	]
   },
   "Question Card": {
-	"NAME": "Question Card",
-	"FLAVOR": "\"Those with more choices minimize the downside to chaos.\" - Kublai the Great",
+	"NAME": "Картка Запитань",
+	"FLAVOR": "\"Ті, з більшим вибором, мінімізують недоліки хаосу.\" - Кублай Великий",
     "DESCRIPTIONS": [
-	 "On Card Reward screens, choose from #b4 cards instead of #b3."
+	 "На екрані Нагород, Ви обираєте з #b4 карт замість #b3."
 	]
   },
   "Red Circlet": {
@@ -695,7 +695,7 @@
 	"NAME": "Red Skull",
 	"FLAVOR": "A small skull covered in ornamental paint.",
     "DESCRIPTIONS": [
-	"While your HP is at or below #b50%, you have #b",
+	"While your ОЗ is at or below #b50%, you have #b",
 	" additional #yStrength."
 	]
   },
@@ -704,20 +704,20 @@
 	"FLAVOR": "Now you can get a proper night's rest.",
     "DESCRIPTIONS": [
 	"Heal an additional #b", 
-	" HP when you #yRest."
+	" ОЗ when you #yRest."
 	]
   },
   "Ring of the Serpent": {
 	"NAME": "Ring of the Serpent",
     "DESCRIPTIONS": [
-	"Replaces #gSnake #gRing. If you defeat an #yElite enemy, raise your Max HP by #b"
+	"Replaces #gSnake #gRing. If you defeat an #yElite enemy, raise your Max ОЗ by #b"
 	]
   },
   "Runic Cube": {
 	"NAME": "Runic Cube",
 	"FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
-	"Щоразу you lose HP, draw #b",
+	"Щоразу you lose ОЗ, draw #b",
 	" card.",
 	""
 	]
@@ -744,7 +744,7 @@
 	"NAME": "Self-Forming Clay",
 	"FLAVOR": "\"Most curious! It appears to form itself loosely on my thoughts! Tele-clay?\" - Ranwid",
     "DESCRIPTIONS": [
-	"Щоразу you lose HP in combat, Отримуєте #b",
+	"Щоразу you lose ОЗ in combat, Отримуєте #b",
 	" #yBlock next turn."
 	]
   },
@@ -760,7 +760,7 @@
 	"FLAVOR": "Lightweight throwing weapons. Recommend going for the eyes.",
     "DESCRIPTIONS": [
 	"Щоразу Ви граєте #b", 
-	" #yAttacks in a single turn, Отримуєте #b",
+	" #yАтаки за один хід, Отримуєте #b",
 	" #yStrength."
 	]
   },
@@ -768,7 +768,7 @@
 	"NAME": "Singing Bowl",
 	"FLAVOR": "This well-used artifact rings out with a beautiful melody when struck.",
     "DESCRIPTIONS": [
-	"When adding cards to your deck, you may Отримуєте #b+2 Max HP instead."
+	"When adding cards to your deck, you may Отримуєте #b+2 Max ОЗ instead."
 	]
   },
   "Smiling Mask": {
@@ -830,7 +830,7 @@
 	"NAME": "Strawberry",
 	"FLAVOR": "\"Delicious! Haven't seen any of these since the blight.\" - Ranwid",
     "DESCRIPTIONS": [
-	"Raise your Max HP by #b"
+	"Raise your Max ОЗ by #b"
 	]
   },
   "Sundial": {
@@ -864,7 +864,7 @@
 	"NAME": "Darkstone Periapt",
 	"FLAVOR": "Missing description.",
     "DESCRIPTIONS": [
-	"Щоразу you obtain a #yCurse, increase your Max HP by #b"
+	"Щоразу you obtain a #yПрокляття, increase your Max ОЗ by #b"
 	]
   },
   "Test 1": {
@@ -917,7 +917,7 @@
 	"NAME": "Test 6",
 	"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
     "DESCRIPTIONS": [
-	"At the end of each turn, Отримуєте #b",
+	"Наприкінці кожного ходу, Отримуєте #b",
 	" #yBlock for every #b",
 	" #yGold you have."
 	]
@@ -973,7 +973,7 @@
 	"FLAVOR": "\"A near perfect implementation of miniaturization. My finest work to date, but still not adequate.\" - The Architect",
     "DESCRIPTIONS": [
 	"Obtain #b1 potion. NL Отримуєте #b",
-	" #yGold. NL Raise your Max HP by #b", 
+	" #yGold. NL Raise your Max ОЗ by #b", 
 	". NL Obtain #b1 card. NL Upgrade #b1 random card.",
 	"Tiny House!"
 	]
@@ -990,7 +990,7 @@
 	"FLAVOR": "Holding the small Torii, you feel a sense of calm and safety drift through your mind.",
     "DESCRIPTIONS": [
 	"Щоразу you would receive #b",
-	" or less unblocked #yAttack damage, reduce it to #b1."
+	" or less unblocked #yАтака damage, reduce it to #b1."
 	]
   },
   "Tough Bandages": {
@@ -1014,7 +1014,7 @@
 	"FLAVOR": "\"This little toy is the perfect companion for the lone adventurer!\"",
     "DESCRIPTIONS": [
 	"Щоразу you use a potion, heal #b", 
-	" HP."
+	" ОЗ."
 	]
   },
   "Unceasing Top": {
@@ -1048,8 +1048,8 @@
 	"NAME": "Lee's Waffle",
 	"FLAVOR": "\"Tastiest treat you will find in all the Spire! Baked today just for you.\"",
     "DESCRIPTIONS": [
-	"Raise your Max HP by #b", 
-	" and heal all of your HP."
+	"Raise your Max ОЗ by #b", 
+	" and heal all of your ОЗ."
 	]
   },
   "Whetstone": {
@@ -1057,7 +1057,7 @@
 	"FLAVOR": "\"Flesh never beats steel.\" - Kublai the Great",
     "DESCRIPTIONS": [
 	"Підбираючи, #yUpgrade #b", 
-	" random #yAttacks."
+	" random #yАтаки."
 	]
   },
   "Derp Rock": {
@@ -1072,7 +1072,7 @@
 	"NAME": "Neow's Lament",
 	"FLAVOR": "The blessing of lamentation bestowed by Neow.",
     "DESCRIPTIONS": [
-		"Enemies in your first #b3 combats will have 1 HP.",
+		"Enemies in your first #b3 combats will have 1 ОЗ.",
 		"The blessing is used up."
 	]
   },
