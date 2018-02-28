@@ -1,7 +1,7 @@
 {
   "Anchor": {
 	"NAME": "Якір",
-	"FLAVOR": "Тримаючи цей мініатюрний якір, ви відчуваєте себе стабільніше.",
+	"FLAVOR": "Тримаючи цей мініатюрний якір, Ви відчуваєте себе стабільніше.",
     "DESCRIPTIONS": [
 	"Починаєте кожен бій з #b", 
 	" #yБлок." 
@@ -11,7 +11,7 @@
 	"NAME": "Мистецтво Війни",
 	"FLAVOR": "Цей стародавній рукопис, містить мудрість з минулих віків.",
     "DESCRIPTIONS": [
-	"Якщо ви не будете #yАтакувати під час вашої черги, отримаєте додатковий(-е) ",
+	"Якщо Ви не будете #yАтакувати під час вашої черги, отримаєте додатковий(-е) ",
 	"[R] у наступному ході.", 
 	"[G] у наступному ході.", 
 	"[B] у наступному ході."
@@ -45,7 +45,7 @@
 	"NAME": "Урна з Головою Пташки",
 	"FLAVOR": "Ця урна зображує бога ворона-Мазалефа, який виглядає зловісним.",
     "DESCRIPTIONS": [
-	"Кожного разу, коли ви граєте карту #yСнаги, зцілюєтесь на #b", 
+	"Кожного разу, коли Ви граєте карту #yСнаги, зцілюєтесь на #b", 
 	" ОЗ."
 	]
   },
@@ -76,7 +76,7 @@
 	"NAME": "Кривавий Ідол",
 	"FLAVOR": "Ідол плаче постійним потоком крові.",
     "DESCRIPTIONS": [
-	"Кожного разу, як ви отримуєте #yЗолото, зцілюєтесь на #b", 
+	"Кожного разу, як Ви отримуєте #yЗолото, зцілюєтесь на #b", 
 	" ОЗ."
 	]
   },
@@ -84,7 +84,7 @@
 	"NAME": "Синя Свічка",
 	"FLAVOR": "Полум'я свічки запалюється, в темряві.",
     "DESCRIPTIONS": [
-	"Ви можете грати #yПрокляті карти. NL NL Граючи #yПрокляту карту, ви не тільки втратите #b",
+	"Ви можете грати #yПрокляті карти. NL NL Граючи #yПрокляту карту, Ви не тільки втратите #b",
 	" ОЗ та й #yВиснажите ту карту."
 	]
   },
@@ -100,7 +100,7 @@
   },
   "Bottled Lightning": {
 	"NAME": "Блискавка у Пляшці",
-	"FLAVOR": "Заглянувши в кружляючу бульварку, ви бачите частинку себе.",
+	"FLAVOR": "Заглянувши в кружляючу бульварку, Ви бачите частинку себе.",
     "DESCRIPTIONS": [
 	"Підбираючи, виберіть Навичку. Вона буде у вас у руці на початку кожного бою.",
 	"Виберіть карту ",
@@ -144,7 +144,7 @@
   },
   "Calling Bell": {
 	"NAME": "Дзвінок Дзвоника",
-	"FLAVOR": "Цей таємничий залізний дзвінок, задзвонив 3 рази коли ви його знайшли, але тепер лишається тихим.",
+	"FLAVOR": "Цей таємничий залізний дзвінок, задзвонив 3 рази коли Ви його знайшли, але тепер лишається тихим.",
     "DESCRIPTIONS": [
 	"Одержуєте #b3 #yПрокляті карти та #b3 #yМощі.",
 	"Дзвоник Дзвонить...",
@@ -162,7 +162,7 @@
   },
   "Centennial Puzzle": {
 	"NAME": "Столітня Головоломка",
-	"FLAVOR": "Вирішуючи головоломку, ви відчуваєте силу.",
+	"FLAVOR": "Вирішуючи головоломку, Ви відчуваєте силу.",
     "DESCRIPTIONS": [
 	"Вперше втрачаючи ОЗ кожного ходу, тасуються #b", 
 	" додатковий карт."
@@ -216,7 +216,7 @@
 	"NAME": "Проклятий Ключ",
 	"FLAVOR": "Ви відчуваєте погану силу від цього ключа. Влада має свою ціну.",
     "DESCRIPTIONS": [
-	"Щоразу, коли ви відкриваєте не-босову скриню , отримуєте #rПрокляну карту.",
+	"Щоразу, коли Ви відкриваєте не-босову скриню , отримуєте #rПрокляну карту.",
 	"Отримуєте [R] на початку кожного ходу.",
 	"Отримуєте [G] на початку кожного ходу.",
 	"Отримуєте [B] на початку кожного ходу."
@@ -250,7 +250,7 @@
 	"NAME": "Ловець Снів",
 	"FLAVOR": "Північні племена часто використовували Ловець Снів вночі, вважаючи, що вони призводять до самовдосконалення.",
     "DESCRIPTIONS": [
-	"Щоразу відпочиває у таборі, ви можете додати карту до вашої колоди."
+	"Щоразу відпочиває у таборі, Ви можете додати карту до вашої колоди."
 	]
   },
   "Du-Vu Doll": {
@@ -278,21 +278,21 @@
 	"NAME": "Заморожене Яйко",
 	"FLAVOR": "Яйце лежить інертним і замороженим, ніколи не вилупившись.",
     "DESCRIPTIONS": [
-	"Щоразу ви додаєте карту #yСнаги до вашої колоди, вона #yПоліпшена."
+	"Щоразу Ви додаєте карту #yСнаги до вашої колоди, вона #yПоліпшена."
 	]
   },
   "Molten Egg 2": {
 	"NAME": "Розплавлене Яйко",
 	"FLAVOR": "Яйце Фенікса. Вона світиться червоною гарячою, киплячою лавою.",
     "DESCRIPTIONS": [
-	"Щоразу ви додаєте карту #yАтаки до вашої колоди, вона #yПоліпшена."
+	"Щоразу Ви додаєте карту #yАтаки до вашої колоди, вона #yПоліпшена."
 	]
   },
   "Toxic Egg 2": {
 	"NAME": "Токсичне Яйко",
 	"FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
     "DESCRIPTIONS": [
-	"Щоразу ви додаєте карту #yВміння до вашої колоди, вона #yПоліпшена."
+	"Щоразу Ви додаєте карту #yВміння до вашої колоди, вона #yПоліпшена."
 	]
   },
   "Enchiridion": {
@@ -308,7 +308,7 @@
     "DESCRIPTIONS": [
 	"За кожну #b", 
 	" карту у вашій колоді, зцілює #b",
-	" ОЗ Щоразу ви зупиняєтесь у Таборі відпочинку." 
+	" ОЗ Щоразу Ви зупиняєтесь у Таборі відпочинку." 
 	]
   },
   "Frozen Egg": {
@@ -581,8 +581,8 @@
 	"NAME": "Орихалкум",
 	"FLAVOR": "Зеленуватий метал, невідомого походження. На вигляд незламний.",
     "DESCRIPTIONS": [
-	"Якщо ви закінчуєте свій хід без #yБлоку, отримуєте #b", 
-	" #yБлок."
+	"Якщо Ви закінчуєте свій хід без #yБлоку, отримуєте #b", 
+	" #yБлок(а)."
 	]
   },
   "Ornamental Fan": {
@@ -595,7 +595,7 @@
   },
   "Orrery": {
 	"NAME": "Кишеньковий Планетарій",
-	"FLAVOR": "\"Як тільки ви зрозумієте Всесвіт...\" - Зорот",
+	"FLAVOR": "\"Як тільки Ви зрозумієте Всесвіт...\" - Зорот",
     "DESCRIPTIONS": [
 	"Оберіть та додайте #b5 карт до вашої колоди.", 
 	"Знавство!"
@@ -647,9 +647,9 @@
   },
   "Pen Nib": {
 	"NAME": "Ручка",
-	"FLAVOR": "Тримаючи ручку, ви бачите кожного вбитого, попереднього власника ручки. Нестямна історія.",
+	"FLAVOR": "Тримаючи ручку, Ви бачите кожного вбитого, попереднього власника ручки. Нестямна історія.",
     "DESCRIPTIONS": [
-	"Кожна #b10-та карта #yАтаки яку ви граєте, наносить подвійну шкоду."
+	"Кожна #b10-та карта #yАтаки яку Ви граєте, наносить подвійну шкоду."
 	]
   },
   "Philosopher's Stone": {
@@ -677,391 +677,391 @@
 	]
   },
   "Red Circlet": {
-	"NAME": "Red Circlet",
-	"FLAVOR": "You ran out of relics. Impressive!",
+	"NAME": "Червоний Браслет",
+	"FLAVOR": "Ви зібрали усі Мощі. Вражаюче!",
     "DESCRIPTIONS": [
-	"Looks very pretty."
+	"Красивий браслет."
 	]
   },
   "Red Mask": {
-	"NAME": "Red Mask",
-	"FLAVOR": "This very stylish looking mask belongs to the leader of the Red Mask Bandits. Technically that makes you the leader now?",
+	"NAME": "Червона Маска",
+	"FLAVOR": "Ця стильна маска, належить лідерові бандитів Червоної Маски. Технічно це робить вас лідером, чи ні?",
     "DESCRIPTIONS": [
-	"На початку кожного бою, apply #b", 
-	" #yWeak to ALL enemies."
+	"На початку кожного бою, наносите #b", 
+	" #yСлабкість на ВСІХ ворогів."
 	]
   },
   "Red Skull": {
-	"NAME": "Red Skull",
-	"FLAVOR": "A small skull covered in ornamental paint.",
+	"NAME": "Червоний Череп",
+	"FLAVOR": "Невеликий череп, покритий декоративною фарбою.",
     "DESCRIPTIONS": [
-	"While your ОЗ is at or below #b50%, you have #b",
-	" additional #yStrength."
+	"Поки твоє ОЗ знаходиться на рівні #b50% або нижче, Ви маєте #b",
+	" додаткової #yМіці."
 	]
   },
   "Regal Pillow": {
-	"NAME": "Regal Pillow",
-	"FLAVOR": "Now you can get a proper night's rest.",
+	"NAME": "Королівська Подушка",
+	"FLAVOR": "Нарешті нормально зможете обіснути.",
     "DESCRIPTIONS": [
-	"Heal an additional #b", 
-	" ОЗ when you #yRest."
+	"Зцілюєтесь на додаткові #b", 
+	" ОЗ коли відпочиваєте у #yТаборі."
 	]
   },
   "Ring of the Serpent": {
-	"NAME": "Ring of the Serpent",
+	"NAME": "Кільце Гадюки",
     "DESCRIPTIONS": [
-	"Replaces #gSnake #gRing. If you defeat an #yElite enemy, raise your Max ОЗ by #b"
+	"Замінює #gЗміїне #gКільце. Якщо Ви переможете #yПана, збільшить Max ОЗ by #b"
 	]
   },
   "Runic Cube": {
-	"NAME": "Runic Cube",
-	"FLAVOR": "The runes are indecipherable.",
+	"NAME": "Рунічний Куб",
+	"FLAVOR": "Руни не розпізнаються.",
     "DESCRIPTIONS": [
-	"Щоразу you lose ОЗ, draw #b",
-	" card.",
+	"Щоразу Ви втрачаєте ОЗ, тасується #b",
+	" карт до вашої колоди.",
 	""
 	]
   },
   "Runic Dome": {
-	"NAME": "Runic Dome",
-	"FLAVOR": "The runes are indecipherable.",
+	"NAME": "Рунічний Купол",
+	"FLAVOR": "Руни не розпізнаються.",
     "DESCRIPTIONS": [
-	"на початку кожного ходу. You can no longer see enemy #bIntents.",
+	"На початку кожного ходу. Ви більше не бачите #bНаміри ворогів.",
 	"Отримуєте [R] ", 
 	"Отримуєте [G] ", 
 	"Отримуєте [B] "
 	]
   },
   "Runic Pyramid": {
-	"NAME": "Runic Pyramid",
-	"FLAVOR": "The runes are indecipherable.",
+	"NAME": "Рунічна Піраміда",
+	"FLAVOR": "Руни не розпізнаються.",
     "DESCRIPTIONS": [
-	"At the end of your turn, you no longer discard your hand. NL Draw #b", 
-	" less card each turn." 
+	"Наприкінці кожного ходу, ти більше не відкидаєте карти з руки. NL Тасується #b", 
+	" менше карт кожного ходу." 
 	]
   },
   "Self Forming Clay": {
-	"NAME": "Self-Forming Clay",
-	"FLAVOR": "\"Most curious! It appears to form itself loosely on my thoughts! Tele-clay?\" - Ranwid",
+	"NAME": "Самоформуюча Глина",
+	"FLAVOR": "\"Найцікавіше що вона формується на моїх думках! Теле-Глина?\" - Ранвід",
     "DESCRIPTIONS": [
-	"Щоразу you lose ОЗ in combat, Отримуєте #b",
-	" #yBlock next turn."
+	"Щоразу ти втрачаєте ОЗ в бою, отримуєте #b",
+	" #yБлоку наступного ходу."
 	]
   },
   "Shovel": {
-	"NAME": "Shovel",
-	"FLAVOR": "The Spire houses all number of relics from past civilizations and powerful adventurers lost to time. Time to go dig them up!",
+	"NAME": "Лопата",
+	"FLAVOR": "У Вежі існує багато мощь минулих цивілізацій та потужних авантюристів, втрачені з часом. Час їх відкопати!",
     "DESCRIPTIONS": [
-	 "You can now #yDig for loot at Rest Sites."
+	 "Ви тепер можете #yКопати за скарбами у Таборах."
 	]
   },
   "Shuriken": {
-	"NAME": "Shuriken",
-	"FLAVOR": "Lightweight throwing weapons. Recommend going for the eyes.",
+	"NAME": "Шурікен",
+	"FLAVOR": "Легка металева зброя. Порекомендую цілитись у очі.",
     "DESCRIPTIONS": [
 	"Щоразу Ви граєте #b", 
-	" #yАтаки за один хід, Отримуєте #b",
-	" #yStrength."
+	" #yАтаки за один хід, отримуєте #b",
+	" #yМіці."
 	]
   },
   "Singing Bowl": {
-	"NAME": "Singing Bowl",
-	"FLAVOR": "This well-used artifact rings out with a beautiful melody when struck.",
+	"NAME": "Співаюча Чаша",
+	"FLAVOR": "Цей сильно зношений артефакт, грає красивою мелодією.",
     "DESCRIPTIONS": [
-	"When adding cards to your deck, you may Отримуєте #b+2 Max ОЗ instead."
+	"При додаванні карт до вашої колоди Ви натомість можете отримати #b+2 макс. ОЗ."
 	]
   },
   "Smiling Mask": {
-	"NAME": "Smiling Mask",
-	"FLAVOR": "Mask worn by the merchant. He must have spares...",
+	"NAME": "Посміхаюча Маска",
+	"FLAVOR": "Маска Торговця. В нього має бути декілька запасних...",
     "DESCRIPTIONS": [
-	"The merchant's card removal service now always costs #b",
-	" #yGold."
+	"Послуга видалення карт, завжди коштує #b",
+	" #yЗолота."
 	]
   },
   "Ring of the Snake": {
-	"NAME": "Ring of the Snake",
-	"FLAVOR": "Made from a fossilized snake. Represents great skill as a huntress.",
+	"NAME": "Зміїне Кільце",
+	"FLAVOR": "Виготовлений з скам'янілої рептилії. Представляє ваші чудові навички.",
     "DESCRIPTIONS": [
-	"На початку кожного бою, draw #b", 
-	" additional cards."
+	"На початку кожного бою, тасується #b", 
+	" додаткових карт."
 	]
   },
   "Snecko Eye": {
-	"NAME": "Snecko Eye",
-	"FLAVOR": "An eye of a fallen snecko. Much larger than you imagined.",
+	"NAME": "Око Зміяка",
+	"FLAVOR": "Око мертвого Зміяка. Набагато більше, ніж ви собі уявляли.",
     "DESCRIPTIONS": [
-	"Draw #b2 additional cards each turn. Start each combat #yConfused."
+	"тасується #b2 додаткових карт кожен хід. Починаєте кожен бій #yНестямним."
 	]
   },
   "Snake Skull": {
-	"NAME": "Snecko Skull",
-	"FLAVOR": "A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably.",
+	"NAME": "Череп Зміяки",
+	"FLAVOR": "Череп Зміяки в первозданному стані. Загадково чистий і гладкий.",
     "DESCRIPTIONS": [
-	"Щоразу you apply #yPoison, apply an additional #b", 
-	" #yPoison."
+	"Щоразу Ви наносите #yОтруту, наносите додатково #b", 
+	" #yОтрути."
 	]
   },
   "Sozu": {
-	"NAME": "Sozu",
-	"FLAVOR": "You notice that magical liquids seem to lose their properties when near this relic.",
+	"NAME": "Сузу",
+	"FLAVOR": "Ви помічаєте, що магічні рідини, здається, втрачають свої властивості, поблизу цієї мощі.",
     "DESCRIPTIONS": [
-	" You can no longer obtain potions. ",
+	" Ви більше не можете отримати зілля. ",
 	"Отримуєте [R] на початку кожного ходу.", 
 	"Отримуєте [G] на початку кожного ходу.",
 	"Отримуєте [B] на початку кожного ходу."
 	]
   },
   "Spirit Poop": {
-	"NAME": "Spirit Poop",
-	"FLAVOR": "The charred remains of your offering to the spirits.",
+	"NAME": "Сморід",
+	"FLAVOR": "Сила нечиста щось підкинула...",
     "DESCRIPTIONS": [
-	"It's unpleasant."
+	"Сто чортів в печінку тому хто підкинув це."
 	]
   },
   "Strange Spoon": {
-	"NAME": "Strange Spoon",
-	"FLAVOR": "Staring at the spoon, it appears to bend and twist around before your eyes.",
+	"NAME": "Дивна Ложка",
+	"FLAVOR": "Дивлячись на ложку, здається, що вона згинається і крутиться перед очима.",
     "DESCRIPTIONS": [
-	"Cards which #yExhaust when played will instead discard #b50% of the time."
+	"Карти які #yВиснажаються при грі, замість цього усуватимуться у Відбій з #b50% шансом."
 	]
   },
   "Strawberry": {
-	"NAME": "Strawberry",
-	"FLAVOR": "\"Delicious! Haven't seen any of these since the blight.\" - Ranwid",
+	"NAME": "Полуниця",
+	"FLAVOR": "\"Дуже смачно! Давно не бачив жодної з них.\" - Ранвід",
     "DESCRIPTIONS": [
-	"Raise your Max ОЗ by #b"
+	"Піднімає макс ОЗ на #b"
 	]
   },
   "Sundial": {
-	"NAME": "Sundial",
-	"FLAVOR": "\"Early man's foolish obsession with time caused them to look to the sky for guidance, hoping for something permanent.\" - Zoroth",
+	"NAME": "Сонячний Годинник",
+	"FLAVOR": "\"Нерозумна одержимість ранніх людей з часом, змусила їх дивитися на небо в пошуку напрямку, сподіваючись на щось витривале.\" - Зорот",
     "DESCRIPTIONS": [
-	"Every #b", 
-	" times you shuffle your deck, Отримуєте [R] [R] .",
-	" times you shuffle your deck, Отримуєте [G] [G] .",
-	" times you shuffle your deck, Отримуєте [B] [B] ."
+	"Кожен #b", 
+	" раз ви перемішуєте свою колоду, отримуєте [R] [R] .",
+	" раз ви перемішуєте свою колоду, отримуєте [G] [G] .",
+	" раз ви перемішуєте свою колоду, отримуєте [B] [B] ."
 	]
   },
   "Ancient Tea Set": {
-	"NAME": "Ancient Tea Set",
-	"FLAVOR": "The key to a refreshing night's rest.",
+	"NAME": "Старовинний Набір до Чаю",
+	"FLAVOR": "Ключ до освіжаючої ночі.",
     "DESCRIPTIONS": [
-	"Щоразу you enter a Rest Site, start the next combat with [R] [R] .",
-	"Щоразу you enter a Rest Site, start the next combat with [G] [G] .",
-	"Щоразу you enter a Rest Site, start the next combat with [B] [B] ."
+	"Щоразу ти заходиш до Табору, починаєш наступний бій з [R] [R] .",
+	"Щоразу ти заходиш до Табору, починаєш наступний бій з [G] [G] .",
+	"Щоразу ти заходиш до Табору, починаєш наступний бій з [B] [B] ."
 	]
   },
   "War Paint": {
-	"NAME": "War Paint",
-	"FLAVOR": "Missing description.",
+	"NAME": "Воєнна Фарба",
+	"FLAVOR": "Відсутній опис.",
     "DESCRIPTIONS": [
-	"Підбираючи, #yUpgrade #b", 
-	" random #ySkills."
+	"Підбираючи, #yПоліпшує #b", 
+	" випадкові #yВміння."
 	]
   },
   "Darkstone Periapt": {
-	"NAME": "Darkstone Periapt",
-	"FLAVOR": "Missing description.",
+	"NAME": "Темно-камінний Амулет",
+	"FLAVOR": "Відсутній опис.",
     "DESCRIPTIONS": [
-	"Щоразу you obtain a #yПрокляття, increase your Max ОЗ by #b"
+	"Щоразу ви отримуєте карту #yПрокляття, Ваше макс ОЗ збільшується на #b"
 	]
   },
   "Test 1": {
-	"NAME": "Test 1",
-	"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+	"NAME": "Тест 1",
+	"FLAVOR": "Тестова моща. Якщо вам вона подобається, дайте нам знати.",
     "DESCRIPTIONS": [
-	"Щоразу you use a potion, Отримуєте ", 
+	"Щоразу Ви використовуєте зілля, отримуєте ", 
 	" [R] .",
 	" [G] .",
 	" [B] ."
 	]
   },
   "Frozen Eye": {
-	"NAME": "Frozen Eye",
-	"FLAVOR": "No description.",
+	"NAME": "Заморожений Око",
+	"FLAVOR": "Відсутній опис.",
     "DESCRIPTIONS": [
-	"When viewing your #yDraw #yPile, the cards are now shown in order."
+	"When viewing your #yтасується #yPile, the карт are now shown in order."
 	]
   },
   "Test 2": {
 	"NAME": "Test 2",
-	"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+	"FLAVOR": "Тестова моща. Якщо вам вона подобається, дайте нам знати.",
     "DESCRIPTIONS": [
-	"When viewing your #yDraw #yPile, the cards are now shown in order."
+	"При перегляді вашої #yКолоди, карти тепер показані по порядку."
 	]
   },
   "Test 3": {
 	"NAME": "Test 3",
-	"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+	"FLAVOR": "Тестова моща. Якщо вам вона подобається, дайте нам знати.",
     "DESCRIPTIONS": [
-	"When obtained, #yUpgrade all of your #yDefend cards."
+	"Отримуючи, #yПоліпшує усі Ваші #yЗахист карти."
 	]
   },
   "Test 4": {
 	"NAME": "Test 4",
-	"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+	"FLAVOR": "Тестова моща. Якщо вам вона подобається, дайте нам знати.",
     "DESCRIPTIONS": [
-	"At the start of combat, the cost of all #yStrike cards are set to #b0."
+	"На початку бою, вартість усіх #yУдар карт стає #b0 енергії."
 	]
   },
   "Test 5": {
 	"NAME": "Test 5",
-	"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+	"FLAVOR": "Тестова моща. Якщо вам вона подобається, дайте нам знати.",
     "DESCRIPTIONS": [
-	"Підбираючи, #yUpgrade #b", 
-	" random #ySkills."
+	"Підбираючи, #yПоліпшує #b", 
+	" випадкових #yВміннь."
 	]
   },
   "Test 6": {
 	"NAME": "Test 6",
-	"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+	"FLAVOR": "Тестова моща. Якщо вам вона подобається, дайте нам знати.",
     "DESCRIPTIONS": [
-	"Наприкінці кожного ходу, Отримуєте #b",
-	" #yBlock for every #b",
-	" #yGold you have."
+	"Наприкінці кожного ходу, отримуєте #b",
+	" #yБлок за кожні #b",
+	" #yЗолота Ви маєте."
 	]
   },
   "Test 7": {
 	"NAME": "Test 7",
-	"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+	"FLAVOR": "Тестова моща. Якщо вам вона подобається, дайте нам знати.",
     "DESCRIPTIONS": [
-	"#yElites now drop #b2 #yRelics when defeated."
+	"#yПани відтепер залишають по собі #b2 #yМощі."
 	]
   },
   "Test 8": {
 	"NAME": "Test 8",
-	"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+	"FLAVOR": "Тестова моща. Якщо вам вона подобається, дайте нам знати.",
     "DESCRIPTIONS": [
-	"Draw #b2 additional cards each turn. Start each combat #yConfused."
+	"Тасується #b2 додаткових карт кожен хід. Починаєте кожен бій з #yНестямний."
 	]
   },
   "The Specimen": {
-	"NAME": "The Specimen",
-	"FLAVOR": "\"Fascinating! I found a mutated creature demonstrating astounding toxic properties. Storing a sample for later examination.\" - Ranwid",
+	"NAME": "Зразок",
+	"FLAVOR": "\"Захоплююче! Я знайшов мутовану істоту, що демонструє вражаючі токсичні властивості. Зберігаю зразок для подальшого вивчення.\" - Ранвід",
     "DESCRIPTIONS": [
-	"Щоразу an enemy dies, transfer any #yPoison it has to a random enemy." 
+	"Щоразу ворог вмирає, передає кількість її #yОтрути до випадкового ворога." 
 	]
   },
   "Thread and Needle": {
-	"NAME": "Thread and Needle",
-	"FLAVOR": "Wrapping the magical thread around your body, you feel harder to the touch.",
+	"NAME": "Нитка та Голка",
+	"FLAVOR": "Обертаючи чарівну нитку навколо вашого тіла, ви почуваєтесь важче на дотик.",
     "DESCRIPTIONS": [
-	"На початку кожного бою, Отримуєте #b", 
-	" #yPlated #yArmor."
+	"На початку кожного бою, отримуєте #b", 
+	" #yПанцерної #yБроні."
 	]
   },
   "Tingsha": {
-	"NAME": "Tingsha",
-	"FLAVOR": "The sound this instrument generates seems to be capable of reverberating to painful levels of volume.",
+	"NAME": "Тінгша",
+	"FLAVOR": "Звук, який цей прилад генерує, здається, здатний болісних рівнів гучності.",
     "DESCRIPTIONS": [
-	"Щоразу you discard a card during your turn, deal #b",
-	" damage to a random enemy for each card discarded."
+	"Щоразу Ви усуваєте карту під час вашого ходу, також наносите #b",
+	" шкоди випадковому ворогу, за кожну карту Ви усуваєте."
 	]
   },
   "Tiny Chest": {
-	"NAME": "Tiny Chest",
-	"FLAVOR": "\"A fine prototype.\" - The Architect",
+	"NAME": "Крихітна Скриня",
+	"FLAVOR": "\"Чудовий прототип.\" - Архітектор",
     "DESCRIPTIONS": [
 	"Отримуєте #b",
-	" #yGold. You are #b10% more likely to find treasure in ? rooms.",
-	"You are #b10% more likely to find treasure in ? rooms."
+	" #yЗолота. У Вас на #b10% більше шансу знайти скарби у (?) кімнатах.",
+	"У Вас на #b10% більше шансу знайти скарби у (?) кімнатах."
 	]
   },
   "Tiny House": {
-	"NAME": "Tiny House",
-	"FLAVOR": "\"A near perfect implementation of miniaturization. My finest work to date, but still not adequate.\" - The Architect",
+	"NAME": "Крихітний Будинок",
+	"FLAVOR": "\"Майже ідеальна реалізація мініатюризації. Моя найкраща робота на сьогоднішній день, але все одно не  адекватна.\" - Архітектор",
     "DESCRIPTIONS": [
-	"Obtain #b1 potion. NL Отримуєте #b",
-	" #yGold. NL Raise your Max ОЗ by #b", 
-	". NL Obtain #b1 card. NL Upgrade #b1 random card.",
-	"Tiny House!"
+	"Отримуєте #b1 зілля. NL Отримуєте #b",
+	" #yЗолота. NL збільшує макс. ОЗ на #b", 
+	". NL Отримуєте #b1 карту. NL Поліпшуєте #b1 випадкову карту.",
+	"Крихітний Будинок!"
 	]
   },
   "Toolbox": {
-	"NAME": "Toolbox",
-	"FLAVOR": "A tool for every job.",
+	"NAME": "Ящик з Інструментами",
+	"FLAVOR": "Інструменти для всяких робіт.",
     "DESCRIPTIONS": [
-	"На початку кожного бою, add a random colorless card to your hand."
+	"На початку кожного бою, додайте у руку випадкову безбарвну карту."
 	]
   },
   "Torii": {
-	"NAME": "Torii",
-	"FLAVOR": "Holding the small Torii, you feel a sense of calm and safety drift through your mind.",
+	"NAME": "Торій",
+	"FLAVOR": "Утримуючи маленьку Торію, Ви відчуваєте спокій і безпеку.",
     "DESCRIPTIONS": [
-	"Щоразу you would receive #b",
-	" or less unblocked #yАтака damage, reduce it to #b1."
+	"Щоразу ти отримуєте #b",
+	" чи менше не блокованої шкоди від карт #yАтаки, зменшуєте шкоду до #b1."
 	]
   },
   "Tough Bandages": {
-	"NAME": "Tough Bandages",
-	"FLAVOR": "Loss gives strength.",
+	"NAME": "Жорсткі Пов’язі",
+	"FLAVOR": "Втрата дає силу.",
     "DESCRIPTIONS": [
-	"Щоразу you discard a card during your turn, Отримуєте #b",
-	" #yBlock."
+	"Щоразу Ви усуваєте карту під час вашого ходу, отримуєте #b",
+	" #yБлок."
 	]
   },
   "Toxic Egg": {
-	"NAME": "Toxic Egg",
-	"FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
+	"NAME": "Токсичне Яйко",
+	"FLAVOR": "\"Яке чудове відкриття! Це, здається, інертне яйко якоїсь магічної істоти. Хто чи що створило це??\" - Ранвід",
     "DESCRIPTIONS": [
-	"Підбираючи, choose and #yUpgrade a #ySkill.",
-	"Оберіть карту for "
+	"Підбираючи, оберіть та #yПоліпшіть #yВміння.",
+	"Оберіть карту для "
 	]
   },
   "Toy Ornithopter": {
-	"NAME": "Toy Ornithopter",
-	"FLAVOR": "\"This little toy is the perfect companion for the lone adventurer!\"",
+	"NAME": "Іграшка Орніфоптер",
+	"FLAVOR": "\"Ця маленька іграшка є ідеальним попутником для самотнього авантюриста!\"",
     "DESCRIPTIONS": [
-	"Щоразу you use a potion, heal #b", 
+	"Щоразу Ви використовуєте зілля, зцілюєте #b", 
 	" ОЗ."
 	]
   },
   "Unceasing Top": {
-	"NAME": "Unceasing Top",
-	"FLAVOR": "The top continues to spin effortlessly as if you were in a dream.",
+	"NAME": "Неперевершена Дзиґа",
+	"FLAVOR": "Дзиґа продовжує крутитися без зусиль, ніби ви перебуваєте у сні.",
     "DESCRIPTIONS": [
-	"Щоразу you have no cards in hand during your turn, draw a card."
+	"Щоразу Вам бракує карт у руці під час вашого ходу, тасується одна карта."
 	]
   },
   "Vajra": {
-	"NAME": "Vajra",
-	"FLAVOR": "An ornamental relic given to warriors displaying glory in battle.",
+	"NAME": "Вайра",
+	"FLAVOR": "Орнаментальна моща, надана воїнам, що демонструють славу в битві.",
     "DESCRIPTIONS": [
-	"На початку кожного бою, Отримуєте #b", 
-	" #yStrength."
+	"На початку кожного бою, отримуєте #b", 
+	" #yМіць(і)."
 	]
   },
   "Velvet Choker": {
-	"NAME": "Velvet Choker",
-	"FLAVOR": "\"Immense power, but too limited.\" - Kublai the Great",
+	"NAME": "Бархатний Намистик",
+	"FLAVOR": "\"Величезна влада, але занадто обмежена.\" - Кублай Великий",
     "DESCRIPTIONS": [
-	"You cannot play more than #b", 
-	" cards per turn.",
+	"Ви не можете грати більше ніж #b", 
+	" карт за хід.",
 	"Отримуєте [R] на початку кожного ходу. ", 
 	"Отримуєте [G] на початку кожного ходу. ",
 	"Отримуєте [B] на початку кожного ходу. ", 
-	"I can only play up to NL #r"
+	"Я можу тільки грати NL #r"
 	]
   },
   "Lee's Waffle": {
-	"NAME": "Lee's Waffle",
-	"FLAVOR": "\"Tastiest treat you will find in all the Spire! Baked today just for you.\"",
+	"NAME": "Василя Вафля",
+	"FLAVOR": "\"Найсладші задоволення знайдені у всій Вежі! Спечена сьогодні тільки для вас.\" - Василь",
     "DESCRIPTIONS": [
-	"Raise your Max ОЗ by #b", 
-	" and heal all of your ОЗ."
+	"Підвищує макс. ОЗ на #b", 
+	" й зціліть усе своє ОЗ."
 	]
   },
   "Whetstone": {
-	"NAME": "Whetstone",
-	"FLAVOR": "\"Flesh never beats steel.\" - Kublai the Great",
+	"NAME": "Точильний Камінь",
+	"FLAVOR": "\"Ніщо ніколи не поб'є сталь.\" - Кублай Великий",
     "DESCRIPTIONS": [
-	"Підбираючи, #yUpgrade #b", 
-	" random #yАтаки."
+	"Підбираючи, #yПоліпшить #b", 
+	" випадкову(их) карт(у) #yАтаки."
 	]
   },
   "Derp Rock": {
-	"NAME": "Derp Rock",
+	"NAME": "Derp Камінь",
 	"FLAVOR": "Placeholder",
     "DESCRIPTIONS": [
 		"на початку кожного ходу, отримуєте #b",
@@ -1069,18 +1069,18 @@
 	]
   },
   "NeowsBlessing": {
-	"NAME": "Neow's Lament",
-	"FLAVOR": "The blessing of lamentation bestowed by Neow.",
+	"NAME": "Плач Няу",
+	"FLAVOR": "Благословення плачу, яке дарує Няу.",
     "DESCRIPTIONS": [
-		"Enemies in your first #b3 combats will have 1 ОЗ.",
+		"Вороги в ваших перших #b3 боях матимуть 1 ОЗ.",
 		"The blessing is used up."
 	]
   },
   "White Beast Statue": {
-	"NAME": "White Beast Statue",
-	"FLAVOR": "A small white statue of a creature you have never seen before.",
+	"NAME": "Статуя Білого Звіра",
+	"FLAVOR": "Невелика статуя істоти, яку ви ніколи не бачили раніше.",
     "DESCRIPTIONS": [
-	"Potions always drop after combat."
+	"Зілля завжди падає після бою."
 	]
   }
 }

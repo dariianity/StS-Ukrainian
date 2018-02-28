@@ -1,14 +1,19 @@
 Attack - Атак(-увати)
+Apply - Наносить
 Block - Блок
 Button - ґудзик
+Boss - Бос
 Character - Герой
 Chest - скриня
 Click - Клац(-ніть)
+Сolo(u)rless - Безбарвну
+Confused - нестямний(-им)
 Curse - прокляття
 Damage - шкода
 Deck - Колода
 Deal - наносити / також наноситься
 Dexterity - Спритність
+Dig - (від)Копати
 Discard - Усунути
 Draw - тасують(-ється)
 Drop - залишають по собі
@@ -17,16 +22,18 @@ Elites - Пани
 Exhaust - виснажені(-а/-е)
 Heal - зцілює(-тесь)
 HP - ОЗ
+Intents - Наміри
 Ironclad - Броненосець
 Negate - анулювати (Анулюєте)
 Map - мапа (НЕ карта)
 Merchant - Торговець
 Obtain - отримуєте
+Poison - Отрута(-у)
 Potion - зілля
 Power - Снага
 Relic - Мощь
 Remove - Усунути
-Rest - Табір
+Rest - (відпочиваєте у) Таборі
 Rest Sites - Табори
 Score - Рахунок
 Shop - Крамниці
@@ -48,7 +55,9 @@ Weak - Слабкість
 Weakened - Ослаблений(-ити)
 Wounds - Рани
 Whenever you (deal) - Щоразу Ви (наносите)
+You - Ви (НЕ ти)
 You can no longer become (Weakened) - Вас неможливо (Ослабити)
+
 
 Акт 1 - Exordium - Ворота
 Акт 2 - The City - Місто
@@ -61,6 +70,8 @@ Shiv - Цизорик
 Strike - Удар
 Defend - Захист
 
+Entities:
 
+Snecko - Зміяко
 
 
