@@ -627,7 +627,8 @@
 		" NL NL  #yМощі: NL  ",
 		" NL Щоденний виклик: NL TAB #yТип: NL TAB ",
 		" NL TAB #yМоди: ",
-		"Modifiers: "
+		"Моди: ",
+		"Лідерське табло"
 	]
   },
   "SettingsScreen": {

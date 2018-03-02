@@ -68,7 +68,7 @@ You - Ви (НЕ ти)
 You can no longer become (Weakened) - Вас неможливо (Ослабити)
 
 Boss = Пан = Encounter at end of Act.
-Elite = еліт(ні) = Difficult encounters that give you a  relic.
+Elite = еліта(-ні) = Difficult encounters that give you a  relic.
 Normal = Just a normal enemy encounter.
 
 
