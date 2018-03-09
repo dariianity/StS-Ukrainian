@@ -2,6 +2,7 @@
 ## Translation guidelines
 Guidelines can be found in [TRANSLATOR_README.md](TRANSLATOR_README.md).  
 Refer to the original files found in [eng/](eng/) to help translate the game. The Ukrainian translations are in [ukr/](ukr/).  
+References are found in [REFERENCES.txt](REFERENCES.txt).  
 Frequently used words are located in [Dictionary.txt](Dictionary.txt).  
 Use them. They are there for consistency throughout the game.
 

@@ -29,7 +29,9 @@ Egg - Яйко
 Elite - Пан
 Elites - Пани
 Exhaust - виснажені(-а/-е)
+For (x turns) - Наступні
 Frail - кволий
+Gain - отримуєте
 Heal - зцілює(-тесь)
 HP - ОЗ
 Intents - Наміри
