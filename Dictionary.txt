@@ -23,7 +23,7 @@ Defeat - Побийте
 Dexterity - Спритність
 Dig - (від)Копати
 Discard - Усунути
-Draw - тасують(-ється)
+Draw - тасують(-ється) / тасуєте
 Drop - залишають по собі
 Egg - Яйко
 Elite - Пан
@@ -57,7 +57,7 @@ Status - Статус
 Strength - Міць
 Spire - Вежа
 Spireblight - забруднення вежею / чуми (???)
-Take (damage) - отримуєш
+Take (damage) - отримуєте
 Transform - Перетвори
 Treasure - Скарби 
 Treasure Rooms - Скарбниця
@@ -89,6 +89,7 @@ Defend - Захист
 Feed - Пожирання
 Shiv - Цизорик
 Strike - Удар
+Dazed - 
 
 Entities:
 
