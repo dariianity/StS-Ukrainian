@@ -16,7 +16,7 @@ Click - Клац(-ніть)
 Сolo(u)rless - Безбарвну
 Confused - нестямний(-им)
 Curse - прокляття
-Damage - шкода
+Damage - шкода 
 Deck - Колода
 Deal - наносити / також наноситься
 Defeat - Побийте
