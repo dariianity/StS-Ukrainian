@@ -101,7 +101,7 @@
     ]
   },
   "Constricted": {
-    "NAME": "Тугий ремінь",
+    "NAME": "Тіснина",
     "DESCRIPTIONS": [
       "Наприкінці Вашого ходу отримуєте #b",
       " шкоди."
@@ -225,7 +225,7 @@
     ]
   },
   "Entangled": {
-    "NAME": "Заплутаний",
+    "NAME": "Плутанина",
     "DESCRIPTIONS": [
       "Ви не можете грати #yАтаки протягом цього ходу."
     ]
@@ -248,12 +248,14 @@
   "Explosive": {
     "NAME": "Вибуховість",
     "DESCRIPTIONS": [
-      "При смерті, наносить #b",
-      " шкоди Вам."
+      "Через #b",
+      " ходи, вибухає наносячи #b",
+	  " шкоди.",
+	  "Наприкінці свого ходу, вибухає наносячи #b"
     ]
   },
   "Feel No Pain": {
-    "NAME": "Без болі",
+    "NAME": "Без болість",
     "DESCRIPTIONS": [
       "Щоразу карта #yВиснажається, Ви отримуєте #b",
       " #yБлок."
@@ -267,7 +269,7 @@
     ]
   },
   "Flame Barrier": {
-    "NAME": "Пламяний бар'єр",
+    "NAME": "Пламяний бар’єр",
     "DESCRIPTIONS": [
       "Щоразу Ви отримуєте шкоду від #yАтак, наносите #b",
       " шкоди назад."
@@ -317,7 +319,7 @@
     ]
   },
   "Hide": {
-    "NAME": "Сховатися",
+    "NAME": "Хованки",
     "DESCRIPTIONS": [
       "Ви не отримуєте шкоди до початку наступного ходу.",
       "Ви не отримуєте шкоди наступні #b",
@@ -333,13 +335,13 @@
     ]
   },
   "Bullet Time": {
-    "NAME": "Затримання часу",
+    "NAME": "Сповільнення часу",
     "DESCRIPTIONS": [
       "Протягом цього ходу, усі зелені карти коштують #b0 енергії."
     ]
   },
   "Intangible": {
-    "NAME": "Ухильний",
+    "NAME": "Ухиляння",
     "DESCRIPTIONS": [
       "Протягом цього ходу Зменшує УСЮ шкоду та втрату ОЗ до #b1. Ухильний повторно застосовується кожен другий хід."
     ]
@@ -381,7 +383,7 @@
     ]
   },
   "Metallicize": {
-    "NAME": "Сприйнятливість",
+    "NAME": "Броньований",
     "DESCRIPTIONS": [
       "Отримуєте #b",
       " #yБлоку наприкінці Вашого ходу.",
@@ -423,324 +425,324 @@
     ]
   },
   "Noxious Fumes": {
-    "NAME": "Noxious Fumes",
+    "NAME": "Отруйний пердіж",
     "DESCRIPTIONS": [
-      "На початку Вашого ходу, apply #b",
-      " #yPoison to ALL enemies."
+      "На початку Вашого ходу, наносите #b",
+      " #yОтрути на УСІХ ворогів."
     ]
   },
   "Panache": {
-    "NAME": "Panache",
+    "NAME": "Блиск",
     "DESCRIPTIONS": [
-      "If Ви граєте #b",
-      " more card this turn, наносите #b",
-      " шкоди to ALL enemies.",
-      " more карти this turn, наносите #b"
+      "Зіграючи ще #b",
+      " карту у цьому ході, нанесете #b",
+      " шкоди УСІМ ворогам.",
+      " карти у цьому ході, нанесете #b"
     ]
   },
   "Pen Nib": {
-    "NAME": "Pen Nib",
+    "NAME": "Кінчик пера",
     "DESCRIPTIONS": [
-      "Your next #yAttack deals double шкоди."
+      "Наступна #yАтака наносить подвійну шкоду."
     ]
   },
   "Phantasmal": {
-    "NAME": "Phantasmal",
+    "NAME": "Примарний",
     "DESCRIPTIONS": [
-      "наносите #yDouble #yDamage next turn.",
-      "наносите #yDouble #yDamage for the next ",
-      " turns."
+      "Наносите #yПодвійну #yшкоду наступного ходу.",
+      "Наносите #yПодвійну #yшкоду наступні ",
+      " ходи."
     ]
   },
   "Plated Armor": {
-    "NAME": "Plated Armor",
+    "NAME": "Панцерна броня",
     "DESCRIPTIONS": [
-      "отримуєте #b",
-      " #yBlock наприкінці of your turn. Losing HP from an attack reduces #yPlated #yArmor by #b1.",
-      "отримуєтеs #b",
-      " #yBlock наприкінці of its turn. Losing HP from an attack reduces #yPlated #yArmor by #b1."
+      "Отримуєте #b",
+      " #yБлоку наприкінці Вашого ходу. Втрачаючи ОЗ від атак, зменшує #yПанцерну #yБроню на #b1.",
+      "отримує #b",
+      " #yБлоку наприкінці його ходу. Втрачаючи ОЗ від атак, зменшує #yПанцерну #yБроню на #b1."
     ]
   },
   "Poison": {
-    "NAME": "Poison",
+    "NAME": "Отрута",
     "DESCRIPTIONS": [
-      "На початку Вашого ходу, lose #b",
-      " HP, then reduce #yPoison by #b1.",
-      "На початку of its turn, loses #b"
+      "На початку Вашого ходу, втрачаєте #b",
+      " ОЗ, зменшуючи дію #yОтрути на #b1.",
+      "На початку його ходу, втрачає #b"
     ]
   },
   "Rage": {
-    "NAME": "Rage",
+    "NAME": "Лють",
     "DESCRIPTIONS": [
-      "Щоразу Ви граєте an Attack this turn, отримуєте #b",
-      " #yBlock."
+      "Щоразу Ви граєте Атаку у цьому ході, отримуєте #b",
+      " #yБлоку."
     ]
   },
   "Reduce Damage": {
-    "NAME": "Reduce Damage",
+    "NAME": "Зменшення шкоди",
     "DESCRIPTIONS": [
-      "Reduce шкоди taken by #b"
+      "Зменшує отриману шкоду на #b"
     ]
   },
   "Regenerate": {
-    "NAME": "Regenerate",
+    "NAME": "Відродження",
     "DESCRIPTIONS": [
-      "Heals #b",
-      " #yHP наприкінці of its turn."
+      "Зцілюєтесь на #b",
+      " #yОЗ наприкінці ходу."
     ]
   },
   "Regeneration": {
-    "NAME": "Regeneration",
+    "NAME": "Відродження",
     "DESCRIPTIONS": [
-      "Heal #b",
-      " #yHP наприкінці of your turn for #b",
-      " turns."
+      "Зцілюєтесь на #b",
+      " #yОЗ наприкінці ходу, наступні #b",
+      " ходи."
     ]
   },
   "Life Link": {
-    "NAME": "Life Link",
+    "NAME": "Життєве з’єднання",
     "DESCRIPTIONS": [
-      "If other enemies are still alive, revives in #b2 turns at #b50% HP."
+      "Якщо інші вороги ще живі, оживає за #b2 ходи з #bполовиною ОЗ."
     ]
   },
   "Relentless Beating": {
-    "NAME": "Relentless Beating",
+    "NAME": "Невтомне побиття",
     "DESCRIPTIONS": [
-      " beats faster as Ви граєте карти or наносите шкоди"
+      " б’ється швидше з кожною зіграною картою та нанесеною шкодою"
     ]
   },
   "Repulse": {
-    "NAME": "Repulse",
+    "NAME": "Відсіч",
     "DESCRIPTIONS": [
       "Щоразу ",
-      " receives attack шкоди, puts a #yWound into your hand."
+      " отримує шкоду від Атакуючих карт, додає #yРану у Вашу руку."
     ]
   },
   "Retain Cards": {
-    "NAME": "Retain карти",
+    "NAME": "Утримання карт",
     "DESCRIPTIONS": [
-      "наприкінці of each turn, Ви may retain #b",
-      " card.",
+      "наприкінці кожного ходу, Ви можете утримати #b",
+      " карту.",
       " карти."
     ]
   },
   "Retain Hand": {
-    "NAME": "Retain Hand",
+    "NAME": "Утримання руки",
     "DESCRIPTIONS": [
-      "наприкінці of your turn, do not discard your hand for #b",
-      " turns.",
-      "наприкінці of your turn, do not discard your hand."
+      "наприкінці вашого ходу, карти не усуваються, наступні #b",
+      " ходи.",
+      "наприкінці вашого ходу, карти не усуваються."
     ]
   },
   "Riposte": {
-    "NAME": "Riposte",
+    "NAME": "Влучна відповідь",
     "DESCRIPTIONS": [
-      "Once per turn, deals #b",
-      " шкоди back when Ви граєте an #yAttack."
+      "Раз на хід, наносить #b",
+      " шкоди назад коли Ви граєте #yАтаку."
     ]
   },
   "Ritual": {
-    "NAME": "Ritual",
+    "NAME": "Обряд",
     "DESCRIPTIONS": [
-      "наприкінці of its turn, отримуєтеs #b",
-      " #yStrength."
+      "наприкінці його ходу, отримує #b",
+      " #yМіці."
     ]
   },
-  "GrowthPower": {
-    "NAME": "Growth",
+  "GrowtОЗower": {
+    "NAME": "Зростання",
     "DESCRIPTIONS": [
-      "наприкінці of its turn, отримуєтеs #b",
-      " #yStrength."
+      "наприкінці його ходу, отримує #b",
+      " #yМіці."
     ]
   },
   "Generic Strength Up Power": {
     "NAME": "",
     "DESCRIPTIONS": [
-      "наприкінці of its turn, отримуєтеs #b",
-      " #yStrength."
+      "наприкінці його ходу, отримує #b",
+      " #yМіці."
     ]
   },
   "Rupture": {
-    "NAME": "Rupture",
+    "NAME": "Розрив",
     "DESCRIPTIONS": [
-      "Upon losing HP from a card, отримуєте #b",
-      " #yStrength."
+      "Втрачаючи ОЗ від карти, отримуєте #b",
+      " #yМіці."
     ]
   },
   "Sadistic": {
-    "NAME": "Sadistic",
+    "NAME": "Дикість",
     "DESCRIPTIONS": [
-      "Щоразу Ви apply a Debuff to an enemy, наносите #b",
+      "Наносячи негативний статус на ворога, додатково наносите #b",
       " шкоди."
     ]
   },
   "Serpentine": {
-    "NAME": "Serpentine",
+    "NAME": "Змієподібність",
     "DESCRIPTIONS": [
-      "Immune to #yPotions."
+      "Несприйнятливий до #yЗілля."
     ]
   },
   "Sharp Hide": {
-    "NAME": "Sharp Hide",
+    "NAME": "Гострі хованки",
     "DESCRIPTIONS": [
-      "Щоразу Ви граєте an #yAttack, take #b",
+      "Щоразу Ви граєте #yАтаку, отримуєте #b",
       " шкоди."
     ]
   },
   "Shriek From Beyond": {
-    "NAME": "Shriek From Beyond",
+    "NAME": "Крик здалеку",
     "DESCRIPTIONS": [
-      "Щоразу Ви граєте an Attack, discard a random card."
+      "Щоразу Ви граєте #yАтаку, усуваєте випадкову карту."
     ]
   },
   "Painful Stabs": {
-    "NAME": "Painful Stabs",
+    "NAME": "Болісні удари",
     "DESCRIPTIONS": [
-      "Щоразу Ви take шкоди from this enemy, add a #yWound into your Discard Pile."
+      "Щоразу Ви отримуєте шкоду від цього ворога, додаєте #yРану у Відбій."
     ]
   },
   "Skill Burn": {
-    "NAME": "Skill Burn",
+    "NAME": "Пекучі навички",
     "DESCRIPTIONS": [
-      "For #b",
-      " turn, Щоразу Ви граєте a #ySkill, #yExhaust it.",
-      "For the next #b",
-      " turns, Щоразу Ви граєте a #ySkill, #yExhaust it."
+      "Виснажує зіграні #yВміння протягом #b",
+      " хода.",
+      "Виснажує зіграні #yВміння протягом наступні #b",
+      " ходи."
     ]
   },
   "Slow": {
-    "NAME": "Slow",
+    "NAME": "Повільність",
     "DESCRIPTIONS": [
-      "For each card played this turn, ",
-      " takes #b10% more шкоди from #yAttacks.",
-      " (Take #b",
-      "% more шкоди)"
+      "За кожну зіграну карту у цьому ході, ",
+      " отримує на #b10% більше шкоди від #yАтак.",
+      " (Отримує #b",
+      "% більше шкоди)"
     ]
   },
   "Split": {
-    "NAME": "Split",
+    "NAME": "Роздвоєння",
     "DESCRIPTIONS": [
-      "When its HP is at or below #b50%, will split into #b2 smaller slimes with ",
-      "'s current HP."
+      "Втрачаючи #b50% життя, або більше, розділяється на #b2 менших слизняка з ",
+      " ОЗ."
     ]
   },
   "Spore Cloud": {
-    "NAME": "Spore Cloud",
+    "NAME": "Хмара спору",
     "DESCRIPTIONS": [
-      "On death, applies #yVulnerable to Ви for #b",
-      " turns."
+      "При смерті, наносить #yУразливий на Вас на наступні #b",
+      " ходи."
     ]
   },
   "Stasis": {
-    "NAME": "Stasis",
+    "NAME": "Застій",
     "DESCRIPTIONS": [
-      "On death, ",
-      " is returned to your hand."
+      "При смерті, ",
+      " повертається у Вашу руку."
     ]
   },
   "Extra Cards": {
-    "NAME": "Extra карти",
+    "NAME": "Додаткові карти",
     "DESCRIPTIONS": [
-      "тасуєте #b1 more card next turn.",
+      "тасуєте на #b1 більше карт у наступного ходу.",
       "тасуєте #b",
-      " extra карти next turn."
+      " додаткові карти у наступного ходу."
     ]
   },
   "Strength": {
-    "NAME": "Strength",
+    "NAME": "Міць",
     "DESCRIPTIONS": [
-      "Increases attack шкоди by #b",
-      "Decrease attack шкоди by #b"
+      "Збільшує шкоди від атак на #b",
+      "Зменшує шкоди від атак на #b"
     ]
   },
   "Thievery": {
-    "NAME": "Thievery",
+    "NAME": "Покража",
     "DESCRIPTIONS": [
-      " steals #b",
-      " #yGold Щоразу it attacks."
+      " краде #b",
+      " #yЗолота з кожною атакою."
     ]
   },
   "Thorns": {
-    "NAME": "Thorns",
+    "NAME": "Шипи",
     "DESCRIPTIONS": [
-      "When receiving #yAttack шкоди, deals #b",
-      " шкоди back."
+      "Отримуючи шкоди від #yАтак, наносить #b",
+      " шкоди назад."
     ]
   },
   "Thousand Cuts": {
-    "NAME": "Thousand Cuts",
+    "NAME": "Тисяча порізів",
     "DESCRIPTIONS": [
-      "Щоразу Ви граєте a card, наносите #b",
-      " шкоди to ALL enemies."
+      "Щоразу Ви граєте карту, наносите #b",
+      " шкоди УСІМ ворогам."
     ]
   },
   "Berserk": {
-    "NAME": "Berserk",
+    "NAME": "Шаленість",
     "DESCRIPTIONS": [
-      "If your HP is at or below #b50%, отримуєте ",
-      " На початку Вашого ходу."
+      "Втрачаючи #b50% життя, або більше, отримуєте ",
+      " на початку Вашого ходу."
     ]
   },
   "Time Warp": {
-    "NAME": "Time Warp",
+    "NAME": "Кривизна часу",
     "DESCRIPTIONS": [
       "Щоразу Ви граєте #b",
-      " карти, your turn is ended and Time Eater отримуєтеs #b",
-      " #yStrength."
+      " карти, Ваш хід закінчено та Часоїд отримує #b",
+      " #yМіці."
     ]
   },
   "Tools Of The Trade": {
-    "NAME": "Tools Of The Trade",
+    "NAME": "Багатий запас",
     "DESCRIPTIONS": [
       "На початку Вашого ходу, тасуєте #b",
-      " card and discard #b",
-      " card.",
-      " карти and discard #b",
+      " карту та усуваєте #b",
+      " карту.",
+      " карти та усуваєте #b",
       " карти."
     ]
   },
   "Unawakened": {
-    "NAME": "Unawakened",
+    "NAME": "Сплячий",
     "DESCRIPTIONS": [
-      "This enemy hasn't awakened yet..."
+      "Цей ворог спить солодкими снами..."
     ]
   },
   "Unstable": {
-    "NAME": "Unstable",
+    "NAME": "Нестійкий",
     "DESCRIPTIONS": [
-      "наносите enough шкоди to throw it off balance."
+      "Наносите достатньо шкоди щоб збити з ніг."
     ]
   },
   "Venomology": {
-    "NAME": "Venomology",
+    "NAME": "Токсінологія",
     "DESCRIPTIONS": [
-      "#yPoison grows stronger by #b",
-      " instead of lowering each turn."
+      "#yОтрута не зменшується, а тільки посилюється на #b",
+      " кожного ходу."
     ]
   },
   "Vulnerable": {
-    "NAME": "Vulnerable",
+    "NAME": "Уразливість",
     "DESCRIPTIONS": [
-      "Take #b",
-      "% more шкоди from #yAttacks for #b",
-      " turn.",
-      " turns."
+      "Отримуєте на #b",
+      "% більше шкоди від #yАтак, наступні #b",
+      " хід.",
+      " ходи."
     ]
   },
   "Weakened": {
-    "NAME": "Weakened",
+    "NAME": "Ослабленість",
     "DESCRIPTIONS": [
-      "#yAttacks наносите #b",
-      "% less шкоди for #b",
-      " turn.",
-      " turns."
+      "#yАтаки наносять #b",
+      "% менше шкоди, наступні #b",
+      " хід.",
+      " ходи."
     ]
   },
   "Wraith Form": {
-    "NAME": "Wraith Form",
+    "NAME": "Спектральна форма",
     "DESCRIPTIONS": [
-      "Щоразу Ви граєте a Skill, наносите ",
-      " шкоди to a random enemy."
+      "Щоразу Ви граєте Вміння, наносите ",
+      " шкоди випадковому ворогу."
     ]
   }
 }
