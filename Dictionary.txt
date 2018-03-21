@@ -58,6 +58,7 @@ Shop - Крамниці
 Shuffle - тасують(-ється)
 Silent - Тінь
 Skill - Вміння
+Slime - слимак
 Status - Статус
 Strength - Міць
 Spire - Вежа
