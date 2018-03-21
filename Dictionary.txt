@@ -9,6 +9,7 @@
 
 Attack - Атак(-увати)
 Apply - Наносить
+Bash - удар
 Block - Блок
 Button - ґудзик
 Boss - Бос
