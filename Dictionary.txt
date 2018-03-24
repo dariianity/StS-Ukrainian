@@ -98,9 +98,10 @@ Shiv - Цизорик
 Strike - Удар
 Dazed - 
 Wounds - Рани
+inflame - розпалювання
 
 Entities:
 
 Snecko - Зміяко
-
+Time Eater - Часоїд
 
