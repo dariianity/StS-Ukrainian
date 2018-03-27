@@ -69,7 +69,7 @@ Transform - Перетвори
 Treasure - Скарби 
 Treasure Rooms - Скарбниця
 Turn - Хід (ходу)
-Unplayable - неіграбельні(-а)
+Unplayable - пасивні(-а)
 Upgrade (card) - Поліпшити (карту)
 Vulnerable - Уразливий
 Weak - Слабкість / послабити
