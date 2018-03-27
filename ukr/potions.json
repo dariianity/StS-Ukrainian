@@ -40,28 +40,28 @@
   "Explosive Potion": {
 	"NAME": "Вибухове зілля",
     "DESCRIPTIONS": [
-			"Наносите #b",
+			"Наносить #b",
 			" шкоди УСІМ ворогам."
 	]
   },
   "Fire Potion": {
 	"NAME": "Зілля вогню",
     "DESCRIPTIONS": [
-			"Наносите #b",
+			"Наносить #b",
 			" шкоди."
 	]
   },
   "Health Potion": {
 	"NAME": "Зцілюще зілля",
     "DESCRIPTIONS": [
-			"Зцілюєтесь на #b",
+			"Зцілює на #b",
 			" ОЗ."
 	]
   },
   "Poison Potion": {
 	"NAME": "Отрутне зілля",
     "DESCRIPTIONS": [
-			"Наносите #b",
+			"Наносить #b",
 			" #yОтрути."
 	]
   },

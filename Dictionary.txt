@@ -64,7 +64,7 @@ Status - Статус
 Strength - Міць
 Spire - Вежа
 Spireblight - забруднення вежею / чуми (???)
-Take (damage) - отримуєте
+Take (damage) - отримуєте / зазнаючи
 Transform - Перетвори
 Treasure - Скарби 
 Treasure Rooms - Скарбниця
