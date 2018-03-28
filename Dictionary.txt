@@ -68,7 +68,7 @@ Take (damage) - отримуєте / зазнаючи
 Transform - Перетвори
 Treasure - Скарби 
 Treasure Rooms - Скарбниця
-Turn - Хід (ходу)
+Turn - Рух (руху)
 Unplayable - пасивні(-а)
 Upgrade (card) - Поліпшити (карту)
 Vulnerable - Уразливий
