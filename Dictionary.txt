@@ -18,6 +18,7 @@ Chest - скриня
 Click - Клац(-ніть)
 Сolo(u)rless - Безбарвну
 Confused - нестямний(-им)
+Copy - сколок / сколити
 Curse - прокляття
 Damage - шкода 
 Debuff - негативний статус
@@ -39,7 +40,6 @@ Gain - отримуєте
 Heal - зцілює(-тесь)
 HP - ОЗ
 Intents - Наміри
-Immune - 
 Ironclad - Броненосець
 Innate - початкова
 Lose - втрачаєте
@@ -94,13 +94,14 @@ Normal = Just a normal enemy encounter.
 
 Cards:
 
+Cleave - Січа (з Доти2)
+Dagger - кортик 
 Defend - Захист
 Feed - Пожирання
+Inflame - розпалювання
 Shiv - Цизорик
 Strike - Удар
-Dazed - 
 Wounds - Рани
-inflame - розпалювання
 
 Entities:
 
