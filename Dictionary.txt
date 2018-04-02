@@ -28,8 +28,10 @@ Defeat - Побийте
 Dexterity - Спритність
 Dig - (від)Копати
 Discard - Усунути
+Discard Pile - Відбій
 Draw - тасують(-ється) / тасуєте
 Drop - залишають по собі
+Ethereal - примарний
 Egg - Яйко
 Elite - Пан
 Elites - Пани
@@ -108,3 +110,7 @@ Entities:
 Snecko - Зміяко
 Time Eater - Часоїд
 
+
+гаспидяка 
+
+отримуєте -> надає
