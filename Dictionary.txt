@@ -85,14 +85,12 @@ You - Ви (НЕ ти)
 You can no longer become (Weakened) - Вас неможливо (Ослабити)
 
 Boss = Пан = Encounter at end of Act.
-Elite = еліта(-ні) = Difficult encounters that give you a  relic.
+Elite = еліта(-ні) = Difficult encounters that give you a relic.
 Normal = Just a normal enemy encounter.
-
 
 draw pile = добір
 discard pile = відбій (варіанти заміни? бо то здається калька з кацапської)
 deck = колода
-
 
 
 Акт 1 - Exordium - Ворота
