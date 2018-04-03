@@ -1,8 +1,8 @@
 {
   "Grand Finale": {
     "NAME": "Грандіозний фінал",
-    "DESCRIPTION": "Можна грати тільки коли колода пуста. NL Наносить !D! шкоди УСІМ ворогам.",
-	"UPGRADE_DESCRIPTION": "У колоді NL ще є карти."
+    "DESCRIPTION": "Можна грати тільки коли добір пустий. NL Наносить !D! шкоди УСІМ ворогам.",
+	"UPGRADE_DESCRIPTION": "У доборі NL є карти."
   },
   "Immolate": {
     "NAME": "Знесилення",
@@ -47,14 +47,14 @@
   },
   "Underhanded Strike": {
     "NAME": "Штудерний удар",
-    "DESCRIPTION": "Наносить !D! шкоди. NL Якщо Ви усунули карту цього руху, NL отримуєте [G] [G].",
+    "DESCRIPTION": "Наносить !D! шкоди. NL Якщо Ви усунули карту у цей хід, NL отримуєте [G] [G].",
     "EXTENDED_DESCRIPTION": [
     	"Я не можу зіграти цю карту."	
     ]
   },
   "Anger": {
     "NAME": "Гнів",
-    "DESCRIPTION": "Наносить !D! шкоди. NL Додає сколок (копію) цієї карти у Відбій."
+    "DESCRIPTION": "Наносить !D! шкоди. NL Додає копію цієї карти у Відбій."
   },
   "Storm of Steel": {
     "NAME": "Сталева буря",
@@ -95,8 +95,8 @@
   },
   "Dual Wield": {
     "NAME": "О дві руки",
-    "DESCRIPTION": "Створює сколок (копію) Атаки чи Снаги у руці.",
-    "UPGRADE_DESCRIPTION": "Створює 2 сколка (копії) Атаки чи Снаги у руці."
+    "DESCRIPTION": "Створює копію Атаки чи Снаги у руці.",
+    "UPGRADE_DESCRIPTION": "Створює 2 копії Атаки чи Снаги у руці."
   },
   "Deadly Poison": {
     "NAME": "Смертельна отрута",
@@ -145,7 +145,7 @@
   },
   "Infernal Blade": {
     "NAME": "Прокляте лезо",
-    "DESCRIPTION": "Додає випадкову карту Атаки до руки. NL Вона коштує 0 у цей рух. NL Виснажується."
+    "DESCRIPTION": "Додає випадкову карту Атаки до руки. NL Вона коштує 0 у цей хід. NL Виснажується."
   },
   "After Image": {
     "NAME": "Післясвітіння",
@@ -242,7 +242,7 @@
   },
   "Setup": {
     "NAME": "Заклад",
-    "DESCRIPTION": "Оберіть карту з руки та покладіть на верх колоди. NL Вона коштуватиму 0, допоки не зіграна."
+    "DESCRIPTION": "Оберіть карту з руки та покладіть на верх добору. NL Вона коштуватиму 0, допоки не зіграна."
   },
   "Blood for Blood": {
     "NAME": "Кров за кров",
@@ -273,7 +273,7 @@
   },
   "Endless Agony": {
     "NAME": "Нескінченне конання",
-    "DESCRIPTION": "Щоразу Ви тасуєте цю карту, Додає сколок (копію) до руки. NL Наносить !D! шкоди. NL Виснажується."
+    "DESCRIPTION": "Щоразу Ви тасуєте цю карту, Додає копію до руки. NL Наносить !D! шкоди. NL Виснажується."
   },
   "Berserk": {
     "NAME": "Шаленість",
@@ -306,8 +306,8 @@
   },
   "Burst": {
     "NAME": "Імпульс",
-    "DESCRIPTION": "У цей рух, наступне Вміння грається двічі.",
-    "UPGRADE_DESCRIPTION": "У цей рух, наступні !M! Вміння граються двічі."
+    "DESCRIPTION": "У цей хід, наступне Вміння грається двічі.",
+    "UPGRADE_DESCRIPTION": "У цей хід, наступні !M! Вміння граються двічі."
   },
   "Acrobatics": {
     "NAME": "Акробатика",
@@ -320,8 +320,8 @@
   },
   "Doppelganger": {
     "NAME": "Двійник",
-    "DESCRIPTION": "У наступний рух, тасуєте та отримуєте X карти [G]. NL Виснажується.",
-    "UPGRADE_DESCRIPTION": "У наступний рух, тасуєте та отримуєте X+1 карти [G]. NL Виснажується."
+    "DESCRIPTION": "У наступний хід, тасуєте та отримуєте X карти [G]. NL Виснажується.",
+    "UPGRADE_DESCRIPTION": "У наступний хід, тасуєте та отримуєте X+1 карти [G]. NL Виснажується."
   },
   "Skewer": {
     "NAME": "Проймання",
@@ -341,7 +341,7 @@
     "DESCRIPTION": "Наносить !D! шкоди. NL Тасуєте 1 карту."
   },
   "Twin Strike": {
-    "NAME": "Подвійний Удар",
+    "NAME": "Подвійний удар",
     "DESCRIPTION": "Наносить !D! шкоди двічі."
   },
   "Parasite": {
@@ -382,12 +382,12 @@
   },
   "Warcry": {
     "NAME": "Бойовий клич",
-    "DESCRIPTION": "Тасуєте !M! карту. NL Кладете карту з руки на верх колоди. NL Виснажується.",
-    "UPGRADE_DESCRIPTION": "Тасуєте !M! карти. NL Кладете карту з руки на верх колоди. NL Виснажується."
+    "DESCRIPTION": "Тасуєте !M! карту. NL Кладете карту з руки на верх добору. NL Виснажується.",
+    "UPGRADE_DESCRIPTION": "Тасуєте !M! карти. NL Кладете карту з руки на верх добору. NL Виснажується."
   },
   "PiercingWail": {
     "NAME": "Пронизливий вереск",
-    "DESCRIPTION": "УСІ вороги втрачають !M! Міці на 1 рух. NL Виснажується."
+    "DESCRIPTION": "УСІ вороги втрачають !M! Міці на 1 хід. NL Виснажується."
   },
   "Bite": {
     "NAME": "Укус",
@@ -395,8 +395,8 @@
   },
   "Secret Technique": {
     "NAME": "Потаємний прийом",
-    "DESCRIPTION": "Обираєте Вміння з колоди та кладете у руку. NL Виснажується.",
-	"UPGRADE_DESCRIPTION": "Обираєте Вміння з колоди та кладете у руку.",
+    "DESCRIPTION": "Обираєте Вміння з добору та кладете у руку. NL Виснажується.",
+	"UPGRADE_DESCRIPTION": "Обираєте Вміння з добору та кладете у руку.",
 	"EXTENDED_DESCRIPTION": [
     	"Ніц Вміннь нема."
     ]
@@ -412,8 +412,8 @@
   },
   "Deep Breath": {
     "NAME": "Глибокий подих",
-    "DESCRIPTION": "Тасує увесь Відбій у Колоду. NL Тасуєте !M! карту.",
-    "UPGRADE_DESCRIPTION": "Тасує увесь Відбій у Колоду. NL Тасуєте !M! карти."
+    "DESCRIPTION": "Тасує увесь відбій у добір. NL Тасуєте !M! карту.",
+    "UPGRADE_DESCRIPTION": "Тасує увесь відбій у добір. NL Тасуєте !M! карти."
   },
   "Doubt": {
     "NAME": "Вагання",
@@ -425,7 +425,7 @@
   },
   "Finisher": {
     "NAME": "Кінцевий удар",
-    "DESCRIPTION": "Наносить !D! шкоди за кожну зіграну Атаку цього руху.",
+    "DESCRIPTION": "Наносить !D! шкоди за кожну зіграну Атаку у цей хід.",
     	"EXTENDED_DESCRIPTION": [
     	" NL (Ви зіграли ",
     	" Атаку.)",
@@ -467,7 +467,7 @@
   },
   "Panache": {
     "NAME": "Блиск",
-    "DESCRIPTION": "Щоразу як Ви граєте 5 карт за рух, наносить !M! шкоди УСІМ ворогам."
+    "DESCRIPTION": "Щоразу як Ви граєте 5 карт за хід, наносить !M! шкоди УСІМ ворогам."
   },
   "Fiend Fire": {
     "NAME": "Демонічний вогонь",
@@ -504,12 +504,12 @@
   },
   "Havoc": {
     "NAME": "Хаос",
-    "DESCRIPTION": "Грає першу карту у колоді та виснажує її."
+    "DESCRIPTION": "Грає першу карту у доборі та виснажує її."
   },
   "Secret Weapon": {
     "NAME": "Таємна зброя",
-    "DESCRIPTION": "Обираєте Атаку з колоди та кладете у руку. NL Виснажується.",
-	"UPGRADE_DESCRIPTION": "Обираєте Атаку з колоди та кладете у руку.",
+    "DESCRIPTION": "Обираєте Атаку з добору та кладете у руку. NL Виснажується.",
+	"UPGRADE_DESCRIPTION": "Обираєте Атаку з добору та кладете у руку.",
 	"EXTENDED_DESCRIPTION": [
     	"Ніц Атак нема."
     ]
@@ -540,11 +540,11 @@
   },
   "Rage": {
     "NAME": "Злість",
-    "DESCRIPTION": "Щоразу як граєте Атаку у цьому руху, отримуєте !M! Блок(у)."
+    "DESCRIPTION": "Щоразу як граєте Атаку у цей хід, отримуєте !M! Блок(у)."
   },
   "Headbutt": {
     "NAME": "Маківкою",
-    "DESCRIPTION": "Наносить !D! шкоди. NL Кладете карту з Відбію на верх Колоди."
+    "DESCRIPTION": "Наносить !D! шкоди. NL Кладете карту з відбою на верх добору."
   },
   "Limit Break": {
     "NAME": "Безлім",
@@ -567,7 +567,7 @@
   },
   "Phantasmal Killer": {
     "NAME": "Спектральний вбивця",
-    "DESCRIPTION": "Шкоди від наступної Атаки, подвоюється з наступним рухом."
+    "DESCRIPTION": "Шкода від наступної Атаки, подвоюється з наступним рухом."
   },
   "Malaise": {
     "NAME": "Слабкість",
@@ -592,12 +592,12 @@
     "DESCRIPTION": "Отримуєте !B! Блок(у). NL Усуваєте a карту."
   },
   "Wild Strike": {
-    "NAME": "Дикий Удар",
-    "DESCRIPTION": "Наносить !D! шкоди. NL Рана тасується у Вашу колоду."
+    "NAME": "Дикий удар",
+    "DESCRIPTION": "Наносить !D! шкоди. NL Рана тасується у Ваш добір."
   },
   "Eviscerate": {
     "NAME": "Спустошення",
-    "DESCRIPTION": "Коштує на 1 менше [G] NL за кожну усунуту карту за рух. NL Наносить !D! шкоди, тричі."
+    "DESCRIPTION": "Коштує на 1 менше [G] NL за кожну усунуту карту у цьому руху. NL Наносить !D! шкоди, тричі."
   },
   "Flash of Steel": {
     "NAME": "Спалах сталі",
@@ -695,125 +695,125 @@
   },
   "Outmaneuver": {
     "NAME": "Змудрування",
-    "DESCRIPTION": "Наступний рух NL отримуєте [G] [G].",
-    "UPGRADE_DESCRIPTION": "Next turn NL отримуєте [G] [G] [G]."
+    "DESCRIPTION": "Наступний хід NL отримуєте [G] [G].",
+    "UPGRADE_DESCRIPTION": "Наступний хід NL отримуєте [G] [G] [G]."
   },
   "Night Terror": {
-    "NAME": "Nightmare",
-    "DESCRIPTION": "Обираєте a карту. NL Наступний рух, додає !M! сколки (копії) карти у руку. Виснажується.",
+    "NAME": "Страхіття",
+    "DESCRIPTION": "Обираєте карту. NL У наступному руху, додає !M! копії карти у руку. Виснажується.",
     "EXTENDED_DESCRIPTION": [
     	"Я можу використовувати цю карту NL ",
     	" NL раз за хід."	
     ]
   },
   "Bloodletting": {
-    "NAME": "Bloodletting",
+    "NAME": "Кровопролиття",
     "DESCRIPTION": "Отримуєте [R]. NL Втрачаєте 3 ОЗ.",
     "UPGRADE_DESCRIPTION": "Отримуєте [R] [R]. NL Втрачаєте 3 ОЗ."
   },
   "Concentrate": {
-    "NAME": "Concentrate",
+    "NAME": "Збагачування",
     "DESCRIPTION": "Усуваєте !M! карти. NL Отримуєте [G] [G]."
   },
   "Master of Strategy": {
-    "NAME": "Master of Strategy",
+    "NAME": "Майстер стратегії",
     "DESCRIPTION": "Тасуєте !M! карти. NL Виснажується."
   },
   "Flechettes": {
-    "NAME": "Flechettes",
-    "DESCRIPTION": "Наносить !D! шкоди for each Вміння у руці.",
+    "NAME": "Флешетти",
+    "DESCRIPTION": "Наносить !D! шкоди за кожне Вміння у руці.",
 	"EXTENDED_DESCRIPTION": [
-    	" NL (You have ",
+    	" NL (У вас ",
     	" Вміння).",
     	" Вміння)."
     ]
   },
   "Perfected Strike": {
-    "NAME": "Perfected Удар",
-    "DESCRIPTION": "Наносить !D! шкоди. NL Deals an additional +2 шкоди for ALL of your карти containing \"Удар\".",
-    "UPGRADE_DESCRIPTION": "Наносить !D! шкоди. NL Deals an additional +3 шкоди for ALL of your карти containing \"Удар\"."
+    "NAME": "Вдосконалений удар",
+    "DESCRIPTION": "Наносить !D! шкоди. NL Наносить додаткові +2 шкоди за кожну карту яка містить слово \"Удар\", у вашій колоді.",
+    "UPGRADE_DESCRIPTION": "Наносить !D! шкоди. NL Наносить додаткові +3 шкоди за кожну карту яка містить слово \"Удар\", у вашій колоді."
   },
   "Carnage": {
-    "NAME": "Carnage",
+    "NAME": "Різанина",
     "DESCRIPTION": "Примарна. NL Наносить !D! шкоди."
   },
   "Masterful Stab": {
-    "NAME": "Masterful Stab",
-    "DESCRIPTION": "Can only be played if there are no other карти у руці. NL Наносить !D! шкоди.",
-	"UPGRADE_DESCRIPTION": "This has to be my NL only карту."
+    "NAME": "Вправний штик",
+    "DESCRIPTION": "Можна грати тільки коли рука пуста. NL Наносить !D! шкоди.",
+	"UPGRADE_DESCRIPTION": "Це має бути моя NL єдина карта."
   },
   "Good Instincts": {
-    "NAME": "Good Instincts",
+    "NAME": "Файні інстинкти",
     "DESCRIPTION": "Отримуєте !B! Блок(у)."
   },
   "Prepared": {
-    "NAME": "Prepared",
+    "NAME": "Підготовлений",
     "DESCRIPTION": "Тасуєте !M! карту. NL Усуваєте !M! карту.",
     "UPGRADE_DESCRIPTION": "Тасуєте !M! карти. NL Усуваєте !M! карти."
   },
   "Dropkick": {
-    "NAME": "Dropkick",
-    "DESCRIPTION": "Наносить !D! шкоди. NL If the enemy is Vulnerable, NL Отримуєте [R] та NL тасуєте 1 карту."
+    "NAME": "Удар зі стрибка",
+    "DESCRIPTION": "Наносить !D! шкоди. NL Якщо ворог Уразливий, NL Отримуєте [R] та NL тасуєте 1 карту."
   },
   "Swift Strike": {
-    "NAME": "Swift Удар",
+    "NAME": "Хуткий удар",
     "DESCRIPTION": "Наносить !D! шкоди."
   },
   "Normality": {
-    "NAME": "Normality",
-    "DESCRIPTION": "Пасивна. NL You cannot play more than 3 карти this turn.",
+    "NAME": "Закономірність",
+    "DESCRIPTION": "Пасивна. NL Ви не можете грати більше 3-х карт у цей хід.",
     "EXTENDED_DESCRIPTION": [
-    	"I can only play up to NL #r3 карти this turn.",
-    	"Пасивна. NL You cannot play more than ",
-    	" карти per turn.",
-		" карти per turn. NL You have played ",
-		" карту this turn."	
+    	"Я можу грати не більше NL #r3-х карт у цей хід.",
+    	"Пасивна. NL Ви не можете грати більше",
+    	" карти за хід.",
+		" карти за хід. NL Ви зіграли ",
+		" карт у цьому ході."	
     ]
   },
   "Accuracy": {
-    "NAME": "Accuracy",
-    "DESCRIPTION": "Shivs наносять !M! additional шкоди."
+    "NAME": "Точність",
+    "DESCRIPTION": "Цизорики наносять !M! додаткової шкоди."
   },
   "Sword Boomerang": {
-    "NAME": "Sword Boomerang",
-    "DESCRIPTION": "Наносить !D! шкоди випадковому ворогу !M! times."
+    "NAME": "Меч-бумеранг",
+    "DESCRIPTION": "Наносить !D! шкоди випадковому ворогу !M! рази."
   },
   "Jack Of All Trades": {
-    "NAME": "Jack Of All Trades",
-    "DESCRIPTION": "Додає !M! випадкових безбарвних карту до руки. NL Виснажується.",
-    "UPGRADE_DESCRIPTION": "Додає !M! випадкових безбарвних карти до руки. NL Виснажується."
+    "NAME": "Майстер на всі руки",
+    "DESCRIPTION": "Додає !M! випадкову безбарвну карту до руки. NL Виснажується.",
+    "UPGRADE_DESCRIPTION": "Додає !M! випадкових безбарвних карт до руки. NL Виснажується."
   },
   "Demon Form": {
     "NAME": "Демонова форма",
-    "DESCRIPTION": "At the start of each turn, отримуєте !M! Міці."
+    "DESCRIPTION": "На початку кожного руху, отримуєте !M! Міці."
   },
   "Fire Breathing": {
-    "NAME": "Fire Breathing",
-    "DESCRIPTION": "Наприкінці Вашого руху, for each Attack played this turn наносить 1 шкоди УСІМ ворогам."
+    "NAME": "Вогняний подих",
+    "DESCRIPTION": "За кожну зіграну Атаку, наприкінці Вашого руху наносить 1 шкоди УСІМ ворогам."
   },
   "Ghostly Armor": {
-    "NAME": "Ghostly Armor",
+    "NAME": "Примарна броня",
     "DESCRIPTION": "Примарна. NL Отримуєте !B! Блок(у)."
   },
   "Uppercut": {
-    "NAME": "Uppercut",
-    "DESCRIPTION": "Наносить !D! шкоди. NL Наносить !M! Слабкості. NL Наносить !M! Vulnerable."
+    "NAME": "Аперкот",
+    "DESCRIPTION": "Наносить !D! шкоди. NL Наносить !M! Слабкості. NL Наносить !M! Уразливості."
   },
   "Mind Blast": {
-    "NAME": "Mind Blast",
-    "DESCRIPTION": "Наносить шкоди equal to the number of карти in your draw pile.",
-    "UPGRADE_DESCRIPTION": "Початкова. NL Наносить шкоди equal to the number of карти in your draw pile.",
+    "NAME": "Розумовий вибух",
+    "DESCRIPTION": "Наносить шкоди рівну поточній кількості карт у доборі.",
+    "UPGRADE_DESCRIPTION": "Початкова. NL Наносить шкоди рівну поточній кількості карт у доборі.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Deals !D! шкоди.)"
+      " NL (Наносить !D! шкоди.)"
     ]
   },
   "Ghostly": {
-    "NAME": "Apparition",
-    "DESCRIPTION": "Отримуєте 1 Intangible. NL Виснажується. NL Примарна.",
+    "NAME": "Мара",
+    "DESCRIPTION": "DEPRECATED 1 Intangible. NL Виснажується. NL Примарна.",
     "UPGRADE_DESCRIPTION": "Отримуєте 1 Intangible. NL Виснажується."
   },
   "Neutralize": {
-    "NAME": "Neutralize",
+    "NAME": "Знешкоджування",
     "DESCRIPTION": "Наносить !D! шкоди. NL Наносить !M! Слабкості."
   },
   "Strike_R": {
@@ -829,59 +829,59 @@
     "DESCRIPTION": "Наносить !D! шкоди."
   },
   "Evolve": {
-    "NAME": "Evolve",
-    "DESCRIPTION": "Щоразу Ви тасуєте a Status, тасуєте !M! карту.",
-    "UPGRADE_DESCRIPTION": "Щоразу Ви тасуєте a Status, тасуєте !M! карти."
+    "NAME": "Еволюція",
+    "DESCRIPTION": "Щоразу Ви тасуєте Статусну карту, тасуєте !M! карту.",
+    "UPGRADE_DESCRIPTION": "Щоразу Ви тасуєте Статусну карту, тасуєте !M! карти."
   },
   "Burn": {
-    "NAME": "Burn",
-    "DESCRIPTION": "Пасивна. NL Наприкінці Вашого руху, take 2 шкоди.",
-    "UPGRADE_DESCRIPTION": "Пасивна. NL Наприкінці Вашого руху, take 4 шкоди."
+    "NAME": "Гори!",
+    "DESCRIPTION": "Пасивна. NL Наприкінці Вашого руху, отримуєте 2 шкоди.",
+    "UPGRADE_DESCRIPTION": "Пасивна. NL Наприкінці Вашого руху, отримуєте 4 шкоди."
   },
   "Sucker Punch": {
-    "NAME": "Sucker Punch",
+    "NAME": "Без попередження",
     "DESCRIPTION": "Наносить !D! шкоди. NL Наносить !M! Слабкості."
   },
   "Double Tap": {
-    "NAME": "Double Tap",
-    "DESCRIPTION": "This turn, your next Attack is played двічі.",
-    "UPGRADE_DESCRIPTION": "This turn, your next !M! Attacks are played двічі."
+    "NAME": "Подвійний вистріл",
+    "DESCRIPTION": "У цей хід, наступна Атака грається двічі.",
+    "UPGRADE_DESCRIPTION": "У цей хід, наступні !M! Атаки граються двічі."
   },
   "Footwork": {
-    "NAME": "Footwork",
-    "DESCRIPTION": "Отримуєте !M! Dexterity."
+    "NAME": "Ного-труд",
+    "DESCRIPTION": "Отримуєте !M! Спритності."
   },
   "Thinking Ahead": {
-    "NAME": "Thinking Ahead",
-    "DESCRIPTION": "Тасуєте 2 карти. NL Put a карту from your hand on top of your draw pile. NL Виснажується.",
-    "UPGRADE_DESCRIPTION": "Тасуєте 2 карти. NL Put a карту from your hand on top of your draw pile."
+    "NAME": "На три кроки в переді",
+    "DESCRIPTION": "Тасуєте 2 карти. NL Кладете карту з руки наверх добору. NL Виснажується.",
+    "UPGRADE_DESCRIPTION": "Тасуєте 2 карти. NL Кладете карту з руки наверх добору."
   },
   "Distraction": {
-    "NAME": "Distraction",
-    "DESCRIPTION": "Додає a випадкових Вміння до руки. NL It costs 0 this turn. NL Виснажується."
+    "NAME": "Відволікання",
+    "DESCRIPTION": "Додає випадкове Вміння до руки. NL Коштує 0 на протязі цього руху. NL Виснажується."
   },
   "Dodge and Roll": {
-    "NAME": "Dodge та Roll",
-    "DESCRIPTION": "Отримуєте !B! Блок(у). NL Next turn отримуєте !B! Блок(у)."
+    "NAME": "Уникання",
+    "DESCRIPTION": "Отримуєте !B! Блок(у). NL Наступний хід отримуєте !B! Блок(у)."
   },
   "All Out Attack": {
-    "NAME": "All-Out Attack",
-    "DESCRIPTION": "Наносить !D! шкоди УСІМ ворогам. NL Усуваєте 1 карту at випадкових."
+    "NAME": "Напад з усіх сил",
+    "DESCRIPTION": "Наносить !D! шкоди УСІМ ворогам. NL Усуваєте випадкову карту."
   },
   "Flying Knee": {
-    "NAME": "Flying Knee",
-    "DESCRIPTION": "Наносить !D! шкоди. NL Next turn отримуєте [G]."
+    "NAME": "Коліном",
+    "DESCRIPTION": "Наносить !D! шкоди. NL Наступний хід отримуєте [G]."
   },
   "Predator": {
-    "NAME": "Predator",
-    "DESCRIPTION": "Наносить !D! шкоди. NL Тасуєте 2 more карти next turn."
+    "NAME": "Хижак",
+    "DESCRIPTION": "Наносить !D! шкоди. NL Тасуєте 2 додаткові карти з наступним ходом."
   },
   "Madness": {
-    "NAME": "Madness",
-    "DESCRIPTION": "A випадкових карту у руці costs 0 for the rest of combat. NL Виснажується."
+    "NAME": "Божевілля",
+    "DESCRIPTION": "Випадкова карта у руці коштує 0 до кінця бою. NL Виснажується."
   },
   "Expertise": {
-    "NAME": "Expertise",
-    "DESCRIPTION": "Тасуєте карти until you have !M! in hand."
+    "NAME": "Мудрість",
+    "DESCRIPTION": "Тасуєте допоки у Вас !M! карт(и) у руці."
   }
 }
