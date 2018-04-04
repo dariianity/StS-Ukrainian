@@ -1,23 +1,46 @@
 Updates for Translators!
 
-3/25/2018:
-powers.json
-	"Explosion"
+04/02/2018:
+run_mods.json
+	"Diverse"
+	"All Star"
+characters.json
+	"Neow Event"
 
 ----------------------------------
 
-3/24/2018:
-ui.json
-	"OptionsPanel"
-		"Show Card Quick Select Keys"
-cards.json
-	"Evolve"
-		"DESCRIPTION": "Whenever you draw a Status, draw !M! card.",
-    	"UPGRADE_DESCRIPTION": "Whenever you draw a Status, draw !M! cards."
-    "AscendersBane"
-    	DESCRIPTION": "Unplayable. NL Ethereal. NL Cannot be removed from your deck."
+3/28/2018:
 events.json
-	"SecretPortal"
+	"SensoryStone"
+
+----------------------------------
+
+3/27/2018:
+run_mods.json
+	"Draft"
+events.json
+	"Council of Ghosts" (Typo, shouldn't affect loc)
+
+----------------------------------
+
+3/25/2018:
+powers.json
+    "Explosion"
+    "Intangible"
+    "Evolve"
+keywords.json
+    "INTANGIBLE"
+ui.json
+    "OptionsPanel"
+        "Show Card Quick Select Keys"
+cards.json
+    "Evolve"
+        "DESCRIPTION": "Whenever you draw a Status, draw !M! card.",
+        "UPGRADE_DESCRIPTION": "Whenever you draw a Status, draw !M! cards."
+    "AscendersBane"
+        DESCRIPTION": "Unplayable. NL Ethereal. NL Cannot be removed from your deck."
+events.json
+    "SecretPortal"
 
 ----------------------------------
 
