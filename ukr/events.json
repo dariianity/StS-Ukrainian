@@ -1,7 +1,7 @@
 {
   "Proceed Screen": {
     "DESCRIPTIONS": [
-			"[Leave]"
+			"[Покинути]"
 	]
   },
   "Accursed Blacksmith": {
@@ -15,11 +15,11 @@
 			"There doesn't seem to be anything of use. You exit the way you came, the flames of the furnace casting #p~eerie~ #p~shadows~ on the walls inside the hut..."
 	],
     "OPTIONS": [
-			"[Forge] #gUpgrade #ga #gcard. #r25%: #rBecome #rCursed #r- #rInjury.",
-			"[Rummage] #gObtain #ga #gRelic. #r75%: #rBecome #rCursed #r- #rNormality.",
-			"[Leave]",
+			"[Кувати] #gUpgrade #ga #gcard. #r25%: #rBecome #rCursed #r- #rInjury.",
+			"[Обшукати] #gObtain #ga #gRelic. #r75%: #rBecome #rCursed #r- #rNormality.",
+			"[Покинути]",
 			"Choose a Card to Upgrade",
-			"[Locked] Requires: Upgradeable Cards"
+			"[Заблоковано] Requires: Upgradeable Cards"
     ]
   },
   "Bonfire Elementals": {
@@ -35,9 +35,9 @@
 			"The flames @burst,@ nearly knocking you off your feet, as the fire @doubles@ in strength. NL The spirits dance around you excitedly before ~merging~ ~into~ ~your~ ~form,~ filling you with warmth and strength. NL Your Max HP increases by #b10 and you are #ghealed to full HP."
 	],
     "OPTIONS": [
-			"[Continue]",
-			"[Leave]",
-			"[Offer] Receive a reward based on the offer.",
+			"[Продовжити]",
+			"[Покинути]",
+			"[Пропонувати] Receive a reward based on the пропозиції.",
 			"Select a Card to Offer."
     ]
   },
@@ -49,9 +49,9 @@
 			"A gremlin is madly shuffling cards on a table. This monster seems to be a harmless one. You approach him out of curiosity."
 	],
     "OPTIONS": [
-			"[Continue]",
-			"[Leave]",
-			"[Play]",
+			"[Продовжити]",
+			"[Покинути]",
+			"[Грати]",
 			"Remaining Attempts: #y"
     ]
   },
@@ -63,8 +63,8 @@
 			"You ignore the shrine, confident in your choice."
 	],
     "OPTIONS": [
-			"[Pray] #gDuplicate #ga #gcard #gin #gyour #gdeck.",
-			"[Leave]",
+			"[Благати] #gDuplicate #ga #gcard #gin #gyour #gdeck.",
+			"[Покинути]",
 			"Select a Card to Duplicate."
     ]
   },
@@ -76,8 +76,8 @@
 			"Unsure of the nature of this water, you continue on your way, parched."
 	],
     "OPTIONS": [
-			"[Drink] #gRemove #gall #gCurses #gfrom #gyour #gdeck.",
-			"[Leave]"
+			"[Пити] #gRemove #gall #gCurses #gfrom #gyour #gdeck.",
+			"[Покинути]"
     ]
   },
   "Golden Shrine": {
@@ -89,10 +89,10 @@
 			"You ignore the shrine."
 	],
     "OPTIONS": [
-			"[Pray] #gGain #g",
+			"[Благати] #gGain #g",
 			" #gGold.",
-			"[Desecrate] #gGain #g250 #gGold. #rBecome #rCursed #r- #rRegret.",
-			"[Leave]"
+			"[Плюгавити] #gGain #g250 #gGold. #rBecome #rCursed #r- #rRegret.",
+			"[Покинути]"
     ]
   },
   "Lab": {
@@ -101,7 +101,7 @@
 			"You find yourself in a room filled with racks of test tubes, beakers, flasks, forceps, pinch clamps, stirring rods, tongs, goggles, funnels, pipets, cylinders, condensers, and even a rare spiral tube of glass. NL NL Why do you know the name of all these tools? It doesn't matter, you take a look around."
 	],
     "OPTIONS": [
-			"[Search] #gFind #gsome #gPotions!"
+			"[Оглянути] #gFind #gsome #gPotions!"
     ]
   },
   "Purifier": {
@@ -112,8 +112,8 @@
 			"You ignore the shrine."
 	],
     "OPTIONS": [
-			"[Pray] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-			"[Leave]",
+			"[Благати] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
+			"[Покинути]",
 			"Select a Card to Remove."
     ]
   },
@@ -125,8 +125,8 @@
 			"You ignore the shrine."
 	],
     "OPTIONS": [
-			"[Pray] #gTransform #ga #gcard.",
-			"[Leave]",
+			"[Благати] #gTransform #ga #gcard.",
+			"[Покинути]",
 			"Select a Card to Transform."
     ]
   },
@@ -138,10 +138,10 @@
 			"You ignore the shrine."
 	],
     "OPTIONS": [
-			"[Pray] #gUpgrade #ga #gcard.",
-			"[Leave]",
+			"[Благати] #gUpgrade #ga #gcard.",
+			"[Покинути]",
 			"Select a Card to Upgrade.",
-			"[Locked] Requires: Upgradeable Cards"
+			"[Заблоковано] Requires: Upgradeable Cards"
     ]
   },
   "Wheel of Change": {
@@ -157,15 +157,15 @@
 			"You slash at the crazy gremlin but he's simply too quick! NL He gets you a few times with a crude shiv. NL \"The price has been paid!!\" NL and with that, both the gremlin and its wheel disappear in a puff of smoke."
 	],
     "OPTIONS": [
-			"[Play]",
-			"[Prize!] YAY!!!!",
-			"[Prize!] #gGain #ga #gRelic.",
-			"[Prize!] #gHeal #gto #gfull #ghealth.",
-			"[Prize?] #rCurse #r- #rDecay.",
-			"[Prize!] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-			"[Prize?] #rLose #r",
+			"[Грати]",
+			"[Виграш!] YAY!!!!",
+			"[Виграш!] #gGain #ga #gRelic.",
+			"[Виграш!] #gHeal #gto #gfull #ghealth.",
+			"[Виграш?] #rCurse #r- #rDecay.",
+			"[Виграш!] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
+			"[Виграш?] #rLose #r",
 			" #rHP.",
-			"[Leave]",
+			"[Покинути]",
 			"Select a Card to Remove."
     ]
   },
@@ -173,20 +173,20 @@
 	"NAME": "Falling",
     "DESCRIPTIONS": [
 			"As you head upwards hopping from one floating shape to another, you slip. NL NL You begin to fall.",
-			"While in free fall you consider your options: NL Land safely with your greatest techniques. NL Channel a Power to survive the fall. NL Strike at the wall to hang on to it.",
+			"While in free fall you consider your options: NL Land safely with your greatest techniques. NL Channel a Power to survive the fall. NL Хватонути at the wall to hang on to it.",
 			"You land with extreme grace before continuing on.",
 			"Harnessing and expending some of your raw power, you manage to land unhurt.",
 			"You are able to latch on to the wall, and manage to make a short hop onto another stable platform."
 	],
     "OPTIONS": [
-			"[Continue]",
-			"[Land] #rLose ",
-			"[Locked] Requires: Skill Card",
+			"[Продовжити]",
+			"[Приземлитись] #rLose ",
+			"[Заблоковано] Requires: Skill Card",
 			"[Channel] #rLose ",
-			"[Locked] Requires: Power Card",
-			"[Strike] #rLose ",
-			"[Locked] Requires: Attack Card",
-			"[Leave]"
+			"[Заблоковано] Requires: Power Card",
+			"[Хватнути] #rLose ",
+			"[Заблоковано] Requires: Attack Card",
+			"[Покинути]"
     ]
   },
   "The Moai Head": {
@@ -201,8 +201,8 @@
 			"[Jump Inside] #gHeal #gto #gfull #gHP. #rLose #r",
 			" #rMax #rHP.",
 			"[Offer: Golden Idol] #gReceive #g333 #gGold. #rLose #rGolden #rIdol.",
-			"[Locked] Requires: Golden Idol.",
-			"[Leave]"
+			"[Заблоковано] Requires: Golden Idol.",
+			"[Покинути]"
     ]
   },
   "Mysterious Sphere": {
@@ -214,7 +214,7 @@
 	],
     "OPTIONS": [
 			"[Open Sphere] #rFight. #gReward: #gRelic.",
-			"[Leave]",
+			"[Покинути]",
 			"[Fight]"
     ]
   },
@@ -229,7 +229,7 @@
 			"[Gooped] #rLose #ra #rrandom #rRare #rcard.",
 			"[Land Face First] #rTake #r",
 			" #rdamage. #rBecome #rCursed #r- #rInjury.",
-			"[Leave]"
+			"[Покинути]"
     ]
   },
   "Tomb of Lord Red Mask": {
@@ -241,10 +241,10 @@
 	],
     "OPTIONS": [
 			"[Don the Red Mask] #gGain #g222 #gGold.",
-			"[Locked] Requires: Red Mask.",
+			"[Заблоковано] Requires: Red Mask.",
 			"[Offer: ",
 			" Gold] #rLose #rall #rGold. #gGain #ga #gRelic.",
-			"[Leave]"
+			"[Покинути]"
     ]
   },  
   "Winding Halls": {
@@ -260,7 +260,7 @@
 			"[Embrace Madness] #gReceive #g2 #gMadness. #rLose #r",
 			" #rHP.",
 			"[Focus] #rBecome #rCursed #r- #rWrithe. #gHeal #g",
-			"[Leave]",
+			"[Покинути]",
 			" #gHP."
     ]
   },
@@ -280,7 +280,7 @@
 			"[Donut] #gMax #gHP #g+",
 			".",
 			"[Box] #gReceive #ga #gRelic. #rBecome #rCursed #r- #rRegret.",
-			"[Leave]"
+			"[Покинути]"
     ]
   },
   "The Cleric": {
@@ -293,12 +293,12 @@
 	],
     "OPTIONS": [
 			"[Heal] #y35 #yGold: #gHeal #g",
-			"[Locked] Requires: ",
+			"[Заблоковано] Requires: ",
 			" Gold.",
 			"[Purify] #y",
 			" #yGold: #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-			"[Locked] Requires: 50 Gold.",
-			"[Leave]",
+			"[Заблоковано] Requires: 50 Gold.",
+			"[Покинути]",
 			"Select a Card to Remove.",
 			" #gHP."
     ]
@@ -320,9 +320,9 @@
 	],
     "OPTIONS": [
 			"[Search] #gFind #gLoot. #r",
-			"[Leave]",
+			"[Покинути]",
 			"[Fight]",
-			"[Continue] #gFind #gLoot. #r",
+			"[Продовжити] #gFind #gLoot. #r",
 			"%: #rmonster #rreturns."
     ]
   },
@@ -338,7 +338,7 @@
 	],
     "OPTIONS": [
 			"[Take] #gReceive #gGolden #gIdol. #rTrigger #ra #rtrap.",
-			"[Leave]",
+			"[Покинути]",
 			"[Outrun] #rBecome #rCursed #r- #rInjury.",
 			"[Smash] #rTake #r",
 			" #rDamage.",
@@ -355,15 +355,15 @@
 			"The statue makes you feel ~uneasy.~ You walk past and continue onward."
 	],
     "OPTIONS": [
-			"[Pray] #gRemove #ga #gcard #gfrom #gyour #gdeck. #rLose #r",
+			"[Благати] #gRemove #ga #gcard #gfrom #gyour #gdeck. #rLose #r",
 			" #rHP.",
 			"[Destroy] #gGain #g",
 			" #g- #g",
 			" #gGold.",
-			"[Locked] Requires: Card with ",
+			"[Заблоковано] Requires: Card with ",
 			" or more damage.",
-			"[Leave]",
-			"[Continue]",
+			"[Покинути]",
+			"[Продовжити]",
 			"Select a Card to Remove."
     ]
   },
@@ -378,9 +378,9 @@
 			"[Gather Gold] #gGain #g",
 			" #gGold. #rLose #r",
 			" #rHP.",
-			"[Leave It] #rLose #r",
+			"[Покинути його] #rLose #r",
 			" #rGold.",
-			"[Leave]"	
+			"[Покинути]"	
     ]
   },
   "Liars Game": {
@@ -395,8 +395,8 @@
 			"[Agree] #gReceive #g",
 			" #gGold. #rBecome #rCursed #r- #rDoubt.",
 			"[Disagree]",
-			"[Continue]",
-			"[Leave]"
+			"[Продовжити]",
+			"[Покинути]"
     ]
   },  
   "Living Wall": {
@@ -412,8 +412,8 @@
 			"Select a Card to Remove.",
 			"Choose a Card to Transform.",
 			"Choose a Card to Upgrade.",
-			"[Leave]",
-			"[Locked] Requires: Upgradeable Cards"
+			"[Покинути]",
+			"[Заблоковано] Requires: Upgradeable Cards"
     ]
   },
   "Mushrooms": {
@@ -428,7 +428,7 @@
 			"[Eat] #gHeal #g",
 			" #gHP. #rBecome #rCursed #r- #rParasite.",
 			"[Fight]",
-			"[Leave]"
+			"[Покинути]"
     ]
   },
   "N'loth": {
@@ -441,7 +441,7 @@
     "OPTIONS": [
 			"[Offer: ",
 			"] #rLose #rthis #rrelic. #gGain #ga #gnew #gspecial #grelic.",
-			"[Leave]"
+			"[Покинути]"
     ]
   },
   "Scrap Ooze": {
@@ -456,7 +456,7 @@
 			"[Reach Inside] #rLose #r",
 			" #rHP. #g",
 			"%: #gFind #ga #gRelic.",
-			"[Leave]",
+			"[Покинути]",
 			"[Deeper] #rLose #r"
     ]
   },
@@ -470,8 +470,8 @@
     "OPTIONS": [
 			"[Enter] #gUpgrade #g2 #grandom #gcards. #rLose #r",
 			" #rHP.",
-			"[Leave]",
-			"[Locked] Requires: Upgradeable Cards"
+			"[Покинути]",
+			"[Заблоковано] Requires: Upgradeable Cards"
     ]
   },
   "Addict": {
@@ -484,12 +484,12 @@
     "OPTIONS": [
 			"[Offer Gold] #y",
 			" #yGold: #gReceive #ga #gRelic.",
-			"[Locked] Requires: ",
+			"[Заблоковано] Requires: ",
 			" Gold.",
 			"[Give JAX] #gReceive #ga #gRelic. #rLose #rJ.A.X.",
-			"[Locked] Requires: J.A.X.",
-			"[Leave] Ignore the addict.",
-			"[Leave]"
+			"[Заблоковано] Requires: J.A.X.",
+			"[Покинути] Ignore the addict.",
+			"[Покинути]"
     ]
   },
   "Back to Basics": {
@@ -503,7 +503,7 @@
 			"[Elegance] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
 			"[Simplicity] #gUpgrade #gall #gStrikes #gand #gDefends.",
 			"Select a Card to Remove.",
-			"[Leave]"
+			"[Покинути]"
     ]
   },
   "Beggar": {
@@ -517,10 +517,10 @@
     "OPTIONS": [
 			"[Offer Gold] #y",
 			" #yGold: #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-			"[Locked] Requires: ",
+			"[Заблоковано] Requires: ",
 			" Gold.",
-			"[Continue]",
-			"[Leave]",
+			"[Продовжити]",
+			"[Покинути]",
 			"Select a Card to Remove."
     ]
   },  
@@ -538,13 +538,13 @@
 	],
     "OPTIONS": [
 			"[Read]",
-			"[Continue] #rLose #r1 #rHP.",
-			"[Continue] #rLose #r2 #rHP.",
-			"[Continue] #rLose #r3 #rHP.",
+			"[Продовжити] #rLose #r1 #rHP.",
+			"[Продовжити] #rLose #r2 #rHP.",
+			"[Продовжити] #rLose #r3 #rHP.",
 			"[Stop] #rLose #r3 #rHP.",
 			"[Take] #gObtain #gthe #gBook. #rLose #r",
 			" #rHP.",
-			"[Leave]"
+			"[Покинути]"
     ]
   },
   "Drug Dealer": {
@@ -557,9 +557,9 @@
     "OPTIONS": [
 			"[Pay] #y",
 			" #yGold: #gGet #gJAXXED.",
-			"[Locked] Requires: ",
+			"[Заблоковано] Requires: ",
 			" Gold.",
-			"[Leave]",
+			"[Покинути]",
 			"[Decline]"
     ]
   },
@@ -573,11 +573,11 @@
 	],
     "OPTIONS": [
 			"[Offer: Golden Idol] #gReceive #ga #gspecial #gRelic. #rLose #rGolden #rIdol.",
-			"[Locked] Requires: Golden Idol.",
+			"[Заблоковано] Requires: Golden Idol.",
 			"[Sacrifice] #gGain #g",
 			" #gMax #gHP. #rLose #r",
 			" #rHP.",
-			"[Locked] Requires: Humanity.",
+			"[Заблоковано] Requires: Humanity.",
 			"[Desecrate] #rBecome #rCursed #r- #rDecay."
     ]
   },
@@ -594,7 +594,7 @@
 			"\"BEHIND YOU, MORTAL.\" NL You peek behind the skull. Surely enough, there is a door."	
 	],
     "OPTIONS": [
-			"[Continue]",
+			"[Продовжити]",
 			" #rHP.",
 			"[Information?] #gReveal #gthe #gBoss. #rLose #r",
 			"[Success?] #gGet #ga #gColorless #gCard. #rLose #r",
@@ -602,7 +602,7 @@
 			"[Riches?] #gGain #g",
 			" #gGold. #rLose #r",
 			"[How do I leave?] #rLose #r",
-			"[Leave]"
+			"[Покинути]"
     ]
   },
   "Masked Bandits": {
@@ -617,8 +617,8 @@
     "OPTIONS": [
 			"[Pay] #rLose #rALL of your #yGold.",
 			"[Fight!]",
-			"[Continue]",
-			"[Leave]"
+			"[Продовжити]",
+			"[Покинути]"
     ]
   },
   "Spire Heart": {
@@ -637,7 +637,7 @@
 			"NL You charge your core to its maximum..."
 	],
 	"OPTIONS": [
-			"[Continue]",
+			"[Продовжити]",
 			"[Attack] #b???",
 			"[Sleep]"
     ]
@@ -656,14 +656,14 @@
 			"You #rlost the bet, but at least you weren't gouged by a lance."
 	],
     "OPTIONS": [
-			"[Continue]",
+			"[Продовжити]",
 			"[Murderer] #yBet #y",
 			" #yGold - #g70%: #gwin #g",
 			" #gGold.",
 			"[Owner] #yBet #y",
 			" #yGold - #g30%: #gwin #g",
 			"[Watch]",
-			"[Leave]"
+			"[Покинути]"
     ]
   },
   "The Library": {
@@ -679,7 +679,7 @@
 		"[Read] #gChoose #g1 #gof #g20 #gcards #gto #gadd #gto #gyour #gdeck.",
 			"[Sleep] #gHeal #g",
 			" #gHP.",
-			"[Leave]",
+			"[Покинути]",
 			"Add a card to your deck."	
     ]
   },
@@ -694,7 +694,7 @@
     "OPTIONS": [
 			"[Open Coffin] #gReceive #ga #gRelic. #r",
 			"%: #rBecome #rCursed #r- #rWrithe.",
-			"[Leave]"
+			"[Покинути]"
     ]
   },  
   "Vampires": {
@@ -712,7 +712,7 @@
 			"[Refuse]",
 			"[Lose ",
 			"] #gRemove #gall #gStrikes. #gObtain #g5 #gBites.",
-			"[Leave]"
+			"[Покинути]"
     ]
   },
   "Ghosts": {
@@ -730,7 +730,7 @@
 			"[Refuse]",
 			"",
 			"",
-			"[Leave]"
+			"[Покинути]"
     ]
   },
   "SecretPortal": {
@@ -742,7 +742,7 @@
 	],
     "OPTIONS": [
 			"[Enter the Portal] IMMEDIATELY travel to the boss.",
-			"[Leave]"
+			"[Покинути]"
     ]
   },
   "SensoryStone": {
@@ -759,7 +759,7 @@
 			"[Recall] #gAdd #g2 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
 			"[Recall] #gAdd #g3 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
 			" #rHP.",
-			"[Leave]",
+			"[Покинути]",
 			"[Interact]"
     ]
   },
@@ -775,8 +775,8 @@
 			"[Buy 2 Potions] #y",
 			"[Buy 3 Potions] #y",
 			" #yGold.",
-			"[Leave]",
-      		"[Leave] #rTake #r",
+			"[Покинути]",
+      		"[Покинути] #rTake #r",
       		" #rDamage."
     ]
   }
