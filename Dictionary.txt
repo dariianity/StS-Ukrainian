@@ -14,6 +14,7 @@ Block - Блок
 Button - ґудзик
 Boss - Бос
 Character - Герой
+Chat - текстопхайка
 Chest - скриня
 Click - Клац(-ніть)
 Сolo(u)rless - Безбарвну
