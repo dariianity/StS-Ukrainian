@@ -106,7 +106,7 @@ Dagger - кортик
 Defend - Захист
 Feed - Пожирання
 Inflame - розпалювання
-Shiv - Цизорик
+Shiv - Заточка
 Strike - Удар
 Wounds - Рани
 
