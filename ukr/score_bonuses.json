@@ -10,7 +10,7 @@
     "DESCRIPTIONS": []
   },
   "Bosses Slain": {
-    "NAME": "Панів вбито",
+    "NAME": "Князів вбито",
     "DESCRIPTIONS": []
   },
   "City Elites Killed": {
@@ -30,13 +30,13 @@
   "Perfect": {
     "NAME": "Неперевершений",
     "DESCRIPTIONS": [
-      "Вбито Пана не отримавши шкоди."
+      "Вбито Князя не отримавши шкоди."
     ]
   },
   "Beyond Perfect": {
     "NAME": "Ідеально",
     "DESCRIPTIONS": [
-      "Вбито 3 Пана не отримавши шкоди."
+      "Вбито 3 Князя не отримавши шкоди."
     ]
   },
   "Overkill": {

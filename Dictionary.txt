@@ -28,14 +28,14 @@ Deal - наносити / також наноситься
 Defeat - Побийте
 Dexterity - Спритність
 Dig - (від)Копати
-Discard - Усунути
+Discard - У відбій
 Discard Pile - Відбій
 Draw - тасують(-ється) / тасуєте
 Drop - залишають по собі
 Ethereal - примарний
 Egg - Яйко
-Elite - Пан
-Elites - Пани
+Elite - князь
+Elites - князі
 Exhaust - виснажені(-а/-е) / Виснажує / Виснажується / Виснаж
 For (x turns) - Наступні
 Frail - кволий
@@ -54,7 +54,7 @@ Poison - Отрута(-у)
 Potion - зілля
 Power - Снага
 Put - Кладе / Додає
-Relic - Мощь
+Relic - амулет
 Retain - заховати
 Remove - Усунути
 Rest - (відпочиваєте у) Таборі
@@ -85,7 +85,7 @@ Whenever you (deal) - Щоразу Ви (наносите)
 You - Ви (НЕ ти)
 You can no longer become (Weakened) - Вас неможливо (Ослабити)
 
-Boss = Пан = Encounter at end of Act.
+Boss = князь = Encounter at end of Act.
 Elite = еліта(-ні) = Difficult encounters that give you a relic.
 Normal = Just a normal enemy encounter.
 
@@ -96,7 +96,7 @@ deck = колода
 
 Акт 1 - Exordium - Ворота
 Акт 2 - The City - Місто
-Акт 3 - The Beyond - Далина
+Акт 3 - The Beyond - Вирій
 
 
 Cards:
@@ -118,4 +118,4 @@ Time Eater - Часоїд
 
 Goals:
 отримуєте -> надає
-у цей хід -> на протязі цього руху
+у цей хід -> протягом цього руху
