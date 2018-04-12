@@ -129,6 +129,19 @@
 		],
 		"DESCRIPTION": "Пасивна статус карта."
 	},
+	"DAZED": {
+		"NAMES":[
+			"приголомшений"
+		],
+		"DESCRIPTION": "Пасивна статус карта."
+	},
+	"BURN": {
+		"NAMES":[
+			"опік",
+			"опіки"
+		],
+		"DESCRIPTION": "Пасивні статус карти що завдають шкоди."
+	},
 	"FRAIL": {
 		"NAMES":[
 			"кволий"
@@ -146,16 +159,6 @@
 			"нестямний"
 		],
 		"DESCRIPTION": "Щоразу ви тасуєте карту у руку, її вартість рандомізується."
-	},
-	"FIRE": {
-		"NAMES":[
-			"fire",
-			"fired",
-			"DONT TRANSLATE FIRED STUFF",
-			"DONT TRANSLATE FIRED STUFF",
-			"DONT TRANSLATE FIRED STUFF"
-		],
-		"DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
 	},
 	"INTANGIBLE": {
 		"NAMES":[
