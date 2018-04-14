@@ -1,4 +1,4 @@
-Updates for Translators!
+Updates for Translators
 
 04/12/2018:
 relics.json
