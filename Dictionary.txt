@@ -114,6 +114,7 @@ Entities:
 
 Snecko - Зміяко
 Time Eater - Часоїд
+Neow - Няу
 
 
 Goals:
