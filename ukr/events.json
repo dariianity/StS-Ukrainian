@@ -15,8 +15,8 @@
 			"There doesn't seem to be anything of use. You exit the way you came, the flames of the furnace casting #p~eerie~ #p~shadows~ on the walls inside the hut..."
 	],
     "OPTIONS": [
-			"[Кувати] #gUpgrade #ga #gcard. #r25%: #rBecome #rCursed #r- #rInjury.",
-			"[Обшукати] #gОтримуєте #ga #gRelic. #r75%: #rBecome #rCursed #r- #rNormality.",
+			"[Кувати] #gUpgrade #ga #gcard. #r25%: #rОтримати #rПрокляття #r- #rInjury.",
+			"[Обшукати] #gОтримуєте #ga #gRelic. #r75%: #rОтримати #rПрокляття #r- #rNormality.",
 			"[Покинути]",
 			"Choose a Card to Upgrade",
 			"[Заблоковано] Requires: Upgradeable Cards"
@@ -37,14 +37,14 @@
     "OPTIONS": [
 			"[Продовжити]",
 			"[Покинути]",
-			"[Запропонувати] Receive a reward based on the пропозиції.",
+			"[Запропонувати] Отримати a reward based on the пропозиції.",
 			"Select a Card to Offer."
     ]
   },
   "Match and Keep!": {
 	"NAME": "Match and Keep!",
     "DESCRIPTIONS": [
-			"\" #bTwelve cards! Match them to keep them! #bFive tries, no do-overs. NL Are you ready? Let's start!\"",
+			"« #bTwelve cards! Match them to keep them! #bFive tries, no do-overs. NL Are you ready? Let's start!»",
 			"You complete the gremlin's game and look up. NL He disappeared?",
 			"A gremlin is madly shuffling cards on a table. This monster seems to be a harmless one. You approach him out of curiosity."
 	],
@@ -91,7 +91,7 @@
     "OPTIONS": [
 			"[Благати] #gGain #g",
 			" #gGold.",
-			"[Плюгавити] #gGain #g250 #gGold. #rBecome #rCursed #r- #rRegret.",
+			"[Плюгавити] #gGain #g250 #gGold. #rОтримати #rПрокляття #r- #rRegret.",
 			"[Покинути]"
     ]
   },
@@ -147,14 +147,14 @@
   "Wheel of Change": {
 	"NAME": "Wheel of Change",
     "DESCRIPTIONS": [
-			"You come upon a dapper looking, cheery gremlin. NL \"It's time to spin the wheel! Are you ~R~ ~E~ ~A~ ~D~ ~Y~ ~?~ Of course you are!\"",
-			"\"You win some #yGOLD! NL YAY!!!!\"",
-			"\"Ah, a #ggift! NL Enjoy!\"",
-			"\"Oooh, a free #gHeal for you!\"",
-			"\"Looks like you won a #pCurse! NL That's not good. NL Oh well! Better luck next time!\"",
-			"\"Ohh, the power of #r~darkness...~ NL Choose a card to remove from your deck!\"",
-			"\"Uh oh! NL You lose!\" NL You spot him readying a shiv...",
-			"You slash at the crazy gremlin but he's simply too quick! NL He gets you a few times with a crude shiv. NL \"The price has been paid!!\" NL and with that, both the gremlin and its wheel disappear in a puff of smoke."
+			"You come upon a dapper looking, cheery gremlin. NL »It's time to spin the wheel! Are you ~R~ ~E~ ~A~ ~D~ ~Y~ ~?~ Of course you are!»",
+			"«You win some #yGOLD! NL YAY!!!!»",
+			"«Ah, a #ggift! NL Enjoy!»",
+			"«Oooh, a free #gHeal for you!»",
+			"«Looks like you won a #pCurse! NL That's not good. NL Oh well! Better luck next time!»",
+			"«Ohh, the power of #r~darkness...~ NL Choose a card to remove from your deck!»",
+			"«Uh oh! NL You lose!» NL You spot him readying a shiv...",
+			"You slash at the crazy gremlin but he's simply too quick! NL He gets you a few times with a crude shiv. NL «The price has been paid!!» NL and with that, both the gremlin and its wheel disappear in a puff of smoke."
 	],
     "OPTIONS": [
 			"[Грати]",
@@ -200,7 +200,7 @@
     "OPTIONS": [
 			"[Jump Inside] #gHeal #gto #gfull #gОЗ. #rВтрачаєте #r",
 			" #rMax #rОЗ.",
-			"[Offer: Golden Idol] #gReceive #g333 #gGold. #rВтрачаєте #rGolden #rIdol.",
+			"[Offer: Golden Idol] #gОтримати #g333 #gGold. #rВтрачаєте #rGolden #rIdol.",
 			"[Заблоковано] Requires: Golden Idol.",
 			"[Покинути]"
     ]
@@ -228,7 +228,7 @@
     "OPTIONS": [
 			"[Gooped] #rВтрачаєте #ra #rrandom #rRare #rcard.",
 			"[Land Face First] #rTake #r",
-			" #rdamage. #rBecome #rCursed #r- #rInjury.",
+			" #rdamage. #rОтримати #rПрокляття #r- #rInjury.",
 			"[Покинути]"
     ]
   },
@@ -237,7 +237,7 @@
     "DESCRIPTIONS": [
 			"A highly ornamented tomb can be seen on the other side of a floating path. Upon reaching the tomb, you notice a slot for #ygold coins with a scratched out inscription above it.",
 			"You don the mask and the tomb starts to ~flake~ ~away...~ a secret passage! NL NL The passage is lined with countless stolen goods and mounds of #ygold!",
-			"An opening appears in the tomb and out slides a small red mask with a note attached. \"Take from others as I have taken from you!\""
+			"An opening appears in the tomb and out slides a small red mask with a note attached. «Take from others as I have taken from you!»"
 	],
     "OPTIONS": [
 			"[Don the Red Mask] #gGain #g222 #gGold.",
@@ -252,14 +252,14 @@
     "DESCRIPTIONS": [
 			"As you slowly make your way up the twisting pathways, you constantly find yourself losing your way as the walls and ground seem to inexplicably shift before your eyes. The constant whispering voices in the back of your head aren't helping things either.",
 			"Passing by a structure you are certain you have previously seen you start to question if you are going insane, or if the impossible geography of this place is starting to get to you. You need to change something, and soon. That's what the voices say anyway, and why would they lie?",
-			"Something in you cracks. Only the truly mad can understand a place like this, so you give into the chattering voices and continue on with a \"new\" perspective. Things do seem to make so much more sense now.",
+			"Something in you cracks. Only the truly mad can understand a place like this, so you give into the chattering voices and continue on with a «new» perspective. Things do seem to make so much more sense now.",
 			"As you take a moment to stop and carefully observe the undulating landscape around you, the hint of a pattern starts to emerge from within the randomness. Whenever the demented noises begin to interrupt your thoughts, you struggle through the mental pain and ignore it. NL NL Eventually you successfully map out a path forward, and continue on, now resistant to the nefarious nature of this alien place."
 	],
     "OPTIONS": [
 			"...",
-			"[Embrace Madness] #gReceive #g2 #gMadness. #rВтрачаєте #r",
+			"[Embrace Madness] #gОтримати #g2 #gMadness. #rВтрачаєте #r",
 			" #rОЗ.",
-			"[Focus] #rBecome #rCursed #r- #rWrithe. #gHeal #g",
+			"[Focus] #rОтримати #rПрокляття #r- #rКорчизна. #gHeal #g",
 			"[Покинути]",
 			" #gОЗ."
     ]
@@ -279,17 +279,17 @@
 			" #gОЗ.",
 			"[Donut] #gMax #gОЗ #g+",
 			".",
-			"[Box] #gReceive #ga #gRelic. #rBecome #rCursed #r- #rRegret.",
+			"[Box] #gОтримати #ga #gRelic. #rОтримати #rПрокляття #r- #rRegret.",
 			"[Покинути]"
     ]
   },
   "The Cleric": {
 	"NAME": "The Cleric",
     "DESCRIPTIONS": [
-			"A strange blue humanoid with a golden helm(?) approaches you with a huge smile. NL @\"Hello@ @friend!@ I am #bCleric! Are you interested in my services?!\" the creature shouts, loudly.",
-			"A warm golden light envelops your body and dissipates. NL The creature grins. \"Cleric best healer. @Have@ @a@ @good@ @day!\"@",
-			"A cold blue flame envelops your body and dissipates. NL The creature grins. \"Cleric talented. @Have@ @a@ @good@ @day!\"@",
-			"You don't trust this #b\"Cleric\", so you leave."
+			"A strange blue humanoid with a golden helm(?) approaches you with a huge smile. NL @«Hello@ @friend!@ I am #bCleric! Are you interested in my services?!» the creature shouts, loudly.",
+			"A warm golden light envelops your body and dissipates. NL The creature grins. «Cleric best healer. @Have@ @a@ @good@ @day!»@",
+			"A cold blue flame envelops your body and dissipates. NL The creature grins. «Cleric talented. @Have@ @a@ @good@ @day!»@",
+			"You don't trust this #b«Cleric», so you leave."
 	],
     "OPTIONS": [
 			"[Heal] #y35 #yGold: #gHeal #g",
@@ -337,9 +337,9 @@
 			"If there was ever an obvious trap, this would be it. NL You decide not to interfere with objects placed upon pedestals."
 	],
     "OPTIONS": [
-			"[Take] #gReceive #gGolden #gIdol. #rTrigger #ra #rtrap.",
+			"[Take] #gОтримати #gGolden #gIdol. #rTrigger #ra #rtrap.",
 			"[Покинути]",
-			"[Outrun] #rBecome #rCursed #r- #rInjury.",
+			"[Outrun] #rОтримати #rПрокляття #r- #rInjury.",
 			"[Smash] #rTake #r",
 			" #rDamage.",
 			"[Hide] #rВтрачаєте #r",
@@ -386,14 +386,14 @@
   "Liars Game": {
 	"NAME": "The Ssssserpent",
     "DESCRIPTIONS": [
-			"You walk into a room to find a large hole in the ground. As you approach the hole, an enormous serpent creature appears from within. NL NL ~\"Ho~ ~hooo!~ ~Hello~ ~hello!~ ~what~ ~have~ ~we~ ~got~ ~here?~ Hello adventurer, I ask a simple question. NL The most fulfilling of lives is that in which you can #y~buy~ #y~anything!~ NL Do you agree?\"",
-			"~\"Yeeeeeeessssssssssessss!~ NL ~Thisss~ ~will~ ~all~ ~be~ ~worthhh~ ~it.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
+			"You walk into a room to find a large hole in the ground. As you approach the hole, an enormous serpent creature appears from within. NL NL ~«Ho~ ~hooo!~ ~Hello~ ~hello!~ ~what~ ~have~ ~we~ ~got~ ~here?~ Hello adventurer, I ask a simple question. NL The most fulfilling of lives is that in which you can #y~buy~ #y~anything!~ NL Do you agree?»",
+			"~«Yeeeeeeessssssssssessss!~ NL ~Thisss~ ~will~ ~all~ ~be~ ~worthhh~ ~it.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!»~",
 			"The serpent stares at you with a look of extreme disappointment.",
 			"The serpent rears its head and blasts a stream of #ygold upwards! NL It is amazing and terrifying simultaneously. NL You gather all the #ygold, thank the snake, and get going."
 	],
     "OPTIONS": [
-			"[Agree] #gReceive #g",
-			" #gGold. #rBecome #rCursed #r- #rDoubt.",
+			"[Agree] #gОтримати #g",
+			" #gGold. #rОтримати #rПрокляття #r- #rDoubt.",
 			"[Disagree]",
 			"[Продовжити]",
 			"[Покинути]"
@@ -402,7 +402,7 @@
   "Living Wall": {
 	"NAME": "Living Wall",
     "DESCRIPTIONS": [
-			"As you come to a dead-end and begin to turn around, walls @slam@ @down@ from the ceiling, trapping you! NL NL Three faces materialize from the walls and speak. NL #b\"Forget #bwhat #byou #bknow, #band #bI'll #blet #byou #bgo.\" NL #p\"I #prequire #pchange #pto #psee #pa #pnew #pspace.\" NL #y\"If #yyou #ywant #yto #ypass #yme, #ythen #yyou #ymust #ygrow.\"",
+			"As you come to a dead-end and begin to turn around, walls @slam@ @down@ from the ceiling, trapping you! NL NL Three faces materialize from the walls and speak. NL #b«Forget #bwhat #byou #bknow, #band #bI'll #blet #byou #bgo.» NL #p«I #prequire #pchange #pto #psee #pa #pnew #pspace.» NL #y«If #yyou #ywant #yto #ypass #yme, #ythen #yyou #ymust #ygrow.»",
 			"Satisfied, the walls in front of you merge back into the ceiling, leaving a path forward."
 	],
     "OPTIONS": [
@@ -426,7 +426,7 @@
     "OPTIONS": [
 			"[Stomp] #rAnger #rthe #rMushrooms.",
 			"[Eat] #gHeal #g",
-			" #gОЗ. #rBecome #rCursed #r- #rParasite.",
+			" #gОЗ. #rОтримати #rПрокляття #r- #rParasite.",
 			"[Fight]",
 			"[Покинути]"
     ]
@@ -434,7 +434,7 @@
   "N'loth": {
 	"NAME": "N'loth",
     "DESCRIPTIONS": [
-			"An odd creature with a hunched back sprouting several tentacles is scrounging through a pile of trash and debris in front of you. As you approach, he shuffles towards you in a non-threatening manner. NL \"N'loth hungry. Feed N'loth.\"",
+			"An odd creature with a hunched back sprouting several tentacles is scrounging through a pile of trash and debris in front of you. As you approach, he shuffles towards you in a non-threatening manner. NL «N'loth hungry. Feed N'loth.»",
 			"Holding the #yrelic out towards him, N’loth snatches it out of your hand with his tentacles, dislocates his jaw, and slurps down your offer in one quick gulp. NL He gives you a large, toothy grin as more tentacles appear from behind his cloak, these ones brandishing an impossibly neat looking box. He pushes it towards you until you take it.",
 			"You shake your head. N'loth hunches even further and sighs, then scuttles away."
 	],
@@ -477,16 +477,16 @@
   "Addict": {
 	"NAME": "Addicted",
     "DESCRIPTIONS": [
-			"As you attempt to sneak past a group of shrouded figures, a naked, red-skinned man approaches you. NL \"Got any #yJ.A.X., friend? I got the @shakes@ bad! Please... maybe some #yCoin?\" NL He seems delusional, but harmless.",
-			"\"Oh yes, ~yes!~ Here here, a fair trade!\"",
+			"As you attempt to sneak past a group of shrouded figures, a naked, red-skinned man approaches you. NL «Got any #yJ.A.X., friend? I got the @shakes@ bad! Please... maybe some #yCoin?» NL He seems delusional, but harmless.",
+			"«Oh yes, ~yes!~ Here here, a fair trade!»",
 			"The addict throws a loud tantrum, screaming and cursing at you. NL You escape before drawing unwanted attention."
 	],
     "OPTIONS": [
 			"[Offer Gold] #y",
-			" #yGold: #gReceive #ga #gRelic.",
+			" #yGold: #gОтримати #ga #gRelic.",
 			"[Заблоковано] Requires: ",
 			" Gold.",
-			"[Give JAX] #gReceive #ga #gRelic. #rВтрачаєте #rJ.A.X.",
+			"[Give JAX] #gОтримати #ga #gRelic. #rВтрачаєте #rJ.A.X.",
 			"[Заблоковано] Requires: J.A.X.",
 			"[Покинути] Ignore the addict.",
 			"[Покинути]"
@@ -509,10 +509,10 @@
   "Beggar": {
 	"NAME": "Old Beggar",
     "DESCRIPTIONS": [
-			"An old beggar cloaked in fur reaches his hands out towards you as you pass. \"Spare some coin, child?\"",
-			"The beggar looks to the floor as you pass. NL \"You will never make a difference... You never do.\"",
-			"The beggar takes off its cloak to reveal that he is #bCleric! NL @\"You@ @are@ @a@ @kind@ @soul.@ @Receive@ @my@ @purification!\"@ he screams. NL You are unsure if he is grateful or mad.",
-			"@\"I@ @hope@ @you@ @do@ @better@ @this@ @time,@ @friend!\"@ he shouts. NL Wondering what was implied by this, you push forward."
+			"An old beggar cloaked in fur reaches his hands out towards you as you pass. «Spare some coin, child?»",
+			"The beggar looks to the floor as you pass. NL «You will never make a difference... You never do.»",
+			"The beggar takes off its cloak to reveal that he is #bCleric! NL @«You@ @are@ @a@ @kind@ @soul.@ @Receive@ @my@ @purification!»@ he screams. NL You are unsure if he is grateful or mad.",
+			"@«I@ @hope@ @you@ @do@ @better@ @this@ @time,@ @friend!»@ he shouts. NL Wondering what was implied by this, you push forward."
 	],
     "OPTIONS": [
 			"[Offer Gold] #y",
@@ -550,9 +550,9 @@
   "Drug Dealer": {
 	"NAME": "J.A.X. Dealer",
     "DESCRIPTIONS": [
-			"A man with an eyepatch and a devilish grin casually strides up to you. NL \"Hey there stranger. Interested in some #yJ.A.X.? It'll make you stronger than any training or blessing. You're gonna need it if you're one of those heroes with a death wish. NL Whad'ya say? Wanna get #yJAXXED?\" NL ",
-			"~\"Excellent.\"~ NL The man hands over a dangerous looking syringe filled with glowing liquid before skulking off into a shadowy alleyway.",
-			"\"No matter, there's always the next one...\" NL The man saunters away."
+			"A man with an eyepatch and a devilish grin casually strides up to you. NL «Hey there stranger. Interested in some #yJ.A.X.? It'll make you stronger than any training or blessing. You're gonna need it if you're one of those heroes with a death wish. NL Whad'ya say? Wanna get #yJAXXED?» NL ",
+			"~«Excellent.»~ NL The man hands over a dangerous looking syringe filled with glowing liquid before skulking off into a shadowy alleyway.",
+			"«No matter, there's always the next one...» NL The man saunters away."
 	],
     "OPTIONS": [
 			"[Pay] #y",
@@ -572,26 +572,26 @@
 			"You lash out and smash the statue in front of you, breaking the magical hold the room had placed upon you. NL A dark wail echoes all around you, and you can feel the #p~cursed~ #p~magic~ seep into your bones."
 	],
     "OPTIONS": [
-			"[Offer: Golden Idol] #gReceive #ga #gspecial #gRelic. #rВтрачаєте #rGolden #rIdol.",
+			"[Offer: Golden Idol] #gОтримати #ga #gspecial #gRelic. #rВтрачаєте #rGolden #rIdol.",
 			"[Заблоковано] Requires: Golden Idol.",
 			"[Sacrifice] #gGain #g",
 			" #gMax #gОЗ. #rВтрачаєте #r",
 			" #rОЗ.",
 			"[Заблоковано] Requires: Humanity.",
-			"[Desecrate] #rBecome #rCursed #r- #rDecay."
+			"[Desecrate] #rОтримати #rПрокляття #r- #rDecay."
     ]
   },
   "Knowing Skull": {
 	"NAME": "Knowing Skull",
     "DESCRIPTIONS": [
 		"You find yourself in an old, decorated chamber. In the center of the room, a large skull sits atop an ornate pedestal. As you approach, the skull #g@bursts@ #g@into@ #g@flames@ and turns to face you.",
-			"\"WHAT IS IT YOU SEEK? WHAT IS IT YOU OFFER?\" NL In sync with its final words, the door behind you @slams@ @shut.@",
-			" NL NL \"ANYTHING ELSE?\"",
+			"«WHAT IS IT YOU SEEK? WHAT IS IT YOU OFFER?» NL In sync with its final words, the door behind you @slams@ @shut.@",
+			" NL NL «ANYTHING ELSE?»",
 			" ",
-			"\"DRINK UP!\" NL You Отримуєте a potion.",
-			"\"PERHAPS THIS WILL HELP?\" NL You Отримуєте a card.",
-			"\"YOU MORTALS NEVER CHANGE. IT IS DONE.\" NL #yGold rains down on you!",
-			"\"BEHIND YOU, MORTAL.\" NL You peek behind the skull. Surely enough, there is a door."	
+			"«DRINK UP!» NL You Отримуєте a potion.",
+			"«PERHAPS THIS WILL HELP?» NL You Отримуєте a card.",
+			"«YOU MORTALS NEVER CHANGE. IT IS DONE.» NL #yGold rains down on you!",
+			"«BEHIND YOU, MORTAL.» NL You peek behind the skull. Surely enough, there is a door."	
 	],
     "OPTIONS": [
 			"[Продовжити]",
@@ -612,7 +612,7 @@
 			"Hey #bBear, hey! NL This guy gave us all his #ygold! What a sucker, right? NL Get this, I just had to ask nicely. Who knew?! NL I certainly didn't! What a chump!",
 			"Gang, let's all have a laugh for this wondrous occasion! NL @Hahaah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
 			"Oh? You're still here? NL Did you overhear something? Didn't think so. NL #r@*snerk*@ ~...loser....~ @Hahaha@ ~haaah~",
-			"You encounter a group of bandits wearing large #rred #rmasks. NL \"Hello, pay up to pass... a reasonable fee of @ALL@ your #ygold will do! Heh heh!\""
+			"You encounter a group of bandits wearing large #rred #rmasks. NL «Hello, pay up to pass... a reasonable fee of @ALL@ your #ygold will do! Heh heh!»"
 	],
     "OPTIONS": [
 			"[Pay] #rВтрачаєте #rALL of your #yGold.",
@@ -627,7 +627,7 @@
 			"@tu-thump@ ... @tu-thump@ ... @tu-thump@ ... NL A deep pulsing dread can be felt throughout the room... NL Is this the #r~heart~ of the Spire? The source of this evil?",
 			"You deal #b",
 			" damage! NL The heart #r@squirms@ and #r~bleeds~ ...but is ultimately still pounding. NL Are your mightiest attacks not enough?",
-			"You ask yourself, ~\"Have~ ~I~ ~been~ ~here~ ~before?\"~ NL You feel that you have dealt a total of #b",
+			"You ask yourself, ~«Have~ ~I~ ~been~ ~here~ ~before?»~ NL You feel that you have dealt a total of #b",
 			" damage to the heart.",
 			" NL A total of #b",
 			" damage has been dealt by all who have challenged it.",
@@ -643,12 +643,12 @@
     ]
   },
   "The Joust": {
-	"NAME": "The Joust",
+	"NAME": "Поєдинок",
     "DESCRIPTIONS": [
-			"As you make your way through the large buildings you come across a long narrow bridge and spot knights on either side, facing one another. You approach... NL @\"Halt!\"@ NL NL A knight forcefully gestures you to stop with its giant lance.",
-			"\"Today is the day I must settle the score with the #rmurderer of my beloved pet, #yNoodles. Until then, you may not pass. NL NL Fellow witness, why don't you #bbet on who you think will emerge victorious?\"",
-			"\"I can't believe you're betting against #yNoodles!\" NL NL Furious, he clamps down his helmet and rushes towards his nemesis.",
-			"\"Give me strength, #yNoodles!\" NL NL Clamping down his helmet, the knight charges forward.",
+			"Проходячи повз високих будівель, Ви натрапляєте на довгий вузький міст з двома лицарями по кожен бік. Підходячи... NL @«Стій!»@ NL NL Лицар жестом зупиняє Вас.",
+			"«Today is the day I must settle the score with the #rmurderer of my beloved pet, #yNoodles. Until then, you may not pass. NL NL Fellow witness, why don't you #bbet on who you think will emerge victorious?»",
+			"«I can't believe you're betting against #yNoodles!» NL NL Furious, he clamps down his helmet and rushes towards his nemesis.",
+			"«Give me strength, #yNoodles!» NL NL Clamping down his helmet, the knight charges forward.",
 			"NL #y@*CRASH!!!*@ #r@*KLAAAANG!*@ NL NL #g@*POW!*@",
 			"The nemesis was slain. NL NL ",
 			"The owner died. NL NL ",
@@ -667,61 +667,61 @@
     ]
   },
   "The Library": {
-	"NAME": "The Library",
+	"NAME": "Бібліотека",
     "DESCRIPTIONS": [
-			"You come across an ornate building which appears abandoned. NL A plaque that has been torn free from a wall is on the floor. It reads, #b\"THE #bLIBRARY\". NL Inside, you find countless rows of scrolls, manuscripts, and books. NL You pick one and cozy yourself into a chair for some quiet time.",
-			"Reading is for chumps. NL You doze off in a comfy chair instead. NL ~Zzz...~ ~zzz...~ ~..Zz....~ NL You wake up feeling refreshed.",
-			"The story is about an insect-controlling teenage girl who aspires to become a hero. The book is filled with creative uses of powers, combat strategies, and varying perspectives. NL Satisfying.",
-			"The story is about a man who journeyed beyond the stars and found himself stuck on a desolate foreign planet. Ingenuity, luck, perseverance, and humor to retain his sanity were his tools to return home. NL Fascinating.",
-			"The story takes place in a giant isolated building underground as the outside conditions have become unbearable. The novel is mired with conspiracies, propaganda, and injustice. You ponder if similar dynamics are at play within the Spire. NL Unsettling."
+			"Ви знайшли вишукану будівлю, яка, здається занедбаною. NL На підлозі лежить дощечка, яка колись висіла на стіні. #b«#БІБЛІОТЕКА». NL Усередині, незліченна кількість звитків, рукописів та книг. NL Ви вибираєте одну книгу сідаєте в крісло для відпочинку.",
+			"Читання — для бовдурів. NL Натомість, ви сіли подрімати в зручному кріслі. NL ~ Хр-р-р...~ ~ хр-р...~ ~..хр-р-р....~ NL Ви прокидаєтеся з новими силами.",
+			"Історія стосується дівчини-підлітка, що контролює комах, прагнучи стати героєм. Книга наповнена творчими поривами, стратегіями боротьби та різними перспективами. NL Цікаво.",
+			"Історія про людину, яка подорожувала за зірки, та загубилась на спустошеній планеті. Витонченість, удача, наполегливість і гумор зберегли здоровий глузд та допомогли повернуться додому. NL Чарівно.",
+			"Історія відбувається в гігантській ізольованій будівлі під землею, оскільки зовнішні умови стали нестерпними. Роман спаплюжений змовами, пропагандою та несправедливістю. Ви розмірковуєте, можливо щось й схоже тут у Вежі. NL Зворушливо."
 	],
     "OPTIONS": [
-		"[Read] #gChoose #g1 #gof #g20 #gcards #gto #gadd #gto #gyour #gdeck.",
-			"[Sleep] #gHeal #g",
+		"[Читати] #gОбираєте #g1 #gз #g20 #gкарт #gщоб #gдодати #gдо #gВашої #gколоди.",
+			"[Дрімати] #gЗцілюєтесь на #g",
 			" #gОЗ.",
 			"[Покинути]",
-			"Add a card to your deck."	
+			"Додати карту до Вашої колоди."	
     ]
   },
   "The Mausoleum": {
-	"NAME": "The Mausoleum",
+	"NAME": "Мавзолей",
     "DESCRIPTIONS": [
-			"Venturing through a series of tombs, you are faced with a large sarcophagus ~studded~ ~with~ ~gems~ in the center of a circular room. NL You cannot make out the writing on the coffin, however, you do notice #p~black~ #p~fog~ seeping out from the sides.",
-			"You push open the coffin. As you do, #p~black~ #p~fog~ spews forth and covers the entire room! Inside, you find no body, only a #y~relic.~ You take it and move onwards, #r@coughing@ #r@violently.@",
-			"You push open the coffin. The fog dissipates harmlessly. Inside, you find the mortal remains of a decorated soldier grasping an old #yrelic. You pilfer it and move on.",
-			"You continue along your way, leaving the forgotten dead undisturbed."
+			"Мандруючи поміж могил, Ви знаходите великий саркофаг ~оздоблений~ ~самоцвітами~, у центрі круглої кімнати. NL Ви не можете розібратися напис, однак, помічаєте #p~чорний~ #p~туман~ витікаючий з труни.",
+			"Відкриваючи труну, #p~чорний~ #p~туман~ неочікувано охоплює усю кімнату! Всередині ви немає тіла, тільки #y~амулет.~ Ви берете його і йдете далі, #r@сильно@ #r@кахикаючи.@",
+			"Відкриваючи труну, туман безпечно розсіюється. Всередині ви знаходите залишки прикрашеного солдата, який тримає старий #yамулет. Підцапуючи амулет, Ви йдете далі.",
+			"Ви продовжуєте свій шлях, від гріха подалі."
 	],
     "OPTIONS": [
-			"[Open Coffin] #gReceive #ga #gRelic. #r",
-			"%: #rBecome #rCursed #r- #rWrithe.",
+			"[Відкрити труну] #gОтримати #gАмулет. #r",
+			"%: #rОтримати #rПрокляття #r- #rКорчизна.",
 			"[Покинути]"
     ]
   },  
   "Vampires": {
-	"NAME": "Vampires(?)",
+	"NAME": "Вампіри(?)",
     "DESCRIPTIONS": [
-			"Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~brother,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~",
-			"Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~sister,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~",
-			"The tall figure grabs your arm, pulls you forward, and sinks his fangs into your neck. You feel a @dark@ @force@ pour into your neck and @course@ through your body. NL ... NL You wake up some time later, alone. An intense ~hunger~ passes through your belly. You #rmust #rfeed...",
-			"You step back and raise your weapon in defiance. The tall figure sighs. \"Very well.\" The entire group of hooded figures morph into a густий чорний дим that flows away from you. NL You are alone once more.",
-			"The pale figures gasp as you take out the #yBlood #yVial. NL ~\"The~ ~master's~ ~blood...~ ~the~ ~master's~ ~blood!~ @THE@ @MASTER'S@ @BLOOD!\"@ NL They all chant fervently as the tall one bows before you. \" Drink from His blood, and become one with #y~Him.\"~ NL The chant growing louder, you consume the contents of the vial. Your vision immediately ~warps~ and fades to darkness. NL NL You wake up some time later, alone. An intense ~hunger~ passes through your belly. You #rmust #rfeed."
+			"Мандруючи неосвітленою вулицею, ви зустрічаєте декілька осіб з капюшонами посеред якогось темного обряду. Наближаючись, вони повертаються до вас одночасно. Найвищий серед них, з білими іклами протягає довгу, блідну руку у Ваш бік. NL ~«Приєднайся~ ~до~ ~нас~ ~брате,~ ~й~ ~відчуєш~ ~тепло~ ~Вежі.»~",
+			"Мандруючи неосвітленою вулицею, ви зустрічаєте декілька осіб з капюшонами посеред якогось темного обряду. Наближаючись, вони повертаються до вас одночасно. Найвищий серед них, з білими іклами протягає довгу, блідну руку у Ваш бік. NL ~«Приєднайся~ ~до~ ~нас~ ~сестро,~ ~й~ ~відчуєш~ ~тепло~ ~Вежі.»~",
+			"Висока особа хпатає Вашу руку, притягує вас ближче, і занурює свої ікла Вам у шию. Ви відчуваєте @темну@ @силу@ у шиї та тілі. NL ... NL Ви прокидаєтесь через певний час, сам-один, відчуваючи нестерпний ~голод~ у шлунку. #rМаю #rпоїсти...",
+			"Відступаючи, Ви готуєте свою зброю. Висока особа зітхає. «Зрозуміло...» Вся група осіб з капюшонами перетворюється у густий чорний дим випаровуючись. NL Ви знов наодинці.",
+			"Вийнявши #yФлакон #yкрові, бліді особи роззявили верші. NL ~«Кров~ ~митця...~кров~ ~митця!~ @КРОВ@ @МИТЦЯ!»@ NL Палко співаючи, високий вклоняється Вам. «Пий Його кров, й поєднайся з #y~Ним.»~ NL Під гучний спів, Ви ковтаєте вміст флакону. Ваш зір миттєво ~зникає~. NL NL Ви прокидаєтесь через певний час, сам-один, відчуваючи нестерпний ~голод~ у шлунку. #rМаю #rпоїсти..."
 	],
     "OPTIONS": [
-			"[Прийняти] #gRemove #gall #gStrikes. #gОтримуєте #g5 #gBites. #rВтрачаєте #r",
+			"[Прийняти] #gУсунути #gусі #gУдари. #gОтримуєте #g5 #gУкусів. #rВтрачаєте #r",
 			"% #rMax #rОЗ.",
 			"[Відмовити]",
 			"[Втрачаєте ",
-			"] #gRemove #gall #gStrikes. #gОтримуєте #g5 #gBites.",
+			"] #gУсунути #gусі #gУдари. #gОтримуєте #g5 #gУкусів.",
 			"[Покинути]"
     ]
   },
   "Ghosts": {
 	"NAME": "Рада духів",
     "DESCRIPTIONS": [
-			"Продовжуючи свій підйом, #p~густий~ #p~чорний~ #p~дим~ заповнює кімнату з землі і стін навколо Вас, зростаючись у три маскуванні особи, які починають базікати. NL NL ~\"Ще~ одна~ ~лялька~ #y~Няу,~ ~мені~ ~здається.\"~ NL #r@\"ПОГОДЖУЮСЬ!@ #r@ВОНА@ #r@ЗАВШЕ@ #r@РОБИТЬ@ #r@СОНЦЕЛИКІ@ #r@ЦЯЦІ!\"@ NL NL Ви помічаєте чималу посмішку у третьої особи. NL \"Не зважай на інших... Не хотів би спробувати злегка #y~сил~ наших?\" ",
+			"Продовжуючи свій підйом, #p~густий~ #p~чорний~ #p~дим~ заповнює кімнату з землі і стін навколо Вас, зростаючись у три маскуванні особи, які починають базікати. NL NL ~«Ще~ одна~ ~лялька~ #y~Няу,~ ~мені~ ~здається.»~ NL #r@«ПОГОДЖУЮСЬ!@ #r@ВОНА@ #r@ЗАВШЕ@ #r@РОБИТЬ@ #r@СОНЦЕЛИКІ@ #r@ЦЯЦІ!»@ NL NL Ви помічаєте чималу посмішку у третьої особи. NL «Не зважай на інших... Не хотів би спробувати злегка #y~сил~ наших?» ",
 			"",
-			"#y\"Відмінно!\" NL Розмовляючи, Ви помічаєте як посмішка примарної особи ширшає. #p~Густий~ #p~чорний~ #p~дим~ витікає з неї та огортає кімнату. Втрачаючи свідомість... NL NL Задихаючись... сенсація зникає. NL NL Чим би не була, та нечисть, вона вже зникнула. Ти продовжуєш подорож, почуваючи себе #bпустішим.",
-			"\"А жаль...\" NL ~\"Рано~ ~чи~ ~пізно~ ~ти~ ~все~ ~одно~ ~приєднаєшся~ ~до~ ~нас.\"~ NL #r@\"ХА@ #r@ХА@ #r@ХА@ #r@ХАХАХА!\"@ NL NL Примари зникають, лишаючи по собі дзвінкий сміх.",
+			"#y«Відмінно!» NL Розмовляючи, Ви помічаєте як посмішка примарної особи ширшає. #p~Густий~ #p~чорний~ #p~дим~ витікає з неї та огортає кімнату. Втрачаючи свідомість... NL NL Задихаючись... сенсація зникає. NL NL Чим би не була, та нечисть, вона вже зникнула. Ти продовжуєш подорож, почуваючи себе #bпустішим.",
+			"«А жаль...» NL ~«Рано~ ~чи~ ~пізно~ ~ти~ ~все~ ~одно~ ~приєднаєшся~ ~до~ ~нас.»~ NL #r@«ХА@ #r@ХА@ #r@ХА@ #r@ХАХАХА!»@ NL NL Примари зникають, лишаючи по собі дзвінкий сміх.",
 			""
 	],
     "OPTIONS": [
@@ -750,7 +750,7 @@
     "DESCRIPTIONS": [
 			"Мандруючи Вирієм, Ви помічаєте #bпалаючий #bтессеракт який @кружляє@ та повільно ~переміщається~ у повітрі.",
 			"Ви торкаєтеся його. NL NL #r@Нестерпний@ #r@біль@ охоплює Вас, а слідом яскраві спалахи давнезних спогадів. NL ...чиї ж це спогади?",
-			"#r~ЗЛЯК.~ NL NL Демонічна істота уроджується перед Вами, крила широко розкриті. Мертві тіла плем’я раптово оточують Вас, #p~темне~ #p~полум’я~ поглинаючи їх село. NL NL Демон кличе, роздразнюючи Вас. NL NL \" #r@ТИ@ #r@СПРАВДІ@ #r@ТЕПЕР@ #r@НАЙМІЦНІШИЙ!@ #r@Хаха..@ #r@ХЕХЕ...@ #r@ХАХАХААААХ!!@ \" NL NL Цей сміх відлунюється безкінечно... ",
+			"#r~ЗЛЯК.~ NL NL Демонічна істота уроджується перед Вами, крила широко розкриті. Мертві тіла плем’я раптово оточують Вас, #p~темне~ #p~полум’я~ поглинаючи їх село. NL NL Демон кличе, роздразнюючи Вас. NL NL « #r@ТИ@ #r@СПРАВДІ@ #r@ТЕПЕР@ #r@НАЙМІЦНІШИЙ!@ #r@Хаха..@ #r@ХЕХЕ...@ #r@ХАХАХААААХ!!@ » NL NL Цей сміх відлунюється безкінечно... ",
 			"#g~ПРОСВІТ.~ NL NL Останки, тієї #p~примарної~ #p~потвори,~ повільно занурюються у багно перед Вами, яке вже ледве видно у місячному сяйві. Ви проявили себе серед сестер. NL NL Стоячи у тиші, нездоланною, сестри урочисто одягають #yчереп #yзвіра Вам на голову. Обряд скінчився. NL NL Ви прямуєте до Вежі...",
 			"#b~НЕВІДОМЕ.~ NL NL Ще не реалізовано."
 	],
@@ -766,9 +766,9 @@
   "The Woman in Blue": {
 	"NAME": "Жіночка в блакитному",
     "DESCRIPTIONS": [
-			"Зненацька, рука з темряви затягує Вас у невеличку крамницю. Пристосовуючися до світла, Ви бачите бліду жіночку у блакитному одязі яка вказує на полицю з зіллям. NL \"Купи зілля. Негайно!\" мовила вона.",
-			"\"Лацно. А тепер цур відси.\" NL Ви обережно покидаєте крамницю.",
-			"#r@БУХ@ NL Її кулак цілує Ваше обличчя, сливе збиваючи Вас з ніг. NL \"Цур відси поки не засмітила підлогу твоїми кишками.\" Ви вірите їй та драпаєте відти з вашими кишками все ще у своєму тілі."
+			"Зненацька, рука з темряви затягує Вас у невеличку крамницю. Пристосовуючися до світла, Ви бачите бліду жіночку у блакитному одязі яка вказує на полицю з зіллям. NL «Купи зілля. Негайно!» мовила вона.",
+			"«Лацно. А тепер цур відси.» NL Ви обережно покидаєте крамницю.",
+			"#r@БУХ@ NL Її кулак цілує Ваше обличчя, сливе збиваючи Вас з ніг. NL «Цур відси поки не засмітила підлогу твоїми кишками.» Ви вірите їй та драпаєте відти з вашими кишками все ще у своєму тілі."
 	],
     "OPTIONS": [
 			"[Придбати 1 зілля] #y",
