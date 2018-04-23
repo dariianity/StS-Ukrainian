@@ -19,7 +19,7 @@
 			"[Обшукати] #gОтримуєте #ga #gRelic. #r75%: #rОтримати #rПрокляття #r- #rNormality.",
 			"[Покинути]",
 			"Choose a Card to Upgrade",
-			"[Заблоковано] Requires: Upgradeable Cards"
+			"[Заблоковано] Потребує: Upgradeable Cards"
     ]
   },
   "Bonfire Elementals": {
@@ -141,7 +141,7 @@
 			"[Благати] #gUpgrade #ga #gcard.",
 			"[Покинути]",
 			"Select a Card to Upgrade.",
-			"[Заблоковано] Requires: Upgradeable Cards"
+			"[Заблоковано] Потребує: Upgradeable Cards"
     ]
   },
   "Wheel of Change": {
@@ -181,11 +181,11 @@
     "OPTIONS": [
 			"[Продовжити]",
 			"[Приземлитись] #rВтрачаєте ",
-			"[Заблоковано] Requires: Skill Card",
+			"[Заблоковано] Потребує: Skill Card",
 			"[Channel] #rВтрачаєте ",
-			"[Заблоковано] Requires: Power Card",
+			"[Заблоковано] Потребує: Power Card",
 			"[Хватнути] #rВтрачаєте ",
-			"[Заблоковано] Requires: Attack Card",
+			"[Заблоковано] Потребує: Attack Card",
 			"[Покинути]"
     ]
   },
@@ -201,7 +201,7 @@
 			"[Jump Inside] #gHeal #gto #gfull #gОЗ. #rВтрачаєте #r",
 			" #rMax #rОЗ.",
 			"[Offer: Golden Idol] #gОтримати #g333 #gGold. #rВтрачаєте #rGolden #rIdol.",
-			"[Заблоковано] Requires: Golden Idol.",
+			"[Заблоковано] Потребує: Golden Idol.",
 			"[Покинути]"
     ]
   },
@@ -241,7 +241,7 @@
 	],
     "OPTIONS": [
 			"[Don the Red Mask] #gGain #g222 #gGold.",
-			"[Заблоковано] Requires: Red Mask.",
+			"[Заблоковано] Потребує: Red Mask.",
 			"[Offer: ",
 			" Gold] #rВтрачаєте #rall #rGold. #gGain #ga #gRelic.",
 			"[Покинути]"
@@ -292,12 +292,12 @@
 			"You don't trust this #b«Cleric», so you leave."
 	],
     "OPTIONS": [
-			"[Heal] #y35 #yGold: #gHeal #g",
-			"[Заблоковано] Requires: ",
+			"[Heal] #y35 #yЗолота: #gHeal #g",
+			"[Заблоковано] Потребує: ",
 			" Gold.",
 			"[Purify] #y",
-			" #yGold: #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-			"[Заблоковано] Requires: 50 Gold.",
+			" #yЗолота: #gRemove #ga #gcard #gfrom #gyour #gdeck.",
+			"[Заблоковано] Потребує: 50 Gold.",
 			"[Покинути]",
 			"Select a Card to Remove.",
 			" #gОЗ."
@@ -360,7 +360,7 @@
 			"[Destroy] #gGain #g",
 			" #g- #g",
 			" #gGold.",
-			"[Заблоковано] Requires: Card with ",
+			"[Заблоковано] Потребує: Card with ",
 			" or more damage.",
 			"[Покинути]",
 			"[Продовжити]",
@@ -413,7 +413,7 @@
 			"Choose a Card to Transform.",
 			"Choose a Card to Upgrade.",
 			"[Покинути]",
-			"[Заблоковано] Requires: Upgradeable Cards"
+			"[Заблоковано] Потребує: Upgradeable Cards"
     ]
   },
   "Mushrooms": {
@@ -471,7 +471,7 @@
 			"[Enter] #gUpgrade #g2 #grandom #gcards. #rВтрачаєте #r",
 			" #rОЗ.",
 			"[Покинути]",
-			"[Заблоковано] Requires: Upgradeable Cards"
+			"[Заблоковано] Потребує: Upgradeable Cards"
     ]
   },
   "Addict": {
@@ -483,11 +483,11 @@
 	],
     "OPTIONS": [
 			"[Offer Gold] #y",
-			" #yGold: #gОтримати #ga #gRelic.",
-			"[Заблоковано] Requires: ",
+			" #yЗолота: #gОтримати #ga #gRelic.",
+			"[Заблоковано] Потребує: ",
 			" Gold.",
 			"[Give JAX] #gОтримати #ga #gRelic. #rВтрачаєте #rJ.A.X.",
-			"[Заблоковано] Requires: J.A.X.",
+			"[Заблоковано] Потребує: J.A.X.",
 			"[Покинути] Ignore the addict.",
 			"[Покинути]"
     ]
@@ -516,8 +516,8 @@
 	],
     "OPTIONS": [
 			"[Offer Gold] #y",
-			" #yGold: #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-			"[Заблоковано] Requires: ",
+			" #yЗолота: #gRemove #ga #gcard #gfrom #gyour #gdeck.",
+			"[Заблоковано] Потребує: ",
 			" Gold.",
 			"[Продовжити]",
 			"[Покинути]",
@@ -556,113 +556,113 @@
 	],
     "OPTIONS": [
 			"[Pay] #y",
-			" #yGold: #gGet #gJAXXED.",
-			"[Заблоковано] Requires: ",
+			" #yЗолота: #gGet #gJAXXED.",
+			"[Заблоковано] Потребує: ",
 			" Gold.",
 			"[Покинути]",
 			"[Decline]"
     ]
   },
   "Forgotten Altar": {
-	"NAME": "Forgotten Altar",
+	"NAME": "Забутий вівтар",
     "DESCRIPTIONS": [
-			"In front of you sits an altar to a forgotten god. NL Atop the altar sits an ornate female statue with arms outstretched. NL She calls out to you, demanding sacrifice.",
-			"As you gently set the idol onto the altar a #bcold wind swirls throughout the room. NL The arms of the statue begin to discolor and crumble. NL NL Your #ygolden #yidol begins to dull in color and begins bleeding from its eyes. NL The bleeding never ceases.",
-			"You stand on the altar and cut your wrists. NL As the #rblood spills out in sacrifice, the arms of the statue reach out and close around your eyes. NL Everything goes dark. NL You wake up a short time later feeling a new potential surging through you.",
-			"You lash out and smash the statue in front of you, breaking the magical hold the room had placed upon you. NL A dark wail echoes all around you, and you can feel the #p~cursed~ #p~magic~ seep into your bones."
+			"Перед вами вівтар забутого бога. NL Над вівтарем сидить жіноча статуя з витягнутими руками. NL Вона закликає вас, вимагаючи жертви.",
+			"Помалу кладучи ідола на вівтар, #bхолодний вітер завихрив по кімнаті. NL Руки статуї руйнуються. NL NL Ваш #yзолотий #yідол втрачає колір та починає кровоточити з очей. NL Кровотеча ніколи не спиняючись.",
+			"Стояче на вівтарі Ви ріжете зап'ястя. NL Поки #rкров виливається з Вас, руки статуї простягаються до Вас, і закриває Вам очі. NL Усе темніє. NL Ви прокидаєтеся через деякий час, відчуваючи увесь новий потенціал.",
+			"Ви розбиваєте статую перед вами, руйнуючи чарівне заклинання. NL Темний стогін лунає навколо вас, і Ви відчуваєте #p~прокляту~ #p~магію~ проникаючи у Ваші кістки."
 	],
     "OPTIONS": [
-			"[Offer: Golden Idol] #gОтримати #ga #gspecial #gRelic. #rВтрачаєте #rGolden #rIdol.",
-			"[Заблоковано] Requires: Golden Idol.",
-			"[Sacrifice] #gGain #g",
-			" #gMax #gОЗ. #rВтрачаєте #r",
+			"[Запропонувати: Золотий ідол] #gОтримати #gамулет #gза #gподію. #rВтрачаєте #rЗолотий #rідол.",
+			"[Заблоковано] Потребує: Золотий ідол.",
+			"[Пожертвувати] #gОтримуєте #g",
+			" #gмакс. #gОЗ. #rВтрачаєте #r",
 			" #rОЗ.",
-			"[Заблоковано] Requires: Humanity.",
-			"[Desecrate] #rОтримати #rПрокляття #r- #rDecay."
+			"[Заблоковано] Потребує: Humanity.",
+			"[Осквернити] #rОтримати #rПрокляття #r- #rЗанепад."
     ]
   },
   "Knowing Skull": {
-	"NAME": "Knowing Skull",
+	"NAME": "Всезнаючий череп",
     "DESCRIPTIONS": [
-		"You find yourself in an old, decorated chamber. In the center of the room, a large skull sits atop an ornate pedestal. As you approach, the skull #g@bursts@ #g@into@ #g@flames@ and turns to face you.",
-			"«WHAT IS IT YOU SEEK? WHAT IS IT YOU OFFER?» NL In sync with its final words, the door behind you @slams@ @shut.@",
-			" NL NL «ANYTHING ELSE?»",
+		"Ви опиняєтесь у старій, прикрашеній камері. У центрі кімнати, великий череп сидить на витонченому постаменті. Наближаючись, череп #g@вибухає@ #g@у@ #g@полум'ї@ і повернеться до вас.",
+			"«ЩО ТОБІ ТРЕБА? ЩО ТИ ПРОПОНУЄШ МЕНІ?» NL З останніми словами, двері позаду Вас @закриваються.@",
+			" NL NL «ЩЕ ЩО-НЕБУДЬ?»",
 			" ",
-			"«DRINK UP!» NL You Отримуєте a potion.",
-			"«PERHAPS THIS WILL HELP?» NL You Отримуєте a card.",
-			"«YOU MORTALS NEVER CHANGE. IT IS DONE.» NL #yGold rains down on you!",
-			"«BEHIND YOU, MORTAL.» NL You peek behind the skull. Surely enough, there is a door."	
+			"«ПИЙ!» NL Ви Отримуєте одне зілля.",
+			"«МОЖЛИВО ОСЬ ЦЕ ДОПОМОЖЕ?» NL Ви Отримуєте карту.",
+			"«ВИ СМЕРТНІ НІКОЛИ НЕ ЗМІНЮЄТЕСЯ. ЛАДНО.» NL #yЗолото дощить над Вами!",
+			"«ПОЗАДУ, СМЕРТНИЙ.» NL Ви заглядає позад черепа. Звичайно ж, є двері."	
 	],
     "OPTIONS": [
 			"[Продовжити]",
 			" #rОЗ.",
-			"[Information?] #gReveal #gthe #gBoss. #rВтрачаєте #r",
-			"[Success?] #gGet #ga #gColorless #gCard. #rВтрачаєте #r",
-			"[A Pick Me Up?] #gGet #ga #gPotion. #rВтрачаєте #r",
-			"[Riches?] #gGain #g",
-			" #gGold. #rВтрачаєте #r",
-			"[How do I leave?] #rВтрачаєте #r",
+			"[Довідка?] #gВиявляє #gКнязя. #rВтрачаєте #r",
+			"[Успіх?] #gОтримуєте #gбезбарвну #gкарту. #rВтрачаєте #r",
+			"[Збудження?] #gОтримуєте #gзілля. #rВтрачаєте #r",
+			"[Добробут?] #gОтримуєте #g",
+			" #yЗолота. #rВтрачаєте #r",
+			"[Як се покинути?] #rВтрачаєте #r",
 			"[Покинути]"
     ]
   },
   "Masked Bandits": {
-	"NAME": "Masked Bandits",
+	"NAME": "Замасковані розбійники",
     "DESCRIPTIONS": [
-			"Hehehe.. Thanks for the #ygold! NL Oh, I love #ygold. It's so nice. NL #y~shiny~ #y~shiny~ chits they are!",
-			"Hey #bBear, hey! NL This guy gave us all his #ygold! What a sucker, right? NL Get this, I just had to ask nicely. Who knew?! NL I certainly didn't! What a chump!",
-			"Gang, let's all have a laugh for this wondrous occasion! NL @Hahaah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
-			"Oh? You're still here? NL Did you overhear something? Didn't think so. NL #r@*snerk*@ ~...loser....~ @Hahaha@ ~haaah~",
-			"You encounter a group of bandits wearing large #rred #rmasks. NL «Hello, pay up to pass... a reasonable fee of @ALL@ your #ygold will do! Heh heh!»"
+			"Хехехе.. Вельми вдячний за #yзолото! NL Люблю я #yзолото. Гарненьке таке. NL #y~блискуче~ #y~блискуче!~",
+			"Агов #bВедмідь, гей! NL Цей This хлопак дав нам усе своє #yзолото! Який сисунець, та? NL Вдумайся, я просто ввічливо запитав. Хто б подумав?! NL Я, звичайно ж ні! Який се бовдур!",
+			"Бандо, най всі посміємося над цією дивовижною подією! NL @Хахахаа@ NL @Хо@ @ХОХ@ ~хохо!~ NL ~Хох!~",
+			"Ох? Ти ще тут? NL Щось підслухав? Не думав. NL #r@*пирхаючи*@ ~...невдаха....~ @Хахаха@ ~хааах~",
+			"Ви зустрічаєте групу бандитів у #rчервоних #rмасках. NL «Добридень, плати щоб пройти... розумна ціна - @УСЬОГО@ твого #yзолота! Хех хех!»"
 	],
     "OPTIONS": [
-			"[Pay] #rВтрачаєте #rALL of your #yGold.",
-			"[Fight!]",
+			"[Заплатити] #rВтрачаєте #rУСЕ #yЗолото.",
+			"[Битися!]",
 			"[Продовжити]",
 			"[Покинути]"
     ]
   },
   "Spire Heart": {
-	"NAME": "Spire Heart",
+	"NAME": "Серце Вежі",
     "DESCRIPTIONS": [
-			"@tu-thump@ ... @tu-thump@ ... @tu-thump@ ... NL A deep pulsing dread can be felt throughout the room... NL Is this the #r~heart~ of the Spire? The source of this evil?",
-			"You deal #b",
-			" damage! NL The heart #r@squirms@ and #r~bleeds~ ...but is ultimately still pounding. NL Are your mightiest attacks not enough?",
-			"You ask yourself, ~«Have~ ~I~ ~been~ ~here~ ~before?»~ NL You feel that you have dealt a total of #b",
-			" damage to the heart.",
-			" NL A total of #b",
-			" damage has been dealt by all who have challenged it.",
-			" NL The heart pulses louder and louder as your #y~consciousness~ #y~fades...~",
-			"NL You ready your blade...",
-			"NL You prepare your daggers...",
-			"NL You charge your core to its maximum..."
+			"@ту-дум@ ... @ту-дум@ ... @ту-дум@ ... NL Глибокий пульсуючий страх відчувається у всій кімнаті... NL Чи це #r~серце~ Вежі? Джерело усього зла?",
+			"Ви наносите #b",
+			" шкоди! NL Серце #r@корчитися@ та #r~кровоточить~ ...але все ще б’ється. NL Невже Ваших найпотужніших атак недостатньо?",
+			"Ви питаєте себе, ~«Чи~ ~був~ ~я~ ~тут~ ~раніше?»~ NL Ви відчуваєте, що ви справили в цілому #b",
+			" шкоди серцю.",
+			" NL В цілому #b",
+			" шкоди було нанесено усіма гравцями.",
+			" NL Серце б’є гучніше з кожним вдаром, як Ви #y~втрачаєте~ #y~свідомість...~",
+			"NL Ви готуєте своє лезо...",
+			"NL Ви готуєте свої кинджали...",
+			"NL Ви готуєтеся подумки..."
 	],
 	"OPTIONS": [
 			"[Продовжити]",
-			"[Attack] #b???",
-			"[Sleep]"
+			"[Атакувати] #b???",
+			"[Спати]"
     ]
   },
   "The Joust": {
 	"NAME": "Поєдинок",
     "DESCRIPTIONS": [
 			"Проходячи повз високих будівель, Ви натрапляєте на довгий вузький міст з двома лицарями по кожен бік. Підходячи... NL @«Стій!»@ NL NL Лицар жестом зупиняє Вас.",
-			"«Today is the day I must settle the score with the #rmurderer of my beloved pet, #yNoodles. Until then, you may not pass. NL NL Fellow witness, why don't you #bbet on who you think will emerge victorious?»",
-			"«I can't believe you're betting against #yNoodles!» NL NL Furious, he clamps down his helmet and rushes towards his nemesis.",
-			"«Give me strength, #yNoodles!» NL NL Clamping down his helmet, the knight charges forward.",
-			"NL #y@*CRASH!!!*@ #r@*KLAAAANG!*@ NL NL #g@*POW!*@",
-			"The nemesis was slain. NL NL ",
-			"The owner died. NL NL ",
-			"You #gwin the bet. Unsure what to think, you grab your winnings and leave.",
-			"You #rlost the bet, but at least you weren't gouged by a lance."
+			"«Сьогодні, я розрахуюсь з #rвбивцею мого улюбленого домашнього мазуна, #yСніжок. До того, ти не пройдеш. NL NL Шановний спостерігач, чому б не поставити #bставку на того хто думаєш, виграє?»",
+			"«Не можу повірити, що ти поставив проти #yСніжка!» NL NL Злий, одягаючи шолом він кидається у бік супротивника.",
+			"«Дай силу мені, #yСніжок!» NL NL Одягаючи шолом він кидається у бік супротивника.",
+			"NL #y@*ГРУХ!!!*@ #r@*КЛААНҐ!*@ NL NL #g@*БУМ!*@",
+			"Противник був убитий. NL NL ",
+			"Власник був убитий. NL NL ",
+			"Ви #gвиграєте ставку. Не впевнені, що сталося, Ви забираєте свій виграш та йдете далі.",
+			"Ви #rпрограєте ставку, принаймні Вас не шпирнули у груди."
 	],
     "OPTIONS": [
 			"[Продовжити]",
-			"[Murderer] #yBet #y",
-			" #yGold - #g70%: #gwin #g",
-			" #gGold.",
-			"[Owner] #yBet #y",
-			" #yGold - #g30%: #gwin #g",
-			"[Watch]",
+			"[Вбивця] #yПоставити #y",
+			" #yЗолота - #g70%: на #gвиграш #g",
+			" #gЗолота.",
+			"[Власник] #yПоставити #y",
+			" #yЗолота - #g30%: на #gвиграш #g",
+			"[Глипати]",
 			"[Покинути]"
     ]
   },
@@ -700,9 +700,9 @@
   "Vampires": {
 	"NAME": "Вампіри(?)",
     "DESCRIPTIONS": [
-			"Мандруючи неосвітленою вулицею, ви зустрічаєте декілька осіб з капюшонами посеред якогось темного обряду. Наближаючись, вони повертаються до вас одночасно. Найвищий серед них, з білими іклами протягає довгу, блідну руку у Ваш бік. NL ~«Приєднайся~ ~до~ ~нас~ ~брате,~ ~й~ ~відчуєш~ ~тепло~ ~Вежі.»~",
-			"Мандруючи неосвітленою вулицею, ви зустрічаєте декілька осіб з капюшонами посеред якогось темного обряду. Наближаючись, вони повертаються до вас одночасно. Найвищий серед них, з білими іклами протягає довгу, блідну руку у Ваш бік. NL ~«Приєднайся~ ~до~ ~нас~ ~сестро,~ ~й~ ~відчуєш~ ~тепло~ ~Вежі.»~",
-			"Висока особа хпатає Вашу руку, притягує вас ближче, і занурює свої ікла Вам у шию. Ви відчуваєте @темну@ @силу@ у шиї та тілі. NL ... NL Ви прокидаєтесь через певний час, сам-один, відчуваючи нестерпний ~голод~ у шлунку. #rМаю #rпоїсти...",
+			"Мандруючи неосвітленою вулицею, ви зустрічаєте декілька осіб з капюшонами посеред якогось темного обряду. Наближаючись, вони повертаються до Вас одночасно. Найвищий серед них, з білими іклами протягає довгу, блідну руку у Ваш бік. NL ~«Приєднайся~ ~до~ ~нас~ ~брате,~ ~й~ ~відчуєш~ ~тепло~ ~Вежі.»~",
+			"Мандруючи неосвітленою вулицею, ви зустрічаєте декілька осіб з капюшонами посеред якогось темного обряду. Наближаючись, вони повертаються до Вас одночасно. Найвищий серед них, з білими іклами протягає довгу, блідну руку у Ваш бік. NL ~«Приєднайся~ ~до~ ~нас~ ~сестро,~ ~й~ ~відчуєш~ ~тепло~ ~Вежі.»~",
+			"Висока особа хпатає Вашу руку, притягує Вас ближче, і занурює свої ікла Вам у шию. Ви відчуваєте @темну@ @силу@ у шиї та тілі. NL ... NL Ви прокидаєтесь через певний час, сам-один, відчуваючи нестерпний ~голод~ у шлунку. #rМаю #rпоїсти...",
 			"Відступаючи, Ви готуєте свою зброю. Висока особа зітхає. «Зрозуміло...» Вся група осіб з капюшонами перетворюється у густий чорний дим випаровуючись. NL Ви знов наодинці.",
 			"Вийнявши #yФлакон #yкрові, бліді особи роззявили верші. NL ~«Кров~ ~митця...~кров~ ~митця!~ @КРОВ@ @МИТЦЯ!»@ NL Палко співаючи, високий вклоняється Вам. «Пий Його кров, й поєднайся з #y~Ним.»~ NL Під гучний спів, Ви ковтаєте вміст флакону. Ваш зір миттєво ~зникає~. NL NL Ви прокидаєтесь через певний час, сам-один, відчуваючи нестерпний ~голод~ у шлунку. #rМаю #rпоїсти..."
 	],
