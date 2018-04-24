@@ -112,7 +112,7 @@
 			"You ignore the shrine."
 	],
     "OPTIONS": [
-			"[Благати] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
+			"[Благати] #gУсуньте #gкарту #gз #gколоди.",
 			"[Покинути]",
 			"Select a Card to Remove."
     ]
@@ -162,7 +162,7 @@
 			"[Виграш!] #gGain #ga #gRelic.",
 			"[Виграш!] #gHeal #gto #gfull #ghealth.",
 			"[Виграш?] #rCurse #r- #rDecay.",
-			"[Виграш!] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
+			"[Виграш!] #gУсуньте #gкарту #gз #gколоди.",
 			"[Виграш?] #rВтрачаєте #r",
 			" #rОЗ.",
 			"[Покинути]",
@@ -296,7 +296,7 @@
 			"[Заблоковано] Потребує: ",
 			" Gold.",
 			"[Purify] #y",
-			" #yЗолота: #gRemove #ga #gcard #gfrom #gyour #gdeck.",
+			" #yЗолота: #gУсуньте #gкарту #gз #gколоди.",
 			"[Заблоковано] Потребує: 50 Gold.",
 			"[Покинути]",
 			"Select a Card to Remove.",
@@ -355,7 +355,7 @@
 			"The statue makes you feel ~uneasy.~ You walk past and continue onward."
 	],
     "OPTIONS": [
-			"[Благати] #gRemove #ga #gcard #gfrom #gyour #gdeck. #rВтрачаєте #r",
+			"[Благати] #gУсуньте #gкарту #gз #gколоди. #rВтрачаєте #r",
 			" #rОЗ.",
 			"[Destroy] #gGain #g",
 			" #g- #g",
@@ -432,135 +432,135 @@
     ]
   },
   "N'loth": {
-	"NAME": "N'loth",
+	"NAME": "Нлот",
     "DESCRIPTIONS": [
-			"An odd creature with a hunched back sprouting several tentacles is scrounging through a pile of trash and debris in front of you. As you approach, he shuffles towards you in a non-threatening manner. NL «N'loth hungry. Feed N'loth.»",
-			"Holding the #yrelic out towards him, N’loth snatches it out of your hand with his tentacles, dislocates his jaw, and slurps down your offer in one quick gulp. NL He gives you a large, toothy grin as more tentacles appear from behind his cloak, these ones brandishing an impossibly neat looking box. He pushes it towards you until you take it.",
-			"You shake your head. N'loth hunches even further and sighs, then scuttles away."
+			"Надзвичайна істота зі згорбленою спиною, що проростає щупальцями, риється у купі сміття перед вами. Наближаючись, він повертається до вас, та не загрожуючи каже NL «Нлот голодний. Годуй Нлот.»",
+			"Простягаючи #yамулет до нього, Нлот вихоплює його з Ваших рук, своїми щупальцями, й поглинає Ваш дарунок одним швидким ковтком. NL Усміхаючись, з-під його плаща з'являються більше щупальця, які утримують неможливо акуратну пакунок. Він штовхає його до вас, допоки ви візьмете його.",
+			"Ви трясте головою. Нлот, згорбившись ще більше, зітхає, й поспішно продовжує ритися."
 	],
     "OPTIONS": [
-			"[Offer: ",
-			"] #rВтрачаєте #rthis #rrelic. #gGain #ga #gnew #gspecial #grelic.",
+			"[Запропонувати: ",
+			"] #rВтрачаєте #rцей #rамулет. #gОтримуєте #gновий #gособливий #gамулет.",
 			"[Покинути]"
     ]
   },
   "Scrap Ooze": {
-	"NAME": "Scrap Ooze",
+	"NAME": "Зламослиз",
     "DESCRIPTIONS": [
-			"As you walk into the room you hear a ~gurgling~ and the @grinding@ of metals. Before you is a slime-like creature that ate too much scrap for its own good. From the center of the creature you see glints of strange light, perhaps something magical? It looks like you can get some #ytreasure if you just reach inside its... opening. However, the acid and sharp objects may #rhurt.",
-			"#r@Ouch!@ NL All you find is corroded metal and a bit of #r@burning@ #r@pain.@ NL However, you're still convinced there's a #yrelic...",
-			"#gSuccess! NL After rummaging through the metal and burning acid, you finally grab hold of a #yrelic and yank it out. NL You pull your way out of the ooze #rdamaged but rewarded.",
-			"You decide to leave the area. NL The slime pays no attention, content with its meal."
+			"Заходячи у кімнату, Ви чуєте ~бульки~ та @молотіння@ металу. Перед вами, слиз який з’їв занадто брухту для власного блага. По центру потвори ви бачите блискавки дивного світла, може щось магічне? Схоже, є шанс отримати трохи #yскарбів, якщо просто протягнутися у нього... Однак, з кислотою та гострими предметами, буде #rболяче.",
+			"#r@Йой!@ NL Все, що ви знайшли - іржавий метал та трохи #r@болю.@ NL Однак ви все ще переконані, що там є #yамулет...",
+			"#gУспіх! NL Розкопуючи іржавий метал та кислоту, ви, нарешті, знаходите #yамулет. NL Ви випливаєте зі слизу #rушкодженим та обдарованим.",
+			"Ви вирішили покинути місцевість. NL Слиз не приділяє вам, задоволений їжею."
 	],
     "OPTIONS": [
-			"[Reach Inside] #rВтрачаєте #r",
+			"[Протягнутися усередину] #rВтрачаєте #r",
 			" #rОЗ. #g",
-			"%: #gFind #ga #gRelic.",
+			"%: #gЗнайти #gамулет.",
 			"[Покинути]",
-			"[Deeper] #rВтрачаєте #r"
+			"[Глибше] #rВтрачаєте #r"
     ]
   },
   "Shining Light": {
-	"NAME": "Shining Light",
+	"NAME": "Сяюче світло",
     "DESCRIPTIONS": [
-			"You find a shimmering #ymass #yof #ylight encompassing the center of the room. NL NL Its ~warm~ ~glow~ and ~enchanting~ ~patterns~ invite you in.",
-			"As you walk through the light, you notice that the light is absorbed into you. NL It's #r@scorching@ #r@hot@ ! However, the pain quickly recedes. NL You feel #binvigorated, as though you received a well deserved slap.",
-			"You walk around it, wondering what could have been."
+			"Ви знаходите мерехтливу #yмасу #yсвітла, що охоплює центр кімнати. NL NL Його ~тепле~ ~сяйво,~ та ~чарівні~ ~візерунки~ зазивають Вас ближче.",
+			"Проходячи крізь світло, ви помічаєте, що світло поглинулося у вас. NL Воно #r@вбивчо@ #r@гаряче@ ! Однак біль швидко убуває. NL Ви почуваєтесь #bпідбадьореним, так ніби отримали належний ляпас.",
+			"Гуляючи навколо, Ви гадаєте що то було."
 	],
     "OPTIONS": [
-			"[Enter] #gUpgrade #g2 #grandom #gcards. #rВтрачаєте #r",
+			"[Зайти] #gПоліпшіть #g2 #gвипадкові #gкарти. #rВтрачаєте #r",
 			" #rОЗ.",
 			"[Покинути]",
-			"[Заблоковано] Потребує: Upgradeable Cards"
+			"[Заблоковано] Усі карти вже поліпшені"
     ]
   },
   "Addict": {
-	"NAME": "Addicted",
+	"NAME": "Залежний",
     "DESCRIPTIONS": [
-			"As you attempt to sneak past a group of shrouded figures, a naked, red-skinned man approaches you. NL «Got any #yJ.A.X., friend? I got the @shakes@ bad! Please... maybe some #yCoin?» NL He seems delusional, but harmless.",
-			"«Oh yes, ~yes!~ Here here, a fair trade!»",
-			"The addict throws a loud tantrum, screaming and cursing at you. NL You escape before drawing unwanted attention."
+			"Намагаючись прокрастись через товпу людей, голий, червоношкірий чоловік підходить до Вас. NL «Чи є у тебе трохи #yМ.І.Ч.-і, друже? У мене вже все @здригається@! Будь ласка... може #yЗолото?» NL Він здається маревним, та нешкідливим.",
+			"«О ТА, ~Так!~ Ось ось, справедливий обмін!»",
+			"Наркоман кидається, кричить й проклинає вас. NL Ви втікаєте, не приваблюючи уваги."
 	],
     "OPTIONS": [
-			"[Offer Gold] #y",
-			" #yЗолота: #gОтримати #ga #gRelic.",
+			"[Запропонувати Золото] #y",
+			" #yЗолота: #gОтримати #gамулет.",
 			"[Заблоковано] Потребує: ",
-			" Gold.",
-			"[Give JAX] #gОтримати #ga #gRelic. #rВтрачаєте #rJ.A.X.",
-			"[Заблоковано] Потребує: J.A.X.",
-			"[Покинути] Ignore the addict.",
+			" Золота.",
+			"[Віддати М.І.Ч.] #gОтримати #gамулет. #rВтрачаєте #rМ.І.Ч.",
+			"[Заблоковано] Потребує: М.І.Ч.",
+			"[Покинути] Ігнорувати наркомана.",
 			"[Покинути]"
     ]
   },
   "Back to Basics": {
-	"NAME": "Ancient Writing",
+	"NAME": "Стародавнє письмо",
     "DESCRIPTIONS": [
-			"Scaling the city, you notice a wall covered in the writing of #y~Ancients.~ As you try to wrap your head around what the puzzling symbols and glyphs could mean, the writing begins to #b~glow.~ NL Suddenly, the message becomes clear...",
-			"The answer was elegance. NL Of course.",
-			"The truth is always simple."
+			"Приходячи містом, ви помічаєте стіну, вкриту писемність #y~Древніх.~ Намагаючись зрозуміти що ті загадкові символи означають, та писемність починає #b~сяяти.~ NL Раптом, усе стає зрозумілим...",
+			"Відповідь - вишуканість. NL Авжеж!",
+			"Правда завжди проста."
 	],
     "OPTIONS": [
-			"[Elegance] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-			"[Simplicity] #gUpgrade #gall #gStrikes #gand #gDefends.",
-			"Select a Card to Remove.",
+			"[Вишуканість] #gУсуньте #gкарту #gз #gколоди.",
+			"[Простота] #gПоліпшіть #gусі #gУдари #gта #gЗахисти.",
+			"Оберіть та усуньте карту.",
 			"[Покинути]"
     ]
   },
   "Beggar": {
-	"NAME": "Old Beggar",
+	"NAME": "Старий безхатько",
     "DESCRIPTIONS": [
-			"An old beggar cloaked in fur reaches his hands out towards you as you pass. «Spare some coin, child?»",
-			"The beggar looks to the floor as you pass. NL «You will never make a difference... You never do.»",
-			"The beggar takes off its cloak to reveal that he is #bCleric! NL @«You@ @are@ @a@ @kind@ @soul.@ @Receive@ @my@ @purification!»@ he screams. NL You are unsure if he is grateful or mad.",
-			"@«I@ @hope@ @you@ @do@ @better@ @this@ @time,@ @friend!»@ he shouts. NL Wondering what was implied by this, you push forward."
+			"Старий жебрак, одягнений у хутро, простягається до Вас, як ви проходите. «Допоможи старому, хлопчино?»",
+			"Проходячи, жебрак повертається у підлогу. NL «Ти ніколи не зміниш світ... ніколи.»",
+			"Жебрак знімає свій плащ, та показується #bЦерковником! NL @«У@ @тебе@ @добра@ @душа.@ @Отримай@ @моє@ @благословіння!»@ закричав церковник. NL Ви не впевнені, бути вдячним чи сердитим.",
+			"@«Я@ @сподіваюсь,@ @ти@ @зробиш@ @краще@ @у@ @сей@ @час,@ @друже!»@ закричав він. NL Гадаючи, що він мав до уваги, Ви йдете вперед."
 	],
     "OPTIONS": [
-			"[Offer Gold] #y",
-			" #yЗолота: #gRemove #ga #gcard #gfrom #gyour #gdeck.",
+			"[Запропонувати Золото] #y",
+			" #yЗолота: #gУсуньте #gкарту #gз #gколоди.",
 			"[Заблоковано] Потребує: ",
-			" Gold.",
+			" Золото.",
 			"[Продовжити]",
 			"[Покинути]",
-			"Select a Card to Remove."
+			"Оберіть та усуньте карту."
     ]
   },  
   "Cursed Tome": {
-	"NAME": "Cursed Tome",
+	"NAME": "Проклятий Том",
     "DESCRIPTIONS": [
-			"In an abandoned temple, you find a giant book, open, riddled with #p@cryptic@ #p@writings.@ NL NL As you try to interpret the elaborate script, it begins to #b~shift~ and #b~morph~ into writing you are familiar with.",
-			"Odd. The book seems to be about an #yAncient named #yNeow. NL NL This piques your interest, but you have a general feeling of #p~malaise.~",
-			"The Ancient of Resurrection, #yNeow, was exiled to the bottom of the Spire. NL NL You feel compelled to read more, but your body begins to #r~ache.~",
-			"Seeking vengeance, #yNeow blesses outsiders, using them for her own purposes. NL NL You are starting to feel very #r~weak~ #r~and~ #r~tired...~",
-			"Those resurrected by #yNeow remember only fragments of their past selves, cursed to fight for eternity. NL NL As you near the final page, your #r@old@ #r@wounds@ #r@begin@ #r@to@ #r@reopen!@",
-			"Upon finishing the tome, you decide to take it with you. With proof in hand, will you retain your memories?",
-			"You exit, feeling a #p~dark~ #p~energy~ #p~emanating~ from the book on the pedestal.",
-			"With incredible strain and willpower, you resist the trance of the tome and @SLAM@ it shut. NL You turn and exit the temple, feeling #b~drained...~"
+			"У занедбаному храмі ви знаходите здоровенну книгу, відкриту, заповнену #p@загадковими@ #p@творами.@ NL NL Намагаючись вбагнути складні твори, воно починає #b~ворушитись~ та #b~змінюватися~ у щось Вам знайоме.",
+			"Дивно. Книга здається оповідає про #yДревнього за ім’ям #yНяу. NL NL Це Вас зацікавило, однак Ви почуваєтесь вельми #p~слабо.~",
+			"Древній воскресіння, #yНяу, була заслана до долу вежі. NL NL Ви мусите читати далі, але ваше тіло починає #r~щеміти.~",
+			"Шукаючи помсту, #yНяу благословляє чужих, використовуючи їх для своїх цілей. NL NL Ви починаєте відчувати себе дуже #r~слабким~ #r~та~ #r~втомленим...~",
+			"Ті, відродженні #yНяу, пам'ятають лише фрагменти свого минулого, прокляті, щоб битися вічно. NL NL Дочитуючи останню сторінку, Ваші #r@старі@ #r@рани@ #r@починають@ #r@відкриватися!@",
+			"Закінчивши, ви рішаєте взяти його з собою. У доказах в руках, Ви збережете свої пам'ять?",
+			"Виходячи, Ви відчуваєте #p~темну~ #p~енергію~ #p~яка~ #p~випромінюється~ з книги на підмурів'ї.",
+			"З неймовірною силою волі, пручаючися трансу тома, Ви @ХЛОП@ й закрили книгу. NL Обертаючись, Ви виходите з храму, #b~виснаженим...~"
 	],
     "OPTIONS": [
-			"[Read]",
+			"[Читати]",
 			"[Продовжити] #rВтрачаєте #r1 #rОЗ.",
 			"[Продовжити] #rВтрачаєте #r2 #rОЗ.",
 			"[Продовжити] #rВтрачаєте #r3 #rОЗ.",
-			"[Stop] #rВтрачаєте #r3 #rОЗ.",
-			"[Take] #gОтримуєте #gthe #gBook. #rВтрачаєте #r",
+			"[Зупинитись] #rВтрачаєте #r3 #rОЗ.",
+			"[Взяти] #gОтримуєте #gКнигу. #rВтрачаєте #r",
 			" #rОЗ.",
 			"[Покинути]"
     ]
   },
   "Drug Dealer": {
-	"NAME": "J.A.X. Dealer",
+	"NAME": "М.І.Ч. Торговець",
     "DESCRIPTIONS": [
-			"A man with an eyepatch and a devilish grin casually strides up to you. NL «Hey there stranger. Interested in some #yJ.A.X.? It'll make you stronger than any training or blessing. You're gonna need it if you're one of those heroes with a death wish. NL Whad'ya say? Wanna get #yJAXXED?» NL ",
-			"~«Excellent.»~ NL The man hands over a dangerous looking syringe filled with glowing liquid before skulking off into a shadowy alleyway.",
-			"«No matter, there's always the next one...» NL The man saunters away."
+			"Чоловік з піратською пов’язкою й диявольською посмішкою наближується до Вас. NL «Агов, зайда. Чи цікавить Вас трохи #yМ.І.Ч.-і? Воно зробить вас сильніше, ніж будь-яке там тренування чи благословіння. Тобі бде потрібне, якщо ти один з тих „героїв“, з бажанням смерті. NL Що мі скажеш? Хочеш #yЗМІЧНІТИ?» NL ",
+			"~«Чудово.»~ NL Чоловік передає Вам небезпечну на вигляд шприцу, наповнену сяючою рідиною, зникаючи у темну алею.",
+			"«Все одно, завжди є інший...» NL Повернувшись, він втупив у темну алею."
 	],
     "OPTIONS": [
-			"[Pay] #y",
-			" #yЗолота: #gGet #gJAXXED.",
+			"[Заплатити] #y",
+			" #yЗолота: #gЗМІЧНІШАТИ.",
 			"[Заблоковано] Потребує: ",
-			" Gold.",
+			" Золота.",
 			"[Покинути]",
-			"[Decline]"
+			"[Відмовити]"
     ]
   },
   "Forgotten Altar": {
@@ -572,7 +572,7 @@
 			"Ви розбиваєте статую перед вами, руйнуючи чарівне заклинання. NL Темний стогін лунає навколо вас, і Ви відчуваєте #p~прокляту~ #p~магію~ проникаючи у Ваші кістки."
 	],
     "OPTIONS": [
-			"[Запропонувати: Золотий ідол] #gОтримати #gамулет #gза #gподію. #rВтрачаєте #rЗолотий #rідол.",
+			"[Запропонувати: Золотий ідол] #gОтримати #gособливий #gамулет. #rВтрачаєте #rЗолотий #rідол.",
 			"[Заблоковано] Потребує: Золотий ідол.",
 			"[Пожертвувати] #gОтримуєте #g",
 			" #gмакс. #gОЗ. #rВтрачаєте #r",
