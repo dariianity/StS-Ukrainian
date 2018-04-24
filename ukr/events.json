@@ -400,34 +400,34 @@
     ]
   },  
   "Living Wall": {
-	"NAME": "Living Wall",
+	"NAME": "Жива стіна",
     "DESCRIPTIONS": [
-			"As you come to a dead-end and begin to turn around, walls @slam@ @down@ from the ceiling, trapping you! NL NL Three faces materialize from the walls and speak. NL #b«Forget #bwhat #byou #bknow, #band #bI'll #blet #byou #bgo.» NL #p«I #prequire #pchange #pto #psee #pa #pnew #pspace.» NL #y«If #yyou #ywant #yto #ypass #yme, #ythen #yyou #ymust #ygrow.»",
-			"Satisfied, the walls in front of you merge back into the ceiling, leaving a path forward."
+			"Мандруючи, Ви заходите до тупика. Обертаючись, стіни @захлопуються@, наче заманюючи Вас у пастку! NL NL Три обличчя утворилися у стіні й говорять. NL #b«Забудь #bусе #bщо #bзнаєш, #bі #bя #bдам #bтобі #bпройти.» NL #p«Я #pвимагаю #pзмін, #pщоб #pпобачити #pпростір.» NL #y«Як #yбажаєш #yпройти, #yто #yмаєш #yзрости.»",
+			"Задоволені, стіни перед вами зливаються назад у стелю, відкриваючи шлях перед Вами."
 	],
     "OPTIONS": [
-			"[Forget] #gRemove #ga #gcard #gin #gyour #gdeck.",
-			"[Change] #gTransform #ga #gcard #gin #gyour #gdeck.",
-			"[Grow] #gUpgrade #ga #gcard #gin #gyour #gdeck.",
-			"Select a Card to Remove.",
-			"Choose a Card to Transform.",
-			"Choose a Card to Upgrade.",
+			"[Забути] #gУсунути #gкарту #gу #gколоді.",
+			"[Змінитися] #gПеретворити #gкарту #gу #gколоді.",
+			"[Рости] #gПоліпшити #gкарту #gу #gколоді.",
+			"Оберіть та усуньте карту.",
+			"Оберіть та перетворіть карту.",
+			"Оберіть та поліпшіть карту.",
 			"[Покинути]",
-			"[Заблоковано] Потребує: Upgradeable Cards"
+			"[Заблоковано] Усі карти вже поліпшені"
     ]
   },
   "Mushrooms": {
-	"NAME": "Mushrooms",
+	"NAME": "Гриби",
     "DESCRIPTIONS": [
-			"You give in to the unnatural desire to eat. As you consume mushroom after mushroom, you feel yourself entering into a daze and pass out. As you awake, you feel very odd. NL You #gHeal #b25% of your ОЗ, but you also get #rinfected.",
-			"#r@Ambushed!!@ NL Rodents infested by the mushrooms appear out of nowhere!",
-			"You enter a corridor full of #b~hypnotizing~ #b~colored~ #b~mushrooms.~ NL Due to your lack of specialization in mycology you are unable to identify the specimens. NL You want to escape, but feel oddly compelled to eat a #b~mushroom...~"
+			"Ви здаєтесь неприродному бажанню з’їсти. Споживаючи гриб за грибом, Ви почуваєтесь казково, й непритомнієте. Прокидаючись, Ви почуваєте себе дивно. NL #gЗцілюєтесь на #b25% вашого ОЗ, але також #rзаражаєтеся.",
+			"#r@Засідка!!@ NL Заражені гриби, з'явилися нізвідки!",
+			"Ви входите в коридор повний #b~гіпнотизуючі~ #b~барвисті~ #b~гриби.~ NL Через відсутність спеціалізації у мікології Ви не можете визначити тип грибів. NL Ви хочете втекти, але щось змушує Вас з’їсти #b~гриб...~"
 	],
     "OPTIONS": [
-			"[Stomp] #rAnger #rthe #rMushrooms.",
-			"[Eat] #gHeal #g",
-			" #gОЗ. #rОтримати #rПрокляття #r- #rParasite.",
-			"[Fight]",
+			"[Придавити] #rРозізлити #rГриби.",
+			"[З’їсти] #gЗцілюєтесь на #g",
+			" #gОЗ. #rОтримати #rПрокляття #r- #rДармоїд.",
+			"[Битися]",
 			"[Покинути]"
     ]
   },
@@ -468,7 +468,7 @@
 			"Гуляючи навколо, Ви гадаєте що то було."
 	],
     "OPTIONS": [
-			"[Зайти] #gПоліпшіть #g2 #gвипадкові #gкарти. #rВтрачаєте #r",
+			"[Зайти] #gПоліпшити #g2 #gвипадкові #gкарти. #rВтрачаєте #r",
 			" #rОЗ.",
 			"[Покинути]",
 			"[Заблоковано] Усі карти вже поліпшені"
@@ -501,7 +501,7 @@
 	],
     "OPTIONS": [
 			"[Вишуканість] #gУсуньте #gкарту #gз #gколоди.",
-			"[Простота] #gПоліпшіть #gусі #gУдари #gта #gЗахисти.",
+			"[Простота] #gПоліпшити #gусі #gУдари #gта #gЗахисти.",
 			"Оберіть та усуньте карту.",
 			"[Покинути]"
     ]
