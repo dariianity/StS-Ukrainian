@@ -15,7 +15,7 @@
 			"There doesn't seem to be anything of use. You exit the way you came, the flames of the furnace casting #p~eerie~ #p~shadows~ on the walls inside the hut..."
 	],
     "OPTIONS": [
-			"[Кувати] #gUpgrade #ga #gcard. #r25%: #rОтримати #rПрокляття #r- #rInjury.",
+			"[Кувати] #gUpgrade #ga #gcard. #r25%: #rОтримати #rПрокляття #r- #rВдар.",
 			"[Обшукати] #gОтримуєте #ga #gRelic. #r75%: #rОтримати #rПрокляття #r- #rNormality.",
 			"[Покинути]",
 			"Choose a Card to Upgrade",
@@ -89,9 +89,9 @@
 			"You ignore the shrine."
 	],
     "OPTIONS": [
-			"[Благати] #gGain #g",
-			" #gGold.",
-			"[Плюгавити] #gGain #g250 #gGold. #rОтримати #rПрокляття #r- #rRegret.",
+			"[Благати] #gОтримати #g",
+			" #gЗолота.",
+			"[Плюгавити] #gОтримати #g250 #gЗолота. #rОтримати #rПрокляття #r- #rRegret.",
 			"[Покинути]"
     ]
   },
@@ -101,7 +101,7 @@
 			"You find yourself in a room filled with racks of test tubes, beakers, flasks, forceps, pinch clamps, stirring rods, tongs, goggles, funnels, pipets, cylinders, condensers, and even a rare spiral tube of glass. NL NL Why do you know the name of all these tools? It doesn't matter, you take a look around."
 	],
     "OPTIONS": [
-			"[Оглянути] #gFind #gsome #gPotions!"
+			"[Оглянути] #gЗнайти #gsome #gPotions!"
     ]
   },
   "Purifier": {
@@ -114,7 +114,7 @@
     "OPTIONS": [
 			"[Благати] #gУсуньте #gкарту #gз #gколоди.",
 			"[Покинути]",
-			"Select a Card to Remove."
+			"Оберіть та усуньте карту."
     ]
   },
   "Transmorgrifier": {
@@ -159,14 +159,14 @@
     "OPTIONS": [
 			"[Грати]",
 			"[Виграш!] YAY!!!!",
-			"[Виграш!] #gGain #ga #gRelic.",
+			"[Виграш!] #gОтримати #ga #gRelic.",
 			"[Виграш!] #gHeal #gto #gfull #ghealth.",
 			"[Виграш?] #rCurse #r- #rDecay.",
 			"[Виграш!] #gУсуньте #gкарту #gз #gколоди.",
 			"[Виграш?] #rВтрачаєте #r",
 			" #rОЗ.",
 			"[Покинути]",
-			"Select a Card to Remove."
+			"Оберіть та усуньте карту."
     ]
   },
   "Falling": {
@@ -198,10 +198,10 @@
 			"You leave, wondering what could have been."
 	],
     "OPTIONS": [
-			"[Jump Inside] #gHeal #gto #gfull #gОЗ. #rВтрачаєте #r",
+			"[Jump Inside] #gЗцілюєтесь #gдо #gfull #gОЗ. #rВтрачаєте #r",
 			" #rMax #rОЗ.",
-			"[Offer: Golden Idol] #gОтримати #g333 #gGold. #rВтрачаєте #rGolden #rIdol.",
-			"[Заблоковано] Потребує: Golden Idol.",
+			"[Offer: Золотий ідол] #gОтримати #g333 #gЗолота. #rВтрачаєте #gЗолотаen #rIdol.",
+			"[Заблоковано] Потребує: Золотий ідол.",
 			"[Покинути]"
     ]
   },
@@ -227,8 +227,8 @@
 	],
     "OPTIONS": [
 			"[Gooped] #rВтрачаєте #ra #rrandom #rRare #rcard.",
-			"[Land Face First] #rTake #r",
-			" #rdamage. #rОтримати #rПрокляття #r- #rInjury.",
+			"[Land Face First] #rОтримати #r",
+			" #rшкоди. #rОтримати #rПрокляття #r- #rВдар.",
 			"[Покинути]"
     ]
   },
@@ -240,10 +240,10 @@
 			"An opening appears in the tomb and out slides a small red mask with a note attached. «Take from others as I have taken from you!»"
 	],
     "OPTIONS": [
-			"[Don the Red Mask] #gGain #g222 #gGold.",
+			"[Don the Red Mask] #gОтримати #g222 #gЗолота.",
 			"[Заблоковано] Потребує: Red Mask.",
 			"[Offer: ",
-			" Gold] #rВтрачаєте #rall #rGold. #gGain #ga #gRelic.",
+			" Gold] #rВтрачаєте #rall #gЗолота. #gОтримати #ga #gRelic.",
 			"[Покинути]"
     ]
   },  
@@ -259,142 +259,142 @@
 			"...",
 			"[Embrace Madness] #gОтримати #g2 #gMadness. #rВтрачаєте #r",
 			" #rОЗ.",
-			"[Focus] #rОтримати #rПрокляття #r- #rКорчизна. #gHeal #g",
+			"[Focus] #rОтримати #rПрокляття #r- #rКорчизна. #gЗцілюєтесь на #g",
 			"[Покинути]",
 			" #gОЗ."
     ]
   },
   "Big Fish": {
-	"NAME": "Big Fish",
+	"NAME": "Передостання вечеря",
     "DESCRIPTIONS": [
-			"As you make your way down a long corridor you see a #ybanana, a #ydonut, and a #ybox ~floating~ about. No... upon closer inspection they are tied to strings coming from holes in the ceiling. There is a quiet @cackling@ from above as you approach the objects. NL What do you do?",
-			"You eat the #ybanana. It is nutritious and slightly #bmagical, healing you.",
-			"You eat the #ydonut. It really hits the spot! Your Max ОЗ increases.",
+			"Проходячи коридором, Ви бачите #yбанан, #yпончик, та #yпакунок ~у~ ~повітрі~. Ні... при ліпшому огляді, вони прив'язані нитками до отворів у стелі. NL Що зробиш?",
+			"Ви їсте #yбанан. Це заживний і трохи #bчарівний, зцілюючи Вас.",
+			"Ви їсте #yпончик. Це справді смачно! Ваше макс ОЗ збільшується.",
 			"",
-			"You grab the box. Inside you find a #yrelic!",
-			" NL However, you really craved the donut... NL You are filled with ~sadness,~ but mostly #rregret."
+			"Ви хапаєте пакунок. Усередині, Ви знаходите #yамулет!",
+			" NL Проте, Ви дійсно жадали того пончика... NL Ви наповнені ~скорботою,~ але в основному відчуваєте себе #rбанно."
 	],
     "OPTIONS": [
-			"[Banana] #gHeal #g",
+			"[Банан] #gЗцілюєтесь на #g",
 			" #gОЗ.",
-			"[Donut] #gMax #gОЗ #g+",
+			"[Пончик] #gМакс #gОЗ #g+",
 			".",
-			"[Box] #gОтримати #ga #gRelic. #rОтримати #rПрокляття #r- #rRegret.",
+			"[Пакунок] #gОтримати #gамулет. #rОтримати #rПрокляття #r- #rЖурба.",
 			"[Покинути]"
     ]
   },
   "The Cleric": {
-	"NAME": "The Cleric",
+	"NAME": "Церковник",
     "DESCRIPTIONS": [
-			"A strange blue humanoid with a golden helm(?) approaches you with a huge smile. NL @«Hello@ @friend!@ I am #bCleric! Are you interested in my services?!» the creature shouts, loudly.",
-			"A warm golden light envelops your body and dissipates. NL The creature grins. «Cleric best healer. @Have@ @a@ @good@ @day!»@",
-			"A cold blue flame envelops your body and dissipates. NL The creature grins. «Cleric talented. @Have@ @a@ @good@ @day!»@",
-			"You don't trust this #b«Cleric», so you leave."
+			"Дивна синя людиноподібна істота, з золотим шоломом(?) підходить Вас з величезною посмішкою. NL @«Привіт@ @друже!@ Я #bЦерковник! Чи зацікавлені Ви у моїх послугах?!» криконула істота. Голосно.",
+			"Тепле золоте сяйво огортає ваше тіло, й розсіюється. NL Істота шкірить зуби. «Церковник найкращий цілитель. @Гарного@ @дня@!»@",
+			"Холодне синє полум'я огортає ваше тіло, й розсіюється. NL Істота шкірить зуби. «Церковник обдарований. @Гарного@ @дня@!»@",
+			"Ви не довіряєте цьому #b«Церковнику», тому ви продовжуйте подорож."
 	],
     "OPTIONS": [
-			"[Heal] #y35 #yЗолота: #gHeal #g",
+			"[Зцілення] #y35 #yЗолота: #gЗцілюєтесь на #g",
 			"[Заблоковано] Потребує: ",
-			" Gold.",
-			"[Purify] #y",
+			" Золота.",
+			"[Очищення] #y",
 			" #yЗолота: #gУсуньте #gкарту #gз #gколоди.",
-			"[Заблоковано] Потребує: 50 Gold.",
+			"[Заблоковано] Потребує: 50 Золота.",
 			"[Покинути]",
-			"Select a Card to Remove.",
+			"Оберіть та усуньте карту.",
 			" #gОЗ."
     ]
   },
   "Dead Adventurer": {
-	"NAME": "Dead Adventurer",
+	"NAME": "Мертвий вандрівник",
     "DESCRIPTIONS": [
-			"While searching the adventurer you are caught off guard!",
-			"You exit without a sound.",
-			"You come across a #rdead #radventurer on the floor. NL His #bpants have been stolen! Also, ",
-			"the armor and face appear to be #r@scoured@ #r@by@ #r@flames.@ ",
-			"it looks as though he's been #r@gouged@ #r@and@ #r@trampled@ by a horned beast. ",
-			"he looks to have been #r@eviscerated@ #r@and@ #r@chopped@ by giant claws. ",
-			"NL Though his #ypossessions #yare #ystill #yintact, you're in no mind to find out what happened here...",
-			"You found some #ygold! NL Continue searching?",
-			"Hmm, couldn't find anything... NL Continue searching?",
-			"You found a #yrelic! Continue searching?",
-			"Looks like you searched all his belongings without a hitch!"
+			"Обшукуючи мандрівника, зненацька, з’являється князь!",
+			"Ви полишаєте місцевість, без звуку.",
+			"Ви знаходите #rмертвого #rмандрівника на підлозі. NL Його #bштанці вкрадені! Також, ",
+			"броня та лице, певно, #r@обпалені@ #r@вогнем.@ ",
+			"здаєтесь, його #r@розбили@ #r@та@ #r@розтоптали@ рогаті звірі. ",
+			"очевидно, його #r@спустошити@ #r@та@ #r@розрізаний@ гігантськими кігтями. ",
+			"NL Хоча його #yречі #yнепошкоджені, Ви не знаєте, що тут трапилося...",
+			"Ви знайшли трохи #yзолота! NL Продовжити пошук?",
+			"Хммм, тут нічого катма... NL Продовжити пошук?",
+			"Ви знайшли #yамулет! Продовжити пошук?",
+			"Схоже, Ви обшукали всі його речі!"
 	],
     "OPTIONS": [
-			"[Search] #gFind #gLoot. #r",
+			"[Шукати] #gЗнайти #gГарб. #r",
 			"[Покинути]",
-			"[Fight]",
-			"[Продовжити] #gFind #gLoot. #r",
-			"%: #rmonster #rreturns."
+			"[Битися]",
+			"[Продовжити] #gЗнайти #gГарб. #r",
+			"%: #rкнязь #rповертається."
     ]
   },
   "Golden Idol": {
-	"NAME": "Golden Idol",
+	"NAME": "Золотий ідол",
     "DESCRIPTIONS": [
-			"You come across an inconspicuous pedestal with a #yshining #ygold #yidol sitting peacefully atop. It looks incredibly valuable. NL NL You sure don't see any traps nearby.",
-			"As you grab the Idol and stow it away, a giant boulder smashes through the ceiling into the ground next to you. NL You realize that the floor is slanted downwards as the boulder starts to roll towards you.",
-			"@RUUUUUUUUUUN!@ NL You barely leap into a side passageway as the boulder rushes by. Unfortunately it feels like you sprained something however.",
-			"You throw yourself at the boulder with everything you have. When the dust clears, you can make a safe way out.",
-			"@SQUISH!@ NL The boulder flattens you a little as it passes by, but otherwise you can get out of here.",
-			"If there was ever an obvious trap, this would be it. NL You decide not to interfere with objects placed upon pedestals."
+			"Ви знаходите непомітний п'єдестал з мирно сидячим, #yблискучим, #yзолотим, #yідолом наверху. Він виглядає неймовірно дорогоцінним. NL NL Ви впевнені що поблизу немає пасток.",
+			"Хапаючи ідола, гігантський валун розбиває стелю й падає поруч з вами. NL Ви розумієте, що підлога схилена набік, як валун починає рухатися у Ваш бік.",
+			"@БІІІІІЖИИИИИИ!@ NL Ви ледь стрибаєте у бічну вилицю. Валун проноситься мимо ледве задіваючи Вас.",
+			"Ви кидаєте себе на валу, усіма силами. Як пил улігся, Ви безпечно покидаєте це місце.",
+			"@ПЛЮСК!@ NL Валун рівняє Вас трохи з землею, але крім цього, усе файно.",
+			"Це ж явно пастка! NL Ви рішаєте не чіпати розміщену на п'єдесталі ідола."
 	],
     "OPTIONS": [
-			"[Take] #gОтримати #gGolden #gIdol. #rTrigger #ra #rtrap.",
+			"[Взяти] #gОтримати #gЗолотого #gідола. #rЗадіти #rпастку.",
 			"[Покинути]",
-			"[Outrun] #rОтримати #rПрокляття #r- #rInjury.",
-			"[Smash] #rTake #r",
-			" #rDamage.",
-			"[Hide] #rВтрачаєте #r",
-			" #rMax #rОЗ."
+			"[Упередити] #rОтримати #rПрокляття #r- #rВдар.",
+			"[Розбити вщент] #rОтримати #r",
+			" #rшкоди.",
+			"[Заховатися] #rВтрачаєте #r",
+			" #rмакс #rОЗ."
     ]
   },
   "Golden Wing": {
-	"NAME": "Wing Statue",
+	"NAME": "Крилата статуя",
     "DESCRIPTIONS": [
-			"Among the stone and boulders, you notice an intricate large blue statue resembling a wing. NL You find #ygold spilling from its cracks. Maybe there is more inside...",
-			"Someone once told you of a cult that worshipped a giant bird. As you kneel in prayer, you begin to ~feel~ ... ~lightheaded~ . NL NL You wake up some time later, feeling strangely fleet of foot.",
-			"With all your might, you hack away at the statue. NL It soon @crumbles,@ revealing a #ypile #yof #ygold. You grab as much as you can and continue onwards.",
-			"The statue makes you feel ~uneasy.~ You walk past and continue onward."
+			"Серед бескидів й брил ви помітите дивовижну синю статую, нагадуючи крило. NL Ви добачаєте #yзолото, яке випадає з тріщин статуї. Може там усередині є більше...",
+			"Хтось колись казав Вам про культ, який поклонявся гігантській птиці. Стоячи на коліні молячись, Ви ~відчуваєте~ ... ~легковажність~ . NL NL Прокидаючись через деякий час, відчуваєте себе швидшим.",
+			"З усією вашою силою Ви починаєте дробити статую. NL Вона скоро @розкришилася,@ вилляючи #yзабагато для вас #yзолота. Ви хапаєте скільки но можете, й продовжуйте мандри.",
+			"Статуя змушує вас почувати себе ~незручно.~ Ви обходите статую, від гріха подалі."
 	],
     "OPTIONS": [
 			"[Благати] #gУсуньте #gкарту #gз #gколоди. #rВтрачаєте #r",
 			" #rОЗ.",
-			"[Destroy] #gGain #g",
+			"[Роздробити] #gОтримати #g",
 			" #g- #g",
-			" #gGold.",
-			"[Заблоковано] Потребує: Card with ",
-			" or more damage.",
+			" #gЗолота.",
+			"[Заблоковано] Потребує: Карту з ",
+			" чи більше шкоди.",
 			"[Покинути]",
 			"[Продовжити]",
-			"Select a Card to Remove."
+			"Оберіть та усуньте карту."
     ]
   },
   "World of Goop": {
-	"NAME": "World of Goop",
+	"NAME": "Всесвіт густого слизу",
     "DESCRIPTIONS": [
-			"You fall into a puddle. NL @IT'S@ @MADE@ @OF@ #g@SLIME@ #g@GOOP!!@ NL Frantically, you claw yourself out over several minutes as you feel the goop starting to burn. NL You can feel goop in your ears, goop in your nose, goop everywhere. NL NL Climbing out, you notice that some of your #ygold is missing. Looking back to the puddle you see your missing coins combined with #ygold from unfortunate adventurers mixed together in the puddle.",
-			"Feeling the sting of the goop as the prolonged exposure starts to melt away at your skin, you manage to fish out the #ygold.",
-			"You decide that mess is not worth it."
+			"Блукаючи вежею, Ви оступилися у барліг. NL @ВОНА@ @ЗІ@ #g@ГУСТОГО@ #g@СЛИЗУ!!@ NL Вихором, Ви намагаєтесь випливти зі слизу, вже кілька хвилин, як ця слизь починає пекти. NL Ви відчуваєте його усюди. Слиз. У вухах, носі, куди не кинь оком, в якому веж пече слиз. NL NL Випливаючи, Ви помічаєте, що трохи Вашого #yзолота залишилося у слизу.",
+			"З нестерпним болем, понеже злиз починає плавити шкіру, вам вдається виловити #yзолото.",
+			"Ви рішаєте, що те багно не варте того."
 	],
     "OPTIONS": [
-			"[Gather Gold] #gGain #g",
-			" #gGold. #rВтрачаєте #r",
+			"[Зібрати Золото] #gОтримати #g",
+			" #gЗолота. #rВтрачаєте #r",
 			" #rОЗ.",
 			"[Покинути його] #rВтрачаєте #r",
-			" #rGold.",
+			" #gЗолота.",
 			"[Покинути]"	
     ]
   },
   "Liars Game": {
-	"NAME": "The Ssssserpent",
+	"NAME": "Гадюка",
     "DESCRIPTIONS": [
-			"You walk into a room to find a large hole in the ground. As you approach the hole, an enormous serpent creature appears from within. NL NL ~«Ho~ ~hooo!~ ~Hello~ ~hello!~ ~what~ ~have~ ~we~ ~got~ ~here?~ Hello adventurer, I ask a simple question. NL The most fulfilling of lives is that in which you can #y~buy~ #y~anything!~ NL Do you agree?»",
-			"~«Yeeeeeeessssssssssessss!~ NL ~Thisss~ ~will~ ~all~ ~be~ ~worthhh~ ~it.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!»~",
-			"The serpent stares at you with a look of extreme disappointment.",
-			"The serpent rears its head and blasts a stream of #ygold upwards! NL It is amazing and terrifying simultaneously. NL You gather all the #ygold, thank the snake, and get going."
+			"Заходячи у кімнату, Ви бачите велику яму у підлозі. Наближаючись до отвору, зсередини вилазить величезна гадюка. NL NL ~«Хо~ ~хооо!~ ~Приві..~ ~привіт!~ ~що~ ~в~ ~нас~ ~тут~ ~таке?~ Вітаю обходисвіт, Я запитую простеньке питання. NL Повноцінне життя - це те, в якому усе можна #y~придбати!~ NL Чи згоден ти з цим?»",
+			"~«Оооххххх~ ~єєєєєєєє!~ NL ~Цее~ ~буде~ ~варте~ ~тогооо.~ NL ~..ссССсссс.....~ ~сс...~ ~ссссс....!»~",
+			"Гадюка дивиться Вас надзвичайно розчарований",
+			"Гадюка підіймаючи свою голову, ніби водограй заплескав #yзолото угору! NL Це видовище дивне й страшне водночас. NL Збираючи #yзолото, Ви подякували гадюці, й продовжили дорогу."
 	],
     "OPTIONS": [
-			"[Agree] #gОтримати #g",
-			" #gGold. #rОтримати #rПрокляття #r- #rDoubt.",
-			"[Disagree]",
+			"[Погодитися] #gОтримати #g",
+			" #gЗолота. #rОтримати #rПрокляття #r- #rВагання.",
+			"[Суперечити]",
 			"[Продовжити]",
 			"[Покинути]"
     ]
@@ -777,7 +777,7 @@
 			" #yЗолота.",
 			"[Покинути]",
       		"[Покинути] #rЗазнати #r",
-      		" #rШкоди."
+      		" #rшкоди."
     ]
   }
 }

@@ -12,7 +12,6 @@ Apply - Наносить
 Bash - удар
 Block - Блок
 Button - ґудзик
-Boss - Бос
 Character - Герой
 Chat - текстопхайка
 Chest - скриня
@@ -34,8 +33,6 @@ Draw - тасують(-ється) / тасуєте
 Drop - залишають по собі
 Ethereal - примарний
 Egg - Яйко
-Elite - князь
-Elites - князі
 Exhaust - виснажені(-а/-е) / Виснажує / Виснажується / Виснаж
 For (x turns) - Наступні
 Frail - кволий
@@ -45,6 +42,7 @@ HP - ОЗ
 Intents - Наміри
 Ironclad - Броненосець
 Innate - початкова
+Loot - гарб 
 Lose - втрачаєте
 Map - мапа (НЕ карта)
 Merchant - Торговець
