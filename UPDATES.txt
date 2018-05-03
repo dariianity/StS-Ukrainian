@@ -1,5 +1,303 @@
 Updates for Translators!
 
+05/02/2018:
+cards.json
+	"Lockon"
+		"DESCRIPTION": "Deal !D! damage. NL This turn, Lightning and Dark Orbs target this enemy." -> "DESCRIPTION": "Deal !D! damage. NL For the next !M! turns, Lightning and Dark Orbs target this enemy."
+	"BootSequence" (New card)
+	"Nova"
+		"DESCRIPTION": "Deal damage to ALL enemies equal to three times the number of Powers played this combat.", -> "DESCRIPTION": "Deal damage to ALL enemies equal to !M! times the number of Powers played this combat.",
+		"UPGRADE_DESCRIPTION" is not used now.
+	"Blizzard"
+		"DESCRIPTION": "Deal damage equal to two times the Frost Channeled this combat to ALL enemies.", -> "DESCRIPTION": "Deal damage equal to !M! times the Frost Channeled this combat to ALL enemies.",
+		"UPGRADE_DESCRIPTION" is not used now.
+
+powers.json
+	"Lockon"
+		"#yLightning and #yDark Orbs target this enemy for the next #b",
+		" turns.",
+		"#yLightning and #yDark Orbs target this enemy this turn."
+
+----------------------------------
+
+05/01/2018v2:
+ui.json
+	"DiscardPileToHandAction"
+
+----------------------------------	
+
+05/01/2018:
+cards.json
+	"Redo"
+		NAME: "Redo" -> "Recursion"
+
+----------------------------------	
+
+04/30/2018:
+tutorials.json
+	"Player Tips"
+		"I have no Orb slots."
+cards.json
+	"Consume"
+	"Lockon"
+	"Reprieve"
+	"Streamline"
+		"Deal !D! damage. NL Whenever you play Streamline, reduce its cost by !M! for this combat." ->
+		"Deal !D! damage. NL Whenever you play this card, reduce its cost by !M! for this combat."
+	"Scrape"
+		"DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way." ->
+		"DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard all cards drawn this way that do not cost 0."
+	"Nova"
+		" NL Deals !D! damage." ->
+		" NL (Deals !D! damage)."
+credits.json
+	"LOC_SRB"
+powers.json
+	"Echo Form"
+ui.json
+	"ReprieveAction"
+	"RecycleAction"
+	"AnyCardFromDeckToHandAction"
+relics.json
+	"Inserter"
+		FLAVOR: "Push. Pull. Stack. Repeat."
+	"Symbiotic Virus"
+		FLAVOR typo fixes and removal of coloring.
+	"OddlySmoothStone" & "Data Disk" & "Vajra"
+		"At the start of each combat, gain #b", ->
+		"Start each combat with #b",
+
+----------------------------------
+
+04/27/2018:
+cards.json
+	"Echo Form"
+		DESCRIPTION
+		UPGRADE_DESCRIPTION
+	"Havoc"
+		exhaust -> Exhaust
+	"Darkness"
+		"DESCRIPTION": "Channel !M! Dark.",
+		"UPGRADE_DESCRIPTION": "Channel !M! Dark."
+	"Gash"
+		Renamed to "Claw"
+	"Scrape"
+		This is a new card!
+
+----------------------------------
+
+04/26/2018v2:
+tutorials.json
+	"Player Tips"
+		"#rMaximum Orb capacity has been met."
+		 
+----------------------------------
+
+04/26/2018:
+cards.json
+	"Ice Wall"
+		Descriptions now say Deprecated.
+	"Flux Capacitor"
+		Now exhausts: "DESCRIPTION": "Replace all Channeled Orbs with Plasma. NL Exhaust."
+	"Rip and Tear"
+		"DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
+	"Genetic Algorithm"
+		Adding a newline for Exhaust.
+		"DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. NL Exhaust."
+	"Blizzard"
+		Description updates.
+		"DESCRIPTION": "Deal damage equal to twice the Frost Channeled this combat to ALL enemies.",
+		"UPGRADE_DESCRIPTION": "Deal damage equal !M! times the Frost Channeled this combat to ALL enemies.",
+	"Thunder Strike"
+		EXTENDED_DESCRIPTION: " (Channeled !M! Lightning.)"
+relics.json
+	"Inserter"
+		Description was incorrect, placeholder inserted for now.
+	"Symbiotic Virus"
+		Typo fix: badbad
+		 "FLAVOR": "A little bit of #rbad can do a lot of #ggood...",
+		 
+----------------------------------
+
+04/25/2018:
+cards.json
+	"Fission"
+		Clarifying description a bit.
+	"Blizzard"
+		Reworked. Updates to both Description and Extended Description
+	"Blaster"
+		Now exhausts:
+		"DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain [B] for each Channeled Orb. NL Exhaust."
+	"Thunder Strike"
+		Reworked.
+		Extended Description removed.
+	"Overclock"
+		"Deprecated."
+	"Winter"
+		"Deprecated."
+	"Cache"
+		"Deprecated."
+	"Primitive Tech"
+		"Deprecated."
+	"Channel"
+		"Deprecated."
+ui.json
+	"CharacterOption"
+		"This character is unlocked by reaching the top of the Spire." -> "This character is unlocked by completing a run with the Silent"
+		 
+----------------------------------
+
+04/24/2018:
+achievements.json
+	"Sapphire"
+"CharStat"
+	"The Defect"
+cards.json
+	exhausted -> Exhausted (Keyword uppercasing)
+	Removed "Step Through Time"
+	Removed "Wraith Form"
+	New Cards:
+	"Aggregate"
+	"All For One"
+	"Allocate"
+	"Amplify"
+	"Auto Shields"
+	"Axe Kick"
+	"Ball Lightning"
+	"Barrage"
+	"Beam Cell"
+	"Biased Cognition"
+	"Blaster"
+	"Blizzard"
+	"Buffer"
+	"Cache"
+	"Capacitor"
+	"Channel"
+	"Chaos"
+	"Chill"
+	"Cold Snap"
+	"Conserve Battery"
+	"Coolheaded"
+	"Creative AI"
+	"Darkness"
+	"Defragment"
+	"Doom and Gloom"
+	"Double Energy"
+	"Dualcast"
+	"Echo Form"
+	"Energy Pulse"
+	"Fission"
+	"Flux Capacitor"
+	"FTL"
+	"Fusion"
+	"Gash"
+	"Genetic Algorithm"
+	"Glacier"
+	"Go for the Eyes"
+	"Heatsinks"
+	"Hello World"
+	"Hologram"
+	"Hyperbeam"
+	"Ice Wall"
+	"Impulse"
+	"Leap"
+	"Loop"
+	"Machine Learning"
+	"Magnetism"
+	"Melter"
+	"Meteor Strike"
+	"Multi-Cast"
+	"Nova"
+	"Overclock"
+	"Prime"
+	"Primitive Tech"
+	"Rainbow"
+	"Reboot"
+	"Rebound"
+	"Recycle"
+	"Redo"
+	"Reinforced Body"
+	"Reprogram"
+	"Rip and Tear"
+	"Seek"
+	"Self Repair"
+	"Skim"
+	"Stack"
+	"Static Discharge"
+	"Steam Power"
+	"Storm"
+	"Streamline"
+	"Sunder"
+	"Sweeping Beam"
+	"Tempest"
+	"Thunder Strike""Force Field"
+	"Turbo"
+	"Undo"
+	"White Noise"
+	"Winter"
+	"Zap"
+characters.json
+	"Defect"
+events.json
+	"Vampires"
+keywords.json
+	"CHANNEL"
+	"DARK"
+	"EVOKE"
+	"FOCUS"
+	"FROST"
+	"LIGHTNING"
+	"OPENER" (Unused)
+	"PLASMA"
+powers.json
+	"Dexterity" can now swap out "." in description
+	"Strength" can now swap out "." in description
+	"Conserve"
+	"Focus"
+	"Knowledge"
+	"StaticDischarge"
+	"Repair"
+	"Buffer"
+	"Echo Form"
+	"Heatsink"
+	"No Attack"
+	"Storm"
+	"Magnetism"
+	"Creative AI"
+	"Machine Learning"
+	"Bias"
+	"Prime"
+	"Rebound"
+	"Hello"
+	"Loop"
+relics.json
+	"Cracked Core"
+	"Inserter"
+	"Symbiotic Virus"
+	"Nuclear Battery"
+	"Cables"
+	"Emotion Chip"
+	"Runic Capacitor"
+	"Turnip"
+	"DataDisk"
+ui.json
+	"ReprogramAction"
+		"Discard"
+	"CacheAction"
+	"RunHistoryScreen"
+	"LeaderboardFilters"
+	"AbstractPlayer"
+	"CharacterSelectScreen"
+	"InputSettingsScreen"
+	"OptionsPanel"
+		"Game Menu" -> "Game Settings"
+		"Input Settings"
+	"Menu Panels"
+		"This feature is not yet available." -> "Change your controls and shortuct keys."
+	"InputKeyNames"
+		 
+----------------------------------
+	
 04/18/2018:
 ui.json
 	"DailyScreen"
