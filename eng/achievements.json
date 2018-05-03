@@ -33,8 +33,7 @@
       "Ascend 0",
       "Ascend 10",
       "Minimalist",
-      "Ooh Donut!",
-      "Sapphire"
+      "Ooh Donut!"
     ],
     "TEXT": [
       "Win a battle with 1 HP remaining.",
@@ -69,8 +68,7 @@
       "Unlock Ascension mode.",
       "Complete Ascension Level 10.",
       "Beat the game with a 5 card deck or smaller.",
-      "Finish Donu with a Feed.",
-      "Beat the game with the Defect."
+      "Finish Donu with a Feed."
     ]
   },
   "CharStat": {
@@ -108,7 +106,7 @@
       "#yAchievements",
       "#rThe #rIronclad",
       "#gThe #gSilent",
-      "#bThe #bDefect"
+      "#bCrowbot"
     ],
     "TEXT": [
       "Return"

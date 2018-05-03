@@ -28,7 +28,7 @@
     "TEXT": [
       "The Ironclad",
       "The Silent",
-      "The Defect",
+      "",
       "Return",
       "No run histories found. NL Go Slay the Spire!",
       "Ascension Level: ",
@@ -108,7 +108,7 @@
     "TEXT": [
       "Ironclad",
       "The Silent",
-      "Defect",
+      "3rd Char. DO NOT TRANSLATE",
       "Average Floor Reached (Last 20 Attempts)",
       "Average Score (Last 20 Attempts)",
       "Best Win Streak",
@@ -155,16 +155,6 @@
       "Replace (Gambling Chip)"
     ]
   },
-  "DiscardPileToHandAction": {
-    "TEXT": [
-      "Select a card to return to your hand."
-    ]
-  },
-  "ReprogramAction": {
-    "TEXT": [
-      "Discard"
-    ]
-  },
   "RetainCardsAction": {
     "TEXT": [
       "Retain"
@@ -205,21 +195,9 @@
       "Choose a Skill to Add to Your Hand"
     ]
   },
-  "AnyCardFromDeckToHandAction": {
-    "TEXT": [
-      "Choose a Card to Add to Your Hand",
-	  "Choose Cards to Add to Your Hand"
-    ]
-  },
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Choose an Attack to Add to Your Hand"
-    ]
-  },
-  "CacheAction": {
-    "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile.",
-      "Choose Cards to Put on Top of Your Draw Pile."
     ]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -335,7 +313,7 @@
       "Blocked",
       "the Ironclad",
       "the Silent",
-      "the Defect"
+      "the Gunner"
     ]
   },
   "AbstractCreature": {
@@ -410,7 +388,7 @@
       "Unknown",
       "View Upgrade",
       "Status",
-      "",
+      "Ammo",
       "I can only play cards on my turn.",
       "I'm #rEntangled! NL Can't play Attacks",
       "Not enough #rEnergy.",
@@ -481,12 +459,12 @@
       "Upgrade"
     ]
   },
-  "RecycleAction": {
+  "DualWieldAction": {
     "TEXT": [
-      "Exhaust"
+      "Duplicate"
     ]
   },
-  "DualWieldAction": {
+  "HiddenChamberAction": {
     "TEXT": [
       "Duplicate"
     ]
@@ -656,7 +634,7 @@
   "OptionsPanel": {
     "TEXT": [
       "",
-      "Game Settings",
+      "Game Menu",
       "Graphics",
       "Resolution: NL Max Framerate:",
       "Fullscreen NL Borderless Fullscreen (recommended) NL Screenshake",
@@ -674,8 +652,7 @@
       "Save & Quit",
       "NL NL VSync",
       "Playtester Art Mode",
-      "Show Card Quick Select Keys",
-      "Input Settings"
+      "Show Card Quick Select Keys"
     ]
   },
   "DailyScreen": {
@@ -707,44 +684,6 @@
       "Return",
       "Progress is NOT saved for daily runs."
     ]
-  },
-  "InputSettingsScreen": {
-    "TEXT": [
-      "Input Settings",
-      "Game Settings",
-      "Return",
-      "Commands",
-      "Keyboard",
-      "Controller (Not Yet Available)",
-      "Reset to Default",
-      "Confirm",
-      "Cancel / Exit",
-      "Map",
-      "Master Deck",
-      "Draw Pile",
-      "Discard Pile",
-      "Exhaust Pile",
-      "End Turn",
-      "Left",
-      "Right",
-      "Select Card #1",
-      "Select Card #2",
-      "Select Card #3",
-      "Select Card #4",
-      "Select Card #5",
-      "Select Card #6",
-      "Select Card #7",
-      "Select Card #8",
-      "Select Card #9",
-      "Select Card #10"
-    ]
-  },
-  "InputKeyNames": {
-    "TEXT_DICT": {
-      "Escape": "ESC",
-      "Forward Delete": "Delete",
-      "Delete": "Backspace"
-    }
   },
   "CardLibraryScreen": {
     "TEXT": [
@@ -839,7 +778,7 @@
       "Locked",
       "This character is unlocked by completing a single run.",
       "This character is still unavailable in Early Access.",
-      "This character is unlocked by completing a run with the Silent.",
+      "This character is unlocked by reaching the top of the Spire.",
       "HP: ",
       "Gold: ",
       " Unlocks Remaining",
@@ -854,7 +793,7 @@
       "Embark",
       "The Ironclad",
       "The Silent",
-      "The Defect",
+      "Crowbot",
       "Back",
       "Ascension",
       "Level ",
@@ -1029,11 +968,6 @@
       "That enemy does not intend to attack!"
     ]
   },
-  "ReprieveAction": {
-    "TEXT": [
-      "That enemy intends to attack!"
-    ]
-  },
   "ApplyPowerAction": {
     "TEXT": [
       "Negated",
@@ -1050,11 +984,6 @@
   "ImmolateAction": {
     "TEXT": [
       "Exhaust"
-    ]
-  },
-  "HiddenChamberAction": {
-    "TEXT": [
-      ""
     ]
   },
   "TheBeyond": {
@@ -1096,7 +1025,7 @@
       "Change your resolution and toggle various options on/off.",
       "Input Settings",
       "",
-      "Change your controls and shortcut keys.",
+      "This feature is not yet available.",
       "Credits",
       "",
       "See all of the people who contributed on Slay the Spire!",
