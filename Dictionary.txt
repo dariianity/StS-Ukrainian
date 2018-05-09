@@ -9,12 +9,10 @@
 
 Attack - Атак(-увати)
 Apply - Наносить
-Automaton - Робіт
 Bash - удар
 Block - Блок
 Button - ґудзик
 Character - Герой
-Channeled - спрямованих (-на)
 Chat - текстопхайка
 Chest - скриня
 Click - Клац(-ніть)
@@ -27,7 +25,6 @@ Debuff - негативний статус
 Deck - Колода
 Deal - наносити / також наноситься
 Defeat - Побийте
-Defect (character) - Ґандж / ґандж
 Dexterity - Спритність
 Dig - (від)Копати
 Discard - У відбій
@@ -36,13 +33,11 @@ Draw - тасують(-ється) / тасуєте
 Drop - залишають по собі
 Ethereal - примарний
 Egg - Яйко
-Evoke - У/Вжити
 Exhaust - виснажені(-а/-е) / Виснажує / Виснажується / Виснаж
-Focus - зосередження
 For (x turns) - Наступні
 Frail - кволий
 Gain - отримуєте
-Heal - зцілюєтеся
+Heal - зцілює(-тесь)
 HP - ОЗ
 Intents - Наміри
 Ironclad - Броненосець
@@ -53,14 +48,13 @@ Map - мапа (НЕ карта)
 Merchant - Торговець
 Negate - анулювати (Анулюєте)
 Obtain - отримуєте
-Orb - Куля
 Poison - Отрута(-у)
 Potion - зілля
-Power - снага
-Put - кладе / додає
+Power - Снага
+Put - Кладе / Додає
 Relic - амулет
 Retain - заховати
-Remove - усунути
+Remove - Усунути
 Rest - (відпочиваєте у) Таборі
 Rest Sites - Табори
 Score - Рахунок
@@ -69,12 +63,11 @@ Shuffle - тасують(-ється)
 Silent - Тінь
 Skill - Вміння
 Slime - слимак
-Slot - місце
 Status - Статус
 Stab - штик
-Strength - міць
+Strength - Міць
 Spire - Вежа
-Spireblight - забруднення вежею / чумою (???)
+Spireblight - забруднення вежею / чуми (???)
 Take (damage) - отримуєте / зазнаючи
 Transform - Перетвори
 Treasure - Скарби 
