@@ -42,7 +42,7 @@ Focus - зосередження
 For (x turns) - Наступні
 Frail - кволий
 Gain - отримуєте
-Heal - зцілюєтеся
+Heal - зцілюєтеся на
 HP - ОЗ
 Intents - Наміри
 Ironclad - Броненосець
