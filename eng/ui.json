@@ -79,7 +79,8 @@
   },
   "AbstractRoom": {
     "TEXT": [
-      "Mugged..."
+      "Mugged...",
+      "Fled..."
     ]
   },
   "AnyCardFromDeckToHandAction": {
@@ -513,7 +514,8 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Replace (Gambling Chip)"
+      "Replace (Gambling Chip)",
+      "Replace"
     ]
   },
   "GameSavedEffect": {

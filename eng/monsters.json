@@ -62,7 +62,7 @@
     ],
     "NAME": "Pointy",
     "DIALOG": [
-      "Beeeaaar!!!!"
+      "~Beeeaaar!!!!~"
     ]
   },
   "BanditLeader": {
@@ -71,9 +71,9 @@
     ],
     "NAME": "Romeo",
     "DIALOG": [
-      "Grab em' Bear!!",
-      "You will pay for this!!",
-      "Nooooooo, Bear!"
+      "~Grab~ ~em'~ ~Bear!!~",
+      "~You~ ~will~ ~pay~ ~for~ ~this!!~",
+      "~Nooooooo,~ ~Bear!~"
     ]
   },
   "BookOfStabbing": {

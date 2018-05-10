@@ -203,6 +203,13 @@
       " #yStrength."
     ]
   },
+  "DexLoss": {
+    "NAME": "Dexterity Down",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yDexterity."
+    ]
+  },
   "Dexterity": {
     "NAME": "Dexterity",
     "DESCRIPTIONS": [
@@ -338,7 +345,7 @@
     ]
   },
   "Flex": {
-    "NAME": "Flex",
+    "NAME": "Strength Down",
     "DESCRIPTIONS": [
       "At the end of your turn, lose #b",
       " #yStrength."

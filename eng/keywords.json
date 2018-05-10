@@ -176,6 +176,12 @@
     "TEXT": [
       "Energy is used to play cards from your hand."
     ],
+    "THORNS": {
+      "NAMES": [
+        "thorns"
+      ],
+      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
+    },
     "TODO": {
       "NAMES": [
         "todo",

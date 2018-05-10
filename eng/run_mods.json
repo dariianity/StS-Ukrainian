@@ -7,6 +7,10 @@
     "NAME": "Binary",
     "DESCRIPTION": "Card rewards contain only 2 cards."
   },
+  "Brewmaster": {
+    "NAME": "Brewmaster",
+    "DESCRIPTION": "Start with 5 copies of Alchemize and the White Beast Statue."
+  },
   "Cursed Run": {
     "NAME": "Cursed Run",
     "DESCRIPTION": "Whenever you defeat a Boss, become Cursed. Your starting relic is replaced with Cursed Key, Darkstone Periapt, and Du-Vu Doll."
@@ -50,6 +54,10 @@
   "Shiny": {
     "NAME": "Shiny",
     "DESCRIPTION": "Starting deck is replaced with 1 of every rare card."
+  },
+  "Specialized": {
+    "NAME": "Specialized",
+    "DESCRIPTION": "Start with 5 copies of a single rare card."
   },
   "Terminal": {
     "NAME": "Terminal",
