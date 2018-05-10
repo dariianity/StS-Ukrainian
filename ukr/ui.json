@@ -79,7 +79,8 @@
   },
   "AbstractRoom": {
     "TEXT": [
-      "Вас пограбували…"
+      "Вас пограбували…",
+      "Втік…"
     ]
   },
   "AnyCardFromDeckToHandAction": {
@@ -513,7 +514,8 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Підмінити (Азартна марка)"
+      "Підмінити (Азартна марка)",
+      "Підмінити"
     ]
   },
   "GameSavedEffect": {
