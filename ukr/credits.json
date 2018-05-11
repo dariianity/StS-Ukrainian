@@ -25,10 +25,18 @@
       "MoGi Group"
     ]
   },
+  "LOC_CAT": {
+    "HEADER": "Каталонська Локалізація",
+    "NAMES": []
+  },
   "LOC_DEU": {
     "HEADER": "Німецька Локалізація",
     "NAMES": [
-      "Joshua \"Joshipon\" Wiegand "
+      "Joshua \"Joshipon\" Wiegand ",
+      "Dustin \"Skrelpoid\" Kristen",
+      "Jonas Trodler",
+      "Hongkong Koma",
+      "Moly"
     ]
   },
   "LOC_FRA": {
@@ -146,6 +154,12 @@
     "NAMES": [
       "Sound of Mystery"
     ]
+  },
+  "LOC_UKR": {
+    "HEADER": "Українська Локалізація",
+    "NAMES": [
+      "Vladyslav \"DarkXylese\" Kashtelyanov"
+	]
   },
   "LOC_ZHT": {
     "HEADER": "Китайська (Традиційна) Локалізація",
