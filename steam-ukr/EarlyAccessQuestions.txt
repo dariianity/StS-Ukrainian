@@ -1,53 +1,53 @@
-[b]TL;DR:[/b] Slay the Spire currently has loads of content and lots of polish. We want to use Early Access to make it even better. We will be releasing updates every two weeks with new content, fixes, and incorporating feedback. To thank our supporters, Slay the Spire will be discounted during EA!
+[b]TL;DR:[/b] Дочасний доступ дозволяє отримати відгуки від вас, та зробити «Slay the Spire» ще кращою. Ми будемо оновлювати гру кожні два тижні, з новим вмістом та поправками всяких ґлюків. Щоб подякувати нашим гравцям, «Slay the Spire» буде малоцінна у дочасному доступі!
 
 -------------------------------------------------------------------------------------------------------
 
-We believe that games that make best use of Early Access are the ones that actively engage with their communities. Frequent updates based on feedback and community input is exactly what we want to provide. By putting Slay the Spire into the hands of the players, we can make an already fun experience even better.
+Ми вважаємо що ігри, які найкраще використовують ранній доступ - це ті, які активно прислухуються до своїх спільнот. Часті оновлення, базуючись на відгуки та критику до спільноти, є нашою метою. Передавши «Slay the Spire», в руки гравців, ми можемо зробити веселу гру ще кращою.
 
 
 
-The game will be in Early Access for around 4-8 months. We have been working on Slay the Spire for over 2 years, and believe that this is the amount of time needed to finish up the game with all of the content and polish that we want.
+Гра залишиться у дочасному доступі десь 4-8 місяців. Ми працювали над нею вже більше 2 років, та віримо що ці пів року достатньо щоб закінчити гру.
 
 
 
-The full version will have lots of additional and improved content, including a new character with an entirely new card set. Leaderboards, daily runs, and social features will be incorporated as the community grows. We will be directly looking to the community to determine how and when new features and content gets added.
+Повна гра буде мати багацько вмісту, включаючи нового героя, з повністю новим набором карт. Лідерське табло, щоденний виклик, будуть додані з часом. Ми будемо безпосередньо звертатися до спільноти, задля визначення, як і коли додаватиметься новий вміст.
 
 
 
-Currently there are:
+На зараз, є:
 
 [list]
-[*]Two core characters that each have their own unique set of cards.
-[*]~200 cards, most with unique upgrades.
-[*]50+ unique combat encounters.
-[*]9 different bosses
-[*]100+ different items to be found.
+[*]Два головних героя у яких є безліч власний, унікальних карт.
+[*]~200 повністю реалізованих карт.
+[*]50+ унікальні боїв.
+[*]9 різних босів
+[*]100+ предметів.
 [/list]
 
-At the current stage, Slay the Spire already has tons of content to explore and great replayability. Right now, fully beating the game takes an average of about 15-30 hours. The main focus of Early Access will be harnessing community feedback to improve the game even further.
+«Slay the Spire» вже має превеликий вміст яку цікаво перегравати. На сей час, повне проходження гри займає в середньому 15-30 годин. Протягом дочасного доступу, ми плануємо використовувати Ваші відгуки для подальшого вдосконалення гри.
 
 
 
 
 
-Yes. Early Access supporters will receive a lower price. We plan to raise the price when the full game is released.
+Так. Прихильники дочасного доступу отримують гри дешевше. Ми плануємо підняти ціну, коли вийде повна гра.
 
 
 
 
-Working with the community is the heart of why Slay the Spire is going Early Access. Throughout the Early Access process we will be working with the community to improve the game.
+Праця з спільнотою є основою дочасного доступу. Протягом дочасного доступу, ми будемо працювати з спільнотою для вдосконалення гри.
 
-[b]Content:[/b]
-Community members will have the chance to have their own card ideas implemented into Slay the Spire! Details on this will be coming soon. 
+[b]Вміст:[/b]
+Спілчани матимуть можливість реалізації власних ідеї у грі! Детальніше про це найближчим часом.. 
 
-[b]Balancing:[/b]
-Nobody is better at discovering broken strategies than a thriving community. Through listening to your feedback, balance will be continually refined.
+[b]Баланс:[/b]
+Ніхто краще не винайме «імбові», незбалансовані поєднання карт/стратегії, ніж процвітаюча спільнота. Завдяки Вашим відгукам, баланс буде постійно вдосконалюватися.
 
-[b]Suggestions:[/b]
-All ideas and feedback will be welcomed and seriously looked at. Maybe your sweet card idea will even make it into the game! 
+[b]Ідеї:[/b]
+Всі ідеї та відгуки вітаються та серйозно розглядаються. Можливо, Ваша смачненька карта навіть потрапить у гру! 
 
-[b]Bugs:[/b]
-For the last 2 years we have been tirelessly fixing bugs with a team of internal testers. However, with so many permutations of cards and new content coming in, there is bound to be more issues. We believe that having a bug free experience is key in immersing yourself into the game. 
+[b]Хиби:[/b]
+Останні 2 роки, ми невтомно виправляли хиби та ґлюки, з командою внутрішніх тестерів. Однак, з безліччю різних поєднань та новим вмістом, завжди буде більше проблем. Ми вважаємо, що безхибна гра це ключ до успіху. 
 
-[b]Translation:[/b]
-With so many cards (and text) there is a lot to translate. We want Slay the Spire to be seen by as many people around the world as possible, and we cannot do it without community support. Players that understand the game on a deep and technical level always create better translations than outsourcing to non-players. Stay tuned for more.
+[b]Переклад:[/b]
+З великою кількістю карт (і тексту), у грі завжди знайдеться щось перекласти. Ми хочемо, щоб «Slay the Spire» побачили якомога більше людей, по всьому світу, і це неможливо без підтримки спільноти. Гравці, які розуміють гру глибше - на технічному рівні, завжди створять кращий переклад, ніж підряд не-гравцям.

@@ -107,6 +107,7 @@ if __name__ == "__main__":
 
     if len(errors) == 0:
         print("SUCCESS. No errors found.")
+        x = input()
         sys.exit(0)
     else:
         error_count = len(errors)
@@ -123,4 +124,5 @@ if __name__ == "__main__":
         print(msg)
         with open('validation_results.txt', 'w') as f:
             f.write("\n\n".join(error_format(errors, limit=sys.maxsize)))
+        x = input()
         sys.exit(1)
