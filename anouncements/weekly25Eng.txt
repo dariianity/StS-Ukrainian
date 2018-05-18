@@ -1,0 +1,66 @@
+Headline: Weekly Patch 25: Building Blocks
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/379e06c6a4cc0224f0098f76047b40dfdbc49f25.jpg[/img]
+
+Hey everyone,
+
+It's nice and sunny here in Seattle.
+This week's work was focused on balance, reworks, and bug fixes. Too many random issues were beginning to rack up.
+
+[h1]Third Character[/h1]
+We now have about 60/75 card art completed and we're putting on the final balance touches. Keep in mind that balance and changes will still occur after the character is released into the main branch.
+
+[h1]Controller Support[/h1]
+Work has begun to add controller support. Slay the Spire from a couch! Those who play 12 hours a day can also give your wrists a break (Tip: Remember to take a break every now and then). Our aim is to make it as intuitive and customizable as we can!
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/679c94c4f403e18ed822780ebc3c07bb430ae583.gif[/img]
+
+[b]Patch Notes[/b]
+
+[h1]Content[/h1]
+[list]
+[*]New common relic Potion Belt.
+[*]New common relic The Boot.
+[/list]
+
+[h1]Balance[/h1]
+[list]
+[*]Prayer Wheel relic reworked and is now rare.
+[*]Regen potion gets an overhaul. It now acts like Poison, but heals.
+[*]Fruit Juice can now be used outside of combat.
+[*]Fruit Juice will no longer spawn from Alchemize.
+[*]Entropic Brew can no longer spawn Fruit Juice.
+[*]Entropic Brew now spawns potions similarly to Alchemize now (considers rarity).
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Awakened One no longer incorrectly regenerates to 10 HP if killed by thorn type effects.
+[*]Bronze Automaton combat now has enemies correctly attacking from left to right.
+[*]Card picks in Run History screen now show card names rather than ID.
+[*]Correctly show skipped cards in Run History screen
+[*]Entropic Brew now always gives you potions equal to your potion slot count.
+[*]Eviscerate card now has correct cost when returned from Stasis power.
+[*]Fixed issue where Save & Exit could re-roll certain events at ? rooms.
+[*]Fixed issue where White Beast relic would still spawn on Brewmaster Daily.
+[*]Game now saves after receiving cards from Pandora's Box and Astrolabe via Neow so your cards don't vanish.
+[*]Mysterious Sphere event enemies now attack in the correct order
+[*]Smoke Potion can no longer be incorrectly used outside of combat. (Can still be discarded)
+[*]Snecko Oil wording fix for high ascension levels.
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Gambler's Brew (Potion) gets an updated color/shape.
+[*]Dexterity Potion shape updated to match Strength Potion.
+[*]Tiny House relic wording improved.
+[*]Black Star relic wording update to be more consistent with other relics.
+[*]Cauldron and Old Coin wording improved to match other relics.
+[*]HP-gain relics (Fruit & Waffle) now have consistent pickup wording.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Renaming SRB-CYR to SRP and SRB-LAT to SRB as it was causing crashes.
+[*]Updates for DEU, ITA, JPN, POL, RUS, SRB, SRP, UKR, ZHS, ZHT.
+[/list]
