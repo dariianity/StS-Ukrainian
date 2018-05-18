@@ -11,7 +11,7 @@ Attack - Атак(-увати)
 Apply - Наносить
 Automaton - Робіт
 Bash - удар
-Block - Блок
+Block - Броня
 Button - ґудзик
 Character - Герой
 Channeled - спрямованих (-на)
@@ -32,12 +32,12 @@ Dexterity - Спритність
 Dig - (від)Копати
 Discard - У відбій
 Discard Pile - Відбій
-Draw - тасують(-ється) / тасуєте
+Draw - берете / наберіть
 Drop - залишають по собі
 Ethereal - примарний
 Egg - Яйко
-Evoke - У/Вжити
-Exhaust - виснажені(-а/-е) / Виснажує / Виснажується / Виснаж
+Evoke - Призвати / призивається (сфери)
+Exhaust - спалює / спалюється
 Focus - зосередження
 For (x turns) - Наступні
 Frail - кволий
@@ -53,19 +53,18 @@ Map - мапа (НЕ карта)
 Merchant - Торговець
 Negate - анулювати (Анулюєте)
 Obtain - отримуєте
-Orb - Куля
+Orb - сфера
 Poison - Отрута(-у)
 Potion - зілля
-Power - снага
+Power - талант
 Put - кладе / додає
 Relic - амулет
 Retain - заховати
-Remove - усунути
+Remove - скинути
 Rest - (відпочиваєте у) Таборі
 Rest Sites - Табори
 Score - Рахунок
 Shop - Крамниці
-Shuffle - тасують(-ється)
 Silent - Тінь
 Skill - Вміння
 Slime - слимак
