@@ -78,6 +78,7 @@ Strength - міць
 Spire - Вежа
 Spireblight - забруднення вежею / чумою (???)
 Take (damage) - отримуєте / зазнаючи
+Thorns - шипи
 Transform - Перетвори
 Treasure - Скарби 
 Treasure Rooms - Скарбниця
