@@ -27,7 +27,8 @@
   },
   "LOC_CAT": {
     "HEADER": "Каталонська Локалізація",
-    "NAMES": []
+    "NAMES": [
+	]
   },
   "LOC_DEU": {
     "HEADER": "Німецька Локалізація",
@@ -36,7 +37,8 @@
       "Dustin \"Skrelpoid\" Kristen",
       "Jonas Trodler",
       "Hongkong Koma",
-      "Moly"
+      "Moly",
+      "koykoy13"
     ]
   },
   "LOC_FRA": {
@@ -53,6 +55,12 @@
       "Hugo \"Tagadda\" Vurpillot",
       "Corentin \"Tchus\" Monfort",
       "Zachary \"WyvernZed\" Janisse"
+    ]
+  },
+  "LOC_GRE": {
+    "HEADER": "Грецька Локалізація",
+    "NAMES": [
+      "Kotsos \"Iglor\" Diamond"
     ]
   },
   "LOC_ITA": {
@@ -143,7 +151,7 @@
   "LOC_SRB": {
     "HEADER": "Сербська Локалізація",
     "NAMES": [
-      "Nikola \"hauzer\" Vukosavljević"
+      "Nikola \"hauzer\" Vukosavljevic"
     ]
   },
   "LOC_TUR": {

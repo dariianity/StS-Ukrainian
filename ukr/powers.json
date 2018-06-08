@@ -277,6 +277,15 @@
       " зіграна карти у кожному русі, граються двічі."
     ]
   },
+  "EnergizedBlue": {
+    "NAME": "Пробудження",
+    "DESCRIPTIONS": [
+      "Отримуєте #b",
+      " додаткову [B] у наступному руху.",
+      " додаткові [B] у наступному руху.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
   "Electro": {
     "NAME": "Електро",
     "DESCRIPTIONS": [
@@ -285,7 +294,6 @@
       ""
     ]
   },
-
   "Energized": {
     "NAME": "Пробудження",
     "DESCRIPTIONS": [
