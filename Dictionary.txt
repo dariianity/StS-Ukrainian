@@ -14,6 +14,7 @@ Attack - Атак(-увати)
 Apply - Наносить
 Automaton - Робіт
 Bash - удар
+Blight - Моровиця
 Block - Броня
 Button - ґудзик
 Character - Герой
@@ -63,7 +64,7 @@ Power - талант
 Put - кладе / додає
 Relic - амулет
 Retain - заховати
-Remove - скинути
+Remove - скинути / усунути
 Rest - (відпочиваєте у) Таборі
 Rest Sites - Табори
 Score - Рахунок
@@ -98,7 +99,7 @@ Elite = еліта(-ні) = Difficult encounters that give you a relic.
 Normal = Just a normal enemy encounter.
 
 draw pile = добір
-discard pile = відбій (варіанти заміни? бо то здається калька з кацапської)
+discard pile = відбій
 deck = колода
 
 
