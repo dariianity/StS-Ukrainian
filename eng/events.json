@@ -425,7 +425,7 @@
       "No need to be greedy."
     ],
     "OPTIONS": [
-      "[Open Sphere] #rFight. #gReward: #gRelic.",
+      "[Open Sphere] #rFight. #gReward: #gRare #gRelic.",
       "[Leave]",
       "[Fight]"
     ]
@@ -815,6 +815,19 @@
 	  " #gGold.",
       "[Leave]",
       "[Continue]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
+      "ENJOY YOUR NEW FACE!"
+    ],
+    "OPTIONS": [
+      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
+      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
+      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
+	  "[Leave]"
     ]
   }
 }
