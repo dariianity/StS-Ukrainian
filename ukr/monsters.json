@@ -216,11 +216,29 @@
       ""
     ]
   },
+  "Dagger": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Колодач",
+    "DIALOG": [
+      ""
+    ]
+  },
   "FlameBruiser": {
     "MOVES": [
       ""
     ],
     "NAME": "Вогняний гостець",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Reptomancer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Рептомант",
     "DIALOG": [
       ""
     ]
