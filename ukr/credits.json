@@ -27,8 +27,7 @@
   },
   "LOC_CAT": {
     "HEADER": "Каталонська Локалізація",
-    "NAMES": [
-	]
+    "NAMES": []
   },
   "LOC_DEU": {
     "HEADER": "Німецька Локалізація",
@@ -61,6 +60,14 @@
     "HEADER": "Грецька Локалізація",
     "NAMES": [
       "Kotsos \"Iglor\" Diamond"
+    ]
+  },
+  "LOC_IND": {
+    "HEADER": "Індонезійська Локалізація",
+    "NAMES": [
+      "Aditya \"RiSQ.\" Arifin",
+      "Daryan \"Samus\" Ramadhany",
+      "Szaal"
     ]
   },
   "LOC_ITA": {
@@ -161,21 +168,25 @@
       "Erdem Gürbüz"
     ]
   },
+  "LOC_UKR": {
+    "HEADER": "Українська Локалізація",
+    "NAMES": [
+      "Vladyslav \"DarkXylese\" Kashtelyanov"
+    ]
+  },
   "LOC_ZHS": {
     "HEADER": "Китайська (Спрощена) Локалізація",
     "NAMES": [
       "Sound of Mystery"
     ]
   },
-  "LOC_UKR": {
-    "HEADER": "Українська Локалізація",
-    "NAMES": [
-      "Vladyslav \"DarkXylese\" Kashtelyanov"
-	]
-  },
   "LOC_ZHT": {
     "HEADER": "Китайська (Традиційна) Локалізація",
-    "NAMES": []
+    "NAMES": [
+      "professor",
+      "bowans",
+      "Angryfox"
+    ]
   },
   "OPS": {
     "HEADER": "Операції та Метрика",
@@ -240,7 +251,7 @@
       "Merijn van der Vliet",
       "David Von Derau",
       "Conor Watson",
-	  "David \"divadus\" Withington"
+      "David \"divadus\" Withington"
     ]
   },
   "THANKS_MSG": {

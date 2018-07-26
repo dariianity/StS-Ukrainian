@@ -151,6 +151,14 @@
       " damage."
     ]
   },
+  "CorpseExplosionPower": {
+    "NAME": "Corpse Explosion",
+    "DESCRIPTIONS": [
+      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
+      "When this enemy dies, deal damage to ALL enemies equal to #b",
+      " times its Max HP."
+    ]
+  },
   "Corruption": {
     "NAME": "Corruption",
     "DESCRIPTIONS": [
@@ -316,6 +324,14 @@
       " #yPoison."
     ]
   },
+  "Equilibrium": {
+    "NAME": "Equilibrium",
+    "DESCRIPTIONS": [
+      "Retain your hand this turn.",
+      "Retain your hand for #b",
+      " turns."
+    ]
+  },
   "Evolve": {
     "NAME": "Evolve",
     "DESCRIPTIONS": [
@@ -339,6 +355,14 @@
       "Draw #b1 more card next turn.",
       "Draw #b",
       " extra cards next turn."
+    ]
+  },
+  "Fading": {
+    "NAME": "Fading",
+    "DESCRIPTIONS": [
+      "Dies in #b",
+      " turns.",
+      "Dies this turn."
     ]
   },
   "Feel No Pain": {
@@ -587,6 +611,12 @@
       "You cannot draw cards until end of turn."
     ]
   },
+  "NoBlockPower": {
+    "NAME": "No Block",
+    "DESCRIPTIONS": [
+      "You cannot gain #yBlock from cards."
+    ]
+  },
   "Noxious Fumes": {
     "NAME": "Noxious Fumes",
     "DESCRIPTIONS": [
@@ -776,6 +806,13 @@
       " damage."
     ]
   },
+  "Shifting": {
+    "NAME": "Shifting",
+    "DESCRIPTIONS": [
+      "Whenever ",
+      " takes damage, it loses that much #yStrength until the end of the turn."
+    ]
+  },
   "Shriek From Beyond": {
     "NAME": "Shriek From Beyond",
     "DESCRIPTIONS": [
@@ -879,6 +916,13 @@
       " #yStrength."
     ]
   },
+  "TimeMazePower": {
+    "NAME": "Time Maze",
+    "DESCRIPTIONS": [
+      "Whenever you play #b",
+      " cards, your turn is ended"
+    ]
+  },
   "Tools Of The Trade": {
     "NAME": "Tools Of The Trade",
     "DESCRIPTIONS": [
@@ -931,50 +975,6 @@
     "DESCRIPTIONS": [
       "At the end of your turn, lose #b",
       " #yDexterity."
-    ]
-  },
-  "Equilibrium": {
-    "NAME": "Equilibrium",
-    "DESCRIPTIONS": [
-      "Retain your hand this turn.",
-      "Retain your hand for #b",
-      " turns."
-    ]
-  },
-  "Fading": {
-    "NAME": "Fading",
-    "DESCRIPTIONS": [
-      "Dies in #b",
-      " turns.",
-      "Dies this turn."
-    ]
-  },
-  "Shifting": {
-    "NAME": "Shifting",
-    "DESCRIPTIONS": [
-      "Whenever ",
-      " takes damage, it loses that much #yStrength until the end of the turn."
-    ]
-  },
-  "TimeMazePower": {
-    "NAME": "Time Maze",
-    "DESCRIPTIONS": [
-      "Whenever you play #b",
-      " cards, your turn is ended"
-    ]
-  },
-  "NoBlockPower": {
-    "NAME": "No Block",
-    "DESCRIPTIONS": [
-      "You cannot gain #yBlock from cards."
-    ]
-  },
-  "CorpseExplosionPower": {
-    "NAME": "Corpse Explosion",
-    "DESCRIPTIONS": [
-      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
-	  "When this enemy dies, deal damage to ALL enemies equal to #b",
-	  " times its Max HP."
     ]
   }
 }

@@ -280,6 +280,10 @@
     "NAME": "Combust",
     "DESCRIPTION": "At the end of your turn, lose 1 HP and deal !M! damage to ALL enemies."
   },
+  "Compile Driver": {
+    "NAME": "Compile Driver",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card for each unique Orb you have."
+  },
   "Concentrate": {
     "NAME": "Concentrate",
     "DESCRIPTION": "Discard !M! cards. NL Gain [G] [G]."
@@ -296,6 +300,10 @@
     "NAME": "Coolheaded",
     "DESCRIPTION": "Channel 1 Frost. NL Draw !M! card.",
     "UPGRADE_DESCRIPTION": "Channel 1 Frost. NL Draw !M! cards."
+  },
+  "Core Surge": {
+    "NAME": "Core Surge",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
   },
   "Corpse Explosion": {
     "NAME": "Corpse Explosion",
@@ -390,6 +398,11 @@
   "Disarm": {
     "NAME": "Disarm",
     "DESCRIPTION": "Enemy loses !M! Strength. NL Exhaust."
+  },
+  "Discovery": {
+    "NAME": "Discovery",
+    "DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn."
   },
   "Distraction": {
     "NAME": "Distraction",
@@ -572,6 +585,10 @@
     "NAME": "Force Field",
     "DESCRIPTION": "Costs 1 less [B] for each Power card played this combat. NL Gain !B! Block."
   },
+  "Forethought": {
+    "NAME": "Forethought",
+    "DESCRIPTION": "Place a card from your hand on the bottom of your draw pile. NL It costs 0 until it is played."
+  },
   "Fusion": {
     "NAME": "Fusion",
     "DESCRIPTION": "Channel !M! Plasma."
@@ -614,6 +631,10 @@
     "NAME": "Grand Finale",
     "DESCRIPTION": "Can only be played if there are no cards in your draw pile. NL Deal !D! damage to ALL enemies.",
     "UPGRADE_DESCRIPTION": "My draw pile NL must be #rEmpty."
+  },
+  "HandOfGreed": {
+    "NAME": "Hand Of Greed",
+    "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
   },
   "Havoc": {
     "NAME": "Havoc",
@@ -667,6 +688,10 @@
   "Immolate": {
     "NAME": "Immolate",
     "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Add a Burn to your discard pile."
+  },
+  "Impatience": {
+    "NAME": "Impatience",
+    "DESCRIPTION": "If you have no Attack cards in your hand, draw !M! cards."
   },
   "Impervious": {
     "NAME": "Impervious",
@@ -735,7 +760,7 @@
   "Loop": {
     "NAME": "Loop",
     "DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb.",
-	"UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
+    "UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
   },
   "Machine Learning": {
     "NAME": "Machine Learning",
@@ -822,7 +847,7 @@
       " cards per turn.",
       " cards per turn. NL You have played ",
       " card this turn.",
-	  " cards this turn."
+      " cards this turn."
     ]
   },
   "Nova": {
@@ -840,8 +865,8 @@
   },
   "Offering": {
     "NAME": "Offering",
-    "DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
+    "DESCRIPTION": "Lose 5 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Lose 5 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
   },
   "Outmaneuver": {
     "NAME": "Outmaneuver",
@@ -864,6 +889,10 @@
   "Panache": {
     "NAME": "Panache",
     "DESCRIPTION": "Every time you play 5 cards in a single turn, deal !M! damage to ALL enemies."
+  },
+  "PanicButton": {
+    "NAME": "Panic Button",
+    "DESCRIPTION": "Gain !B! Block. You cannot gain Block from cards for the next !M! turns. NL Exhaust."
   },
   "Parasite": {
     "NAME": "Parasite",
@@ -903,6 +932,10 @@
     "NAME": "Prepared",
     "DESCRIPTION": "Draw !M! card. NL Discard !M! card.",
     "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Discard !M! cards."
+  },
+  "Pride": {
+    "NAME": "Pride",
+    "DESCRIPTION": "Innate. Exhaust. NL At the end of your turn, place a copy of this card on top of your draw pile."
   },
   "Prime": {
     "NAME": "Prime",
@@ -994,6 +1027,10 @@
   "Rip and Tear": {
     "NAME": "Rip and Tear",
     "DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
+  },
+  "RitualDagger": {
+    "NAME": "Ritual Dagger",
+    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. NL Exhaust."
   },
   "Rupture": {
     "NAME": "Rupture",
@@ -1166,8 +1203,8 @@
   },
   "Tactician": {
     "NAME": "Tactician",
-    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, NL gain [G].",
-    "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, NL gain [G] [G].",
+    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G].",
+    "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "I can't play this card."
     ]
@@ -1252,6 +1289,10 @@
     "NAME": "Alchemize",
     "DESCRIPTION": "Obtain a random potion. NL Exhaust."
   },
+  "Violence": {
+    "NAME": "Violence",
+    "DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand. NL Exhaust."
+  },
   "Void": {
     "NAME": "Void",
     "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
@@ -1297,29 +1338,5 @@
   "Zap": {
     "NAME": "Zap",
     "DESCRIPTION": "Channel !M! Lightning."
-  },
-  "Core Surge": {
-    "NAME": "Core Surge",
-    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
-  },
-  "Compile Driver": {
-    "NAME": "Compile Driver",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card for each unique Orb you have."
-  },
-  "RitualDagger": {
-    "NAME": "Ritual Dagger",
-    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
-  },
-  "Pride": {
-    "NAME": "Pride",
-    "DESCRIPTION": "Innate. Exhaust. NL At the end of your turn, place a copy of this card on top of your draw pile."
-  },
-  "PanicButton": {
-    "NAME": "Panic Button",
-    "DESCRIPTION": "Gain !B! Block. You cannot gain Block from cards for the next !M! turns. NL Exhaust."
-  },
-  "HandOfGreed": {
-    "NAME": "Hand Of Greed",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
   }
 }

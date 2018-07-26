@@ -27,9 +27,8 @@
   },
   "LOC_CAT": {
     "HEADER": "Catalan Localization",
-    "NAMES": [
-    ]
-  },  
+    "NAMES": []
+  },
   "LOC_DEU": {
     "HEADER": "German Localization",
     "NAMES": [
@@ -61,6 +60,14 @@
     "HEADER": "Greek Localization",
     "NAMES": [
       "Kotsos \"Iglor\" Diamond"
+    ]
+  },
+  "LOC_IND": {
+    "HEADER": "Indonesian Localization",
+    "NAMES": [
+      "Aditya \"RiSQ.\" Arifin",
+      "Daryan \"Samus\" Ramadhany",
+      "Szaal"
     ]
   },
   "LOC_ITA": {
@@ -164,7 +171,7 @@
   "LOC_UKR": {
     "HEADER": "Ukrainian Localization",
     "NAMES": [
-    	"Vladyslav \"DarkXylese\" Kashtelyanov"
+      "Vladyslav \"DarkXylese\" Kashtelyanov"
     ]
   },
   "LOC_ZHS": {
@@ -175,7 +182,11 @@
   },
   "LOC_ZHT": {
     "HEADER": "Chinese (Traditional) Localization",
-    "NAMES": []
+    "NAMES": [
+      "professor",
+      "bowans",
+      "Angryfox"
+    ]
   },
   "OPS": {
     "HEADER": "Operations & Metrics",
@@ -240,7 +251,7 @@
       "Merijn van der Vliet",
       "David Von Derau",
       "Conor Watson",
-	  "David \"divadus\" Withington"
+      "David \"divadus\" Withington"
     ]
   },
   "THANKS_MSG": {
