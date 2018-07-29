@@ -180,6 +180,24 @@
       "Select a Card to Duplicate."
     ]
   },
+  "FaceTrader": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "You walk by an eerie statue holding several masks... NL Something behind you softly whispers, NL ~\"Stop.\"~",
+      "You swerve around to face the statue which is now facing you! NL On closer inspection, it's not a statue but a statuesque, gaunt man. Is he even breathing? NL NL ~\"Face.~ ~Let~ ~me~ ~touch?~ ~Maybe~ ~trade?\"~",
+      "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL While he touches your face, you begin to feel your life drain out of it! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape. NL NL His face was completely blank.",
+      "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL You see one of his arms flicker, and your face is in its hand! Your face has been swapped. NL NL ~\"Nice~ ~face.~ ~Nice~ ~face.\"~",
+      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~stop.\"~ NL NL This was probably the right call."
+    ],
+    "OPTIONS": [
+      "[Touch] #rLose #r",
+      " #gGold.",
+      "[Trade] #g50%: #gGood #gFace. #r50%: #rBad #rFace.",
+      "[Leave]",
+      "[Continue]",
+      " #rHP, #ggain #g"
+    ]
+  },
   "Falling": {
     "NAME": "Falling",
     "DESCRIPTIONS": [
@@ -188,7 +206,7 @@
       "You land with extreme grace before continuing on.",
       "Harnessing and expending some of your raw power, you manage to land unhurt.",
       "You are able to latch on to the wall, and manage to make a short hop onto another stable platform.",
-	  "You seem to fall as slow as a feather, reaching the bottom without a scratch."
+      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
     ],
     "OPTIONS": [
       "[Continue]",
@@ -199,7 +217,7 @@
       "[Strike] #rLose ",
       "[Locked] Requires: Attack Card",
       "[Leave]",
-	  "[Land] "
+      "[Land] "
     ]
   },
   "Forgotten Altar": {
@@ -402,6 +420,21 @@
       "Remaining Attempts: #y"
     ]
   },
+  "MindBloom": {
+    "NAME": "Mind Bloom",
+    "DESCRIPTIONS": [
+      "While walking and traversing through the chaos of the Spire, your thoughts suddenly begin to feel very... #p~real...~ NL NL Imaginings of #rmonsters and #yriches begin to manifest themselves into reality. NL The sensation is quickly fleeting. What do you do?",
+      "Can it really be this easy?",
+      "Everything makes sense now. NL The lack of memories, the ascent, the #yAncient #yOne. NL NL This is the way it always was. NL This is the way it always will be. NL All will be forgotten again soon..."
+    ],
+    "OPTIONS": [
+      "[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gReceive #ga #gRare #gRelic.",
+      "[I am Rich] #gGain #g999 #gGold. #rCursed #r- #r2 #rNormality.",
+      "[I am Healthy] #gHeal #gto #gfull #gHP. #rCursed #r- #rDoubt.",
+      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
+      "[Leave]"
+    ]
+  },
   "Mushrooms": {
     "NAME": "Mushrooms",
     "DESCRIPTIONS": [
@@ -440,6 +473,41 @@
     "OPTIONS": [
       "[Offer: ",
       "] #rLose #rthis #rrelic. #gGain #ga #gnew #gspecial #grelic.",
+      "[Leave]"
+    ]
+  },
+  "Nest": {
+    "NAME": "The Nest",
+    "DESCRIPTIONS": [
+      "A long line of #b~hooded~ #b~figures~ can be seen entering NL an #punassuming #pcathedral.",
+      "Naturally, you join the line and are quickly surrounded by #rCultists! NL They ignore you as they gleefully @chant@ and ~wave~ their weapons around. NL NL #r@\"MURDER!!@ #r@MURDER@ #r@MURDER!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"MURDER!@ #r@MURDER@ #r@MUURDER!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL You eye a #yDonation #yBox...",
+      "You decide to stay in line (out of fear) to see what will happen. NL NL Eventually, you are face-to-face with the leader. A well-dressed cultist hands you an #yOrnate #yDagger. Like the others before you, you slash your forearm and let the blood drip into an misshapen bowl. NL NL The cultists @chant@ and @holler@ for you! NL NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL You chant, too. Why not?",
+      "They didn't even notice.",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Stay in Line] #gObtain Ritual Dagger. #rLose #r",
+      " #rHP.",
+      "[Smash and Grab] #gObtain #g",
+      " #gGold.",
+      "[Leave]",
+      "[Continue]"
+    ]
+  },
+  "NoteForYourself": {
+    "NAME": "A Note For Yourself",
+    "DESCRIPTIONS": [
+      "You spot a loose brick within a pillar that catches your eye.",
+      "You find a folded note and a #ycard inside. It reads, NL \"The Heart awaits.\" NL NL This is your handwriting.",
+      "Choose a Card to Store.",
+      "What is going on?"
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      "[Take and Give] #gReceive ",
+      " #gand #gStore #ga #gCard.",
+      "[Ignore]",
       "[Leave]"
     ]
   },
@@ -725,6 +793,29 @@
       "[Leave]"
     ]
   },
+  "WeMeetAgain": {
+    "NAME": "We Meet Again!",
+    "DESCRIPTIONS": [
+      "\"We meet again!\" NL A cheery disheveled fellow approaches you gleefully. You do not know this man. NL NL \"It's me, #yRanwid! Have any goods for me today? The usual? A fella like me can't make it alone, you know?\" NL You eye him suspiciously and consider your options...",
+      "\"Exquisite! Was feeling parched.\" NL #b~Glup~ #b~glup~ #b~glup~ NL NL He downs the potion in one go and lets out a satisfied @burp.@",
+      "\"Magnificent! This will be quite handy if I run into those #rmask #rwearing #rhoodlums again.\"",
+      "\"Exemplary! I shall study this further in my chambers.\"",
+      "\" @Aaaaagghh!!@ What a jerk you are sometimes! NL He runs away.",
+      "  NL NL He rummages around his various pockets... NL \"Here, look what I've got for you today! Take it take it!\""
+    ],
+    "OPTIONS": [
+      "[Give Potion] #rLose ",
+      "[Locked] Requires: Potion.",
+      "[Give Gold] #rLose #r",
+      "[Locked] Requires: At least 50 Gold.",
+      "[Give Card] #rLose ",
+      "[Locked] Requires: Card.",
+      ". #gReceive #ga #gRelic.",
+      "[Attack]",
+      "[Leave]",
+      " #rGold"
+    ]
+  },
   "Wheel of Change": {
     "NAME": "Wheel of Change",
     "DESCRIPTIONS": [
@@ -781,58 +872,6 @@
       "[Leave It] #rLose #r",
       " #rGold.",
       "[Leave]"
-    ]
-  },
-  "MindBloom": {
-    "NAME": "Mind Bloom",
-    "DESCRIPTIONS": [
-      "While walking and traversing through the chaos of the Spire, your thoughts suddenly begin to feel very... #p~real...~ NL NL Imaginings of #rmonsters and #yriches begin to manifest themselves into reality. NL The sensation is quickly fleeting. What do you do?",
-      "Can it really be this easy?",
-      "Everything makes sense now. NL The lack of memories, the ascent, the #yAncient #yOne. NL NL This is the way it always was. NL This is the way it always will be. NL All will be forgotten again soon..."
-    ],
-    "OPTIONS": [
-      "[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gReceive #ga #gRare #gRelic.",  
-      "[I am Rich] #gGain #g999 #gGold. #rCursed #r- #r2 #rNormality.",
-      "[I am Healthy] #gHeal #gto #gfull #gHP. #rCursed #r- #rDoubt.",
-      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
-      "[Leave]"
-    ]
-  },
-  "Nest": {
-    "NAME": "The Nest",
-    "DESCRIPTIONS": [
-      "A long line of #b~hooded~ #b~figures~ can be seen entering NL an #punassuming #pcathedral.",
-      "Naturally, you join the line and are quickly surrounded by #rCultists! NL They ignore you as they gleefully @chant@ and ~wave~ their weapons around. NL NL #r@\"MURDER!!@ #r@MURDER@ #r@MURDER!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"MURDER!@ #r@MURDER@ #r@MUURDER!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL You eye a #yDonation #yBox...",
-      "You decide to stay in line (out of fear) to see what will happen. NL NL Eventually, you are face-to-face with the leader. A well-dressed cultist hands you an #yOrnate #yDagger. Like the others before you, you slash your forearm and let the blood drip into an misshapen bowl. NL NL The cultists @chant@ and @holler@ for you! NL NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL You chant, too. Why not?",
-      "They didn't even notice.",
-      "",
-      ""
-    ],
-    "OPTIONS": [
-      "[Stay in Line] #gObtain Ritual Dagger. #rLose #r",
-      " #rHP.",
-      "[Smash and Grab] #gObtain #g",
-	  " #gGold.",
-      "[Leave]",
-      "[Continue]"
-    ]
-  },
-  "FaceTrader": {
-    "NAME": "Face Trader",
-    "DESCRIPTIONS": [
-      "You walk by an eerie statue holding several masks... NL Something behind you softly whispers, NL ~\"Stop.\"~",
-      "You swerve around to face the statue which is now facing you! NL On closer inspection, it's not a statue but a statuesque, gaunt man. Is he even breathing? NL NL ~\"Face.~ ~Let~ ~me~ ~touch?~ ~Maybe~ ~trade?\"~",
-      "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL While he touches your face, you begin to feel your life drain out of it! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape. NL NL His face was completely blank.",
-      "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL You see one of his arms flicker, and your face is in its hand! Your face has been swapped. NL NL ~\"Nice~ ~face.~ ~Nice~ ~face.\"~",
-      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~stop.\"~ NL NL This was probably the right call."
-    ],
-    "OPTIONS": [
-      "[Touch] #rLose #r",
-      " #gGold.",
-      "[Trade] #g50%: #gGood #gFace. #r50%: #rBad #rFace.",
-      "[Leave]",
-	  "[Continue]",
-	  " #rHP, #ggain #g"
     ]
   }
 }

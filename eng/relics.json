@@ -97,11 +97,19 @@
       " HP and #yExhausts the card."
     ]
   },
+  "Boot": {
+    "NAME": "The Boot",
+    "FLAVOR": "When wound up, the boot grows larger in size.",
+    "DESCRIPTIONS": [
+      "Whenever you would deal #b",
+      " or less unblocked #yAttack damage, increase it to #b5."
+    ]
+  },
   "Bottled Flame": {
     "NAME": "Bottled Flame",
     "FLAVOR": "Inside the bottle resides a flame that eternally burns.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose an Attack card. At the start of each combat, this card will be in your hand.",
+      "Upon pickup, choose an #yAttack card. At the start of each combat, this card will be in your hand.",
       "Choose a card for ",
       "At the start of each combat, add ",
       " to your hand."
@@ -111,7 +119,7 @@
     "NAME": "Bottled Lightning",
     "FLAVOR": "Peering into the swirling maelstrom, you see a part of yourself staring back.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose a Skill card. At the start of each combat, this card will be in your hand.",
+      "Upon pickup, choose a #ySkill card. At the start of each combat, this card will be in your hand.",
       "Choose a card for ",
       "At the start of each combat, add ",
       " to your hand."
@@ -119,9 +127,9 @@
   },
   "Bottled Tornado": {
     "NAME": "Bottled Tornado",
-    "FLAVOR": "Test relic.",
+    "FLAVOR": "The bottle gently hums and whirs.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose a Power card. At the start of each combat, this card will be in your hand.",
+      "Upon pickup, choose a #yPower card. At the start of each combat, this card will be in your hand.",
       "Choose a card for ",
       "At the start of each combat, add ",
       " to your hand."
@@ -141,6 +149,16 @@
     "DESCRIPTIONS": [
       "At the end of combat, heal #b",
       " HP."
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "Busted Crown",
+    "FLAVOR": "The Champ's crown... or a pale imitation?",
+    "DESCRIPTIONS": [
+      "On Card Reward screens, you have #b2 fewer cards to choose from.",
+      "Gain [R] at the start of each turn. ",
+      "Gain [G] at the start of each turn. ",
+      "Gain [B] at the start of each turn. "
     ]
   },
   "Cables": {
@@ -211,7 +229,8 @@
     "NAME": "Chemical X",
     "FLAVOR": "WARNING: Do not combine with sugar, spice, and everything nice.",
     "DESCRIPTIONS": [
-      "Whenever you play a cost #bX card, its effects are increased by #b"
+      "The effects of your cost #bX cards are increased by #b",
+      "."
     ]
   },
   "Circlet": {
@@ -221,6 +240,23 @@
       "Collect as many as you can."
     ]
   },
+  "ClockworkSouvenir": {
+    "NAME": "Clockwork Souvenir",
+    "FLAVOR": "\"So many intricate gears.\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b1 #yArtifact."
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "Coffee Dripper",
+    "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
+    "DESCRIPTIONS": [
+      "at the start of each turn. You can no longer Rest at Rest Sites.",
+      "Gain [R] ",
+      "Gain [G] ",
+      "Gain [B] "
+    ]
+  },
   "Cracked Core": {
     "NAME": "Cracked Core",
     "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
@@ -228,11 +264,12 @@
       "At the start of each combat, #yChannel #b1 #yLightning."
     ]
   },
-  "FrozenCore": {
-    "NAME": "Frozen Core",
-    "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
+  "CultistMask": {
+    "NAME": "Cultist Headpiece",
+    "FLAVOR": "Part of the Flock!",
     "DESCRIPTIONS": [
-      "Replaces #rCracked #rCore. If you end your turn with empty Orb slots, #yChannel #b1 #yFrost."
+      "You feel more talkative.",
+      "@CAW!@ NL @CAAAW@"
     ]
   },
   "Cursed Key": {
@@ -292,11 +329,19 @@
       "[B] at the start of each turn."
     ]
   },
+  "DollysMirror": {
+    "NAME": "Dolly's Mirror",
+    "FLAVOR": "\"I look funny in this.\"",
+    "DESCRIPTIONS": [
+      "Upon pickup, obtain an additional copy of a card in your deck.",
+      "Choose 1 Card to Copy."
+    ]
+  },
   "Dream Catcher": {
     "NAME": "Dream Catcher",
     "FLAVOR": "The northern tribes would often use dream catchers at night, believing they led to self improvement.",
     "DESCRIPTIONS": [
-      "Whenever you rest, you may add a card to your deck."
+      "Whenever you #yRest, you may add a card to your deck."
     ]
   },
   "Du-Vu Doll": {
@@ -327,6 +372,14 @@
       "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
     ]
   },
+  "Empty Cage": {
+    "NAME": "Empty Cage",
+    "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Upon pickup, remove #b2 cards from your deck.",
+      "Choose 2 Cards to Remove."
+    ]
+  },
   "Enchiridion": {
     "NAME": "Enchiridion",
     "FLAVOR": "The legendary journal of an ancient lich.",
@@ -341,6 +394,13 @@
       "For every #b",
       " cards in your deck, heal #b",
       " HP whenever you enter a Rest Site."
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Face Of Cleric",
+    "FLAVOR": "Everyone loves Cleric.",
+    "DESCRIPTIONS": [
+      "Raise your Max HP by #b1 after each combat."
     ]
   },
   "Frozen Egg": {
@@ -360,9 +420,26 @@
   },
   "Frozen Eye": {
     "NAME": "Frozen Eye",
-    "FLAVOR": "No description.",
+    "FLAVOR": "Staring into the eye, you see a glimpse of your future.",
     "DESCRIPTIONS": [
       "When viewing your #yDraw #yPile, the cards are now shown in order."
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "Frozen Core",
+    "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
+    "DESCRIPTIONS": [
+      "Replaces #rCracked #rCore. If you end your turn with empty Orb slots, #yChannel #b1 #yFrost."
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "Fusion Hammer",
+    "FLAVOR": "Once wielded, the owner can never let go.",
+    "DESCRIPTIONS": [
+      "at the start of each turn. You can no longer Smith at Rest Sites.",
+      "Gain [R] ",
+      "Gain [G] ",
+      "Gain [B] "
     ]
   },
   "Gambling Chip": {
@@ -403,6 +480,20 @@
       "[B] and draw #b1 card."
     ]
   },
+  "GremlinMask": {
+    "NAME": "Gremlin Visage",
+    "FLAVOR": "Time to run.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b1 #yWeak."
+    ]
+  },
+  "HandDrill": {
+    "NAME": "Hand Drill",
+    "FLAVOR": "\"Spirals are dangerous.\"",
+    "DESCRIPTIONS": [
+      "Whenever you break an enemy's #yBlock, apply #b2 #yVulnerable."
+    ]
+  },
   "Happy Flower": {
     "NAME": "Happy Flower",
     "FLAVOR": "This unceasingly joyous plant is a popular novelty item among nobles.",
@@ -413,11 +504,25 @@
       " turns, gain [B] ."
     ]
   },
+  "HoveringKite": {
+    "NAME": "Hovering Kite",
+    "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
+    "DESCRIPTIONS": [
+      "Gain [G] and discard #b2 cards at the start of each turn."
+    ]
+  },
   "Ice Cream": {
     "NAME": "Ice Cream",
     "FLAVOR": "\"Delicious!\"",
     "DESCRIPTIONS": [
       "Energy is now conserved between turns."
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "Incense Burner",
+    "FLAVOR": "The smoke imbues its owner with the spirit of the burned.",
+    "DESCRIPTIONS": [
+      "Every #b5 turns, gain #b1 #yIntangible."
     ]
   },
   "Inserter": {
@@ -505,6 +610,13 @@
       "Gain [R] at the start of each turn. Start combats with #b2 #rWounds in your draw pile."
     ]
   },
+  "Mark of the Bloom": {
+    "NAME": "Mark of the Bloom",
+    "FLAVOR": "In the Beyond, thoughts and reality are one.",
+    "DESCRIPTIONS": [
+      "You can no longer heal."
+    ]
+  },
   "Matryoshka": {
     "NAME": "Matryoshka",
     "FLAVOR": "A stackable set of painted dolls. The paint depicts an unknown bird with white eyes and blue feathers.",
@@ -512,6 +624,21 @@
       "The next #b2 chests you open contain #b2 #yRelics. (Excludes boss chests)",
       "The next chest you open contains #b2 #yRelics. (Excludes boss chests)",
       "This relic has been used up."
+    ]
+  },
+  "MawBank": {
+    "NAME": "Maw Bank",
+    "FLAVOR": "Surprisingly popular, despite maw attacks being a regular occurrence.",
+    "DESCRIPTIONS": [
+      "Whenever you climb a floor, gain #b",
+      " #yGold. No longer works when you spend any #yGold at the shop."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Meal Ticket",
+    "FLAVOR": "\"Complimentary meatballs with every visit!\"",
+    "DESCRIPTIONS": [
+      "Whenever you enter a shop room, heal #b7 HP."
     ]
   },
   "Meat on the Bone": {
@@ -615,6 +742,14 @@
       "#bTriples the chance of receiving rare cards as monster rewards."
     ]
   },
+  "NlothsMask": {
+    "NAME": "N'Loth's Hungry Face",
+    "FLAVOR": "You feel hungry.",
+    "DESCRIPTIONS": [
+      "The next non-boss chest you open is empty.",
+      ""
+    ]
+  },
   "Nuclear Battery": {
     "NAME": "Nuclear Battery",
     "FLAVOR": "Ooooh...",
@@ -627,6 +762,16 @@
     "FLAVOR": "DEPRECATED.",
     "DESCRIPTIONS": [
       "Negate the next #yDebuff you receive from an enemy. NL Recharges in #b10 turns."
+    ]
+  },
+  "Nunchaku": {
+    "NAME": "Nunchaku",
+    "FLAVOR": "A good training tool. Improves the posture and agility of the wielder.",
+    "DESCRIPTIONS": [
+      "Every time you play #b",
+      " #yAttacks, gain [R] .",
+      " #yAttacks, gain [G] .",
+      " #yAttacks, gain [B] ."
     ]
   },
   "Odd Mushroom": {
@@ -658,6 +803,13 @@
       "Negate the next #b2 #rCurses you obtain.",
       "Negate the next #rCurse you obtain.",
       "This relic is all used up."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Orange Pellets",
+    "FLAVOR": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
+    "DESCRIPTIONS": [
+      "Whenever you play a #yPower, #yAttack, and #ySkill in the same turn, remove all of your Debuffs."
     ]
   },
   "Orichalcum": {
@@ -799,10 +951,10 @@
   },
   "Ring of the Serpent": {
     "NAME": "Ring of the Serpent",
-	"FLAVOR": "Your ring has morphed and changed forms.",
+    "FLAVOR": "Your ring has morphed and changed forms.",
     "DESCRIPTIONS": [
       "Replaces #gRing #gof #gthe #gSnake. ",
-	  "At the start of your turn, draw #b1 additional card."
+      "At the start of your turn, draw #b1 additional card."
     ]
   },
   "Ring of the Snake": {
@@ -878,6 +1030,14 @@
       "When adding cards to your deck, you may gain #b+2 Max HP instead."
     ]
   },
+  "Sling": {
+    "NAME": "Sling of Courage",
+    "FLAVOR": "\"A handy tool for dealing with particularly tough opponents.\"",
+    "DESCRIPTIONS": [
+      "Start each Elite combat with #b",
+      " #yStrength."
+    ]
+  },
   "Smiling Mask": {
     "NAME": "Smiling Mask",
     "FLAVOR": "Mask worn by the merchant. He must have spares...",
@@ -916,6 +1076,23 @@
     "FLAVOR": "The charred remains of your offering to the spirits.",
     "DESCRIPTIONS": [
       "It's unpleasant."
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Ssserpent Head",
+    "FLAVOR": "The most fulfilling of lives is that in which you can buy anything!",
+    "DESCRIPTIONS": [
+      "Whenever you enter a ? room, gain #b",
+      " #yGold."
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "Stone Calendar",
+    "FLAVOR": "The passage of time is imperceptible in the Spire.",
+    "DESCRIPTIONS": [
+      "At the end of turn #b",
+      ", deal #b",
+      " damage to ALL enemies."
     ]
   },
   "Strange Spoon": {
@@ -1025,6 +1202,13 @@
       "Whenever an enemy dies, transfer any #yPoison it has to a random enemy."
     ]
   },
+  "TheAbacus": {
+    "NAME": "The Abacus",
+    "FLAVOR": "\"One...Two...Three...\"",
+    "DESCRIPTIONS": [
+      "Gain #b6 #yBlock whenever you shuffle your draw pile."
+    ]
+  },
   "Thread and Needle": {
     "NAME": "Thread and Needle",
     "FLAVOR": "Wrapping the magical thread around your body, you feel harder to the touch.",
@@ -1113,6 +1297,13 @@
       "You can no longer become #yFrail."
     ]
   },
+  "TwistedFunnel": {
+    "NAME": "Twisted Funnel",
+    "FLAVOR": "\"I wouldn't drink out of it.\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
+    ]
+  },
   "Unceasing Top": {
     "NAME": "Unceasing Top",
     "FLAVOR": "The top continues to spin effortlessly as if you were in a dream.",
@@ -1163,168 +1354,11 @@
       "Potions always drop after combat."
     ]
   },
-  "Boot": {
-    "NAME": "The Boot",
-    "FLAVOR": "When wound up, the boot grows larger in size.",
+  "WristBlade": {
+    "NAME": "Wrist Blade",
+    "FLAVOR": "Handy for assassinations.",
     "DESCRIPTIONS": [
-      "Whenever you would deal #b",
-      " or less unblocked #yAttack damage, increase it to #b5."
-    ]
-  },
-  "Mark of the Bloom": {
-    "NAME": "Mark of the Bloom",
-    "FLAVOR": "In the Beyond, thoughts and reality are one.",
-    "DESCRIPTIONS": [
-      "You can no longer heal."
-    ]
-  },
-  "Busted Crown": {
-    "NAME": "Busted Crown",
-    "FLAVOR": "The Champ's crown... or a pale imitation?",
-    "DESCRIPTIONS": [
-      "On Card Reward screens, you have #b2 fewer cards to choose from.",
-      "Gain [R] at the start of each turn. ",
-      "Gain [G] at the start of each turn. ",
-      "Gain [B] at the start of each turn. "
-    ]
-  },
-  "Incense Burner": {
-    "NAME": "Incense Burner",
-    "FLAVOR": "The smoke imbues its owner with the spirit of the burned.",
-    "DESCRIPTIONS": [
-      "Every #b5 turns, gain #b1 #yIntangible."
-    ]
-  },
-  "Empty Cage": {
-    "NAME": "Empty Cage",
-    "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
-    "DESCRIPTIONS": [
-      "Upon pickup, remove #b2 cards from your deck.",
-      "Choose 2 Cards to Remove."
-    ]
-  },
-  "Fusion Hammer": {
-    "NAME": "Fusion Hammer",
-    "FLAVOR": "Once wielded, the owner can never let go.",
-    "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Smith at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
-    ]
-  },
-  "Coffee Dripper": {
-    "NAME": "Coffee Dripper",
-    "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
-    "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Rest at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
-    ]
-  },
-  "SsserpentHead": {
-    "NAME": "Ssserpent Head",
-    "FLAVOR": "The most fulfilling of lives is that in which you can buy anything!",
-    "DESCRIPTIONS": [
-      "Whenever you enter a ? room, gain #b",
-      " #yGold."
-    ]
-  },
-  "FaceOfCleric": {
-    "NAME": "Face Of Cleric",
-    "FLAVOR": "Everyone loves Cleric.",
-    "DESCRIPTIONS": [
-      "Raise your Max HP by #b1 after each combat."
-
-    ]
-  },
-  "NlothsMask": {
-    "NAME": "N'Loth's Hungry Face",
-    "FLAVOR": "You feel hungry.",
-    "DESCRIPTIONS": [
-      "The next non-boss chest you open is empty.",
-	  ""
-    ]
-  },
-  "GremlinMask": {
-    "NAME": "Gremlin Visage",
-    "FLAVOR": "Time to run.",
-    "DESCRIPTIONS": [
-      "Start each combat with #b1 #yWeak."
-    ]
-  },
-  "CultistMask": {
-    "NAME": "Cultist Headpiece",
-    "FLAVOR": "Part of the Flock!",
-    "DESCRIPTIONS": [
-      "You feel more talkative.",
-      "@CAW!@ NL @CAAAW@"
-    ]
-  },
-  "TheAbacus": {
-    "NAME": "The Abacus",
-    "FLAVOR": "\"One...Two...Three...\"",
-    "DESCRIPTIONS": [
-      "Gain #b6 #yBlock whenever you shuffle your draw pile."
-    ]
-  },
-  "DollysMirror": {
-    "NAME": "Dolly's Mirror",
-    "FLAVOR": "\"I look funny in this.\"",
-    "DESCRIPTIONS": [
-      "Upon pickup, obtain an additional copy of a card in your deck.",
-      "Choose 1 Card to Copy."
-    ]
-  },
-  "ClockworkSouvenir": {
-    "NAME": "Clockwork Souvenir",
-    "FLAVOR": "\"So many intricate gears.\"",
-    "DESCRIPTIONS": [
-      "At the start of each combat, gain #b1 #yArtifact."
-    ]
-  },
-  "MealTicket": {
-    "NAME": "Meal Ticket",
-    "FLAVOR": "\"Complimentary meatballs with every visit!\"",
-    "DESCRIPTIONS": [
-      "Whenever you enter a shop room, heal #b7 HP."
-    ]
-  },
-  "TwistedFunnel": {
-    "NAME": "Twisted Funnel",
-    "FLAVOR": "\"I wouldn't drink out of it.\"",
-    "DESCRIPTIONS": [
-      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
-    ]
-  },
-  "HandDrill": {
-    "NAME": "Hand Drill",
-    "FLAVOR": "\"Spirals are dangerous.\"",
-    "DESCRIPTIONS": [
-      "Whenever you break an enemy's #yBlock, apply #b2 #yVulnerable."
-    ]
-  },
-  "HoveringKite": {
-    "NAME": "Hovering Kite",
-    "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
-    "DESCRIPTIONS": [
-      "Gain [G] and discard #b1 card at the start of each turn."
-    ]
-  },
-  "Sling": {
-    "NAME": "Sling of Courage",
-    "FLAVOR": "\"A handy tool for dealing with particularly tough opponents.\"",
-    "DESCRIPTIONS": [
-      "Start each Elite combat with #b",
-      " #yStrength."
-    ]
-  },
-  "OrangePellets": {
-    "NAME": "Orange Pellets",
-    "FLAVOR": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
-    "DESCRIPTIONS": [
-      "Whenever you play a #yPower, #yAttack and #ySkill in the same turn, remove all of your Debuffs."
+      "#yAttacks that cost #b0 deal #b3 additional damage."
     ]
   }
 }

@@ -28,7 +28,7 @@
   "AbstractDungeon": {
     "TEXT": [
       "Proceed",
-	  "Blights:"
+      "Blights:"
     ]
   },
   "AbstractMonster": {
@@ -87,8 +87,8 @@
   },
   "AnyCardFromDeckToHandAction": {
     "TEXT": [
-      "Choose a Card to Add to Your Hand",
-      "Choose Cards to Add to Your Hand"
+      "Choose a Card to Add to Your Hand.",
+      "Choose Cards to Add to Your Hand."
     ]
   },
   "ApplyPowerAction": {
@@ -136,7 +136,7 @@
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Choose an Attack to Add to Your Hand"
+      "Choose an Attack to Add to Your Hand."
     ]
   },
   "BattleStartEffect": {
@@ -160,7 +160,7 @@
       "Skip",
       "VOTE NOW: ",
       "s left.",
-	  "Choose a Blight"
+      "Choose a Blight"
     ]
   },
   "CacheAction": {
@@ -307,6 +307,19 @@
     "TEXT": [
       "Click again to exit",
       "to exit"
+    ]
+  },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Custom Mode",
+      "Achievements and Leaderboards are off.",
+      "Character",
+      "Ascension",
+      "Level ",
+      "Ascension Mode",
+      "Modifiers",
+      "Seed",
+      "Set Seed"
     ]
   },
   "DailyScreen": {
@@ -523,6 +536,16 @@
       "Exordium"
     ]
   },
+  "ForethoughtAction": {
+    "TEXT": [
+      "put on bottom of your draw pile."
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Gold"
+    ]
+  },
   "GamblingChipAction": {
     "TEXT": [
       "Replace (Gambling Chip)",
@@ -647,7 +670,8 @@
       "Hungarian",
       "Serbian (Latin)",
       "Catalan",
-      "Greek"
+      "Greek",
+      "Indonesian"
     ]
   },
   "LeaderboardFilters": {
@@ -784,10 +808,10 @@
       "",
       "See all of the people who contributed on Slay the Spire!",
       "Unknown",
-      "Win a Daily Climb to unlock this game mode.",
+      "Play a Daily Climb to unlock this game mode.",
       "This feature is not yet available.",
-	  "Custom",
-	  "Customize your own run with unique modifiers."
+      "Custom",
+      "Customize your own run with unique modifiers."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -1154,19 +1178,6 @@
   "UnlockTextEffect": {
     "TEXT": [
       "New Unlock!"
-    ]
-  },
-  "CustomModeScreen": {
-    "TEXT": [
-      "Custom Mode",
-      "Achievements and Leaderboards are off.",
-      "Character",
-      "Ascension",
-      "Level ",
-      "Ascension Mode",
-      "Modifiers",
-      "Seed",
-      "Set Seed"
     ]
   }
 }

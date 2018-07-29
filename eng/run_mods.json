@@ -7,6 +7,10 @@
     "NAME": "Binary",
     "DESCRIPTION": "Card rewards contain only 2 cards."
   },
+  "Blight Chests": {
+    "NAME": "Blight Chests",
+    "DESCRIPTION": "Boss chests contain blights after beating Act 3 on Endless."
+  },
   "Brewmaster": {
     "NAME": "Brewmaster",
     "DESCRIPTION": "Start with 5 copies of Alchemize and the White Beast Statue."
@@ -30,10 +34,6 @@
   "Endless": {
     "NAME": "Endless",
     "DESCRIPTION": "Winning will return you to Act 1 with the same deck. But beware, the blight eventually consumes all..."
-  },
-  "Blight Chests": {
-    "NAME": "Blight Chests",
-    "DESCRIPTION": "Boss chests contain blights after beating Act 3 on Endless."
   },
   "Heirloom": {
     "NAME": "Heirloom",
@@ -86,6 +86,10 @@
   "Starter Deck": {
     "NAME": "Starter Deck",
     "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
+  },
+  "Stunted Growth": {
+    "NAME": "Stunted Growth",
+    "DESCRIPTION": "Enemies no longer drop card rewards after beating Act 3 on Endless."
   },
   "Terminal": {
     "NAME": "Terminal",
