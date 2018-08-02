@@ -794,26 +794,26 @@
     ]
   },
   "WeMeetAgain": {
-    "NAME": "We Meet Again!",
+    "NAME": "Неминуча зустріч!",
     "DESCRIPTIONS": [
-      "\"We meet again!\" NL A cheery disheveled fellow approaches you gleefully. You do know this man. NL NL \"It's me, #yRanwid! Have any goods for me today? The usual? A fella like me can't make it alone, you know?\" NL You eye him suspiciously and consider your options...",
-      "\"Exquisite! Was feeling parched.\" NL #b~Glup~ #b~glup~ #b~glup~ NL NL He downs the potion in one go and lets out a satisfied @burp.@",
-      "\"Magnificent! This will be quite handy if I run into those #rmask #rwearing #rhoodlums again.\"",
-      "\"Exemplary! I shall study this further in my chambers.\"",
-      "\" @Aaaaagghh!!@ What a jerk you are sometimes! NL He ran away.",
-      "  NL NL He rummages around his various pockets... NL \"Here, look what I've got for you today! Take it take it!\""
+      "«Знову ти!» NL Крикнув бадьорий, розсіяний чоловік, прямуючи до Вас. Ви знаєте його. NL NL «Це ж я, #yРанвід! Чи є сьогодні якісь скарби для мене? Ти ж знаєш що я сам не виживу у Вежі без твоєї допомоги.» NL Підозріло глянувши на нього, Ви розглядаєте свої варіанти...",
+      "«Вишукано! У мене як раз горло пересохло.» NL #b~Хлюп~ #b~хлюп~ #b~хлюп~ NL NL Він випиває усе зілля за раз та випускає вдоволену @відрижку.@",
+      "«Чудово! Воно допоможе мені якщо я знову зіткнуся з тими #rзамаскованими #rгромилами.»",
+      "«Моя школа! Я розізнаю про неї коли повернуся до своєї палати.»",
+      "« @ААааа!!@ Буваєш ти іноді таким придуроком..!» NL Він втік.",
+      "  NL NL Обшукуючи кишені... NL «Ось, диви що я знайшов! Бери - твоє!»"
     ],
     "OPTIONS": [
-      "[Give Potion] #rLose ",
-      "[Locked] Requires: Potion",
-      "[Give Gold] #rLose #r",
-      "[Locked] Requires: At least 50 Gold.",
-      "[Give Card] #rLose ",
-      "[Locked] Requires: Card",
-      ". #gReceive #ga #gRelic",
-      "[Attack]",
-      "[Leave]",
-      " #rGold"
+      "[Віддати Зілля] #rВтрачаєте ",
+      "[Заблоковано] Потребує: Зілля",
+      "[Віддати Золото] #rВтрачаєте #r",
+      "[Заблоковано] Потребує: Хоча б 50 Золота.",
+      "[Віддати Карту] #rВтрачаєте ",
+      "[Заблоковано] Потребує: Карту",
+      ". #gОтримуєте #gАмулет",
+      "[Атакувати]",
+      "[Покинути]",
+      " #rЗолота"
     ]
   },
   "Wheel of Change": {

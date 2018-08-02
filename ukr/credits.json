@@ -37,7 +37,8 @@
       "Jonas Trodler",
       "Hongkong Koma",
       "Moly",
-      "koykoy13"
+      "koykoy13",
+      "Magnus Upmann"
     ]
   },
   "LOC_FRA": {
@@ -67,7 +68,7 @@
     "NAMES": [
       "Aditya \"RiSQ.\" Arifin",
       "Daryan \"Samus\" Ramadhany",
-      "Szaal"
+      "Haveiszal \"Szaal\" Faroqie"
     ]
   },
   "LOC_ITA": {
@@ -139,10 +140,10 @@
   "LOC_RUS": {
     "HEADER": "Російська Локалізація",
     "NAMES": [
-      "Переклад та Координація:",
+      "Переклад:",
       "Ivan \"Ingrett\" Khoroshunenko",
-      "Переклад та Репозиторія:",
       "Vladislav \"Vlad-00003\" Bolshakov",
+      "Dmitry \"Regallion\" Zhiryakov",
       "Пропозиції та Відгуки:",
       "Mikhail \"Outmind\" Dyuzhev",
       "Bohdan \"DarkRosse\" Kalytiuk",
