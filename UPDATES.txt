@@ -1,4 +1,210 @@
 Updates for Translators!
+07-31-2018
+run_mods.json
+	"Red Cards"
+	"Green Cards"
+	"Blue Cards"
+	"Colorless Cards"
+
+----------------------------------
+
+07-30-2018
+credits.json
+	"LOC_DEU"
+		"Magnus Upmann"
+	"LOC_IND"
+		"Szaal" ->
+		"Haveiszal \"Szaal\" Faroqie""
+	"LOC_RUS"
+		(organization updates, just check credits.json)
+powers.json
+	"Flame Barrier"
+		"Whenever you receive #yAttack damage, deal #b",
+		"When receiving #yAttack damage, deals #b",
+
+----------------------------------
+
+07-25-2018
+credits.json
+	"LOC_IND"
+
+----------------------------------
+
+07-19-2018
+potions.json
+	"AttackPotion"
+		"Add a random Attack card to your hand, it costs #b0 this turn." ->
+		"Choose #b1 of #b3 random #yAttack cards to add to your hand, it costs #b0 this turn."
+	"PowerPotion"
+		"Add a random Power card to your hand, it costs #b0 this turn." ->
+		"Choose #b1 of #b3 random #yPower cards to add to your hand, it costs #b0 this turn."
+	"SkillPotion": {
+		"Add a random Skill card to your hand, it costs #b0 this turn." ->
+		"Choose #b1 of #b3 random #ySkill cards to add to your hand, it costs #b0 this turn."
+
+----------------------------------
+
+07-18-2018
+ui.json
+	"GainGoldTextEffect"
+cards.json
+	"Tactician"
+		"DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, NL gain [G].",
+		"UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, NL gain [G] [G].",
+		->
+		"DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G].",
+		"UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G] [G].",
+	"RitualDagger"
+		"DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
+		->
+		"DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. NL Exhaust."
+	"Violence"
+		"DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand."
+		->
+		"DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand. NL Exhaust."
+events.json
+	"WeMeetAgain"
+
+----------------------------------
+
+07-17-2018
+run_mods.json
+	"Stunted Growth"
+	
+relics.json
+	"Maw Bank"
+		" #yGold. No longer works when you spend any #yGold at the shop."
+	"Bottled Flame"
+		"Upon pickup, choose an Attack card. At the start of each combat, this card will be in your hand.", ->
+		"Upon pickup, choose an #yAttack card. At the start of each combat, this card will be in your hand.",
+	"Bottled Lightning"
+		"Upon pickup, choose a Skill card. At the start of each combat, this card will be in your hand.", ->
+		"Upon pickup, choose a #ySkill card. At the start of each combat, this card will be in your hand.",
+	"Bottled Tornado"
+		"Upon pickup, choose a Power card. At the start of each combat, this card will be in your hand.", ->
+		"Upon pickup, choose a #yPower card. At the start of each combat, this card will be in your hand.",
+
+events.json
+	"NoteForYourself"
+
+ui.json
+	"AnyCardFromDeckToHandAction"
+		"Choose a Card to Add to Your Hand",
+		"Choose Cards to Add to Your Hand"
+		->
+		"Choose a Card to Add to Your Hand.",
+		"Choose Cards to Add to Your Hand."
+	"AttackFromDeckToHandAction"
+		"Choose an Attack to Add to Your Hand" ->
+		"Choose an Attack to Add to Your Hand."
+
+----------------------------------
+
+07-16-2018
+relics.json
+	"MawBank"
+	"Nunchaku"
+	"Dream Catcher"
+		"Whenever you rest, you may add a card to your deck." ->
+		"Whenever you #yRest, you may add a card to your deck."
+	"StoneCalendar"
+	"Chemical X"
+		"."
+		
+cards.json
+	"Discovery"
+	"Forethought"
+	"Impatience"
+	"Violence"
+
+ui.json
+	"ForethoughtAction"
+
+credits.json
+	"LOC_ZHT"
+
+----------------------------------
+
+07-13-2018
+relics.json
+	"Hovering Kite"
+		"Gain [G] and discard #b1 card at the start of each turn." ->
+		"Gain [G] and discard #b2 cards at the start of each turn."
+	"Wrist Blade"
+ui.json
+	"MenuPanels"
+		"Win a Daily Climb to unlock this game mode.", ->
+		"Play a Daily Climb to unlock this game mode.",
+	
+----------------------------------
+
+07-12-2018
+relics.json
+	"Bottled Tornado"
+		"FLAVOR": "Test relic.", ->
+		"FLAVOR": "The bottle gently hums and whirs.",
+
+	"Frozen Eye"
+		"FLAVOR": "No description.", ->
+		"FLAVOR": "Staring into the eye, you see a glimpse of your future.",
+	
+----------------------------------
+
+07-11-2018
+blights.json
+	"VoidEssence"
+		"Gain #b", (New)
+		" less [R] at the start of each turn.",
+		" less [G] at the start of each turn.",
+		" less [B] at the start of each turn."
+
+run_mods.json
+	"Blight Chests"
+	
+----------------------------------
+
+07-10-2018
+relics.json
+	"HandDrill"
+		"Whenever you break an enemy's block, apply #b2 #yVulnerable." ->
+		"Whenever you break an enemy's #yBlock, apply #b2 #yVulnerable."
+	"OrangePellets"
+	"HoveringKite"
+		"Discard #b1 card and gain [G] at the start of each turn." ->
+		"Gain [G] and discard #b1 card at the start of each turn."
+	"Ring of the Serpent"
+		"Replaces #gSnake #gRing. ", ->
+		"Replaces #gRing #gof #gthe #gSnake. ",
+
+cards.json
+	"Normality"
+		" cards this turn."
+
+monsters.json
+	"Dagger"
+	"Reptomancer"
+
+----------------------------------
+
+07-09-2018
+relics.json
+	"HandDrill"
+	"Ring of the Serpent"
+		"Replaces #gSnake #gRing. ",
+		"At the start of your turn, draw #b1 additional card."
+		"FLAVOR": "Your ring has morphed and changed forms.",
+	"HoveringKite"
+	"Sling"
+	"FrozenCore"
+
+events.json
+	"FaceTrader"
+		"[Touch] #rLose #r10% #rMax #rHP, #ggain #g", ->
+		"[Touch] #rLose #r",
+		" #rHP, #ggain #g"
+
+----------------------------------
+
 07-03-2018
 relics.json
 	"TwistedFunnel"
