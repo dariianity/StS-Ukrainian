@@ -156,6 +156,16 @@
       "Urist McFerrum"
     ]
   },
+  "LOC_SPA": {
+    "HEADER": "Іспанська Локалізація",
+    "NAMES": [
+      "Переклад та координація:",
+      "Pedro Luis \"PerikiyoXD\" Valadés Viera",
+      "Переклад:",
+      "Xavier \"xabad98\" Abad Salinas",
+      "Skiddome"
+    ]
+  },
   "LOC_SRB": {
     "HEADER": "Сербська Локалізація",
     "NAMES": [
@@ -172,7 +182,7 @@
     "HEADER": "Українська Локалізація",
     "NAMES": [
       "Vladyslav \"DarkXylese\" Kashtelyanov",
-	  "Vasyl \"RDSk\" Mykhaliuk"
+      "Vasyl \"RDSk\" Mykhaliuk"
     ]
   },
   "LOC_ZHS": {
