@@ -12,16 +12,16 @@
     "DESCRIPTION": "Князеві скарбниці містять моровиці після 3 Акту у Нескінченній грі."
   },
   "Blue Cards": {
-    "NAME": "Blue Cards",
-    "DESCRIPTION": "Blue cards now appear in rewards and shops."
+    "NAME": "Сині карти",
+    "DESCRIPTION": "Сині карти тепер з’являються у нагородах та крамницях."
   },
   "Brewmaster": {
     "NAME": "Майстер зіллє-варення",
     "DESCRIPTION": "Починаєте з 5-ма копіями Токсинології та Статуєю білого звіра."
   },
   "Colorless Cards": {
-    "NAME": "Colorless Cards",
-    "DESCRIPTION": "Colorless cards appear more often."
+    "NAME": "Безбарвні карти",
+    "DESCRIPTION": "Безбарвні карти тепер з’являються у нагородах."
   },
   "Cursed Run": {
     "NAME": "Прокляте",
@@ -44,8 +44,8 @@
     "DESCRIPTION": "Перемога повертає Вас назад до Воріт з тією ж колодою. Та стережіться, бо моровиця знищує усіх, навіть наймогутніших з нас..."
   },
   "Green Cards": {
-    "NAME": "Green Cards",
-    "DESCRIPTION": "Green cards now appear in rewards and shops."
+    "NAME": "Зелені карти",
+    "DESCRIPTION": "Зелені карти тепер з’являються у нагородах та крамницях."
   },
   "Heirloom": {
     "NAME": "Спадщина",
@@ -88,8 +88,8 @@
     "DESCRIPTION": "Замінює початковий амулет на «Око Зміяки»."
   },
   "Red Cards": {
-    "NAME": "Red Cards",
-    "DESCRIPTION": "Red cards now appear in rewards and shops."
+    "NAME": "Червоні карти",
+    "DESCRIPTION": "Червоні карти тепер з’являються у нагородах та крамницях."
   },
   "Shiny": {
     "NAME": "Розкішне",
