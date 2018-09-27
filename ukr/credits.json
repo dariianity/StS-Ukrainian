@@ -41,6 +41,12 @@
       "Magnus Upmann"
     ]
   },
+  "LOC_EPO": {
+    "HEADER": "Есперанто Локалізація",
+    "NAMES": [
+      "Vincent \"Babelismoj\" Oostelbos"
+    ]
+  },
   "LOC_FRA": {
     "HEADER": "Французька Локалізація",
     "NAMES": [
@@ -163,7 +169,11 @@
       "Pedro Luis \"PerikiyoXD\" Valadés Viera",
       "Переклад:",
       "Xavier \"xabad98\" Abad Salinas",
-      "Skiddome"
+      "Skiddome",
+      "Juanjo \"ajuanjojjj\" Martinez",
+      "Pedro J. \"PJJLegend\" Jiménez",
+      "Граматика та перевірка:",
+      "Joaquín \"Pip1n\" López"
     ]
   },
   "LOC_SRB": {
@@ -181,8 +191,11 @@
   "LOC_UKR": {
     "HEADER": "Українська Локалізація",
     "NAMES": [
+      "Координація та переклад:",
       "Vladyslav \"DarkXylese\" Kashtelyanov",
-      "Vasyl \"RDSk\" Mykhaliuk"
+      "Перевірка тексту та переклад:",
+      "Vasyl \"RDSk\" Mykhaliuk",
+      "Artem \"Crazytosik\" Zemlianyi"
     ]
   },
   "LOC_ZHS": {

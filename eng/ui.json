@@ -968,6 +968,38 @@
       "Choose a Card"
     ]
   },
+  "RunHistoryMonsterNames": {
+    "TEXT": [
+      "Gang of Gremlins",
+      "Large Slime",
+      "Exordium Thugs",
+      "Exordium Wildlife",
+      "Swarm of Slimes",
+      "Small Slimes",
+      "City Muggers",
+      "Three Byrds",
+      "Four Byrds",
+      "Triple Cultists",
+      "Chosen Flock",
+      "Sentry and Spheric Guardian",
+      "Centurion and Mystic",
+      "Parasite and Fungi Beast",
+      "Masked Bandits Gang",
+      "Colosseum Nobs",
+      "Colosseum Slavers",
+      "Three Shapes",
+      "Jaw Worm Horde",
+      "Four Shapes",
+      "Spheric Guardian with Shapes",
+      "Double Orb Walkers",
+      "Donu and Deca",
+      "Sentries",
+      "Chosen and Cultist",
+      "(Deprecated) Flame Bruiser",
+      "(Deprecated) Slaver and Parasite",
+      "(Deprecated) Snecko and Mystics"
+    ]
+  },
   "RunHistoryPathNodes": {
     "TEXT": [
       "Unknown",
@@ -992,10 +1024,10 @@
       "#ySkipped:",
       "Missing Info",
       "+2 Max HP",
-      "#bC ",
-      "#bR ",
-      "#bP ",
-      "#bS ",
+      "[C] ",
+      "[T] ",
+      "[P] ",
+      "[S] ",
       "#bRested",
       "#bUpgraded %s",
       "#bRemoved %s",
