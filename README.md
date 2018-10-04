@@ -21,10 +21,10 @@ Slay the Spire official discord: https://discord.gg/fZrCgyW .
 	-Приєднуйся до #Ukrainian каналу.
 
 ## Перекладаємо без суржика та запозичень з інших мов
-Файний ресурс: https://goroh.in.ua/ .  
+Кращі синоніми: http://lcorp.ulif.org.ua/dictua/ .  
 Синоніми: 	https://ukrainskamova.com/search/ .  
 Словники Укр:	http://sum.in.ua/s .  
-Словники Рус-Укр:	https://r2u.org.ua/s?w=&scope=all&dicts=all .
+Словники Eng-Укр:	https://e2u.org.ua/.
 
 
 
