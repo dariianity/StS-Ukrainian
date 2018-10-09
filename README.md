@@ -12,6 +12,11 @@ Use them. They are there for consistency throughout the game.
 Часто використовувані слова знаходяться у [Dictionary.txt](Dictionary.txt).  
 Використовуйте їх. Вони тут для повноцінного перекладу гри.
 
+## Додаткові файли
+Сортує речі в .json файлах за абеткою [OrderJson.jar](OrderJson.jar).  
+Заповнює пропуски в укр перекладі, за оригіналом [fill_empty_fields.py](fill_empty_fields.py).  
+Перевіряє помилки (типу пропущених , та ") щоб гра не вилітала при запуску [validate_localization.py](validate_localization.py).  
+
 ## Discord servers
 Slay the Spire official discord: https://discord.gg/fZrCgyW .  
 	-Join our #Ukrainian channel.
