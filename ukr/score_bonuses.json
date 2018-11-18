@@ -69,6 +69,12 @@
     "NAME": "Еліти вбито при Воротах",
     "DESCRIPTIONS": []
   },
+  "Heartbreaker": {
+    "NAME": "Серцеїд",
+    "DESCRIPTIONS": [
+      "Вбийте серце Вежі."
+    ]
+  },
   "Highlander": {
     "NAME": "Горець",
     "DESCRIPTIONS": [

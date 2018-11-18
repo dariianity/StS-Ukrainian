@@ -34,6 +34,7 @@
     "NAMES": [
       "Joshua \"Joshipon\" Wiegand",
       "Dustin \"Skrelpoid\" Kristen",
+      "Christoph \"Deknud\" Hartmann",
       "Jonas Trodler",
       "Hongkong Koma",
       "Moly",
@@ -121,6 +122,7 @@
       "Oskar \"volf3n\" Nowak",
       "Additional Translations:",
       "Adrian \"xeros\" Rolka",
+      "Marek \"Skorpionex\" Mazur",
       "Proofreading:",
       "Oskar \"volf3n\" Nowak",
       "Suggestions and Feedback:",
@@ -150,7 +152,9 @@
       "Ivan \"Ingrett\" Khoroshunenko",
       "Vladislav \"Vlad-00003\" Bolshakov",
       "Dmitry \"Regallion\" Zhiryakov",
-      "Suggestions and Feedback:",
+      "Additional Translation:",
+      "Dmitry \"Gentle Giant\" Gitsman",
+      "Neprim",
       "Mikhail \"Outmind\" Dyuzhev",
       "Bohdan \"DarkRosse\" Kalytiuk",
       "Sergey \"lol10801lol\" K.",
@@ -201,7 +205,8 @@
   "LOC_ZHS": {
     "HEADER": "Chinese (Simplified) Localization",
     "NAMES": [
-      "Sound of Mystery"
+      "Sound of Mystery",
+      "IrisRaphael"
     ]
   },
   "LOC_ZHT": {

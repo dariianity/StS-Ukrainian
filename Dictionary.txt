@@ -69,7 +69,7 @@ Rest - (відпочиваєте у) Таборі
 Rest Sites - Табори
 Score - Рахунок
 Shop - Крамниці
-Silent - Тінь
+Silent - Тиша
 Skill - Вміння
 Slime - слимак
 Slot - місце

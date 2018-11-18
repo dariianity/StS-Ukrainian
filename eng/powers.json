@@ -53,11 +53,24 @@
       " turns, whenever you play an #yAttack, #yExhaust it."
     ]
   },
+  "BackAttack": {
+    "NAME": "Back Attack",
+    "DESCRIPTIONS": [
+      "Deals #b50% more damage as it is attacking you from behind."
+    ]
+  },
   "Barricade": {
     "NAME": "Barricade",
     "DESCRIPTIONS": [
       "#yBlock is not removed at the start of your turn.",
       "#yBlock is not removed at the start of its turn."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Beat Of Death",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, take #b",
+      " damage."
     ]
   },
   "Berserk": {
@@ -128,6 +141,12 @@
       "At the end of your turn, lose #b",
       " HP and deal #b",
       " damage to ALL enemies."
+    ]
+  },
+  "Compulsive": {
+    "NAME": "Reactive",
+    "DESCRIPTIONS": [
+      "Upon receiving attack damage, changes its intent."
     ]
   },
   "Confusion": {
@@ -494,6 +513,14 @@
     "NAME": "Inverted",
     "DESCRIPTIONS": [
       "Immune to damage. Whenever you gain #yBlock, loses that much HP."
+    ]
+  },
+  "Invincible": {
+    "NAME": "Invincible",
+    "DESCRIPTIONS": [
+      "Can only lose #b",
+      " more HP this turn.",
+      "Can no longer be harmed this turn."
     ]
   },
   "Juggernaut": {
@@ -882,11 +909,17 @@
       "."
     ]
   },
+  "Surrounded": {
+    "NAME": "Surrounded",
+    "DESCRIPTIONS": [
+      "Receive #b50% more damage if attacked from behind. Use targeting cards or potions to change your orientation."
+    ]
+  },
   "TheBomb": {
     "NAME": "The Bomb",
     "DESCRIPTIONS": [
-      "At the end of %1$s turns, deal %2$s damage to ALL enemies.",
-      "At the end of this turn, deal %1$s damage to ALL enemies."
+      "At the end of #b%1$s turns, deal #b%2$s damage to ALL enemies.",
+      "At the end of this turn, deal #b%1$s damage to ALL enemies."
     ]
   },
   "Thievery": {

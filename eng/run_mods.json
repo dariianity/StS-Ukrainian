@@ -16,7 +16,7 @@
     "DESCRIPTION": "Blue cards now appear in rewards and shops."
   },
   "Brewmaster": {
-    "NAME": "Brewmaster",
+    "NAME": "[DEPRECATED] Brewmaster",
     "DESCRIPTION": "Start with 5 copies of Alchemize and the White Beast Statue."
   },
   "Careless": {
@@ -100,7 +100,7 @@
     "DESCRIPTION": "Enemies drop 200% more gold, but you can no longer Smith at Rest Sites."
   },
   "MonsterHunter": {
-    "NAME": "Colossus ",
+    "NAME": "Colossus",
     "DESCRIPTION": "Enemies have bonus HP but drop better rewards."
   },
   "My True Form": {
@@ -150,6 +150,10 @@
   "Terminal": {
     "NAME": "Terminal",
     "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
+  },
+  "The Ending": {
+    "NAME": "The Ending",
+    "DESCRIPTION": "Enables the Final Act."
   },
   "Time Dilation": {
     "NAME": "Time Dilation",

@@ -615,6 +615,21 @@
       ""
     ]
   },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Щит вежі",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Спис вежі"
+  },
   "TheCollector": {
     "MOVES": [
       ""
@@ -671,6 +686,15 @@
       ""
     ],
     "NAME": "Скороминучник",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "WrithingMass": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Звиваюча маса",
     "DIALOG": [
       ""
     ]
