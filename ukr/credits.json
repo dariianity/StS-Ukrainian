@@ -42,6 +42,20 @@
       "Magnus Upmann"
     ]
   },
+  "LOC_DUT": {
+    "HEADER": "Голландська Локалізація",
+    "NAMES": [
+      "Лідер Гремлінів:",
+      "Jelle Steinmann \"NotADitto\"",
+      "Гремлін Довбешка:",
+      "Charlie \"Alcus\" Ye",
+      "Гремліни:",
+      "Oscar Cousin",
+      "\"Meriscan\"",
+      "Lise Leitner",
+      "Joris \"Mort\" Bogers"
+    ]
+  },
   "LOC_EPO": {
     "HEADER": "Есперанто Локалізація",
     "NAMES": [
