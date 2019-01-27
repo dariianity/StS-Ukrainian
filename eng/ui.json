@@ -152,6 +152,14 @@
       " turn"
     ]
   },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Ironclad Beta Card Art Unlocked!",
+      "The Silent Beta Card Art Unlocked!",
+      "Defect Beta Card Art Unlocked!",
+      "All Beta Card Art Unlocked!"
+    ]
+  },
   "BossChest": {
     "TEXT": [
       "Proceed"
@@ -344,7 +352,8 @@
       " NL #yMods: ",
       "Modifiers: ",
       "Leaderboards",
-      "*Achievements are off for Daily Climb."
+      "*Achievements are off for Daily Climb.",
+      "  [OFFLINE MODE]"
     ]
   },
   "DeathScreen": {
@@ -453,7 +462,7 @@
   },
   "DiscardPileToHandAction": {
     "TEXT": [
-      "Select a card to return to your hand."
+      "Select a Card to Return to Your Hand."
     ]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -502,8 +511,8 @@
       "The City",
       "Act 3",
       "The Beyond",
-      "Act ?",
-      "???",
+      "Final Act",
+      "The Ending",
       "Click Anywhere to Continue"
     ]
   },
@@ -536,7 +545,7 @@
   },
   "ExhumeAction": {
     "TEXT": [
-      "Select a Card to Return to your Hand"
+      "Select a Card to Return to Your Hand"
     ]
   },
   "ExitGameButton": {
@@ -685,7 +694,8 @@
       "Catalan",
       "Greek",
       "Indonesian",
-      "Esperanto"
+      "Esperanto",
+      "Dutch"
     ]
   },
   "LeaderboardFilters": {
@@ -727,7 +737,7 @@
       "An unknown room. NL NL You may encounter monsters, treasures, shops, or something entirely different.",
       "Merchant",
       "Shops",
-      "A mysterious merchant sells his wares in these rooms. NL NL Spend your well earned #yGold here!",
+      "The mysterious Merchant sells his wares in these rooms. NL NL Spend your well earned #yGold here!",
       "Treasure",
       "Treasure Rooms",
       "#yRelics and #yGold can be found in these coveted rooms.",
@@ -864,7 +874,8 @@
       "NL NL VSync",
       "Playtester Art Mode",
       "Show Card Quick Select Keys",
-      "Input Settings"
+      "Input Settings",
+      "Disable Particle Effects"
     ]
   },
   "PatchNotesScreen": {
@@ -872,6 +883,11 @@
       "Return",
       "#yPatch #yNotes",
       " NL (TEMPORARY: Use arrow keys to navigate through older logs)"
+    ]
+  },
+  "Period": {
+    "TEXT": [
+      "."
     ]
   },
   "PotionPopUp": {
@@ -896,6 +912,12 @@
   "PutOnDeckAction": {
     "TEXT": [
       "put on top of your draw pile"
+    ]
+  },
+  "Recall Option": {
+    "TEXT": [
+      "Recall",
+      "Obtain the Ruby Key."
     ]
   },
   "RecycleAction": {
@@ -964,7 +986,45 @@
       " Gold",
       "Add a card to your deck",
       "",
-      "Choose a Card"
+      "Choose a Card",
+      "Emerald Key",
+      "Sapphire Key",
+      "Linked",
+      "Obtaining this will remove ",
+      "."
+    ]
+  },
+  "RunHistoryMonsterNames": {
+    "TEXT": [
+      "Gang of Gremlins",
+      "Large Slime",
+      "Exordium Thugs",
+      "Exordium Wildlife",
+      "Swarm of Slimes",
+      "Small Slimes",
+      "City Muggers",
+      "Three Byrds",
+      "Four Byrds",
+      "Triple Cultists",
+      "Chosen Flock",
+      "Sentry and Spheric Guardian",
+      "Centurion and Mystic",
+      "Parasite and Fungi Beast",
+      "Masked Bandits Gang",
+      "Colosseum Nobs",
+      "Colosseum Slavers",
+      "Three Shapes",
+      "Jaw Worm Horde",
+      "Four Shapes",
+      "Spheric Guardian with Shapes",
+      "Double Orb Walkers",
+      "Donu and Deca",
+      "Sentries",
+      "Chosen and Cultist",
+      "(Deprecated) Flame Bruiser",
+      "(Deprecated) Slaver and Parasite",
+      "(Deprecated) Snecko and Mystics",
+      "Shield and Spear"
     ]
   },
   "RunHistoryPathNodes": {
@@ -987,20 +1047,35 @@
       "#r%s Turns",
       "#r%s #r/ #r%s #rHP",
       "#y%s #yGold",
-      "#yObtained:",
+      "#yObtained: ",
       "#ySkipped:",
       "Missing Info",
       "+2 Max HP",
-      "#bC ",
-      "#bR ",
-      "#bP ",
-      "#bS ",
+      "[C] ",
+      "[T] ",
+      "[P] ",
+      "[S] ",
       "#bRested",
       "#bUpgraded %s",
       "#bRemoved %s",
       "#bDug",
       "#bLifted %s/%s",
-      "#yPurchased:"
+      "#yPurchased:",
+      "#rSpent ",
+      "#rTook ",
+      "#rLost ",
+      "%s Max HP",
+      "#bHealed ",
+      "#bGained ",
+      "#bIgnored ",
+      "%s HP",
+      "#bObtained %s",
+      "#rCursed #rwith #r%s",
+      "%s Damage",
+      "#bUpgraded %s",
+      "#bTransformed %s",
+      "#rLost %s",
+      "#bRecalled"
     ]
   },
   "RunHistoryScreen": {
@@ -1098,7 +1173,8 @@
       "I'm #rEntangled! NL Can't play Attacks",
       "Not enough #rEnergy.",
       "Not enough #rCharge.",
-      "I can't play NL this card."
+      "I can't play NL this card.",
+      "Beta Art"
     ]
   },
   "SingleViewRelicPopup": {
@@ -1143,6 +1219,11 @@
   "TheCity": {
     "TEXT": [
       "The City"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "The Ending"
     ]
   },
   "TipHelper": {
@@ -1205,6 +1286,23 @@
   "UnlockTextEffect": {
     "TEXT": [
       "New Unlock!"
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Proceed",
+      "Floors Climbed",
+      "Bosses Defeated",
+      "Play Time",
+      "Score",
+      "Unlock",
+      "Unlocks Remaining: ",
+      "Unlock Remaining: ",
+      "Enemies Slain",
+      "Elites Killed",
+      "Unspent Gold",
+      "HP Bonus",
+      "Victory!"
     ]
   }
 }

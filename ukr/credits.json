@@ -34,11 +34,32 @@
     "NAMES": [
       "Joshua \"Joshipon\" Wiegand ",
       "Dustin \"Skrelpoid\" Kristen",
+      "Christoph \"Deknud\" Hartmann",
       "Jonas Trodler",
       "Hongkong Koma",
       "Moly",
       "koykoy13",
       "Magnus Upmann"
+    ]
+  },
+  "LOC_DUT": {
+    "HEADER": "Голландська Локалізація",
+    "NAMES": [
+      "Лідер Гремлінів:",
+      "Jelle Steinmann \"NotADitto\"",
+      "Гремлін Довбешка:",
+      "Charlie \"Alcus\" Ye",
+      "Гремліни:",
+      "Oscar Cousin",
+      "\"Meriscan\"",
+      "Lise Leitner",
+      "Joris \"Mort\" Bogers"
+    ]
+  },
+  "LOC_EPO": {
+    "HEADER": "Есперанто Локалізація",
+    "NAMES": [
+      "Vincent \"Babelismoj\" Oostelbos"
     ]
   },
   "LOC_FRA": {
@@ -68,13 +89,14 @@
     "NAMES": [
       "Aditya \"RiSQ.\" Arifin",
       "Daryan \"Samus\" Ramadhany",
-      "Haveiszal \"Szaal\" Faroqie"
+      "Haveiszal \"Szaal\" Faroqie",
+      "Jason Julian"
     ]
   },
   "LOC_ITA": {
     "HEADER": "Італійська Локалізація",
     "NAMES": [
-      "Hob",
+      "Jade \"HobNob\" Stevanovic",
       "Mero Marco",
       "Luigi Squarzina"
     ]
@@ -115,6 +137,7 @@
       "Oskar \"volf3n\" Nowak",
       "Додаткові Переклади:",
       "Adrian \"xeros\" Rolka",
+      "Marek \"Skorpionex\" Mazur",
       "Коректура:",
       "Oskar \"volf3n\" Nowak",
       "Пропозиції та Відгуки:",
@@ -144,7 +167,9 @@
       "Ivan \"Ingrett\" Khoroshunenko",
       "Vladislav \"Vlad-00003\" Bolshakov",
       "Dmitry \"Regallion\" Zhiryakov",
-      "Пропозиції та Відгуки:",
+      "Додаткові перекладачі:",
+      "Dmitry \"Gentle Giant\" Gitsman",
+      "Neprim",
       "Mikhail \"Outmind\" Dyuzhev",
       "Bohdan \"DarkRosse\" Kalytiuk",
       "Sergey \"lol10801lol\" K.",
@@ -163,7 +188,11 @@
       "Pedro Luis \"PerikiyoXD\" Valadés Viera",
       "Переклад:",
       "Xavier \"xabad98\" Abad Salinas",
-      "Skiddome"
+      "Skiddome",
+      "Juanjo \"ajuanjojjj\" Martinez",
+      "Pedro J. \"PJJLegend\" Jiménez",
+      "Граматика та перевірка:",
+      "Joaquín \"Pip1n\" López"
     ]
   },
   "LOC_SRB": {
@@ -181,14 +210,18 @@
   "LOC_UKR": {
     "HEADER": "Українська Локалізація",
     "NAMES": [
+      "Координація та переклад:",
       "Vladyslav \"DarkXylese\" Kashtelyanov",
-      "Vasyl \"RDSk\" Mykhaliuk"
+      "Перевірка тексту та переклад:",
+      "Vasyl \"RDSk\" Mykhaliuk",
+      "Artem \"Crazytosik\" Zemlianyi"
     ]
   },
   "LOC_ZHS": {
     "HEADER": "Китайська (Спрощена) Локалізація",
     "NAMES": [
-      "Sound of Mystery"
+      "Sound of Mystery",
+      "IrisRaphael"
     ]
   },
   "LOC_ZHT": {
@@ -229,7 +262,8 @@
       "feedbackbot",
       "Evan Howell",
       "Justin Myhres",
-      "robojumper"
+      "robojumper",
+      "Tony \"kiooeht\" Moore"
     ]
   },
   "TEST": {
@@ -262,7 +296,10 @@
       "Merijn van der Vliet",
       "David Von Derau",
       "Conor Watson",
-      "David \"divadus\" Withington"
+      "David \"divadus\" Withington",
+      "Jason \"Wyrm\" Deng",
+      "Jonas \"bigunit3000\" Wilson",
+      "TBytemaster"
     ]
   },
   "THANKS_MSG": {
