@@ -353,7 +353,8 @@
       "Modifiers: ",
       "Leaderboards",
       "*Achievements are off for Daily Climb.",
-      "  [OFFLINE MODE]"
+      "  [OFFLINE MODE]",
+      "MMMM dd, yyyy"
     ]
   },
   "DeathScreen": {
@@ -756,7 +757,8 @@
   "Lift Option": {
     "TEXT": [
       "Lift",
-      "Start battles with +1 Strength. (Up to 3)"
+      "Start battles with +1 Strength. (Up to 3)",
+      ""
     ]
   },
   "MainMenuScreen": {
@@ -875,7 +877,10 @@
       "Playtester Art Mode",
       "Show Card Quick Select Keys",
       "Input Settings",
-      "Disable Particle Effects"
+      "Disable Particle Effects",
+      "Resolution:",
+      "Resolution: NL Fullscreen Monitor:",
+      "Changes which monitor is utilized when Fullscreen."
     ]
   },
   "PatchNotesScreen": {
@@ -967,7 +972,8 @@
       "Rest",
       "Heal for 100% of your Max HP (",
       " HP from ",
-      "Heal for 30% of your Max HP ("
+      "Heal for 30% of your Max HP (",
+      ""
     ]
   },
   "RestartForChangesEffect": {
@@ -992,6 +998,14 @@
       "Linked",
       "Obtaining this will remove ",
       "."
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Daily - Floor %s",
+      "Custom - Floor %s",
+      " - Floor %s",
+      "Main Menu"
     ]
   },
   "RunHistoryMonsterNames": {
@@ -1113,7 +1127,8 @@
       "Only Ascension",
       "Only Daily Challenge",
       "Seed: %s",
-      "Custom Seed: %s"
+      "Custom Seed: %s",
+      "M/d/yyyy, h:mm a"
     ]
   },
   "SaveSlot": {

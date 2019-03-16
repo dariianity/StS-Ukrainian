@@ -104,7 +104,8 @@
   "LOC_JPN": {
     "HEADER": "Japanese Localization",
     "NAMES": [
-      "Grezzz"
+      "Grezzz (Community Translation)",
+      "Kakehashi Games (Official Translation)"
     ]
   },
   "LOC_KOR": {
@@ -201,10 +202,19 @@
       "Nikola \"hauzer\" Vukosavljevic"
     ]
   },
+  "LOC_THA": {
+    "HEADER": "Thai Localization",
+    "NAMES": [
+      "Rapeepat Suwan (Yuu)",
+      "Sarawut Suwan (Tomoeic)"
+    ]
+  },
   "LOC_TUR": {
     "HEADER": "Turkish Localization",
     "NAMES": [
-      "Erdem Gürbüz"
+      "Erdem Gürbüz",
+      "Ege \"sLanKy\" Güçkıran",
+      "\"onparalelkenarag\""
     ]
   },
   "LOC_UKR": {
@@ -262,7 +272,8 @@
       "feedbackbot",
       "Evan Howell",
       "Justin Myhres",
-      "robojumper"
+      "robojumper",
+      "Tony \"kiooeht\" Moore"
     ]
   },
   "TEST": {
@@ -295,7 +306,10 @@
       "Merijn van der Vliet",
       "David Von Derau",
       "Conor Watson",
-      "David \"divadus\" Withington"
+      "David \"divadus\" Withington",
+      "Jason \"Wyrm\" Deng",
+      "Jonas \"bigunit3000\" Wilson",
+      "TBytemaster"
     ]
   },
   "THANKS_MSG": {
