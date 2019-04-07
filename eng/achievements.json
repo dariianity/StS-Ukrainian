@@ -126,6 +126,14 @@
       "Highest Score: #y"
     ]
   },
+  "PS4Trophy": {
+    "NAMES": [
+      "Eternal One"
+    ],
+    "TEXT": [
+      "Obtain all other Trophies."
+    ]
+  },
   "StatsScreen": {
     "NAMES": [
       "#yOverall #yStatistics",
