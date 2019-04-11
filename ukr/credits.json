@@ -104,7 +104,8 @@
   "LOC_JPN": {
     "HEADER": "Японська Локалізація",
     "NAMES": [
-      "Grezzz"
+      "Grezzz (Переклад спільноти)",
+      "Kakehashi Games (Офіційний переклад)"
     ]
   },
   "LOC_KOR": {
@@ -201,10 +202,19 @@
       "Nikola \"hauzer\" Vukosavljevic"
     ]
   },
+  "LOC_THA": {
+    "HEADER": "Тайська Локалізація",
+    "NAMES": [
+      "Rapeepat Suwan (Yuu)",
+      "Sarawut Suwan (Tomoeic)"
+    ]
+  },
   "LOC_TUR": {
     "HEADER": "Турецька Локалізація",
     "NAMES": [
-      "Erdem Gürbüz"
+      "Erdem Gürbüz",
+      "Ege \"sLanKy\" Güçkıran",
+      "\"onparalelkenarag\""
     ]
   },
   "LOC_UKR": {
