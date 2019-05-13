@@ -1,6 +1,6 @@
 {
   "ANIMATION": {
-    "HEADER": "Анімація Персонажів",
+    "HEADER": "Анімація персонажів",
     "NAMES": [
       "Julio Duque Montero",
       "Jon Sandler"
@@ -14,23 +14,23 @@
     ]
   },
   "ILLUSTRATION": {
-    "HEADER": "Промо та Ілюстрація Фонів",
+    "HEADER": "Ілюстрації промо та фонів",
     "NAMES": [
       "Bruce Brenneise"
     ]
   },
   "LOC_ADDITIONAL": {
-    "HEADER": "Додаткові Переклади",
+    "HEADER": "Додаткові переклади",
     "NAMES": [
       "MoGi Group"
     ]
   },
   "LOC_CAT": {
-    "HEADER": "Каталонська Локалізація",
+    "HEADER": "Каталонський переклад",
     "NAMES": []
   },
   "LOC_DEU": {
-    "HEADER": "Німецька Локалізація",
+    "HEADER": "Німецький переклад",
     "NAMES": [
       "Joshua \"Joshipon\" Wiegand ",
       "Dustin \"Skrelpoid\" Kristen",
@@ -43,11 +43,11 @@
     ]
   },
   "LOC_DUT": {
-    "HEADER": "Голландська Локалізація",
+    "HEADER": "Нідерландський переклад",
     "NAMES": [
-      "Лідер Гремлінів:",
+      "Гремлін-ватажок:",
       "Jelle Steinmann \"NotADitto\"",
-      "Гремлін Довбешка:",
+      "Гремлін-громило:",
       "Charlie \"Alcus\" Ye",
       "Гремліни:",
       "Oscar Cousin",
@@ -57,13 +57,13 @@
     ]
   },
   "LOC_EPO": {
-    "HEADER": "Есперанто Локалізація",
+    "HEADER": "Переклад на есперанто",
     "NAMES": [
       "Vincent \"Babelismoj\" Oostelbos"
     ]
   },
   "LOC_FRA": {
-    "HEADER": "Французька Локалізація",
+    "HEADER": "Французький переклад",
     "NAMES": [
       "Xavier \"Blagatt\" Dupont",
       "Malik \"Devexia\" Leonarski",
@@ -79,13 +79,13 @@
     ]
   },
   "LOC_GRE": {
-    "HEADER": "Грецька Локалізація",
+    "HEADER": "Грецький переклад",
     "NAMES": [
       "Kotsos \"Iglor\" Diamond"
     ]
   },
   "LOC_IND": {
-    "HEADER": "Індонезійська Локалізація",
+    "HEADER": "Індонезійський переклад",
     "NAMES": [
       "Aditya \"RiSQ.\" Arifin",
       "Daryan \"Samus\" Ramadhany",
@@ -94,7 +94,7 @@
     ]
   },
   "LOC_ITA": {
-    "HEADER": "Італійська Локалізація",
+    "HEADER": "Італійський переклад",
     "NAMES": [
       "Jade \"HobNob\" Stevanovic",
       "Mero Marco",
@@ -102,16 +102,16 @@
     ]
   },
   "LOC_JPN": {
-    "HEADER": "Японська Локалізація",
+    "HEADER": "Японський переклад",
     "NAMES": [
       "Grezzz (Переклад спільноти)",
       "Kakehashi Games (Офіційний переклад)"
     ]
   },
   "LOC_KOR": {
-    "HEADER": "Корейська Локалізація",
+    "HEADER": "Корейський переклад",
     "NAMES": [
-      "Менеджер Перекладів:",
+      "Менеджер перекладів:",
       "Eteriny",
       "Переклад:",
       "Simcoding",
@@ -125,13 +125,13 @@
     ]
   },
   "LOC_NOR": {
-    "HEADER": "Норвезька Локалізація",
+    "HEADER": "Норвезький переклад",
     "NAMES": [
       "Eystein Jarp"
     ]
   },
   "LOC_POL": {
-    "HEADER": "Польська Локалізація",
+    "HEADER": "Польський переклад",
     "NAMES": [
       "Переклад та Координація:",
       "Stanis³aw \"ST4H\" Borkowski",
@@ -151,7 +151,7 @@
     ]
   },
   "LOC_PTB": {
-    "HEADER": "Бразильсько-Португальська Локалізація",
+    "HEADER": "Переклад бразильською португальською",
     "NAMES": [
       "Guilherme \"GPerego\" Perego",
       "Gustavo \"KomKlave\" Duarte",
@@ -162,7 +162,7 @@
     ]
   },
   "LOC_RUS": {
-    "HEADER": "Російська Локалізація",
+    "HEADER": "Російський переклад",
     "NAMES": [
       "Переклад:",
       "Ivan \"Ingrett\" Khoroshunenko",
@@ -183,7 +183,7 @@
     ]
   },
   "LOC_SPA": {
-    "HEADER": "Іспанська Локалізація",
+    "HEADER": "Іспанський переклад",
     "NAMES": [
       "Переклад та координація:",
       "Pedro Luis \"PerikiyoXD\" Valadés Viera",
@@ -197,20 +197,20 @@
     ]
   },
   "LOC_SRB": {
-    "HEADER": "Сербська Локалізація",
+    "HEADER": "Сербський переклад",
     "NAMES": [
       "Nikola \"hauzer\" Vukosavljevic"
     ]
   },
   "LOC_THA": {
-    "HEADER": "Тайська Локалізація",
+    "HEADER": "Тайський переклад",
     "NAMES": [
       "Rapeepat Suwan (Yuu)",
       "Sarawut Suwan (Tomoeic)"
     ]
   },
   "LOC_TUR": {
-    "HEADER": "Турецька Локалізація",
+    "HEADER": "Турецький переклад",
     "NAMES": [
       "Erdem Gürbüz",
       "Ege \"sLanKy\" Güçkıran",
@@ -218,7 +218,7 @@
     ]
   },
   "LOC_UKR": {
-    "HEADER": "Українська Локалізація",
+    "HEADER": "Український переклад",
     "NAMES": [
       "Координація та переклад:",
       "Vladyslav \"DarkXylese\" Kashtelyanov",
@@ -228,14 +228,14 @@
     ]
   },
   "LOC_ZHS": {
-    "HEADER": "Китайська (Спрощена) Локалізація",
+    "HEADER": "Переклад спрощеною китайською",
     "NAMES": [
       "Sound of Mystery",
       "IrisRaphael"
     ]
   },
   "LOC_ZHT": {
-    "HEADER": "Китайська (Традиційна) Локалізація",
+    "HEADER": "Переклад традиційною китайською",
     "NAMES": [
       "professor",
       "bowans",
@@ -243,26 +243,26 @@
     ]
   },
   "OPS": {
-    "HEADER": "Операції та Метрика",
+    "HEADER": "Операції та метрика",
     "NAMES": [
       "Danielle Jenkins",
       "Jake Rabinowitz"
     ]
   },
   "PORTRAITS": {
-    "HEADER": "Портрети Карт та Ілюстрації для Подій",
+    "HEADER": "Ілюстрації для карт та подій",
     "NAMES": [
       "Anailis Dorta"
     ]
   },
   "SOUND": {
-    "HEADER": "Музика та Звуки",
+    "HEADER": "Музика та звуки",
     "NAMES": [
       "Clark Aboud"
     ]
   },
   "SPECIAL": {
-    "HEADER": "Особлива Подяка",
+    "HEADER": "Особлива подяка",
     "NAMES": [
       "Harry Rabinowitz",
       "Kevin \"Billy\" Matheson",
@@ -277,7 +277,7 @@
     ]
   },
   "TEST": {
-    "HEADER": "Ігропроби",
+    "HEADER": "Тестери",
     "NAMES": [
       "Agari",
       "Daria Anderson",
@@ -313,11 +313,11 @@
     ]
   },
   "THANKS_MSG": {
-    "HEADER": "...та дякуємо Вам!",
+    "HEADER": "...та дякуємо Вам за гру!",
     "NAMES": []
   },
   "VOICE": {
-    "HEADER": "Голосовий Талант",
+    "HEADER": "Озвучення",
     "NAMES": [
       "Tamara Ryan",
       "Michael Schwalbe"
