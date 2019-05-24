@@ -160,6 +160,13 @@
       "All Beta Card Art Unlocked!"
     ]
   },
+  "BetterToHandAction": {
+    "TEXT": [
+      "Choose a Card to Put into Your Hand.",
+      "Choose ",
+      " Cards to Put into Your Hand."
+    ]
+  },
   "BossChest": {
     "TEXT": [
       "Proceed"
@@ -219,7 +226,8 @@
       "Type",
       "A-Z",
       "Cost",
-      "Jump To:"
+      "Jump To:",
+      "Obtained"
     ]
   },
   "CardLibraryScreen": {
