@@ -1,0 +1,8 @@
+In file: C:\Users\Manse\Documents\GitHub\StS-Ukrainian\ukr\achievements.json
+UnsharedDictKeys: '{'PS4Trophy'}'
+
+In file: C:\Users\Manse\Documents\GitHub\StS-Ukrainian\ukr\credits.json
+UnsharedDictKeys: '{'LOC_THA'}'
+
+In file: C:\Users\Manse\Documents\GitHub\StS-Ukrainian\ukr\ui.json
+UnsharedDictKeys: '{'RichPresence'}'
