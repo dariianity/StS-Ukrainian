@@ -7,7 +7,7 @@
     ]
   },
   "DEV": {
-    "HEADER": "Розробка та Дизайн",
+    "HEADER": "Розробка та дизайн",
     "NAMES": [
       "Anthony Giovannetti",
       "Casey Yano"
@@ -133,13 +133,13 @@
   "LOC_POL": {
     "HEADER": "Польський переклад",
     "NAMES": [
-      "Переклад та Координація:",
+      "Переклад та координування:",
       "Stanis³aw \"ST4H\" Borkowski",
       "Oskar \"volf3n\" Nowak",
       "Додаткові Переклади:",
       "Adrian \"xeros\" Rolka",
       "Marek \"Skorpionex\" Mazur",
-      "Коректура:",
+      "Коректування:",
       "Oskar \"volf3n\" Nowak",
       "Пропозиції та Відгуки:",
       "Kasper \"Awokado\" Beræ",
@@ -178,7 +178,7 @@
       "Kateryna \"Meds\" Belimenko-Bolger",
       "Alexey \"Surrealistic Ganerson\" Popov",
       "Alexandr \"LiaNdrY\" Mazistov",
-      "Переклад Крамниці:",
+      "Переклад крамниці:",
       "Urist McFerrum"
     ]
   },
@@ -220,7 +220,7 @@
   "LOC_UKR": {
     "HEADER": "Український переклад",
     "NAMES": [
-      "Координація та переклад:",
+      "Координування та переклад:",
       "Vladyslav \"DarkXylese\" Kashtelyanov",
       "Перевірка тексту та переклад:",
       "Vasyl \"RDSk\" Mykhaliuk",
