@@ -206,7 +206,13 @@
     "HEADER": "Тайський переклад",
     "NAMES": [
       "Rapeepat Suwan (Yuu)",
-      "Sarawut Suwan (Tomoeic)"
+      "Sarawut Suwan (Tomoeic)",
+      "Additional Translations:",
+      "Rapeepat Suwan (Yuu)",
+      "Sarawut Suwan (Tomoeic)",
+      "Fonts:",
+      "CSChatThaiUI by raveetavan@gmail.com",
+      "Layiji MaHaNiYom by layiji@gmail.com"
     ]
   },
   "LOC_TUR": {
@@ -249,10 +255,22 @@
       "Jake Rabinowitz"
     ]
   },
+  "PORTING": {
+    "HEADER": "Ported by",
+    "NAMES": [
+      "Sickhead Games"
+    ]
+  },
   "PORTRAITS": {
     "HEADER": "Ілюстрації для карт та подій",
     "NAMES": [
       "Anailis Dorta"
+    ]
+  },
+  "PUBLISHING": {
+    "HEADER": "Published by",
+    "NAMES": [
+      "Humble Bundle"
     ]
   },
   "SOUND": {
