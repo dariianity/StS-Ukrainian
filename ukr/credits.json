@@ -207,10 +207,10 @@
     "NAMES": [
       "Rapeepat Suwan (Yuu)",
       "Sarawut Suwan (Tomoeic)",
-      "Additional Translations:",
+      "Додаткові переклади:",
       "Rapeepat Suwan (Yuu)",
       "Sarawut Suwan (Tomoeic)",
-      "Fonts:",
+      "Шрифти:",
       "CSChatThaiUI by raveetavan@gmail.com",
       "Layiji MaHaNiYom by layiji@gmail.com"
     ]
@@ -256,7 +256,7 @@
     ]
   },
   "PORTING": {
-    "HEADER": "Ported by",
+    "HEADER": "Портування",
     "NAMES": [
       "Sickhead Games"
     ]
@@ -268,7 +268,7 @@
     ]
   },
   "PUBLISHING": {
-    "HEADER": "Published by",
+    "HEADER": "Видавець",
     "NAMES": [
       "Humble Bundle"
     ]
