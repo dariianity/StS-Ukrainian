@@ -1018,7 +1018,8 @@
       "Daily - Floor %s",
       "Custom - Floor %s",
       " - Floor %s",
-      "Main Menu"
+      "Main Menu",
+      " (A%s)"
     ]
   },
   "RunHistoryMonsterNames": {
