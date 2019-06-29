@@ -86,12 +86,10 @@ Version 1.0 of Slay the Spire (January 23, 2019) will be archived in the Steam b
 [*]Blood Potion buffed to heal 10% -> 25%.
 [*]Bottled Flame no longer appears if all of your Attacks are starter cards.
 [*]Bottled Lightning no longer appears if all of your Skills are starter cards.
-[*]End of turn powers now resolve before cards that play themselves (such as Burn and Regret).
 [*]Heel Hook+ card buffed. 7 -> 8 damage.
 [*]Bullseye card buffed. Lock-On 1 -> 2.
 [*]Bullseye+ card buffed. Damage 10 -> 11.
 [*]Colosseum event now appears only at the top half of Act 2.
-[*]The Bomb card now stacks on itself conditionally (total damage and when for each bomb unchanged).
 [*]You no longer run into The Cleric or Beggar events if you do not have enough gold.
 [/list]
 
@@ -191,7 +189,6 @@ Most of this improves moddability, extensibility, and future-proofing various fu
 [*]Can no longer accidentally bring up the rename screen with controller when navigating through Settings.
 [*]Changed Input settings are now correctly retained when changing save slots.
 [*]Darkstone Periapt relic now works with Hoarder mod.
-[*]Elite rooms now use the same chances when determining card rarity.
 [*]Empty Cage relic now works with 1 or less valid cards in your deck.
 [*]Envenom's Poison is now applied immediately after the damage occurs.
 [*]Fix for Cost X cards utilizing extra energy when playing quickly.
@@ -201,7 +198,6 @@ Most of this improves moddability, extensibility, and future-proofing various fu
 [*]Fix for thank you message in credits displaying prematurely.
 [*]Fixed Automaton's orbs preventing scaling of Genetic Algorithm and Ritual Dagger.
 [*]Fixed Bag of Preparation not drawing cards affected by Confusion power.
-[*]Fixed Boss card rewards sometimes having uncommon cards.
 [*]Fixed bug where a certain set of actions could disable tips for a card for the rest of combat.
 [*]Fixed bug where deleting a save slot would generate dummy files in a ghost slot.
 [*]Fixed bug where dialog bubbles moved faster if higher resolution.
@@ -209,7 +205,6 @@ Most of this improves moddability, extensibility, and future-proofing various fu
 [*]Fixed bug where screenshake and SFX were played when navigating to locked character select option via controller.
 [*]Fixed card tips that remained on screen when you died.
 [*]Fixed certain Status and Curses triggering their end of turn effects by playing them normally with Medical Kit or Blue Candle under specific circumstances.
-[*]Fixed Cleric and Beggar spawning outside intended conditions.
 [*]Fixed crash when attempting to hover view upgrade in Card Library using controller. 
 [*]Fixed crash when highlighting mods in top panel using controller.
 [*]Fixed crash when navigating left on controller when colorless cards are sold out.
@@ -217,8 +212,6 @@ Most of this improves moddability, extensibility, and future-proofing various fu
 [*]Fixed crash when pressing down on controller on 3rd option at Rest Site if you have 4 options.
 [*]Fixed crash when pressing right on controller in Run History with 0 runs.
 [*]Fixed damage and block values showing green increased values when the end value was the same.
-[*]Fixed Echo Form double-playing Status cards and Curses that play themselves.
-[*]Fixed Echo Form infinitely playing cards that have a hand interface (e.g. Survivor, Armaments).
 [*]Fixed enemies not applying powers if they died in the process (e.g. Thorns).
 [*]Fixed enemy order issues in Slime Boss, Gremlin Leader, and Reptomancer encounters.
 [*]Fixed Enlightenment+ not reducing cost of cards with 1 or 0 cost for turn.
@@ -226,7 +219,6 @@ Most of this improves moddability, extensibility, and future-proofing various fu
 [*]Fixed exploit of playing Normality while already having played 3+ cards.
 [*]Fixed Fission+ evoking Orbs in reverse order.
 [*]Fixed non-Steam platforms showing 0 total damage dealt on the victory screen.
-[*]Fixed Fusion Hammer and Coffee Dripper relics not restricting options properly at times.
 [*]Fixed inability to inspect relics when Shopscreen is open via controller.
 [*]Fixed incorrect scaling on draw and discard piles making them very large on high resolution.
 [*]Fixed Invincible power with interactions such as The Boot and Block.
@@ -251,7 +243,6 @@ Most of this improves moddability, extensibility, and future-proofing various fu
 [*]Fixed Spit Web move's VFX appearing from wrong spot in high resolutions.
 [*]Fixed the opening of Input Settings allowing skipping of unskippable screens and potentially getting to an unplayable state.
 [*]Fixed the seedSet flag not resetting, preventing Achievements from unlocking in subsequent runs before game is reloaded.
-[*]Fixed Thorns and Flame Barrier not working on Nemesis as intended.
 [*]Fixed Wrist Blade not affecting Sword Boomerang, Rip and Tear, and Thunder Strike.
 [*]Game and Input Settings panels are now taller so the input rows stay within the panel.
 [*]Improved precision of volume sliders with a controller so that values can be set precisely back to 50%.
