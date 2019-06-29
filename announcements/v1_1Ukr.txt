@@ -71,7 +71,7 @@ Maybe just stop by to thank a modder for all their hard work :).
 
 
 [h1]Archived Versions[/h1]
-Version 1.0 of Slay the Spire (January 23, 2019) will be archived in the Steam branch: [V1.0] and can be found in the BETAS tab for the game (Similarly to how you would access the beta branch).
+Version 1.0 of Slay the Spire (January 23, 2019) will be archived in the Steam branch: [V1.0] can be found in the BETAS tab for the game (Similarly to how you would access the beta branch).
 
 [b]Patch Notes[/b]
 
@@ -143,7 +143,7 @@ Many quality of life changes such as a larger potions menu, a long-press End Tur
 [*]Tips for boss relics are now offset so they can no longer cover a relic when hovered/highlighted using controller.
 [*]Tips for potions now show up when hovered in Reward screens and Shops (not just in the Potion panel after acquisition).
 [*]Vampires and Council of Ghosts events now show how much Max HP is lost (rather than showing %)
-[*]Well Laid Plans card plays slightly faster now.
+[*]Well-Laid Plans card plays slightly faster now.
 [*]When hovering various tips in the Game Settings, they're now rendered on the left side instead of at cursor position.
 [*]When previewing card for upgrade via controller, the upgrade result is now hovered, no longer obscuring your view.
 [*]When viewing your deck, you can now sort it by obtained order, alphabetical, rarity, and cost.
@@ -223,7 +223,7 @@ Most of this improves moddability, extensibility, and future-proofing various fu
 [*]Fixed incorrect scaling on draw and discard piles making them very large on high resolution.
 [*]Fixed Invincible power with interactions such as The Boot and Block.
 [*]Fixed issue where ending turn with Retain while hovering the player could make the leftmost card act strangely via controller.
-[*]Fixed issue where if you end turn with Codex before enemy dies and queued cards are to kill the enemy, Codex opens cards and causes issues.
+[*]Fixed issue if cards are queued and turn is ended after an enemy dies, Nilry's Codex can open and cause issues.
 [*]Fixed issue where map can be opened during room transitions, cancelling certain functionality.
 [*]Fixed issue where moving cursor to bottom of window would cause cards in hands to bounce indefinitely.
 [*]Fixed issue where Rest Site option text wasn't placed correctly (scaling).
@@ -254,7 +254,7 @@ Most of this improves moddability, extensibility, and future-proofing various fu
 [*]Relic Collection menu no longer scrolls erratically in some cases when using controller.
 [*]Removed note about Leaderboards being reset weekly as Early Access is over.
 [*]Reptomancer no longer creates daggers with more HP than intended.
-[*]Reset To Defaults option in Option Menu now resets akk controller mappings properly.
+[*]Reset To Defaults option in Option Menu now resets all controller mappings properly.
 [*]Run History screen's cards and floor nodes can navigated easier with controllers.
 [*]Shop and Boss BGM now correctly mutes when game is minimized with the Mute While in BG option on.
 [*]Slider in the Character Stats menu no longer gets stuck before reaching the bottom with a controller.
@@ -274,7 +274,6 @@ New languages and localization improvements, hooray!
 [*]JPN translation overhaul by Kakehashi Games.
 [*]JPN and THA now have translated Merchant Shop images.
 [*]THA fonts updated.
-[*]TUR is now loc complete and will be available in the next main branch patch.
 [*]Updated credits for JPN, POL, THA, and TUR.
 [*]Added logic to disallow periods to cause line breaks in Asian languages.
 [*]Rewrote how Asian languages are rendered, fixing several formatting issues.
