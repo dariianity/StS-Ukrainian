@@ -19,6 +19,14 @@
       "Bruce Brenneise"
     ]
   },
+  "KAKEHASHI": {
+    "HEADER": "Kakehashi Games",
+    "NAMES": [
+      "Kakehashi Games (Офіційний переклад):",
+      "Підтримка японського видавництва:  Kakehashi Games",
+      "Японський переклад:  Rie Ihara"
+    ]
+  },
   "LOC_ADDITIONAL": {
     "HEADER": "Додаткові переклади",
     "NAMES": [
@@ -134,7 +142,7 @@
     "HEADER": "Польський переклад",
     "NAMES": [
       "Переклад та координування:",
-      "Stanis³aw \"ST4H\" Borkowski",
+      "Stanisław \"ST4H\" Borkowski",
       "Oskar \"volf3n\" Nowak",
       "Додаткові Переклади:",
       "Adrian \"xeros\" Rolka",
@@ -143,11 +151,11 @@
       "Oskar \"volf3n\" Nowak",
       "Пропозиції та Відгуки:",
       "Kasper \"Awokado\" Beræ",
-      "Pawe³ \"BASTIL\" Kaleta",
+      "Paweł \"BASTIL\" Kaleta",
       "Grzegorz \"GregPL\" Bogus³awski",
       "Erwin \"mateusz3010\" Matys",
       "Mettie",
-      "Rafa³ \"SponTon83\" Szyszko"
+      "Rafał \"SponTon83\" Szyszko"
     ]
   },
   "LOC_PTB": {
@@ -256,9 +264,9 @@
     ]
   },
   "PORTING": {
-    "HEADER": "Портування",
+    "HEADER": "Портування на мобільні пристрої та консолі",
     "NAMES": [
-      "Sickhead Games"
+      "Sickhead Games, LLC"
     ]
   },
   "PORTRAITS": {
@@ -268,9 +276,29 @@
     ]
   },
   "PUBLISHING": {
-    "HEADER": "Видавець",
+    "HEADER": "Humble Bundle",
     "NAMES": [
-      "Humble Bundle"
+      "GM:  Alan Patmore",
+      "CBO:  Steven Kovensky",
+      "VP, Business Development:  Eduardo Aparicio",
+      "Publishing Manager:  John Polson",
+      "Publishing Release Manager: Evan Koepf",
+      "Publishing Brand Manager:  Connor Bridgeman",
+      "Business Development Director, Publishing:  Mai Kawaguchi",
+      "Senior Business Developer:  Thomas Glenn",
+      "Senior Business Developer:  Bob Mills",
+      "Business Developer:  Trisha Tabor",
+      "Business Developer:  Angel Lyons-Labate",
+      "Store Director:  Paul Herron",
+      "Director of Finance:  Eric Samuel",
+      "VP of Product:  Nate Muller",
+      "Director of Marketing:  Jeremie Vella",
+      "Marketing Manager:  Whitney Stutes",
+      "Marketing Growth Manager:  Francois du Toit",
+      "Ninja Support:  Jimmy Chi",
+      "Ninja Support:  Kasey Brounkowski",
+      "Ninja Support:  Kayla Fyfe",
+      "Ninja Support:  Patrick Monahan"
     ]
   },
   "SOUND": {
@@ -291,7 +319,11 @@
       "Evan Howell",
       "Justin Myhres",
       "robojumper",
-      "Tony \"kiooeht\" Moore"
+      "Tony \"kiooeht\" Moore",
+      "John Vega",
+      "Steve Groll",
+      "Sara Popescu",
+      "Ryan Hamann"
     ]
   },
   "TEST": {
