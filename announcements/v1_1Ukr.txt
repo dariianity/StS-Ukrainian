@@ -1,290 +1,290 @@
-Patch V1.1: The Dealer
+Оновлення V1.1: Круп’є
 
 [img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/c719eedece065cba567da4809be1222057faf561.jpg[/img]
-Hey everyone,
+Привіт усім,
 
-It's been quite a while since release. The past few months have been pretty busy with ports and the patching of those ports but we wanted to update the PC version to contain all of the fixes, optimizations, and quality of life changes we worked on during this process.
+З часу виходу гри пройшло вже достатньо часу. Останні кілька місяців ми були зайняті портуванням і виправлянням помилок у портах, але ми хотіли, щоб у версії для ПК були усі виправлення, оптимізації, та покращення, над якими ми працювали під час цього.
 
 
-[h1]What’s in the Works?[/h1]
+[h1]Над чим ми працюємо?[/h1]
 [list]
-[*]All the ports! Eventually, you'll be Slaying the Spire on your smart fridge (not really, but never say never).
-[*]Additional translations.
-[*]Free DLC containing a 4th character and additional content.
+[*]Портування! Згодом ви зможете підкорювати Вежу на холодильниках і прасках! (насправді ні, але хто його зна).
+[*]Ще більше перекладів.
+[*]Безкоштовне доповнення із четвертим персонажем та додатковим вмістом.
 [/list]
 
 
-[h1]Official Merchandise!?[/h1]
+[h1]Офіційні товари!?[/h1]
 [img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/36b668a368ad8cefdf905fb9a1fff89927d49c26.jpg[/img]
-Whoa, did we team up with Fangamer and now you can get an awesome Slay the Spire shirt by Nina Matsumoto? Yes. Get one [url=https://www.fangamer.com/products/slay-the-spire-shirt]here![/url]
+Ми що, справді зв’язались із Fangamer і ви тепер можете купити шикарну футболку Slay the Spire від Nina Matsumoto? Саме так. Її можна купити ось [url=https://www.fangamer.com/products/slay-the-spire-shirt]тутечки![/url]
 
-We'll be getting more merch soon. Stay tuned!
-
-
-[h1]Touchscreen Compatibility[/h1]
-A lot of work has been put into ensuring that players who use touchscreen computers (or Steam Link on mobile) can enjoy the game fully!
-
-Two-step confirmations have been added to several screens so you can review options before you choose a card/boss relic/shop item. To turn this on, toggle the Touchscreen Mode option found at the bottom of the Input Settings screen.
+Незабаром з’являться й інші товари. Стежте за новинами!
 
 
-[h1]Community Fan Art[/h1]
-The amount of fan art we received since release is outrageous and we’re happy to have inspired so many brilliant works of art! Let’s take a look:
+[h1]Підтримка сенсорних екранів[/h1]
+Барато праці було вкладено в те, щоб гравці з сенсорними екранами (на комп’ютерах чи на смартфонах із Steam Link) змогли грати без жодних проблем!
+
+До кількох функцій було додано двокрокове підтвердження, щоб можна було переглянути карту/князівський амулет/товар у крамниці перед вибором. Щоб увімкнути це, відмітьте «Сенсорний екран» під налаштуванням клавіш.
+
+
+[h1]Фанатська творчість[/h1]
+Кількість фанатських робіт, які ми отримуємо, просто немислима, і ми раді, що надихнули стількох чудових художників! Просто погляньте:
 
 [img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/c262cdc34e848194eb63d433f2084b2490d0630c.jpg[/img]
-[i]The Silent by [url=https://www.artstation.com/fausuto]Fausuto[/url]
+[i]Тиша від [url=https://www.artstation.com/fausuto]Fausuto[/url]
 
 [img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/b7fa161253d389add669081edc1cbe5944debe2d.jpg[/img]
-Demon Form and Wraith Form by [url=https://selemina.tumblr.com/post/171382383869/demon-form-and-wraith-form-from-slay-the]selemina[/url]
+Демонічна форма і Тіньова форма від [url=https://selemina.tumblr.com/post/171382383869/demon-form-and-wraith-form-from-slay-the]selemina[/url]
 
 [img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/9f002be989b0ec449e77f942034f95630faff1cd.jpg[/img]
-r... rain? by [url=https://www.deviantart.com/bluehightoptrainers/art/r-rain-770271108]bluehightoptrainers[/url]
+д... дощ? від [url=https://www.deviantart.com/bluehightoptrainers/art/r-rain-770271108]bluehightoptrainers[/url]
 
 [img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/f1193ed4abd6acb5681e9e7f939fce2665ea59f0.jpg[/img]
-Chibi Silent by [url=https://www.deviantart.com/luriahirai]LuriaHirai[/url]
+Чібі-Тиша від [url=https://www.deviantart.com/luriahirai]LuriaHirai[/url]
 
 [img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/3f7e3abe558afc2d9d747dd3c154b70f2e94cd88.jpg[/img]
-This shiny portrait of The Champ by [url=https://twitter.com/fraudulentyoshi]@fraudulentyoshi[/url]
+Блискучий портрет Чемпіона від [url=https://twitter.com/fraudulentyoshi]@fraudulentyoshi[/url]
 
 [img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/5e1e16b7746a0481761f91753c4b9d94c99f4063.jpg[/img]
-The Silent Fire by [url=https://densetsu-vii.tumblr.com/post/178750382151/day-4-the-silent-fire-of-course-we-need-some]Densetsu VII[/url]
+Тиша з багаттям від [url=https://densetsu-vii.tumblr.com/post/178750382151/day-4-the-silent-fire-of-course-we-need-some]Densetsu VII[/url]
 
 [img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/277f08d1928dfceb15e05a9c477b27de1ad172fc.jpg[/img]
-A fusion of the Act 1 Bosses: Hexaslimedian! by [url=https://www.reddit.com/user/Dragonclaude]/u/Dragonclaude[/url]
+Злиття князів першого акту: Шестислинькартовий! від [url=https://www.reddit.com/user/Dragonclaude]/u/Dragonclaude[/url]
 
 [img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/a8ee069e0690fd1a49d45ce920b998a8df7f7d9a.jpg[/img]
-This gritty rendition of the Silent by [url=https://twitter.com/TheHalret]@TheHalret[/url]
+Нуарна Тиша від [url=https://twitter.com/TheHalret]@TheHalret[/url]
 
 [img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/95ca5483570550b0554570965e3416aab5f57728.jpg[/img]
-Gremlin Leader except I get lazier the further right the pictures goes by [url=https://www.reddit.com/user/pulfian]/u/pulfian[/url]
+Гремлін-ватажок, але чим правіше, тим мені було більше ліньки від [url=https://www.reddit.com/user/pulfian]/u/pulfian[/url]
 
 [img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/125745a41b008b8fca481e0f6350d419269cfa0b.jpg[/img]
-This cute Silent by [url=https://twitter.com/ewilio]@ewilio[/url][/i]
+Ця мила Тиша від [url=https://twitter.com/ewilio]@ewilio[/url][/i]
 
-[h1]Modding[/h1]
-While we’ve tried our best to keep backwards compatibility as stable as possible, many performance and UX improvements that were added will inevitably break some mods.
+[h1]Моди[/h1]
+Хоча ми й намагались зробити нову версію зворотньо суміснісною з попередньою, багато змін і покращень все рівно зачеплять деякі моди.
 
-For this release we worked a lot closer with our modding community and very grateful for sharing their insights in making the game more modder friendly, bug free, and generally helping the community stay informed of upcoming changes.
+Під час розробки цієї версії ми багато працювали із спільнотою наших модерів, і ми дуже вдячні за їхній внесок у покращення доступності модифікування, виправлення помилок та інформування спільноти про прийдешні зміни.
 
-These kind folks include (but aren’t limited to) BDWSSBB, Blank The Evil, brianfubar, Evil Pickle, and kioeeht. They have done tons of optimizations, fixes, moddability improvements, and even features like the sort bar in deck view screen! As always, if you have questions about modding or want to get into modding yourself, visit the [url=https://discord.gg/slaythespire]Slay the Spire Discord’s #modding channel![/url]
+Особливо хотілось би виділити BDWSSBB, Blank The Evil, brianfubar, Evil Pickle, та kioeeht. Вони зробили багато оптимзацій, виправлень, покращень під моди, та навіть додали нові функції, серед який сортування карт у колоді! Як завжди, якщо у вас є питання щодо модів чи як їх робити, завітайте на канал [url=https://discord.gg/slaythespire]#modding на офіційному сервері Slay the Spire у Discord![/url]
 
-Maybe just stop by to thank a modder for all their hard work :).
+Або просто зайдіть і подякуйте модерам за їхню працю :).
 
 
-[h1]Archived Versions[/h1]
-Version 1.0 of Slay the Spire (January 23, 2019) will be archived in the Steam branch: [V1.0] can be found in the BETAS tab for the game (Similarly to how you would access the beta branch).
+[h1]Архівовані версії[/h1]
+Версію 1.0 (за 23 січня 2019) буде заархівовано у Steam: [V1.0] можна завантажити через вкладку ТЕСТУВАННЯ у властивостях гри (там же, де можна завантажити бета-версію).
 
-[b]Patch Notes[/b]
+[b]Перелік оновлень[/b]
 
-[h1]Content[/h1]
+[h1]Вміст[/h1]
 [list]
-[*]Added Eternal One achievement, unlocked when all other achievements are unlocked.
+[*]Додано досягнення «Вічний», що дається за здобуття всіх інших досягнень.
 [/list]
 
-[h1]Balance[/h1]
+[h1]Баланс[/h1]
 [list]
-[*]Berserk card buffed. Self Vulnerable 3 -> 2.
-[*]Blood Potion buffed to heal 10% -> 25%.
-[*]Bottled Flame no longer appears if all of your Attacks are starter cards.
-[*]Bottled Lightning no longer appears if all of your Skills are starter cards.
-[*]Heel Hook+ card buffed. 7 -> 8 damage.
-[*]Bullseye card buffed. Lock-On 1 -> 2.
-[*]Bullseye+ card buffed. Damage 10 -> 11.
-[*]Colosseum event now appears only at the top half of Act 2.
-[*]You no longer run into The Cleric or Beggar events if you do not have enough gold.
+[*]Карту «Шаленість» посилено. Уразливість на себе: 3 -> 2.
+[*]Зілля крові посилено. Зцілення: 10% -> 25%.
+[*]Консервоване полум’я більше не з’являтиметься, якщо всі карти атаки — початкові.
+[*]Консервована блискавка більше не з’являтиметься, якщо всі карти вміння — початкові.
+[*]Карту «Залом стопи+» посилено. Шкода: 7 -> 8.
+[*]Карту «У ціль» посилено. Прицілення 1 -> 2.
+[*]Карту «У ціль+» посилено. Шкода: 10 -> 11.
+[*]Подія «Колізей» тепер трапляється тільки у вехній половині другого акту.
+[*]Жебрак і Церковник більше не з’являтимуться, якщо у вас недостатньо золота.
 [/list]
 
-[h1]UI and Effects[/h1]
-Many quality of life changes such as a larger potions menu, a long-press End Turn option, sorting options for your deck, improved rendering for tips, and a condensed top panel have been added.
+[h1]Ефекти та інтерфейс[/h1]
+Безліч якісних змін: збільшене меню зілль, опція довгої затримки кнопки закінчення ходу, сортування колоди, покращено вигляд порад та додано щільнішу верхню панель.
 
 [list]
-[*]Patch Notes screen is back.
-[*]Touchscreen Mode can now be enabled in the Input Settings (at the bottom).
-[*]End Turn button can now utilize long-press confirmations for controllers and keyboard (not mouse). Turn on/off in Game Settings.
-[*]Improved trackpad support for laptops.
-[*]Potion menu is way bigger now (easier to click on for mouse/touchscreen).
-[*]Top panel's floor number indicator is now an icon + number.
-[*]Top panel gold icon, health icon, potion slots, and modifiers now scale up when hovered.
-[*]Top panel elements gets their spacing updated.
-[*]Adding a right stick button asset when highlighting volume sliders via controller.
-[*]Ascension description tips are now numbered in English.
-[*]Ascension level is now an icon + number in the top panel (gold when max level).
-[*]Black screen when viewing a grid of cards (such as removing a card from deck) is now darker (50% -> 70% opacity).
-[*]Boss node on map now has a hover reticle when using controller.
-[*]Campfire sleep VFX is now slightly darker.
-[*]Cards with glowing effects now have a border that appears instantly along with the VFX.
-[*]Cleaning up the tick asset used on various checkboxes and dropdowns.
-[*]Combat reward screen's items now get a reticle when hovered/highlighted. Much more noticeable.
-[*]Completion percentages in save slot view do not show tenths place if 0% or 100% now.
-[*]Confirm buttons now place the controller prompt icon dynamically, preventing text overlap.
-[*]Credits screen can now be scrolled up/down using controller.
-[*]Custom Mode screen's modifiers are now more obviously hovered/highlighted.
-[*]Defect gets a glow-version asset at Rest Site like Ironclad/Silent. 
-[*]Disabling particle effects now disables the particles which appear upon applying buffs/debuffs.
-[*]Fixing some grammar and typos in Potion popup text.
-[*]Game and Input Settings tabs get larger hitboxes.
-[*]Game Saved VFX now appears below the top panel if more than 3 game modifiers are enabled.
-[*]Grand Finale card is now 0.3s faster in Fast Mode.
-[*]Highlight box now resizes so text isn't blocked when highlighting view upgrade option in Card Library.
-[*]Highlighted cards in RunHistoryScreen are now more obvious when using controllers.
-[*]Letterboxing for unsupported aspect ratios no longer have a 1px gap.
-[*]Line spacing in Menu Panel headers reduced by 15%.
-[*]Lose HP action is now much faster in Fast Mode.
-[*]No Run Histories found text is now centered and has improved line spacing.
-[*]Offering card is now faster in Fast Mode.
-[*]Options in Custom Mode screen are now more obviously highlighted.
-[*]Plated Armor power description is more accurate now.
-[*]Removed the 'Build:' text on version number as it's unnecessary.
-[*]Rich Presence now contains Ascension level (unless 0).
-[*]Seek card now organizes cards by rarity and alphabetically.
-[*]Silent's starting Strikes are put before Defends (to be consistent with other characters)
-[*]Sort button's highlight UI when using controllers are now dynamically sized based on text length.
-[*]Static Discharge card now clarifies that it triggers when you receive unblocked attack damage.
-[*]Text in Game Preferences settings now aligns better with checkboxes.
-[*]Tips for boss relics are now offset so they can no longer cover a relic when hovered/highlighted using controller.
-[*]Tips for potions now show up when hovered in Reward screens and Shops (not just in the Potion panel after acquisition).
-[*]Vampires and Council of Ghosts events now show how much Max HP is lost (rather than showing %)
-[*]Well-Laid Plans card plays slightly faster now.
-[*]When hovering various tips in the Game Settings, they're now rendered on the left side instead of at cursor position.
-[*]When previewing card for upgrade via controller, the upgrade result is now hovered, no longer obscuring your view.
-[*]When viewing your deck, you can now sort it by obtained order, alphabetical, rarity, and cost.
-[*]With controllers, end turn now disables cards from being hovered, so cards don't obscure enemies.
+[*]Додано назад екран з описом оновлень.
+[*]Режим сенсорного екрану можна увімкнути через меню клавіш (унизу).
+[*]Кнопка закінчення ходу може використовувати підтвердження довгим затримуванням для контроллерів і клавіатури (не для мишки). Вмикається через налаштування гри.
+[*]Покращено підтримку тачпада для ноутбуків.
+[*]Меню зілль тепер набагато більше (легше клацати мишкою/сенсорним екраном).
+[*]Показник поверху на верхній панелі тепер виглядає як іконка та число.
+[*]Показники золота, ОЗ, місць для зілль та модифікаторів на верхній панелі тепер збільшуються при наведенні.
+[*]Оновлено відступи елементів верхньої панелі.
+[*]Полегшено керування гучністю через контроллер.
+[*]Описи в режимі «Вознесіння» пронумеровано.
+[*]Показник рівня вознесіння на верхній панелі тепер виглядає як іконка та число (на найбільшому рівні — жовтим кольором).
+[*]Потемніння екрану при перегляді карт таблицею (наприклад, при усуненні карти з колоди) тепер сильніше (непрозорість: 50% -> 70%).
+[*]На поверх князя тепер можна наводитись контроллером.
+[*]Багаття у таборі при відпочинку тепер трішки темніше.
+[*]Карти, що підсвічуються під час гри тепер мають контур, що з’являється одночасно з відеоефектом.
+[*]Підчищено значок галочки, що використовується у багатьох опціях меню.
+[*]Речі на екрані винагород тепер більш замітні при наведенні.
+[*]Відсотки проходження при перегляді збережень більше не показують дробову частину при значеннях 0% і 100%.
+[*]Кнопки підтвердження для контроллера тепер мають динамічне розміщення, запобігаючи накладанню тексту.
+[*]Титри трепер можна прокручувати вперед/назад контроллером.
+[*]Модифікатори на екрані власної гри тепер чіткіше видно.
+[*]Ґандж тепер має такий же ефект підсвічення у таборах, як і Броненосець та Тиша. 
+[*]Вимкнення ефектів дрібних частинок тепер вимикає і ефект, який відбувається при нанесенні позитивних/негативних ефектів.
+[*]Вкладки налаштувань збільшено.
+[*]Відеоефект збереження гри з’являтиметься під верхньою панеллю, якщо увімкнуто більше трьох модифікаторів.
+[*]Карта «Грандіозний фінал» тепер швидша на 0.3с у швидкому режимі.
+[*]Вікно підказки тепер змінюватиме розмір, щоб не закривати текст при наведенні на опцію «Переглянути поліпшення» у колекції карт.
+[*]Наведені карти у режимі перегляду історії гри з контроллером тепер замітніші.
+[*]Каше для нетрадиційних відношеннь сторін більше не залишає проміжок в 1 піксель.
+[*]Міжрядковий інтервал у меню зменшено на 15%.
+[*]Втрата ОЗ тепер набагато швидша у швидкому режимі.
+[*]Текст, що з’являється в історії при відсутності попередніх проходжень тепер розміщено в центрі та з кращим міжрядковим інтервалом.
+[*]Пропонування карти у швидкому режимі тепер швидше.
+[*]Опції у режимі своєї гри тепер чіткіше видно.
+[*]Вилучено напис 'Build:' перед номером версії, бо він непотрібний.
+[*]Rich Presence тепер показує рівень вознесіння (окрім нульового).
+[*]Карта «Пошук» тепер сортує карти за рідкістю та в алфавітному порядку.
+[*]Початкові Удари Тиші показуються перед Захистами (як і вінших персонажів).
+[*]Підказка кнопки сортування при наведенні контроллером тепер динамічно змінюється в залежності від розміру тексту.
+[*]Опис карти «Статичний розряд» тепер вказує, що вона спрацьовує лише від неблокованої шкоди.
+[*]Тексти у налаштуваннях тепер краще підведено до відміток.
+[*]Підказки для князівських амулетів було відсунуто, щоб вони не перекривали інші амулети при наведенні контроллером.
+[*]Підказки для зілль тепер також показуються при наведенні на екрані нагород та крамниці (а не тільки на панелі зілль після отримання).
+[*]Події «Вампіри» та «Рада духів» тепер показують втрату макс. ОЗ (а не відсоткове значення)
+[*]Карта «Плани на майбутнє» тепер грається трішки швидше.
+[*]Наводячи на підказки у налаштуваннях гри, вони тепер показуються на лівому боці, а не під курсором.
+[*]Переглядаючи поліпшення карт контроллером, результат поліпшення більше не заступає текст.
+[*]Переглядаючи колоду, її можна посортувати за порядком отримання, алфавітом, рідкістю та вартістю.
+[*]Завершуючи хід з контроллера, стає неможливо наводитись на карти, щоб не затуляти ворогів.
 [/list]
 
-[h1]Performance[/h1]
-A lot of work was done to improve boot time, rendering performance, and to find and fix memory leaks which led to crashes when playing for extended periods of time.
+[h1]Продуктивність[/h1]
+Багато чого було зроблено для поліпшення часу завантаження, продуктивності промальовування та пошуку і виправлень витоків пам’яті, що призводили до вильотів під час довготривалих ігор.
 
 [list]
-[*]Card UI elements now utilize a texture atlas (uses less VRAM and improves performance)
-[*]Compressed lots of images.
-[*]Fixed memory leaks in several monsters, events, ui, and other objects.
-[*]Flame Particles and Lightning Orb VFX assets are now pre-loaded.
-[*]Font generators are now cached better, improving load time and reducing memory usage.
-[*]Hexaghost and Lagavulin enemies now pre-cache music so there's no lag when music starts mid-combat.
-[*]Improving render performance of several UI, VFX, and Fonts.
-[*]Merged 3 identical fonts, reducing memory usage and improving load up time.
-[*]Removed dual initialization of several assets.
-[*]Removed a lot of unused assets.
-[*]Many VFX assets are now pre-cached, preventing stutter when certain cards or moves occur.
+[*]Елементи інтерфейсу на картах тепер використовують атлас текстур (використовує менше VRAM та покращує продуктивність)
+[*]Стиснуто багато зображень.
+[*]Виправлено витоки пам’яті у деяких ворогів, подій, елементів інтерфейсу та інших об’єктів.
+[*]Відеоефекти частинок вогню та громовиці тепер кешовані.
+[*]Генератори шрифтів тепер краще кешовані, що скоротило час завантаження та зменшило обсяг зайнятої пам’яті.
+[*]Музика Лагавуліна та Шестикутної поторочі тепер кешована, а отже немає затримки, коли вона розпочинається під час бою.
+[*]Покращено промальовування інтерфейсу, відеоефектів та шрифтів.
+[*]Об’єднано 3 ідентичних шрифти, що зменшило обсяг зайнятої пам’яті та скоротило час завантаження.
+[*]Видалено подвійну інціціалізацію кількох файлів.
+[*]Видалено безліч невикористовуваних файлів.
+[*]Багато відеоефектів тепер кешовані, що запобігає затримкам під час гри деяких карт.
 [/list]
 
-[h1]Code Cleanup[/h1]
-Most of this improves moddability, extensibility, and future-proofing various functions and objects within the game.
+[h1]Очистка коду[/h1]
+Більшість цих змін полегшать створення модів та внесення подальших змін до гри.
 
 [list]
-[*]Confusion and Corruption cards utilize improved hooks.
-[*]Improved lifesteal logic for Reaper and Shelled Parasite.
-[*]Refactored Hologram card to not have to verify number of cards in the card itself.
-[*]Specimen relic now uses the same code as other relics for applying its effect.
-[*]Unhardcoded various cards, relics, and enemies.
+[*]Ефект «Заплутаність» і карта «Порча» тепер краще обчислюються.
+[*]Покращено логіку отримання ОЗ Паразитного пацирника та карти «Жнець».
+[*]Карта «Голограма» тепер обчислює кількість карт тільки при грі.
+[*]Амулет «Екземпляр» тепер наносить свій ефект за допомогою того ж коду, що й інші амулети.
+[*]Безліч карт, ворогів та амулетів тепер мають динамічні змінні.
 [/list]
 
-[h1]Bug Fixes[/h1]
+[h1]Виправлення помилок[/h1]
 [list]
-[*]Fixed card and relics unlocking earlier than they're supposed to.
-[*]All-Out Attack, Madness, and Reboot cards no longer affect Card Rewards when used (rng issue).
-[*]Astrolabe relic now works even if your deck contains 3 cards or less.
-[*]Back button is now hidden in Save Slots screen if all saves are deleted.
-[*]Blank The Evil's bug fix for Card Reward screen non-skip issue.
-[*]Bottled Cards upgraded from Mind Bloom event have their description updated correctly.
-[*]Can no longer accidentally bring up the rename screen with controller when navigating through Settings.
-[*]Changed Input settings are now correctly retained when changing save slots.
-[*]Darkstone Periapt relic now works with Hoarder mod.
-[*]Empty Cage relic now works with 1 or less valid cards in your deck.
-[*]Envenom's Poison is now applied immediately after the damage occurs.
-[*]Fix for Cost X cards utilizing extra energy when playing quickly.
-[*]Fix for crash when pressing RIGHT using controller when viewing 5 cards in grid card select screen.
-[*]Fix for Map and View Deck top panel buttons sometimes skipping card rewards.
-[*]Fix for part of the map UI remaining on the screen after hitting Return in certain circumstances.
-[*]Fix for thank you message in credits displaying prematurely.
-[*]Fixed Automaton's orbs preventing scaling of Genetic Algorithm and Ritual Dagger.
-[*]Fixed Bag of Preparation not drawing cards affected by Confusion power.
-[*]Fixed bug where a certain set of actions could disable tips for a card for the rest of combat.
-[*]Fixed bug where deleting a save slot would generate dummy files in a ghost slot.
-[*]Fixed bug where dialog bubbles moved faster if higher resolution.
-[*]Fixed bug where Exhaust Pile can be viewed using controller even if it's empty.
-[*]Fixed bug where screenshake and SFX were played when navigating to locked character select option via controller.
-[*]Fixed card tips that remained on screen when you died.
-[*]Fixed certain Status and Curses triggering their end of turn effects by playing them normally with Medical Kit or Blue Candle under specific circumstances.
-[*]Fixed crash when attempting to hover view upgrade in Card Library using controller. 
-[*]Fixed crash when highlighting mods in top panel using controller.
-[*]Fixed crash when navigating left on controller when colorless cards are sold out.
-[*]Fixed crash when opening deck view if you have 0 cards (e.g. when you start a run with the Draft modifier)
-[*]Fixed crash when pressing down on controller on 3rd option at Rest Site if you have 4 options.
-[*]Fixed crash when pressing right on controller in Run History with 0 runs.
-[*]Fixed damage and block values showing green increased values when the end value was the same.
-[*]Fixed enemies not applying powers if they died in the process (e.g. Thorns).
-[*]Fixed enemy order issues in Slime Boss, Gremlin Leader, and Reptomancer encounters.
-[*]Fixed Enlightenment+ not reducing cost of cards with 1 or 0 cost for turn.
-[*]Fixed errors with moving around relic compendium screen with a controller for Event relics.
-[*]Fixed exploit of playing Normality while already having played 3+ cards.
-[*]Fixed Fission+ evoking Orbs in reverse order.
-[*]Fixed non-Steam platforms showing 0 total damage dealt on the victory screen.
-[*]Fixed inability to inspect relics when Shopscreen is open via controller.
-[*]Fixed incorrect scaling on draw and discard piles making them very large on high resolution.
-[*]Fixed Invincible power with interactions such as The Boot and Block.
-[*]Fixed issue where ending turn with Retain while hovering the player could make the leftmost card act strangely via controller.
-[*]Fixed issue if cards are queued and turn is ended after an enemy dies, Nilry's Codex can open and cause issues.
-[*]Fixed issue where map can be opened during room transitions, cancelling certain functionality.
-[*]Fixed issue where moving cursor to bottom of window would cause cards in hands to bounce indefinitely.
-[*]Fixed issue where Rest Site option text wasn't placed correctly (scaling).
-[*]Fixed issue where tips weren't appearing correctly in single relic popup view.
-[*]Fixed issue where up/down on controller in potion drink/discard also navigated to monsters/cards during combat.
-[*]Fixed issue where you briefly see the map when you start a run due to its default transparency.
-[*]Fixed lingering campfire sounds from rest sites.
-[*]Fixed Machine Learning card affecting hand size even when negated.
-[*]Fixed Meal Ticket not working on Shops from ? rooms.
-[*]Fixed Nemesis gaining Intangible too early and messing up damage from Thorns.
-[*]Fixed Normality card not stopping cards affected by Setup and Forethought.
-[*]Fixed Regret causing less HP loss than normal if other cards played themselves first.
-[*]Fixed Reptomancer not triggering some important logic after death.
-[*]Fixed Rip and Tear, Sword Boomerang, and Thunder Strike continuing its hits over Thorns and Shifting powers.
-[*]Fixed Second Wind doing its effects in reverse and only gaining one instance of block.
-[*]Fixed slash attack VFX used by some enemies being the wrong size in high resolutions.
-[*]Fixed Spit Web move's VFX appearing from wrong spot in high resolutions.
-[*]Fixed the opening of Input Settings allowing skipping of unskippable screens and potentially getting to an unplayable state.
-[*]Fixed the seedSet flag not resetting, preventing Achievements from unlocking in subsequent runs before game is reloaded.
-[*]Fixed Wrist Blade not affecting Sword Boomerang, Rip and Tear, and Thunder Strike.
-[*]Game and Input Settings panels are now taller so the input rows stay within the panel.
-[*]Improved precision of volume sliders with a controller so that values can be set precisely back to 50%.
-[*]Knowing Skull event can no longer give you a potion if you have the Sozu relic.
-[*]Leaderboard filters labels are now displayed for the options selected when opening the screen.
-[*]Library event can no longer contain duplicate cards.
-[*]Neow's Lament relic now grays out when it is used up.
-[*]No longer possible to interact with the map with a controller while single card view screen is open.
-[*]Relic Collection menu no longer scrolls erratically in some cases when using controller.
-[*]Removed note about Leaderboards being reset weekly as Early Access is over.
-[*]Reptomancer no longer creates daggers with more HP than intended.
-[*]Reset To Defaults option in Option Menu now resets all controller mappings properly.
-[*]Run History screen's cards and floor nodes can navigated easier with controllers.
-[*]Shop and Boss BGM now correctly mutes when game is minimized with the Mute While in BG option on.
-[*]Slider in the Character Stats menu no longer gets stuck before reaching the bottom with a controller.
-[*]Torch particles in Exordium now rise at the same speed on all resolutions.
-[*]Twitch plugin now works if language isn't English and system encoding isn't set to UTF-8.
-[*]Various card selection effects that don't update RNG are now seeded. 
-[*]When a dropdown menu is open in RunHistory screen, the controller up/down no longer affects selection outside the dropdown menu.
-[*]WobblyLine VFX used in Snecko's glare is now larger and scales correctly with resolution.
+[*]Виправлено відкриття карт раніше за необхідне.
+[*]Карти «Напад з усіх сил», «Божевілля» та «Перезавантаження» більше не впливають на карти винагород (неполадка з генератором випадкових чисел).
+[*]Амулет «Астролябія» тепер також працює з колодами із трьох чи менше карт.
+[*]Кнопку «Назад» в меню збережень тепер приховано, якщо усі збереження видалені.
+[*]Blank The Evil виправив помилку з неможливістю пропустити карти на екрані нагород.
+[*]Консервовані карти, покращені подією «Розквіт мозку» тепер правильно оновлюють описи.
+[*]Під час навігації по меню за допомогою контроллера більше неможливо випадково зайти на екран перейменування.
+[*]Зміни налаштувань введення тепер правильно зберігаються при зміні профілів.
+[*]Кулон з темним каменем тепер правильно працюватиме із модифікатором «Жадібність».
+[*]Пуста клітка тепер спрацьовуватиме і з 1 чи менше допустимими картами у колоді.
+[*]Отрута від карти «Отруєння» наноситиметься одразу ж після завдання шкоди.
+[*]Виправлено помилку, коли карти X вартості отримували додаткову енргію при швидкій грі.
+[*]Виправлено падіння гри при натисканні кнопки RIGHT на контролері при перегляді 5 карт у табличному вигляді на екрані вибору карт.
+[*]Виправлено помилку, коли натискання на перегляд мапи чи колоди у верхній панелі інколи пропускало нагороди.
+[*]Виправлено помилку, коли частина інтерфейсу мапи залишалась на екрані після повернення назад у деяких ситуаціях.
+[*]Виправлено передчасне показування подяки у титрах.
+[*]Виправлено помилку, коли сфери не дозволяли посилювати Генетичний код і Обрядовий кинджал.
+[*]Виправлено помилку, коли Місткий рюкзачок не витягував карти з заплутаною вартістю.
+[*]Виправлено помилку, коли певний набір рухів вимикав підказки до карт до кінця бою.
+[*]Виправлено помилку, коли видалення файлів збереження створювало зайві файли у невидимих збереженнях.
+[*]Виправлено помилку, коли бульбашки рухались швидше у більших роздільностях.
+[*]Виправлено помилку, коли пустий відбій можна було переглядати за допомогою контроллера.
+[*]Виправлено помилку, коли відео- та аудіоефекти програвались при виборі недоступних персонажів за допомогою контроллера.
+[*]Виправлено помилку, коли підказки карт залишались на екрані після смерті.
+[*]Виправлено помилку, коли деякі карти стану і прокляття виконували свої ефекти закінчення ходу під час їхньої гри за допомогою Медкомплекту чи Синьої свічки у певних умовах.
+[*]Виправлено помилку, коли гра падала під час наведення на перегляд поліпшення у колекції карт за допомогою контролера. 
+[*]Виправлено помилку, коли гра падала під час наведення на модифікації у верхній панелі за допомогою контролера.
+[*]Виправлено помилку, коли гра падала під час наведення на крайню ліву карту у крамниці за домогою контролера коли всі безбарвні карти продано.
+[*]Виправлено помилку, коли гра падала під час перегляду колоди з 0 карт (наприклад, у іграх з модифікатором «По кресленнях»)
+[*]Виправлено помилку, коли гра падала під час натискання вниз на контроллері, коли обрано третю опцію із чотирьох у таборі.
+[*]Виправлено помилку, коли гра падала під час натискання вправо на контроллері у історії ігор без жодної гри.
+[*]Виправлено помилку, коли числа шкоди і броні показувались зеленим, хоча саме значення залишалось тим самим.
+[*]Виправлено помилку, коли вороги не застосовували ефекти під час своєї смерті (наприклад, шипи).
+[*]Виправлено помилку, коли ворогів було показано у неправильному поядку, зокрема у боях із Князем Слиньком, Гремліном-ватажком та Рептомантом.
+[*]Виправлено помилку, коли карта «Просвітлення+» не зменшувала вартість карт, що коштували 1 чи 0 лише у цьому ході.
+[*]Виправлено помилки із переміщенням по колекції амулетів за подію за допомогою контроллера.
+[*]Виправлено помилку, коли можна було грати карту «Окови» після того, як було зіграно більше трьох карт.
+[*]Виправлено помилку, коли карта «Роздроблення+» активовувала сфери у зворотньому порядку.
+[*]Виправлено помилку, коли на всіх платформах, окрім Steam сумарна завдана шкода показувалась як 0 на екрані перемоги.
+[*]Виправлено помилку, коли неможливо було переглядати амулети за допомогою контролера коли відкритий екран крамниці.
+[*]Виправлено помилку, коли неправильне масштабування робило значки відбою і добору надзвичайно великими у більших роздільностях.
+[*]Виправлено помилку взаємодії ефекту «Неподоланність» із Завідним чобітком і бронею.
+[*]Виправлено помилку, коли, завершуючи хід та наводячись на збережені у руці карти за допомогою контроллера, ліва карта поводила себе дивно.
+[*]Виправлено помилку, коли карти йдуть по черзі та хід завершено після смерті ворога, Кодекс Нілріс може відкритись і створювати проблеми.
+[*]Виправлено помилку, коли мапу могла відкритись під час переходу між кімнати, скасовуючи деякі функції.
+[*]Виправлено помилку, коли пересування курсору у низ вікна заставляло карти безупинно дригатись.
+[*]Виправлено помилку, коли текст на опціях у таборі розміщувався неправильно (масштаб).
+[*]Виправлено помилку, коли підказки показувались неправильно під час перегляду конкретного амулета.
+[*]Виправлено помилку, коли кнопки вверх/вниз на контроллері під час вибору опцій зілля також обирали ворогів/карти у бою.
+[*]Виправлено помилку, коли можна було на момент побачити мапу перед початком гри через значення її непрозорості.
+[*]Виправлено помилку, коли звуки багаття із табору залишались після виходу з нього.
+[*]Виправлено помилку, коли карта «Машинне навчання» змінювала кількість карт у руці, навіть коли не була зіграна.
+[*]Виправлено помилку, коли Квиток на їжу не спрацьовував у крамницях із ? кімнат.
+[*]Виправлено помилку, коли Немезида отримувала ухиляння занадто рано і уникала шкоди від шипів.
+[*]Виправлено помилку, коли карта «Окови» не зупиняла карт, що були в руці завдяки картам «Налаштування» і «Задум».
+[*]Виправлено помилку, коли карта «Журба» завдавала менше втрати ОЗ, ніж треба, якщо інші карти було зіграно автоматично.
+[*]Виправлено помилку, коли у Рептоманта щось важливе не спрацьовувало після смерті.
+[*]Виправлено помилку, коли карти «Меч-бумеранг», «Рвати-шматувати» та «Удар блискавкою» продовжували завдавати шкоду, незважаючи на шипи та несталість.
+[*]Виправлено помилку, коли ефекти карти «Другий подих» виконувались не в тому порядку, і, як наслідок, карта надавала лише 1 броні.
+[*]Виправлено помилку, коли відеоефект порізу, який використовують деякі вороги був неправильного розміру у великих роздільностях.
+[*]Виправлено помилку, коли відеоефект плювка павутиною з’являвся у неправильному місці у великих роздільностях.
+[*]Виправлено помилку, коли відкривання налаштувань клавіш дозволяло пропускати сцени, які не можна було пропускати і могло довести гру до непередбачуваного стану.
+[*]Виправлено помилку, коли прапорець seedSet не обнулявся, що не дозволяло отримувати досягнення без перезапуску гри.
+[*]Виправлено помилку, коли Наручний клинок не спрацьовував на Меч-бумеранг, Рвати-шматувати та Удар блискавкою.
+[*]Панелі налашувань тепер більші, щоб рядки введення поміщались у панель.
+[*]Покращено точність повзунків звуку при керуванні контроллером, так що можна виставити значення у точно 50%.
+[*]Всезнаючий череп більше не даватиме зілля, якщо у вас є амулет Сузу.
+[*]Назви фільтрів лідерського табла тепер показуються для обраних варіантів при відкритті екрану.
+[*]Подія «Бібліотека» тепер не містить подвоєних карт.
+[*]Плач Няу тепер сіріє, коли його силу вичерпано.
+[*]Контроллером більше не можна рухатись мапою при перегляді карти.
+[*]Колекція амулетів більше не дригається при використанні контроллера.
+[*]Видалено запис про щотижневе оновлення лідерського табла, бо гра вже вийшла з раннього доступу.
+[*]Рептомант більше не створює кинджали з неймовірними кількостями ОЗ.
+[*]Опція відновлення значень за промовчуванням тепер правильно відновлює значення для контроллера.
+[*]Контроллером тепер простіше рухатись по картах на екрані історії ігор та по кімнатах на мапі.
+[*]Фонова музика князів і крамниці тепер правильно затухатиме, якщо у налаштуваннях вибрано відповідний пункт.
+[*]Повзунки у меню більше не застрягатимуть при керуванні з контроллера.
+[*]Частинки від смолоскипів при Воротах тепер піднімаються з однаковою швидкістю в усіх роздільностях.
+[*]Плагін Twitch тепер буде працювати, навіть якщо встановлено не-англійську мову, та підтримує UTF-8.
+[*]Безліч ефектів вибирання карт, які не залежать від ГВЧ, тепер зашито у ключі. 
+[*]Виправлено помилки з контроллером на екрані історії проходжень.
+[*]Відоефект WobblyLine, який використовує Зміяко, тепер правильно масштабується з роздільністю.
 [/list]
 
 [h1]Localization[/h1]
-Thai and Turkish languages are now available. Big thanks to our community translators :D.
-New languages and localization improvements, hooray!
+Гру перекладено ще й тайською і турецькою. Велике дякую нашим перекладачам-волонтерам :D.
+Нові мови і покращення інших, ура!
 
 [list]
-[*]Portuguese Brazilian was out-of-date so it has been removed from main branch.
-[*]JPN translation overhaul by Kakehashi Games.
-[*]JPN and THA now have translated Merchant Shop images.
-[*]THA fonts updated.
-[*]Updated credits for JPN, POL, THA, and TUR.
-[*]Added logic to disallow periods to cause line breaks in Asian languages.
-[*]Rewrote how Asian languages are rendered, fixing several formatting issues.
-[*]Asian languages now utilize lineSpacing variable in renderSmartText.
-[*]Asian languages no longer have A~Z sorting filters in Card Library screen.
-[*]JPN renders card descriptions from left to right.
-[*]Rest Site options' rest option info text now uses localized period character.
-[*]Run History and Daily Screens now use YEAR/MONTH/DAY by default for dates except in English.
-[*]Run History date format in JPN utilizes localized AM/PM.
+[*]Переклад бразильською португальською застарів, тому він більше недоступний в основній версії.
+[*]JPN переклад виконано наново Kakehashi Games.
+[*]JPN і THA тепер мають переклад зображень у крамниці.
+[*]Оновлено шрифти для THA.
+[*]Нові титри для JPN, POL, THA і TUR.
+[*]Багато покращеннь для азійських мов (японської і обох варіантів китайської)
+[*]Новий формат дати для української. А також:
+[*]Зменшено Написання З Великої Букви. Тепер з великої пишуться, крім власних назв, тільки назви карт та амулетів.
+[*]Шкода тепер завдається, а не наноситься.
+[*]Розділено поняття «усування» карти з руки і «вилучення» карти з колоди.
+[*]Карти тепер вибираються за формулою «Оберіть карту для ...».
+[*]Усі описи карт тепер в другій особі.
+[*]Змінено синтаксис сфер — відтепер вони «встановлюються», виконують «пасив», а їхнє спрацьовування — «актив».
+[*]Слово «статус» більше ніде не вживається. Status cards — це карти стану, а Negative status — негативний ефект.
+[*]Змінено описи багатьох подій і назви кількох ворогів.
+
 [/list]
 
-Note: Asian languages referred to in these patch notes refer to Japanese, Chinese (Simplified), and Chinese (Traditional) which utilize a separate way of rendering text.
 
 [img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/1cc16b2b6a2e5eb07413d93d04c396b3034a46b1.png[/img]
