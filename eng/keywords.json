@@ -20,6 +20,12 @@
       ],
       "DESCRIPTION": "Burns are unplayable status cards that damage you."
     },
+    "CALM": {
+      "NAMES": [
+        "calm"
+      ],
+      "DESCRIPTION": "Upon exiting this #yStance, gain [W] [W] ."
+    },
     "CHANNEL": {
       "NAMES": [
         "channel",
@@ -57,6 +63,12 @@
         "dexterity"
       ],
       "DESCRIPTION": "Dexterity improves Block gained from cards."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "divinity"
+      ],
+      "DESCRIPTION": "Upon entering this stance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
     },
     "ETHEREAL": {
       "NAMES": [
@@ -149,11 +161,32 @@
       ],
       "DESCRIPTION": "Poisoned creatures lose HP at the start of their turn. Each turn, Poison is reduced by #b1."
     },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "through violence"
+      ],
+      "DESCRIPTION": "When you obtain #b10 #yMantra, enter #yDivinity."
+    },
+    "REGEN": {
+      "NAMES": [
+        "regen"
+      ],
+      "DESCRIPTION": "Regen heals HP at the end of your turn. Each turn, Regen is reduced by #b1."
+    },
     "RETAIN": {
       "NAMES": [
-        "retain"
+        "retain",
+        "retains",
+        "retained"
       ],
       "DESCRIPTION": "Retained cards are not discarded at the end of turn."
+    },
+    "SCRY": {
+      "NAMES": [
+        "scry"
+      ],
+      "DESCRIPTION": "Look at the top X cards of your draw pile. You may discard any of them."
     },
     "SHIV": {
       "NAMES": [
@@ -161,6 +194,13 @@
         "shivs"
       ],
       "DESCRIPTION": "Shivs are #b0 cost Attack cards which Exhaust."
+    },
+    "STANCE": {
+      "NAMES": [
+        "stance",
+        "stances"
+      ],
+      "DESCRIPTION": "You can only have one stance at a time."
     },
     "STATUS": {
       "NAMES": [
@@ -224,6 +264,12 @@
       ],
       "DESCRIPTION": "Upgrading cards makes them more powerful. Cards can only be upgraded once."
     },
+    "VIGOR": {
+      "NAMES": [
+        "vigor"
+      ],
+      "DESCRIPTION": "Your next Attack deals additional damage."
+    },
     "VOID": {
       "NAMES": [
         "void",
@@ -252,6 +298,12 @@
         "wounds"
       ],
       "DESCRIPTION": "Wounds are unplayable status cards."
+    },
+    "WRATH": {
+      "NAMES": [
+        "wrath"
+      ],
+      "DESCRIPTION": "In this #yStance, you deal and receive double attack damage."
     }
   }
 }

@@ -33,7 +33,7 @@
   },
   "ControlledChaos": {
     "NAME": "Controlled Chaos",
-    "DESCRIPTION": "Start with Frozen Eye. At the start of your turn add 10 random cards to the bottom of your draw pile."
+    "DESCRIPTION": "Start with Frozen Eye. At the start of your turn, add 10 random cards to the bottom of your draw pile."
   },
   "Cursed Run": {
     "NAME": "Cursed Run",
@@ -122,6 +122,10 @@
   "Praise Snecko": {
     "NAME": "Praise Snecko",
     "DESCRIPTION": "Replaces your starting relic with Snecko Eye."
+  },
+  "Purple Cards": {
+    "NAME": "Purple Cards",
+    "DESCRIPTION": "Purple cards now appear in rewards and shops."
   },
   "Red Cards": {
     "NAME": "Red Cards",

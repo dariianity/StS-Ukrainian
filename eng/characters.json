@@ -180,5 +180,13 @@
     "TEXT": [
       "A deadly huntress from the foglands. NL Eradicates foes with daggers and poisons."
     ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "The Watcher"
+    ],
+    "TEXT": [
+      "A blind ascetic who has come to \"Evaluate\" the Spire. NL Master of the divine Stances."
+    ]
   }
 }

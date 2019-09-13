@@ -9,7 +9,8 @@
   "AttackPotion": {
     "NAME": "Attack Potion",
     "DESCRIPTIONS": [
-      "Choose #b1 of #b3 random #yAttack cards to add to your hand, it costs #b0 this turn."
+      "Choose #b1 of #b3 random #yAttack cards to add to your hand, it costs #b0 this turn.",
+      "Choose #b1 of #b3 random #yAttack cards and add #b2 copies to your hand, they cost #b0 this turn."
     ]
   },
   "Block Potion": {
@@ -31,6 +32,13 @@
     "DESCRIPTIONS": [
       "Gain #b",
       " #yDexterity."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Duplication Potion",
+    "DESCRIPTIONS": [
+      "This turn, your next card is played twice.",
+      "This turn, your next #b2 cards are played twice."
     ]
   },
   "Elixir": {
@@ -73,7 +81,8 @@
   "FairyPotion": {
     "NAME": "Fairy in a Bottle",
     "DESCRIPTIONS": [
-      "When you would die, heal to #b10% of your Max HP instead and discard this potion."
+      "When you would die, heal to #b",
+      "% of your Max HP instead and discard this potion."
     ]
   },
   "FearPotion": {
@@ -148,7 +157,8 @@
   "PowerPotion": {
     "NAME": "Power Potion",
     "DESCRIPTIONS": [
-      "Choose #b1 of #b3 random #yPower cards to add to your hand, it costs #b0 this turn."
+      "Choose #b1 of #b3 random #yPower cards to add to your hand, it costs #b0 this turn.",
+      "Choose #b1 of #b3 random #yPower cards and add #b2 copies to your hand, they cost #b0 this turn."
     ]
   },
   "Regen Potion": {
@@ -162,7 +172,8 @@
   "SkillPotion": {
     "NAME": "Skill Potion",
     "DESCRIPTIONS": [
-      "Choose #b1 of #b3 random #ySkill cards to add to your hand, it costs #b0 this turn."
+      "Choose #b1 of #b3 random #ySkill cards to add to your hand, it costs #b0 this turn.",
+      "Choose #b1 of #b3 random #ySkill cards and add #b2 copies to your hand, they cost #b0 this turn."
     ]
   },
   "SmokeBomb": {
@@ -175,9 +186,9 @@
   "SneckoOil": {
     "NAME": "Snecko Oil",
     "DESCRIPTIONS": [
-      "Become #yConfused. Draw #b",
-      " cards.",
-      "card."
+      "Draw #b",
+      " cards. Randomize the cost of cards in your hand.",
+      ""
     ]
   },
   "SpeedPotion": {
@@ -186,6 +197,12 @@
       "Gain #b",
       " #yDexterity. At the end of your turn, lose #b",
       " #yDexterity."
+    ]
+  },
+  "StancePotion": {
+    "NAME": "Stance Potion",
+    "DESCRIPTIONS": [
+      "Enter #yCalm or #yWrath."
     ]
   },
   "SteroidPotion": {
