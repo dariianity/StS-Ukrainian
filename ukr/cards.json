@@ -5,11 +5,16 @@
   },
   "Accuracy": {
     "NAME": "Точність",
-    "DESCRIPTION": "Запоясники завдають !M! додаткової шкоди."
+    "DESCRIPTION": "*Запоясники завдають !M! додаткової шкоди."
   },
   "Acrobatics": {
     "NAME": "Акробатика",
     "DESCRIPTION": "Берете !M! карти. NL Усуваєте 1 карту."
+  },
+  "Adaptation": {
+    "NAME": "Адаптація",
+    "DESCRIPTION": "Змінюючи поставу, берете !M! карту.",
+    "UPGRADE_DESCRIPTION": "Початкова. NL Змінюючи поставу, берете !M! карту."
   },
   "Adrenaline": {
     "NAME": "Адреналін",
@@ -37,6 +42,11 @@
     "NAME": "Переділ",
     "DESCRIPTION": "Отримуєте !M! зосередження. NL Втрачаєте 1 міць. NL Втрачаєте 1 спритність."
   },
+  "Alpha": {
+    "NAME": "Альфа",
+    "DESCRIPTION": "У добір тасується *Бета. NL Спалюється.",
+    "UPGRADE_DESCRIPTION": "Початкова. NL У добір тасується *Бета. NL Спалюється."
+  },
   "Amplify": {
     "NAME": "Підсилення",
     "DESCRIPTION": "Протягом цього руху граєте наступну карту таланту двічі.",
@@ -62,6 +72,10 @@
   "Auto Shields": {
     "NAME": "Авто-щити",
     "DESCRIPTION": "Якщо не маєте броні, отримуєте !B! броні."
+  },
+  "AwakenedStrike": {
+    "NAME": "DEPRECATED Awakened Strike",
+    "DESCRIPTION": "Deal !D! damage."
   },
   "Axe Kick": {
     "NAME": "З ноги",
@@ -103,6 +117,10 @@
     "NAME": "Бойовий транс",
     "DESCRIPTION": "Берете !M! карти. NL Ви більше не берете карти до кінця руху."
   },
+  "BattleHymn": {
+    "NAME": "Бойове гасло",
+    "DESCRIPTION": "Ціна першої карти яку ви берете до руки кожного руху, зменшується на !M! протягом того руху."
+  },
   "Beam Cell": {
     "NAME": "Промінь світла",
     "DESCRIPTION": "Завдаєте !D! шкоди. NL Наносите !M! уразливості."
@@ -111,9 +129,19 @@
     "NAME": "Шаленість",
     "DESCRIPTION": "Отримуєте !M! уразливості. Отримуєте [R] на початку кожного руху."
   },
+  "Beta": {
+    "NAME": "Бета",
+    "DESCRIPTION": "У кінець добору тасується *Омега. NL Спалюється.",
+    "UPGRADE_DESCRIPTION": "У кінець добору тасується поліпшена *Омега. NL Спалюється."
+  },
   "Biased Cognition": {
     "NAME": "Упередженість",
     "DESCRIPTION": "Отримуєте !M! зосередження. NL Наприкінці кожного руху втрачаєте 1 зосередження."
+  },
+  "BigBrain": {
+    "NAME": "DEPRECATED Big Brain",
+    "DESCRIPTION": "Retain. NL Draw 1 card. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Draw 1 card."
   },
   "Bite": {
     "NAME": "Укус",
@@ -121,11 +149,20 @@
   },
   "Blade Dance": {
     "NAME": "Танець з кинджалами",
-    "DESCRIPTION": "Додаєте !M! Запоясники до руки."
+    "DESCRIPTION": "Додаєте !M! *Запоясники до руки."
+  },
+  "Blasphemy": {
+    "NAME": "Богохульство",
+    "DESCRIPTION": "Переходите в божество. NL Помираєте наступного руху."
   },
   "Blaster": {
     "NAME": "Пістоль",
-    "DESCRIPTION": "Завдаєте !D! шкоди УСІМ ворогам. NL Отримуєте [B] за кожну встановлену сферу. NL Спалюється."
+    "DESCRIPTION": "deprecated."
+  },
+  "Blessed": {
+    "NAME": "DEPRECATED Blessed",
+    "DESCRIPTION": "Shuffle !M! *Miracles into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Shuffle !M! Upgraded *Miracles into your draw pile. NL Exhaust."
   },
   "Blind": {
     "NAME": "Сліпота",
@@ -171,6 +208,21 @@
     "NAME": "Стрибуча фляжка",
     "DESCRIPTION": "Наносите 3 отрути випадковому ворогу !M! рази."
   },
+  "BowlingBash": {
+    "NAME": "Шмагнути кулею",
+    "DESCRIPTION": "Завдаєте !D! шкоди, за кожного ворога."
+  },
+  "Brilliance": {
+    "NAME": "Блискучість",
+    "DESCRIPTION": "Перетворюєте усі карти у руці в *Дива. NL Спалюється.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "BrillianceAura": {
+    "NAME": "DEPRECATED Brilliance Aura",
+    "DESCRIPTION": "Retain. NL At the start of your turn, draw 1 card. NL Exhaust."
+  },
   "Brutality": {
     "NAME": "Жорстокість",
     "DESCRIPTION": "На початку кожного руху втрачаєте 1 ОЗ та берете 1 карту.",
@@ -204,6 +256,10 @@
     "DESCRIPTION": "Усуваєте усі карти з руки, NL потім берете стільки ж карт з добору. NL Спалюється.",
     "UPGRADE_DESCRIPTION": "Усуваєте усі карти з руки, NL потім берете стільки ж карт з добору."
   },
+  "Calm": {
+    "NAME": "Спокій",
+    "DESCRIPTION": "Виходячи зі Спокою, отримуєте [W] [W]."
+  },
   "Caltrops": {
     "NAME": "Спичаки",
     "DESCRIPTION": "Щоразу, коли вас атакують, завдаєте !M! шкоди назад."
@@ -217,10 +273,20 @@
     "NAME": "Різанина",
     "DESCRIPTION": "Примарна. NL Завдаєте !D! шкоди."
   },
+  "CarveReality": {
+    "NAME": "Вирізати реальність",
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL Додаєте *Трощю у руку.",
+    "UPGRADE_DESCRIPTION": "Завдаєте !D! шкоди. NL Додаєте поліпшену *Трощю у руку."
+  },
   "Catalyst": {
     "NAME": "Фермент",
     "DESCRIPTION": "Подвоюєте отруту ворога. NL Спалюється.",
     "UPGRADE_DESCRIPTION": "Потроюєте отруту ворога. NL Спалюється."
+  },
+  "Causality": {
+    "NAME": "Зумовленість",
+    "DESCRIPTION": "Берете карти допоки ваша рука не заповниться. NL Спалюється.",
+    "UPGRADE_DESCRIPTION": "Залишається. NL Берете карти допоки ваша рука не заповниться. NL Спалюється."
   },
   "Chaos": {
     "NAME": "Безлад",
@@ -240,6 +306,11 @@
     "NAME": "Хризаліда",
     "DESCRIPTION": "Додаєте !M! випадкових вмінь у добір, вони коштують 0 енергії у цьому бої. NL Спалюється."
   },
+  "Clarity": {
+    "NAME": "Ясність",
+    "DESCRIPTION": "Зазираєте на перші !M! карт у доборі. Додаєте 1 до руки. NL Спалюєте решту.",
+    "UPGRADE_DESCRIPTION": "Зазираєте на перші !M! карт у доборі. Додаєте 1 до руки. NL Спалюєте решту."
+  },
   "Clash": {
     "NAME": "Колотнеча",
     "DESCRIPTION": "Можна грати тільки тоді, коли у руці є лише карти атаки. NL Завдаєте !D! шкоди.",
@@ -247,14 +318,23 @@
       "У мене є не-атакувальні карти."
     ]
   },
+  "CleanseEvil": {
+    "NAME": "Знищити зло",
+    "DESCRIPTION": "Додає X *Трощ до руки.",
+    "UPGRADE_DESCRIPTION": "Додає X покращених *Трощ до руки."
+  },
+  "ClearTheMind": {
+    "NAME": "Витримка",
+    "DESCRIPTION": "Залишається. NL Переходите в спокій. NL Спалюється."
+  },
   "Cleave": {
     "NAME": "Січа",
     "DESCRIPTION": "Завдаєте !D! шкоди УСІМ ворогам."
   },
   "Cloak And Dagger": {
     "NAME": "Плащ і кинджал",
-    "DESCRIPTION": "Отримуєте !B! броні. NL Додаєте !M! Запоясник до руки.",
-    "UPGRADE_DESCRIPTION": "Отримуєте !B! броні. NL Додаєте !M! Запоясники до руки."
+    "DESCRIPTION": "Отримуєте !B! броні. NL Додаєте !M! *Запоясник до руки.",
+    "UPGRADE_DESCRIPTION": "Отримуєте !B! броні. NL Додаєте !M! *Запоясники до руки."
   },
   "Clothesline": {
     "NAME": "Збиття",
@@ -268,6 +348,11 @@
     "NAME": "Холодні обійми",
     "DESCRIPTION": "Завдаєте !D! шкоди. Встановлюєте !M! криги."
   },
+  "Collect": {
+    "NAME": "Збір",
+    "DESCRIPTION": "Отримуєте [W] [W] на початку X наступних рухів. NL Спалюється.",
+    "UPGRADE_DESCRIPTION": "Отримуєте [W] [W] на початку X+1 наступних рухів. NL Спалюється."
+  },
   "Combust": {
     "NAME": "Згоряння",
     "DESCRIPTION": "Наприкінці вашого руху втрачаєте 1 ОЗ та завдаєте !M! шкоди УСІМ ворогам."
@@ -279,6 +364,14 @@
   "Concentrate": {
     "NAME": "Розмірковування",
     "DESCRIPTION": "Усуваєте !M! карти. NL Отримуєте [G] [G]."
+  },
+  "Conclude": {
+    "NAME": "Заключний",
+    "DESCRIPTION": "Завдаєте !D! шкоди УСІМ ворогам. NL Закінчуєте рух."
+  },
+  "Consecrate": {
+    "NAME": "Присвячення",
+    "DESCRIPTION": "Завдаєте !D! шкоди УСІМ ворогам."
   },
   "Conserve Battery": {
     "NAME": "Підзарядка",
@@ -313,9 +406,29 @@
     "NAME": "Творчий ШІ",
     "DESCRIPTION": "На початку кожного руху отримуєте випадковий талант у руці."
   },
+  "Crescendo": {
+    "NAME": "Наростання",
+    "DESCRIPTION": "Залишається. NL Переходите у кару. NL Спалюється."
+  },
+  "CrescentKick": {
+    "NAME": "DEPRECATED Crescent Kick",
+    "DESCRIPTION": "Deal !D! damage. NL If you have Vigor, NL gain [W] and NL draw 1 card."
+  },
   "Crippling Poison": {
     "NAME": "Руйнівна хмара",
     "DESCRIPTION": "Наносите !M! отрути та 2 ослаблення УСІМ ворогам. NL Спалюється."
+  },
+  "CrushJoints": {
+    "NAME": "Роздроблення суставів",
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL Якщо попередньо зіграною картою було вміння, наносить !M! уразливість."
+  },
+  "CurseOfTheBell": {
+    "NAME": "Прокляття дзвонів",
+    "DESCRIPTION": "Пасивна. NL Не вилучається з колоди."
+  },
+  "CutThroughFate": {
+    "NAME": "Подолання долі",
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL Ворожите !M! карти. NL Берете 1 карту."
   },
   "Dagger Spray": {
     "NAME": "Шквал кинджалів",
@@ -354,6 +467,11 @@
     "NAME": "Занепад",
     "DESCRIPTION": "Пасивна. NL Наприкінці вашого руху отримуєте 2 шкоди."
   },
+  "DeceiveReality": {
+    "NAME": "Обдурити реальність",
+    "DESCRIPTION": "Отримуєте !B! Броні. NL Додає *Безпеку у руку.",
+    "UPGRADE_DESCRIPTION": "Отримуєте !B! Броні. NL Додає поліпшену *Безпеку у руку."
+  },
   "Deep Breath": {
     "NAME": "Глибокий подих",
     "DESCRIPTION": "Тасуєте увесь відбій у добір. NL Берете !M! карту.",
@@ -364,6 +482,10 @@
     "DESCRIPTION": "Отримуєте !B! броні."
   },
   "Defend_G": {
+    "NAME": "Захист",
+    "DESCRIPTION": "Отримуєте !B! броні."
+  },
+  "Defend_P": {
     "NAME": "Захист",
     "DESCRIPTION": "Отримуєте !B! броні."
   },
@@ -382,6 +504,18 @@
   "Demon Form": {
     "NAME": "Демонічна форма",
     "DESCRIPTION": "На початку кожного руху отримуєте !M! міці."
+  },
+  "DeusExMachina": {
+    "NAME": "Порятунок",
+    "DESCRIPTION": "Пасивна. NL Підбираючи цю карту, додає !M! *Дива у руку. Спалюється."
+  },
+  "DevaForm": {
+    "NAME": "Форма Деви",
+    "DESCRIPTION": "Отримуєте !M! Панцирної броні."
+  },
+  "Devotion": {
+    "NAME": "Відданість",
+    "DESCRIPTION": "На початку руху, отримуєте !M! Благань."
   },
   "Die Die Die": {
     "NAME": "Смерть смерть смерть",
@@ -454,6 +588,19 @@
     "DESCRIPTION": "Громовиця буде влучати по ВСІХ ворогах. NL Встановлюєте !M! громовиці",
     "UPGRADE_DESCRIPTION": ""
   },
+  "EmptyBody": {
+    "NAME": "Порожнє тіло",
+    "DESCRIPTION": "Отримуєте !B! броні. NL Покидаєте вашу поставу."
+  },
+  "EmptyFist": {
+    "NAME": "Порожній кулак",
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL Покидаєте вашу поставу."
+  },
+  "EmptyMind": {
+    "NAME": "Порожній розум",
+    "DESCRIPTION": "Берете !M! карт. NL Покидаєте вашу поставу.",
+    "UPGRADE_DESCRIPTION": "Берете !M! карт. NL Покидаєте вашу поставу."
+  },
   "Endless Agony": {
     "NAME": "Нескінченні муки",
     "DESCRIPTION": "Щоразу, як ви берете цю карту, отримуєте ще одну копію до руки. NL Завдаєте !D! шкоди. NL Спалюється."
@@ -477,9 +624,23 @@
     "NAME": "Отруєння",
     "DESCRIPTION": "Щоразу, коли завдаєте неблоковану шкоду атакою, також наносите 1 отрути."
   },
+  "Eruption": {
+    "NAME": "Виверження ",
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL Переходите в кару."
+  },
   "Escape Plan": {
     "NAME": "План втечі",
     "DESCRIPTION": "Берете 1 карту. NL Якщо це вміння, отримуєте !B! броні."
+  },
+  "Establishment": {
+    "NAME": "Заснування",
+    "DESCRIPTION": "Щоразу ви залишаєте карту, її ціна зменшується на !M!.",
+    "UPGRADE_DESCRIPTION": "Початкова. NL Щоразу ви залишаєте карту, її ціна зменшується на !M!."
+  },
+  "Evaluate": {
+    "NAME": "Оцінення",
+    "DESCRIPTION": "Отримуєте !B! Броні. NL Тасуєте 1 *Розуміння у добір.",
+    "UPGRADE_DESCRIPTION": "Отримуєте !B! Броні. NL Тасуєте 1 поліпшене *Розуміння у добір."
   },
   "Eviscerate": {
     "NAME": "Спустошення",
@@ -494,8 +655,12 @@
     "NAME": "З могили",
     "DESCRIPTION": "Обираєте спалену карту та кладете собі у руку. NL Спалюється."
   },
+  "Experienced": {
+    "NAME": "DEPRECATED Experienced",
+    "DESCRIPTION": "Gain !B! Block for each Upgraded card in your hand."
+  },
   "Expertise": {
-    "NAME": "Мудрість",
+    "NAME": "Компетенція",
     "DESCRIPTION": "Берете карти допоки не матимете !M! карт у руці."
   },
   "FTL": {
@@ -506,6 +671,14 @@
       " карту.)",
       " карт.)"
     ]
+  },
+  "Fasting": {
+    "NAME": "Піст",
+    "DESCRIPTION": "Отримуєте !M! артефактів."
+  },
+  "FearNoEvil": {
+    "NAME": "Не боячись зла",
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL Якщо ворог думає атакувати, переходите в спокій."
   },
   "Feed": {
     "NAME": "Годування",
@@ -520,7 +693,7 @@
     "DESCRIPTION": "Спалюєте усі карти в руці. NL Завдаєте !D! шкоди за кожну спалену карту. NL Спалюється."
   },
   "Finesse": {
-    "NAME": "Майстерність",
+    "NAME": "Хитрість",
     "DESCRIPTION": "Отримуєте !B! броні. NL Берете 1 карту."
   },
   "Finisher": {
@@ -534,7 +707,7 @@
   },
   "Fire Breathing": {
     "NAME": "Вогняний подих",
-    "DESCRIPTION": "Наприкінці руху завдаєте по 1 шкоди УСІМ ворогам за кожну зіграну атаку."
+    "DESCRIPTION": "Тасуючи стан чи прокляття у руку завдаєте !M! шкоди УСІМ ворогам."
   },
   "Fission": {
     "NAME": "Роздроблення",
@@ -544,6 +717,14 @@
   "Flame Barrier": {
     "NAME": "Полум’яний бар’єр",
     "DESCRIPTION": "Отримуєте !B! броні. NL Щоразу, коли вас атакують у цьому русі, завдаєте !M! шкоди назад. "
+  },
+  "FlameMastery": {
+    "NAME": "DEPRECATED Flame Mastery",
+    "DESCRIPTION": "Gain !M! Strength."
+  },
+  "Flare": {
+    "NAME": "DEPRECATED Flare",
+    "DESCRIPTION": "DEPRECATED."
   },
   "Flash of Steel": {
     "NAME": "Спалах сталі",
@@ -562,6 +743,23 @@
     "NAME": "Тіложмака",
     "DESCRIPTION": "Отримуєте !M! міці. NL Наприкінці руху втрачаєте !M! міці."
   },
+  "Flicker": {
+    "NAME": "DEPRECATED Flicker",
+    "DESCRIPTION": "Deal !D! damage. If this kills the enemy, return this card to your hand."
+  },
+  "Flow": {
+    "NAME": "DEPRECATED Flow",
+    "DESCRIPTION": "When you play an Attack, gain 1 temporary Dexterity. When you play a Skill, gain 1 temporary Strength."
+  },
+  "FlowState": {
+    "NAME": "Потік",
+    "DESCRIPTION": "Кара: Переходите в спокій. NL Спокій: Переходите в кару. NL Спалюється.",
+    "UPGRADE_DESCRIPTION": "Кара: Переходите в спокій. NL Спокій: Переходите в кару."
+  },
+  "FlurryOfBlows": {
+    "NAME": "Лютий гепак",
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL Змінюючи поставу, повертається з Відбою у руку."
+  },
   "Flux Capacitor": {
     "NAME": "Тепловий конденсатор",
     "DESCRIPTION": "Замінюєте всі встановлені сфери на плазму. NL Спалюється."
@@ -569,6 +767,14 @@
   "Flying Knee": {
     "NAME": "Коліном",
     "DESCRIPTION": "Завдаєте !D! шкоди. NL Наступного ходу отримуєте [G]."
+  },
+  "FlyingSleeves": {
+    "NAME": "Літаючі рукава",
+    "DESCRIPTION": "Залишається. NL Завдаєте !D! шкоди двічі."
+  },
+  "FollowUp": {
+    "NAME": "Повторний",
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL Якщо попередньо зіграною картою була атака, отримуєте [W]."
   },
   "Footwork": {
     "NAME": "Робота ногами",
@@ -578,10 +784,19 @@
     "NAME": "Силове поле",
     "DESCRIPTION": "Коштує на 1 [B] менше за кожен зіграний талант у цьому бою. NL Отримуєте !B! броні."
   },
+  "ForeignInfluence": {
+    "NAME": "Зовнішній вплив",
+    "DESCRIPTION": "Обираєте 1 з 3 атак, та додаєте собі у руку. Ця карта може бути будь-якого кольору. NL Спалюється.",
+    "UPGRADE_DESCRIPTION": "Обираєте 1 з 3 покращених атак та додаєте собі у руку. Ці карти можуть бути будь-якого кольору. Спалюється."
+  }
   "Forethought": {
     "NAME": "Задум",
     "DESCRIPTION": "Кладете карту з руки у кінець добору. NL Вона коштуватиме 0 енергії, допоки не буде зіграна.",
     "UPGRADE_DESCRIPTION": "Кладете будь-яку кількість карт з руки у кінець добору. Вони коштуватимуть 0 енергії, допоки не будуть зіграні."
+  },
+  "FuryAura": {
+    "NAME": "DEPRECATED Fury Aura",
+    "DESCRIPTION": "Retain. NL Gain !M! temporary Strength. NL At the start of your turn, gain 1 temporary Strength."
   },
   "Fusion": {
     "NAME": "Злиття",
@@ -625,6 +840,10 @@
     "NAME": "Грандіозний фінал",
     "DESCRIPTION": "Можна грати тільки тоді, коли добір пустий. NL Завдаєте !D! шкоди УСІМ ворогам.",
     "UPGRADE_DESCRIPTION": "У доборі NL #rще #rє #rкарти."
+  },
+  "Halt": {
+    "NAME": "Павза",
+    "DESCRIPTION": "Отримуєте !B! броні. NL Кара: Отримуєте !M! додаткову броню."
   },
   "HandOfGreed": {
     "NAME": "Рука жадоби",
@@ -676,7 +895,7 @@
   },
   "Immolate": {
     "NAME": "Жертовний вогонь",
-    "DESCRIPTION": "Завдаєте !D! шкоди УСІМ ворогам. NL Додаєте 1 Опік у відбій."
+    "DESCRIPTION": "Завдаєте !D! шкоди УСІМ ворогам. NL Додаєте 1 *Опік у відбій."
   },
   "Impatience": {
     "NAME": "Нетерплячість",
@@ -692,8 +911,8 @@
   },
   "Infinite Blades": {
     "NAME": "Нескінченні леза",
-    "DESCRIPTION": "На початку вашого руху додаєте Запоясник до руки.",
-    "UPGRADE_DESCRIPTION": "Початкова. NL На початку вашого руху додаєте Запоясник до руки."
+    "DESCRIPTION": "На початку вашого руху додаєте *Запоясник до руки.",
+    "UPGRADE_DESCRIPTION": "Початкова. NL На початку вашого руху додаєте *Запоясник до руки."
   },
   "Inflame": {
     "NAME": "Спалах",
@@ -702,6 +921,15 @@
   "Injury": {
     "NAME": "Травма",
     "DESCRIPTION": "Пасивна."
+  },
+  "InnerPeace": {
+    "NAME": "Душевний спокій",
+    "DESCRIPTION": "Якщо ви у спокої, берете !M! карти, інакше переходите у спокій."
+  },
+  "Insight": {
+    "NAME": "Розуміння",
+    "DESCRIPTION": "Залишається. NL Берете !M! карти. NL Спалюється.",
+    "UPGRADE_DESCRIPTION": "Залишається. NL Берете !M! карти. NL Спалюється."
   },
   "Intimidate": {
     "NAME": "Залякування",
@@ -720,9 +948,20 @@
     "DESCRIPTION": "Додаєте !M! випадкову безбарвну карту до руки. NL Спалюється.",
     "UPGRADE_DESCRIPTION": "Додаєте !M! випадкові безбарвні карти до руки. NL Спалюється."
   },
+  "Judgement": {
+    "NAME": "Розсудження",
+    "DESCRIPTION": "Якщо ворог має !M! чи менше ОЗ, змінюєте їхнє NL ОЗ на 0.",
+    "EXTENDED_DESCRIPTION": [
+      "ЗАСУДЖЕНИЙ"
+    ]
+  },
   "Juggernaut": {
     "NAME": "Титан",
     "DESCRIPTION": "Щоразу, коли отримуєте броню, завдаєте !M! шкоди випадковому ворогу."
+  },
+  "JustLucky": {
+    "NAME": "Просто везучий",
+    "DESCRIPTION": "Ворожите !M! карт. NL Отримуєте !B! броні. NL Завдаєте !D! шкоди."
   },
   "Leap": {
     "NAME": "Стрибок",
@@ -731,6 +970,14 @@
   "Leg Sweep": {
     "NAME": "Підніжка",
     "DESCRIPTION": "Наносите !M! ослаблення. NL Отримуєте !B! броні."
+  },
+  "LessonLearned": {
+    "NAME": "Урок завчено",
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL якщо це вбиває ворога, випадкову карту з вашої колоди. Спалюється."
+  },
+  "LetFateDecide": {
+    "NAME": "DEPRECATED Let Fate Decide",
+    "DESCRIPTION": "Play the top X cards of your draw pile. If X is 3 or more, Retain X cards."
   },
   "Limit Break": {
     "NAME": "Вихід за рамки",
@@ -768,18 +1015,35 @@
     "NAME": "Майстер стратегії",
     "DESCRIPTION": "Берете !M! карти. NL Спалюється."
   },
+  "MasterReality": {
+    "NAME": "Майстер реальності",
+    "DESCRIPTION": "Обираєте NL *Трощю чи *Безпеку. NL На початку кожного руху додає обрану карту до руки."
+  },
   "Masterful Stab": {
     "NAME": "Вправний штик",
     "DESCRIPTION": "Завдаєте !D! шкоди. NL Із кожною втратою ОЗ вартість цієї карти збільшується на 1",
     "UPGRADE_DESCRIPTION": "."
   },
+  "Mastery": {
+    "NAME": "Майстерність",
+    "DESCRIPTION": "Щоразу пробуючи змінити поставу до теперішньої, отримуєте [B]."
+  },
   "Mayhem": {
     "NAME": "Розгардіяш",
     "DESCRIPTION": "На початку руху граєте першу карту з добору."
   },
+  "Meditate": {
+    "NAME": "Медитація",
+    "DESCRIPTION": "Спалюється до !M! карт. NL Переходите у спокій.",
+    "UPGRADE_DESCRIPTION": "Спалюється до !M! карт. NL Переходите у спокій."
+  },
   "Melter": {
     "NAME": "Розчинник",
     "DESCRIPTION": "Розчиняєте усю броню ворога. NL Завдаєте !D! шкоди."
+  },
+  "MentalFortress": {
+    "NAME": "Розумова фортеця",
+    "DESCRIPTION": "Змінюючи постави, отримуєте !M! броні."
   },
   "Metallicize": {
     "NAME": "Металізація",
@@ -788,6 +1052,11 @@
   "Metamorphosis": {
     "NAME": "Перетворення",
     "DESCRIPTION": "Додаєте у добір !M! випадкових атак, які коштують 0 у цьому бою. NL Спалюється."
+  },
+  "Metaphysics": {
+    "NAME": "Метафізика",
+    "DESCRIPTION": "Тасуєте *Зумовленість у добір. NL Спалюється.",
+    "UPGRADE_DESCRIPTION": "Тасуєте поліпшену *Зумовленість у добір. NL Спалюється."
   },
   "Meteor Strike": {
     "NAME": "Метеорний удар",
@@ -800,6 +1069,11 @@
     "EXTENDED_DESCRIPTION": [
       " NL (Завдаєте !D! шкоди.)"
     ]
+  },
+  "Miracle": {
+    "NAME": "Диво",
+    "DESCRIPTION": "Залишається. NL Отримуєте [W]. NL Спалюється.",
+    "UPGRADE_DESCRIPTION": "Залишається. NL Отримуєте [W] [W]. NL Спалюється."
   },
   "Multi-Cast": {
     "NAME": "Мультиактивація",
@@ -822,6 +1096,11 @@
       " NL лише раз за хід."
     ]
   },
+  "Nirvana": {
+    "NAME": "Нірвана",
+    "DESCRIPTION": "Граючи карту, поліпшуєте її до кінця бою.",
+    "UPGRADE_DESCRIPTION": "Початкова. NL Граючи карту, поліпшуєте її до кінця бою."
+  },
   "Normality": {
     "NAME": "Окови",
     "DESCRIPTION": "Пасивна. NL Допоки в руці, не можете грати більше 3-х карт протягом руху.",
@@ -843,6 +1122,15 @@
     "DESCRIPTION": "Втрачаєте 6 ОЗ. NL Отримуєте [R] [R]. NL Берете !M! карти. NL Спалюється.",
     "UPGRADE_DESCRIPTION": "Втрачаєте 6 ОЗ. NL Отримуєте [R] [R]. NL Берете !M! карт. NL Спалюється."
   },
+  "Omega": {
+    "NAME": "Омега",
+    "DESCRIPTION": "На початку руху, завдаєте !M! шкоди УСІМ ворогам."
+  },
+  "Omniscience": {
+    "NAME": "Всезнання",
+    "DESCRIPTION": "Ворожите колоду добору. NL Спалюється.",
+    "UPGRADE_DESCRIPTION": "Ворожите колоду добору."
+  },
   "Outmaneuver": {
     "NAME": "Хитрощі",
     "DESCRIPTION": "Наступного ходу NL отримуєте [G] [G].",
@@ -851,6 +1139,10 @@
   "Pain": {
     "NAME": "Ломота",
     "DESCRIPTION": "Пасивна. NL Допоки в руці, NL втрачаєте 1 ОЗ, граючи інші карти."
+  },
+  "PalmThatRestrains": {
+    "NAME": "DEPRECATED Restraining Palm",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
   },
   "Panacea": {
     "NAME": "Панацея",
@@ -868,10 +1160,28 @@
     "NAME": "Паразити",
     "DESCRIPTION": "Пасивна. NL Якщо перетворена чи вилучена з колоди, втрачаєте 3 макс. ОЗ"
   },
+  "PathToVictory": {
+    "NAME": "Дорога до перемоги",
+    "DESCRIPTION": "Берете карту, вона коштує 0 цього руху. NL Спалюється.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Peace": {
+    "NAME": "Мир",
+    "DESCRIPTION": "Залишається. NL УСІ вороги втрачають !M! Міці цього руху. NL Спалюється."
+  },
   "Perfected Strike": {
     "NAME": "Вдосконалений удар",
     "DESCRIPTION": "Завдаєте !D! шкоди. NL Завдаєте !M! додаткової шкоди за кожну карту в колоді, що містить слово «Удар».",
     "UPGRADE_DESCRIPTION": "Завдаєте !D! шкоди. NL Завдаєте !M! додаткової шкоди за кожну карту в колоді, що містить слово «Удар»."
+  },
+  "PerfectedForm": {
+    "NAME": "DEPRECATED Perfected Form",
+    "DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity."
+  },
+  "Perseverance": {
+    "NAME": "Наполегливість",
+    "DESCRIPTION": "Залишається. NL Отримуєте !B! броні. NL Щоразу ця карта залишається, її броня збільшується на !M!."
   },
   "Phantasmal Killer": {
     "NAME": "Фантом убивці",
@@ -885,6 +1195,10 @@
     "NAME": "Отруєний штик",
     "DESCRIPTION": "Завдаєте !D! шкоди. NL Наносите !M! отрути."
   },
+  "Polymath": {
+    "NAME": "DEPRECATED Polymath",
+    "DESCRIPTION": "Enter Calm or Wrath. NL Exhaust."
+  },
   "Pommel Strike": {
     "NAME": "Удар руків’ям",
     "DESCRIPTION": "Завдаєте !D! шкоди. NL Берете !M! карту.",
@@ -892,11 +1206,20 @@
   },
   "Power Through": {
     "NAME": "Пробій наскрізь",
-    "DESCRIPTION": "Додаєте 2 Рани у руку. NL Отримуєте !B! броні."
+    "DESCRIPTION": "Додаєте 2 *Рани у руку. NL Отримуєте !B! броні."
+  },
+  "Pray": {
+    "NAME": "Молитва",
+    "DESCRIPTION": "Отримуєте !M! Благань. NL Тасуєте *Благання у добір.",
+    "UPGRADE_DESCRIPTION": "Отримуєте !M! Благань. NL Тасуєте поліпшене *Благання у добір."
   },
   "Predator": {
     "NAME": "Хижак",
     "DESCRIPTION": "Завдаєте !D! шкоди. NL Наступного ходу берете 2 додаткові карти."
+  },
+  "Prediction": {
+    "NAME": "DEPRECATED Prediction",
+    "DESCRIPTION": "Gain !B! Block at the start of your next turn."
   },
   "Prepared": {
     "NAME": "Підготовка",
@@ -907,10 +1230,23 @@
     "NAME": "Гординя",
     "DESCRIPTION": "Початкова. NL Наприкінці руху кладете копію цієї карти на верх добору. Спалюється."
   },
+  "Prostrate": {
+    "NAME": "Знемагання",
+    "DESCRIPTION": "Отримуєте !M! Благань. NL Отримуєте !B! броні.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
+  },
+  "Protect": {
+    "NAME": "Захист",
+    "DESCRIPTION": "Залишається. NL Отримуєте !B! броні."
+  },
   "Pummel": {
     "NAME": "Лупцювання",
     "DESCRIPTION": "Завдаєте !D! шкоди !M! рази. NL Спалюється.",
     "UPGRADE_DESCRIPTION": "Завдаєте !D! шкоди !M! раз. NL Спалюється."
+  },
+  "Punishment": {
+    "NAME": "DEPRECATED Punishment",
+    "DESCRIPTION": "Enter Punishment Stance."
   },
   "Purity": {
     "NAME": "Очищення",
@@ -924,14 +1260,23 @@
     "NAME": "Лють",
     "DESCRIPTION": "Щоразу, коли граєте атаку у цьому русі, отримуєте !M! броні."
   },
+  "Ragnarok": {
+    "NAME": "Раґнарок",
+    "DESCRIPTION": "Завдаєте !D! шкоди випадковому ворогу !M! раз."
+  },
   "Rainbow": {
     "NAME": "Веселка",
-    "DESCRIPTION": "Встановлюєте 1 громовицю. NL Встановлюєте 1 кригу. NL Встановлюєте 1 пітьму. NL Спалюється.",
-    "UPGRADE_DESCRIPTION": "Встановлюєте 1 громовицю. NL Встановлюєте 1 кригу. NL Встановлюєте 1 пітьму."
+    "DESCRIPTION": "Встановлюєте NL 1 громовицю, NL 1 кригу та 1 пітьму. NL Спалюється.",
+    "UPGRADE_DESCRIPTION": "Встановлюєте NL 1 громовицю, NL 1 кригу та 1 пітьму."
   },
   "Rampage": {
     "NAME": "Буйство",
     "DESCRIPTION": "Завдаєте !D! шкоди. NL З кожним використанням шкода карти збільшується на !M! до кінця бою."
+  },
+  "ReachHeaven": {
+    "NAME": "Досягаючи неба",
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL Тасуєте NL *Шляхом *Насильства у добір.",
+    "UPGRADE_DESCRIPTION": "Завдаєте !D! шкоди. NL Тасуєте покращене *Шляхом *Насильства у добір."
   },
   "Reaper": {
     "NAME": "Жнець",
@@ -975,8 +1320,17 @@
   },
   "Reprogram": {
     "NAME": "Перепрограмування",
-    "DESCRIPTION": "Переглядаєте !M! верхні карти добору. Можете усунути будь-які з них у відбій.",
-    "UPGRADE_DESCRIPTION": "Переглядаєте !M! верхніх карт у добору. Можете усунути будь-які з них у відбій."
+    "DESCRIPTION": "Ворожите !M! карт.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "RetreatingHand": {
+    "NAME": "DEPRECATED Retreating Hand",
+    "DESCRIPTION": "Ethereal. NL Gain !B! Block. If the previous card played was an Attack, return this card to your hand.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. If the previous card played was an Attack, return this card to your hand."
+  },
+  "Retribution": {
+    "NAME": "DEPRECATED Retribution",
+    "DESCRIPTION": "Whenever you lose HP, gain !M! Vigor."
   },
   "Riddle With Holes": {
     "NAME": "Зрешетіння",
@@ -998,9 +1352,26 @@
     "NAME": "Садистська натуронька",
     "DESCRIPTION": "Щоразу, коли наносите негативний ефект на ворога, йому завдасться !M! шкоди."
   },
+  "Safety": {
+    "NAME": "Безпека",
+    "DESCRIPTION": "Залишається. NL Отримуєте !B! броні. NL Спалюється."
+  },
+  "Sanctity": {
+    "NAME": "Святість",
+    "DESCRIPTION": "Отримуєте !B! броні. NL Якщо попередньо card зіграною картою було вміння, берете !M! карти."
+  },
+  "SandsOfTime": {
+    "NAME": "Піски часу ",
+    "DESCRIPTION": "Залишається. NL Завдаєте !D! шкоди. NL Щоразу ця карта залишається, її ціна зменшується на 1."
+  },
   "Scrape": {
     "NAME": "Дряпання",
     "DESCRIPTION": "Завдаєте !D! шкоди. NL Берете !M! карт. NL Із цих набраних карт, усуваєте всі, що не коштують 0."
+  },
+  "Scrawl": {
+    "NAME": "Надряпати",
+    "DESCRIPTION": "Отримуєте !M! карти. NL Ви не можете грати вміння до кінця руху.",
+    "UPGRADE_DESCRIPTION": "Отримуєте !M! карти. NL Ви не можете грати вміння до кінця руху."
   },
   "Searing Blow": {
     "NAME": "Палаючий гепак",
@@ -1044,6 +1415,10 @@
     "DESCRIPTION": "Отримуєте !B! броні. NL Якщо цю карту скинуто з руки, NL отримуєте [R] [R].",
     "UPGRADE_DESCRIPTION": "Отримуєте !B! броні. NL Якщо цю карту скинуто з руки, NL отримуєте [R] [R] [R]."
   },
+  "Serenity": {
+    "NAME": "DEPRECATED Serenity",
+    "DESCRIPTION": "While you are in Calm, HP loss is reduced by !M!."
+  },
   "Setup": {
     "NAME": "Налаштування",
     "DESCRIPTION": "Обираєте карту з руки та кладете на верх добору. NL Вона коштуватиме 0, допоки не буде зіграна."
@@ -1056,6 +1431,10 @@
     "NAME": "Сором",
     "DESCRIPTION": "Пасивна. NL Наприкінці руху отримуєте 1 кволість."
   },
+  "Shield": {
+    "NAME": "DEPRECATED Shield",
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL Exhaust."
+  },
   "Shiv": {
     "NAME": "Запоясник",
     "DESCRIPTION": "Завдаєте !D! шкоди. NL Спалюється."
@@ -1067,6 +1446,10 @@
   "Shrug It Off": {
     "NAME": "Знизування",
     "DESCRIPTION": "Отримуєте !B! броні. NL Берете 1 карту."
+  },
+  "SignatureMove": {
+    "NAME": "Коронний Напад",
+    "DESCRIPTION": "Може бути зіграна якщо це єдина атака у вашій руці. Завдаєте !D! шкоди."
   },
   "Skewer": {
     "NAME": "Проколи",
@@ -1083,6 +1466,21 @@
   "Slimed": {
     "NAME": "Слиз",
     "DESCRIPTION": "Спалюється."
+  },
+  "Smite": {
+    "NAME": "Троща",
+    "DESCRIPTION": "Залишається. NL Завдаєте !D! шкоди. NL Спалюється."
+  },
+  "SoothingAura": {
+    "NAME": "DEPRECATED Soothing Aura",
+    "DESCRIPTION": "Retain. NL Apply !M! Weak. NL At the start of your turn, apply 1 Weak to a random enemy."
+  },
+  "SpiritShield": {
+    "NAME": "Душевний щит",
+    "DESCRIPTION": "Отримуєте !M! броні за кожну карту у руці.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Отримуєте !B! броні.)"
+    ]
   },
   "Spot Weakness": {
     "NAME": "Вразливе місце",
@@ -1107,7 +1505,11 @@
   },
   "Steam Power": {
     "NAME": "Прискорення",
-    "DESCRIPTION": "Берете !M! карти. NL Додаєте Опік у відбій."
+    "DESCRIPTION": "Берете !M! карти. NL Додаєте *Опік у відбій."
+  },
+  "StepAndStrike": {
+    "NAME": "Агресивний крок",
+    "DESCRIPTION": "Коштує на 1 менше за кожну зміну постави цього руху. NL Отримуєте !B! броні. NL Завдаєте !D! шкоди."
   },
   "Storm": {
     "NAME": "Буревій",
@@ -1116,8 +1518,8 @@
   },
   "Storm of Steel": {
     "NAME": "Сталева буря",
-    "DESCRIPTION": "Усуваєте усі карти з руки. NL Додаєте 1 Запоясник до руки за кожну усунуту карту.",
-    "UPGRADE_DESCRIPTION": "Усуваєте усі карти з руки. NL Додаєте 1 поліпшений Запоясник до руки за кожну усунуту карту."
+    "DESCRIPTION": "Усуваєте усі карти з руки. NL Додаєте 1 *Запоясник до руки за кожну усунуту карту.",
+    "UPGRADE_DESCRIPTION": "Усуваєте усі карти з руки. NL Додаєте 1 поліпшений *Запоясник до руки за кожну усунуту карту."
   },
   "Streamline": {
     "NAME": "Оптимізація",
@@ -1131,9 +1533,17 @@
     "NAME": "Удар",
     "DESCRIPTION": "Завдаєте !D! шкоди."
   },
+  "Strike_P": {
+    "NAME": "Удар",
+    "DESCRIPTION": "Завдаєте !D! шкоди."
+  },
   "Strike_R": {
     "NAME": "Удар",
     "DESCRIPTION": "Завдаєте !D! шкоди."
+  },
+  "SublimeSlice": {
+    "NAME": "DEPRECATED Sublime Slice",
+    "DESCRIPTION": "Deal !D! damage. NL Enter a random Stance."
   },
   "Sucker Punch": {
     "NAME": "Без попередження",
@@ -1142,6 +1552,10 @@
   "Sunder": {
     "NAME": "Розподіл",
     "DESCRIPTION": "Завдаєте !D! шкоди. NL Вбивши ворога цією картою, отримуєте [B] [B] [B]."
+  },
+  "Survey": {
+    "NAME": "DEPRECATED Survey",
+    "DESCRIPTION": "Gain !B! Block. NL Gain !M! Vigor."
   },
   "Survivor": {
     "NAME": "Виживання",
@@ -1155,6 +1569,14 @@
     "NAME": "Хуткий удар",
     "DESCRIPTION": "Завдаєте !D! шкоди."
   },
+  "Swipe": {
+    "NAME": "DEPRECATED Swipe",
+    "DESCRIPTION": "Deal !D! damage. Deal half this damage to all other enemies."
+  },
+  "Swivel": {
+    "NAME": "Поворотний",
+    "DESCRIPTION": "Отримуєте !B! броні. NL Наступна атака коштує 0."
+  },
   "Sword Boomerang": {
     "NAME": "Меч-бумеранг",
     "DESCRIPTION": "Завдаєте !D! шкоди випадковому ворогу !M! рази."
@@ -1166,6 +1588,14 @@
     "EXTENDED_DESCRIPTION": [
       "Я не можу зіграти цю карту."
     ]
+  },
+  "TalkToTheHand": {
+    "NAME": "Говоріть з рукою",
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL Щоразу цей ворог отримує шкоду, ви отримуєте !M! броні. NL Спалюється."
+  },
+  "Tantrum": {
+    "NAME": "Роздратування",
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL Переходите у кару. NL Ви не можете покинути кару до кінця цього руху."
   },
   "Tempest": {
     "NAME": "Гроза",
@@ -1185,6 +1615,14 @@
     "DESCRIPTION": "Берете 2 карти. NL Кладете карту з руки на верх добору. NL Спалюється.",
     "UPGRADE_DESCRIPTION": "Берете 2 карти. NL Кладете карту з руки на верх добору."
   },
+  "ThirdEye": {
+    "NAME": "Третє око",
+    "DESCRIPTION": "Отримуєте !B! броні. NL Ворожите !M! карт."
+  },
+  "ThroughViolence": {
+    "NAME": "Шляхом насилля",
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL Спалюється."
+  },
   "Thunder Strike": {
     "NAME": "Удар блискавкою",
     "DESCRIPTION": "Завдаєте !D! шкоди випадковому ворогу за кожну громовицю, встановлену під час цього бою.",
@@ -1199,6 +1637,14 @@
   "Tools of the Trade": {
     "NAME": "Багатий запас",
     "DESCRIPTION": "На початку руху берете 1 карту та усуваєте 1 карту."
+  },
+  "Torrent": {
+    "NAME": "DEPRECATED Torrent",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL Exhaust."
+  },
+  "Transcendence": {
+    "NAME": "Перевага",
+    "DESCRIPTION": "Поліпшуєте усі карти які залишаються у руці."
   },
   "Transmutation": {
     "NAME": "Видозміна",
@@ -1215,10 +1661,15 @@
     "DESCRIPTION": "Отримуєте !B! броні. NL Спалюєте випадкову карту у руці.",
     "UPGRADE_DESCRIPTION": "Отримуєте !B! броні. NL Спалюєте карту у руці."
   },
+  "Truth": {
+    "NAME": "Правда",
+    "DESCRIPTION": "Залишається. NL Завдаєте !D! шкоди. NL Берете !M! карту. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Залишається. NL Завдаєте !D! шкоди. NL Берете !M! карти. NL Спалюється."
+  },
   "Turbo": {
     "NAME": "ТУРБО",
-    "DESCRIPTION": "Отримуєте [B] [B]. NL Порожнеча додається у відбій.",
-    "UPGRADE_DESCRIPTION": "Отримуєте [B] [B] [B]. NL Порожнеча додається у відбій."
+    "DESCRIPTION": "Отримуєте [B] [B]. NL *Порожнеча додається у відбій.",
+    "UPGRADE_DESCRIPTION": "Отримуєте [B] [B] [B]. NL *Порожнеча додається у відбій."
   },
   "Twin Strike": {
     "NAME": "Подвійний удар",
@@ -1239,9 +1690,21 @@
     "NAME": "Тотальний залп",
     "DESCRIPTION": "Завдаєте !D! шкоди. NL Усуваєте УСІ не-атакувальні карти."
   },
+  "Unraveling": {
+    "NAME": "Розплутування",
+    "DESCRIPTION": "Граєте усі карти в руці, зліва на право. Цілі обираються випадково. NL Спалюється."
+  },
   "Uppercut": {
     "NAME": "Аперкот",
     "DESCRIPTION": "Завдаєте !D! шкоди. NL Наносите !M! ослаблення. NL Наносите !M! уразливості."
+  },
+  "Vault": {
+    "NAME": "Сховище",
+    "DESCRIPTION": "Отримуєте 1 ухиляння та закінчуєте свій рух. NL На початку наступного руху, наносите !D! шкоди. Спалюється."
+  },
+  "Vengeance": {
+    "NAME": "Кипуча лють",
+    "DESCRIPTION": "Ворожите !M! карт. NL Переходите у кару на початку наступного руху."
   },
   "Venomology": {
     "NAME": "Алхімізація",
@@ -1251,14 +1714,35 @@
     "NAME": "Розправа",
     "DESCRIPTION": "Додаєте !M! випадкові атаки з добору у руку. NL Спалюється."
   },
+  "Vigilance": {
+    "NAME": "Пильність",
+    "DESCRIPTION": "Отримуєте !B! броні. NL Переходите у спокій.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
+  },
   "Void": {
     "NAME": "Порожнеча",
     "DESCRIPTION": "Пасивна. NL Коли берете цю карту, втрачаєте 1 енергію. NL Примарна."
+  },
+  "Wallop": {
+    "NAME": "Плюхнути",
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL Отримуєте броню рівну завданій не блокованій шкоді."
   },
   "Warcry": {
     "NAME": "Бойовий клич",
     "DESCRIPTION": "Берете !M! карту. NL Кладете карту з руки на верх добору. NL Спалюється.",
     "UPGRADE_DESCRIPTION": "Берете !M! карти. NL Кладете карту з руки на верх добору. NL Спалюється."
+  },
+  "WardAura": {
+    "NAME": "DEPRECATED Ward Aura",
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL At the start of your turn, gain !M! Block."
+  },
+  "WaveOfTheHand": {
+    "NAME": "Махом руки",
+    "DESCRIPTION": "Спокій: Наносите !M! ослаблення. NL Кара: Наносите !M! уразливості."
+  },
+  "Weave": {
+    "NAME": "Сплітання",
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL Якщо ця карта усунута з добору, додаєте її у руку."
   },
   "Well Laid Plans": {
     "NAME": "План на майбутнє",
@@ -1275,7 +1759,34 @@
   },
   "Wild Strike": {
     "NAME": "Дикий удар",
-    "DESCRIPTION": "Завдаєте !D! шкоди. NL У добір тасується Рана."
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL У добір тасується *Рана."
+  },
+  "WindmillStrike": {
+    "NAME": "Удар  вітряком",
+    "DESCRIPTION": "Залишається. NL Завдаєте !D! шкоди. NL Якщо ця карта залишається, її шкода збільшується на !M!."
+  },
+  "Windup": {
+    "NAME": "DEPRECATED Windup",
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL Gain !M! Vigor."
+  },
+  "Wireheading": {
+    "NAME": "Дротяна голова",
+    "DESCRIPTION": "На початку руху, ворожите !M! карт.",
+    "UPGRADE_DESCRIPTION": "Початкова. NL На початку руху, ворожите !M! карт."
+  },
+  "Wisdom": {
+    "NAME": "Мудрість",
+    "DESCRIPTION": "Залишається. NL Берете !M! карти. NL Спалюється."
+  },
+  "Wish": {
+    "NAME": "Бажання",
+    "DESCRIPTION": "Обираєте карту з добору. NL Граєте її двічі та спалюєте. NL Спалюється.",
+    "UPGRADE_DESCRIPTION": "Обираєте карту з добору. NL Граєте її тричі та спалюєте. NL Спалюється."
+  },
+  "Worship": {
+    "NAME": "Шана",
+    "DESCRIPTION": "Отримуєте !M! благання.",
+    "UPGRADE_DESCRIPTION": "Залишається. NL Отримуєте !M! благання."
   },
   "Wound": {
     "NAME": "Рана",
@@ -1288,6 +1799,14 @@
   "Writhe": {
     "NAME": "Корчі",
     "DESCRIPTION": "Пасивна. NL Початкова."
+  },
+  "Wrath": {
+    "NAME": "Кара",
+    "DESCRIPTION": "Завдаєте і отримуєте подвійну шкоду."
+  },
+  "WreathOfFlame": {
+    "NAME": "Виток полум'я",
+    "DESCRIPTION": "Наступна атака завдає !M! додаткової шкоди."
   },
   "Zap": {
     "NAME": "Блискавка",
