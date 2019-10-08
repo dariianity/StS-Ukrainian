@@ -1,4 +1,10 @@
 {
+  "Ambrosia": {
+    "NAME": "Ambrosia",
+    "DESCRIPTIONS": [
+      "Enter #yDivinity #yStance."
+    ]
+  },
   "Ancient Potion": {
     "NAME": "Ancient Potion",
     "DESCRIPTIONS": [
@@ -27,6 +33,20 @@
       "% of your Max HP."
     ]
   },
+  "BottledMiracle": {
+    "NAME": "Bottled Miracle",
+    "DESCRIPTIONS": [
+      "Add #b",
+      " #yMiracles to your hand."
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "Cunning Potion",
+    "DESCRIPTIONS": [
+      "Add #b",
+      " #yShiv+ to your hand."
+    ]
+  },
   "Dexterity Potion": {
     "NAME": "Dexterity Potion",
     "DESCRIPTIONS": [
@@ -44,11 +64,17 @@
   "Elixir": {
     "NAME": "Elixir",
     "DESCRIPTIONS": [
-      "",
-      "",
-      "#yExhaust all #yStatus and #yCurse cards from your hand.",
-      "",
-      "It had no effect..."
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "Elixir",
+    "DESCRIPTIONS": [
+      "#yExhaust any number of cards in your hand."
     ]
   },
   "Energy Potion": {
@@ -62,6 +88,13 @@
     "NAME": "Entropic Brew",
     "DESCRIPTIONS": [
       "Fill all your empty potion slots with random potions."
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "Essence Of Darkness",
+    "DESCRIPTIONS": [
+      "#yChannel #b",
+      " #yDark for each orb slot."
     ]
   },
   "EssenceOfSteel": {
@@ -129,8 +162,15 @@
   "Health Potion": {
     "NAME": "Health Potion",
     "DESCRIPTIONS": [
-      "Heal #b",
-      " HP."
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "Heart of Iron",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yMetallicize."
     ]
   },
   "LiquidBronze": {
@@ -152,6 +192,13 @@
     "DESCRIPTIONS": [
       "Use potions during combat to gain #gbonuses or #rhinder enemies.",
       "Potion Slot"
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "Potion Of Capacity",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " Orb slots."
     ]
   },
   "PowerPotion": {
