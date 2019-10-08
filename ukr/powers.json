@@ -6,11 +6,25 @@
       " додаткової шкоди."
     ]
   },
+  "Adaptation": {
+    "NAME": "Адаптація",
+    "DESCRIPTIONS": [
+      "Змінюючи #yпоставу, берете #b",
+      " карту.",
+      " карт."
+    ]
+  },
   "After Image": {
     "NAME": "Післясвітіння",
     "DESCRIPTIONS": [
       "Щоразу, як граєте карту, отримуєте #b",
       " #yброні."
+    ]
+  },
+  "AlwaysMad": {
+    "NAME": "DEPRECATED Always Mad",
+    "DESCRIPTIONS": [
+      "No longer receive double damage while in #yWrath."
     ]
   },
   "Amplify": {
@@ -19,6 +33,13 @@
       "Протягом цього руху наступний #yталант грається двічі.",
       "Протягом цього руху наступні ",
       " #yталанти граються двічі."
+    ]
+  },
+  "AngelForm": {
+    "NAME": "DEPRECATED AngelForm",
+    "DESCRIPTIONS": [
+      "At the end of your turn, gain #b",
+      " #yPlated #yArmor."
     ]
   },
   "Anger": {
@@ -66,6 +87,13 @@
       "#yБроня не знімається на початку руху ворога."
     ]
   },
+  "BattleHymn": {
+    "NAME": "Бойове гасло",
+    "DESCRIPTIONS": [
+      "Ціна першої карти яку ви берете до руки кожного руху, зменшується на #b",
+      " протягом того руху."
+    ]
+  },
   "BeatOfDeath": {
     "NAME": "Смертельне серцебиття",
     "DESCRIPTIONS": [
@@ -85,6 +113,13 @@
     "DESCRIPTIONS": [
       "На початку вашого руху втрачаєте #b",
       " #yзосередження."
+    ]
+  },
+  "BlockReturnPower": {
+    "NAME": "Самозахист",
+    "DESCRIPTIONS": [
+      "Коли вас атакують, отримуєте #b",
+      " #yброні."
     ]
   },
   "Blur": {
@@ -128,11 +163,25 @@
       " карти #yвміння граються двічі."
     ]
   },
+  "CannotChangeStancePower": {
+    "NAME": "Зміна постави неможлива",
+    "DESCRIPTIONS": [
+      "Не можете змінити поставу цього руху."
+    ]
+  },
   "Choked": {
     "NAME": "Задушливість",
     "DESCRIPTIONS": [
       "Втрачаєте #b",
       " ОЗ, граючи карту протягом цього руху."
+    ]
+  },
+  "Collect": {
+    "NAME": "Збір",
+    "DESCRIPTIONS": [
+      "Наступного руху, отримуєте [W] [W] .",
+      "Наступні #b",
+      " рухи, отримуєте [W] [W] ."
     ]
   },
   "Combust": {
@@ -147,6 +196,13 @@
     "NAME": "Нерішучість",
     "DESCRIPTIONS": [
       "Отримуючи шкоду, змінює намір."
+    ]
+  },
+  "Condense": {
+    "NAME": "DEPRECATED Condense",
+    "DESCRIPTIONS": [
+      "You cannot take more than #b",
+      " from any attack."
     ]
   },
   "Confusion": {
@@ -170,6 +226,13 @@
       " шкоди."
     ]
   },
+  "Controlled": {
+    "NAME": "Розумова фортеця",
+    "DESCRIPTIONS": [
+      "Змінюючи #yпостави, отримуєте #b",
+      " #yброні."
+    ]
+  },
   "CorpseExplosionPower": {
     "NAME": "Підрив тіла",
     "DESCRIPTIONS": [
@@ -189,8 +252,8 @@
     "NAME": "Творчий ШІ",
     "DESCRIPTIONS": [
       "На початку кожного руху, додає #b",
-      " випадковий талант у руку.",
-      " випадкові таланти у руку."
+      " випадковий талант до руки.",
+      " випадкові таланти до руки."
     ]
   },
   "Curiosity": {
@@ -229,6 +292,13 @@
     "DESCRIPTIONS": [
       "На початку вашого руху отримуєте #b",
       " #yміці."
+    ]
+  },
+  "DevotionPower": {
+    "NAME": "Відданість",
+    "DESCRIPTIONS": [
+      "На початку руху, отримуєте #b",
+      " #yблагань."
     ]
   },
   "DexLoss": {
@@ -296,6 +366,14 @@
       " рухи."
     ]
   },
+  "DuplicationPower": {
+    "NAME": "Duplication",
+    "DESCRIPTIONS": [
+      "Наступна карта грається двічі.",
+      "Наступні #b",
+      " карти граються двічі."
+    ]
+  },
   "Echo Form": {
     "NAME": "Відлунна форма",
     "DESCRIPTIONS": [
@@ -310,6 +388,18 @@
       "#yГромовиця влучає по ВСІХ ворогах.",
       "",
       ""
+    ]
+  },
+  "EmotionalTurmoilPower": {
+    "NAME": "DEPRECATED Emotional Turmoil",
+    "DESCRIPTIONS": [
+      "At the start of your turn, enter a new random basic stance."
+    ]
+  },
+  "EndTurnDeath": {
+    "NAME": "Богохульство",
+    "DESCRIPTIONS": [
+      "Наступного руху помираєте."
     ]
   },
   "Energized": {
@@ -351,11 +441,18 @@
       " рухи."
     ]
   },
+  "EstablishmentPower": {
+    "NAME": "Заснування",
+    "DESCRIPTIONS": [
+      "Щоразу ви #yзалишаєте карту, її ціна зменшується на #b",
+      "."
+    ]
+  },
   "Evolve": {
     "NAME": "Еволюція",
     "DESCRIPTIONS": [
-      "Щоразу, коли берете карту #yстану у руку, берете ще одну карту.",
-      "Щоразу, коли берете карту #yстану у руку, берете ще #b",
+      "Щоразу, коли берете карту #yстану до руки, берете ще одну карту.",
+      "Щоразу, коли берете карту #yстану до руки, берете ще #b",
       " карти."
     ]
   },
@@ -394,8 +491,8 @@
   "Fire Breathing": {
     "NAME": "Вогняний подих",
     "DESCRIPTIONS": [
-      "Наприкінці вашого руху завдаєте #b",
-      " шкоди УСІМ ворогам за кожну #yатаку, зіграну протягом цього руху."
+      "Тасуючи #yстан чи #yпрокляття, завдаєте",
+      " шкоди УСІМ ворогам."
     ]
   },
   "Flame Barrier": {
@@ -419,6 +516,14 @@
       " рази протягом руху."
     ]
   },
+  "FlowPower": {
+    "NAME": "DEPRECATED FlowPower",
+    "DESCRIPTIONS": [
+      "When you play an Attack, gain #b",
+      " temporary #yStrength. When you play a Skill, gain #b,",
+      " temporary #yDexterity."
+    ]
+  },
   "Focus": {
     "NAME": "Зосередження",
     "DESCRIPTIONS": [
@@ -435,6 +540,22 @@
       " , наступні ходи."
     ]
   },
+  "FreeAttackPower": {
+    "NAME": "Безкоштовна атака",
+    "DESCRIPTIONS": [
+      "Наступна #yатака ігнорує кошт карти.",
+      "Наступні #b",
+      " #yатаки ігнорують кошт карти."
+    ]
+  },
+  "FreeToPlayPower": {
+    "NAME": "DEPRECATED FreeToPlayPower",
+    "DESCRIPTIONS": [
+      "Ignore energy costs on the next card you play this turn.",
+      "Ignore energy costs on the next #b",
+      " cards you play this turn."
+    ]
+  },
   "Gambit": {
     "NAME": "Крок вперед",
     "DESCRIPTIONS": [
@@ -449,6 +570,12 @@
     "DESCRIPTIONS": [
       "Наприкінці руху отримує #b",
       " #yміці."
+    ]
+  },
+  "Grounded": {
+    "NAME": "DEPRECATED Grounded",
+    "DESCRIPTIONS": [
+      "Whenever you play a #ySkill, enter #yCalm."
     ]
   },
   "GrowthPower": {
@@ -470,8 +597,8 @@
     "NAME": "Вітання",
     "DESCRIPTIONS": [
       "На початку вашого руху додаєте #b",
-      " випадкові звичайні карти у руку.",
-      " випадкову звичайну карту у руку."
+      " випадкові звичайні карти до руки.",
+      " випадкову звичайну карту до руки."
     ]
   },
   "Hex": {
@@ -487,6 +614,13 @@
       "",
       "",
       ""
+    ]
+  },
+  "HotHot": {
+    "NAME": "DEPRECATED Hot hot",
+    "DESCRIPTIONS": [
+      "While you are in #yWrath, deal #b",
+      " damage back whenever you receive attack damage."
     ]
   },
   "Infinite Blades": {
@@ -571,8 +705,8 @@
   "Magnetism": {
     "NAME": "Магнетизм",
     "DESCRIPTIONS": [
-      "На початку кожного руху отримуєте #b%s випадкову безбарвну карту у руку.",
-      "На початку кожного руху отримуєте #b%s випадкові безбарвні карти у руку."
+      "На початку кожного руху отримуєте #b%s випадкову безбарвну карту до руки.",
+      "На початку кожного руху отримуєте #b%s випадкові безбарвні карти до руки."
     ]
   },
   "Malleable": {
@@ -582,6 +716,29 @@
       " #yброні. Приріст #yброні збільшується коли ",
       " спрацьовує. Повертається до #b",
       " на початку вашого руху."
+    ]
+  },
+  "Mantra": {
+    "NAME": "Благання",
+    "DESCRIPTIONS": [
+      "Збираючи #b",
+      " #yблагань, переходите в #yБожество."
+    ]
+  },
+  "MasterRealityPower": {
+    "NAME": "Майстер реальності",
+    "DESCRIPTIONS": [
+      "На початку кожного руху додає #b",
+      " #y",
+      " до руки.",
+      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
+    ]
+  },
+  "Mastery": {
+    "NAME": "DEPRECATED Mastery",
+    "DESCRIPTIONS": [
+      "Whenever you attempt to switch Stances to your current Stance, gain #b",
+      " [W]."
     ]
   },
   "Mayhem": {
@@ -625,13 +782,19 @@
     "NAME": "Нічний кошмар",
     "DESCRIPTIONS": [
       "На початку вашого наступного руху берете #b",
-      " додаткові карти у руку."
+      " додаткові карти до руки."
+    ]
+  },
+  "Nirvana": {
+    "NAME": "Нірвана",
+    "DESCRIPTIONS": [
+      "Граючи карту, #yполіпшуєте її."
     ]
   },
   "No Attack": {
     "NAME": "Роззброєння",
     "DESCRIPTIONS": [
-      "Ви не можете грати #yатаки у цьому русі."
+      "Ви не можете грати #yатаки цього руху."
     ]
   },
   "No Draw": {
@@ -644,6 +807,12 @@
     "NAME": "Без броні",
     "DESCRIPTIONS": [
       "Ви не можете отримати #yброню від карт."
+    ]
+  },
+  "NoSkills": {
+    "NAME": "Незграбність",
+    "DESCRIPTIONS": [
+      "Ви не можете грати #yвміння цього руху."
     ]
   },
   "Noxious Fumes": {
@@ -659,6 +828,13 @@
       "Повністю #yблокує одну #yатаку кожен хід."
     ]
   },
+  "OmegaPower": {
+    "NAME": "Омега",
+    "DESCRIPTIONS": [
+      "На початку руху завдаєте ",
+      " шкоди УСІМ ворогам."
+    ]
+  },
   "Painful Stabs": {
     "NAME": "Болісні удари",
     "DESCRIPTIONS": [
@@ -669,9 +845,9 @@
     "NAME": "Відвага",
     "DESCRIPTIONS": [
       "Зігравши ще #b",
-      " карту у цьому русі, завдасте #b",
+      " карту цього руху, завдасте #b",
       " шкоди УСІМ ворогам.",
-      " карти у цьому русі, завдасте #b"
+      " карти цього руху, завдасте #b"
     ]
   },
   "Pen Nib": {
@@ -724,16 +900,16 @@
   "Rage": {
     "NAME": "Лють",
     "DESCRIPTIONS": [
-      "Щоразу, коли граєте #yатаку у цьому русі, отримуєте #b",
+      "Щоразу, коли граєте #yатаку цього руху, отримуєте #b",
       " #yброні."
     ]
   },
   "Rebound": {
     "NAME": "Відскок",
     "DESCRIPTIONS": [
-      "Кладете наступну карту, зіграну у цьому русі, на верх добору.",
+      "Кладете наступну карту, зіграну цього руху, на верх добору.",
       "Кладете наступні #b",
-      " карти, зіграні у цьому русі, на верх добору."
+      " карти, зіграні цього руху, на верх добору."
     ]
   },
   "Reduce Damage": {
@@ -787,6 +963,13 @@
       "Наприкінці цього руху карти з руки не усуватимуться."
     ]
   },
+  "Retribution": {
+    "NAME": "DEPRECATED Retribution",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP, gain #b",
+      " #yVigor."
+    ]
+  },
   "Riposte": {
     "NAME": "",
     "DESCRIPTIONS": [
@@ -813,6 +996,12 @@
     "DESCRIPTIONS": [
       "Наносячи негативний ефект на ворога, додатково завдаєте #b",
       " шкоди."
+    ]
+  },
+  "Serenity": {
+    "NAME": "DEPRECATED Serenity",
+    "DESCRIPTIONS": [
+      "While you are in #yCalm, HP loss is reduced by #b"
     ]
   },
   "Serpentine": {
@@ -884,7 +1073,7 @@
     "NAME": "Застій",
     "DESCRIPTIONS": [
       "Після його смерті, карта «",
-      "» повернеться у вашу руку."
+      "» повернеться у вашдо руки."
     ]
   },
   "StaticDischarge": {
@@ -907,6 +1096,13 @@
       "Збільшує шкоду від атак на #b",
       "Зменшує шкоду від атак на #b",
       "."
+    ]
+  },
+  "StrikeUp": {
+    "NAME": "Уджиґнути",
+    "DESCRIPTIONS": [
+      "Завдаєте #b",
+      " додаткової шкоди за кожен #yудар в колоді."
     ]
   },
   "Surrounded": {
@@ -980,11 +1176,25 @@
       ""
     ]
   },
+  "Vault": {
+    "NAME": "Сховище",
+    "DESCRIPTIONS": [
+      "Отримує #b",
+      " на початку вашого наступного руху."
+    ]
+  },
   "Venomology": {
     "NAME": "Токсинологія",
     "DESCRIPTIONS": [
       "#yОтрута не зменшується, а посилюється на #b",
       " кожного руху."
+    ]
+  },
+  "Vigor": {
+    "NAME": "Могутність",
+    "DESCRIPTIONS": [
+      "Наступна атак завдає на #b",
+      " більше шкоди."
     ]
   },
   "Vulnerable": {
@@ -1005,11 +1215,24 @@
       " наступні ходи."
     ]
   },
+  "WireheadingPower": {
+    "NAME": "Дротяна голова",
+    "DESCRIPTIONS": [
+      "На початку руху, #yворожите #b",
+      " карт."
+    ]
+  },
   "Wraith Form v2": {
     "NAME": "Тіньова форма",
     "DESCRIPTIONS": [
       "Наприкінці вашого руху втрачаєте #b",
       " #yспритності."
+    ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "Закипаюча лють",
+    "DESCRIPTIONS": [
+      "Переходите в #yКару на початку руху."
     ]
   }
 }
