@@ -494,14 +494,6 @@
       "Enemies drop #b25% more #yGold."
     ]
   },
-  "GoldenEye": {
-    "NAME": "Golden Eye",
-    "FLAVOR": "TODO",
-    "DESCRIPTIONS": [
-      "Whenever you #yScry, #yScry #b",
-      " additional cards."
-    ]
-  },
   "Gremlin Horn": {
     "NAME": "Gremlin Horn",
     "FLAVOR": "\"Gremlin Nobs are capable of growing until the day they die. Remarkable.\" - Ranwid",
