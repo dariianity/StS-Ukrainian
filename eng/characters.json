@@ -15,6 +15,14 @@
       "A combat automaton which became self-aware. NL Ancient technology allows the manipulation of Orbs."
     ]
   },
+  "Watcher": {
+    "NAMES": [
+      "The Watcher"
+    ],
+    "TEXT": [
+      "A blind ascetic who has come to \"Evaluate\" the Spire. NL Master of the divine Stances."
+    ]
+  },
   "Ironclad": {
     "NAMES": [
       "The Ironclad"
@@ -74,19 +82,19 @@
       "~Risk...~ NL ~..reward....~",
       "~Time~ ~for~ ~a~ NL ~CHALLENGE...~",
       "Rewards",
-      "~Let's~ ~keep~ ~going...~",
-      "~It~ ~only~ ~gets~ ~harder...~",
-      "~Impressive...~ ~more...~",
-      "Cursed!",
-      "Scatterbrain!",
-      "Transformation!"
+	  "~Let's~ ~keep~ ~going...~",
+	  "~It~ ~only~ ~gets~ ~harder...~",
+	  "~Impressive...~ ~more...~",
+	  "Cursed!",
+	  "Scatterbrain!",
+	  "Transformation!"
     ],
     "OPTIONS": [
       "[Continue]",
       "[Talk]",
       "[Skip]",
       "[Leave]",
-      "Choose 10 cards to add to your deck."
+	  "Choose 10 cards to add to your deck."
     ]
   },
   "Neow Reward": {
@@ -122,19 +130,11 @@
       "Select a Card to Upgrade",
       "[ #gEnemies #gin #gyour #gnext #gthree #gcombats #ghave #g1 #gHP ]",
       " #rdamage",
-      "[ #gObtain #ga #grandom #gcolorless #guncommon #gCard ]",
-      "#gObtain #g2 #grandom #gcolorless #gCards ]"
+      "[ #gChoose #ga #gcolorless #gCard #gto #gobtain ]",
+      "#gChoose #ga #grare #gcolorless #gCard #gto #gobtain ]"
     ],
     "UNIQUE_REWARDS": [
       "[ #rLose #ryour #rstarting #rRelic #gObtain #ga #grandom #gboss #gRelic ]"
-    ]
-  },
-  "PostCreditsNeow": {
-    "NAMES": [],
-    "TEXT": [
-      "Now... what..? NL ..has it been... done....?",
-      "...the Spire sleeps.....",
-      "..and so...... shall... NL ....I......"
     ]
   },
   "Shop Screen": {
@@ -181,12 +181,12 @@
       "A deadly huntress from the foglands. NL Eradicates foes with daggers and poisons."
     ]
   },
-  "Watcher": {
-    "NAMES": [
-      "The Watcher"
-    ],
+  "PostCreditsNeow": {
+    "NAMES": [],
     "TEXT": [
-      "A blind ascetic who has come to \"Evaluate\" the Spire. NL Master of the divine Stances."
+      "Now... what..? NL ..has it been... done....?",
+      "...the Spire sleeps.....",
+      "..and so...... shall... NL ....I......"
     ]
   }
 }

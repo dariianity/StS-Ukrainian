@@ -28,7 +28,7 @@
   "AbstractDungeon": {
     "TEXT": [
       "Proceed",
-      "Blights:"
+	  "Blights:"
     ]
   },
   "AbstractMonster": {
@@ -153,15 +153,6 @@
       " turn"
     ]
   },
-  "BetaArtUnlockEffect": {
-    "TEXT": [
-      "Ironclad Beta Card Art Unlocked!",
-      "The Silent Beta Card Art Unlocked!",
-      "Defect Beta Card Art Unlocked!",
-      "All Beta Card Art Unlocked!",
-      "Watcher Beta Card Art Unlocked!"
-    ]
-  },
   "BetterToHandAction": {
     "TEXT": [
       "Choose a Card to Put into Your Hand.",
@@ -182,7 +173,7 @@
       "Skip",
       "VOTE NOW: ",
       "s left.",
-      "Choose a Blight"
+	  "Choose a Blight"
     ]
   },
   "CacheAction": {
@@ -253,7 +244,7 @@
       "VOTE NOW: ",
       "s left.",
       "View Upgrade",
-      "Choose One"
+	  "Choose One"
     ]
   },
   "CharacterOption": {
@@ -295,11 +286,6 @@
       "Choose One"
     ]
   },
-  "ClarityAction": {
-    "TEXT": [
-      "Choose 1 card to keep. The rest are exhausted."
-    ]
-  },
   "CombatRewardScreen": {
     "TEXT": [
       "Proceed",
@@ -330,6 +316,11 @@
       "No"
     ]
   },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "This must be my only #rAttack!"
+    ]
+  },
   "CopyAction": {
     "TEXT": [
       "Copy"
@@ -339,20 +330,6 @@
     "TEXT": [
       "Click again to exit",
       "to exit"
-    ]
-  },
-  "CustomModeScreen": {
-    "TEXT": [
-      "Custom Mode",
-      "Achievements and Leaderboards are off.",
-      "Character",
-      "Ascension",
-      "Level ",
-      "Ascension Mode",
-      "Modifiers",
-      "Seed",
-      "Set Seed",
-      "Trophies and Leaderboards are off."
     ]
   },
   "DailyScreen": {
@@ -580,16 +557,6 @@
       "Exordium"
     ]
   },
-  "ForethoughtAction": {
-    "TEXT": [
-      "put on bottom of your draw pile."
-    ]
-  },
-  "GainGoldTextEffect": {
-    "TEXT": [
-      " Gold"
-    ]
-  },
   "GamblingChipAction": {
     "TEXT": [
       "Replace (Gambling Chip)",
@@ -599,6 +566,11 @@
   "GameSavedEffect": {
     "TEXT": [
       "#y~Game~ #y~Saved~"
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Gold"
     ]
   },
   "GridCardSelectScreen": {
@@ -616,7 +588,8 @@
       "Choose ",
       " Cards to ",
       "Choose Any Number of Cards to ",
-      "Choose a Card to "
+      "Choose a Card to ",
+      "Copy"
     ]
   },
   "HiddenChamberAction": {
@@ -687,7 +660,8 @@
       "Up",
       "Down",
       "Controller Enabled",
-      "Touchscreen Mode"
+      "Touchscreen Mode",
+      "Peek"
     ]
   },
   "LanguageDropdown": {
@@ -781,7 +755,7 @@
     "TEXT": [
       "Lift",
       "Start battles with +1 Strength. (Up to 3)",
-      ""
+	  ""
     ]
   },
   "MainMenuScreen": {
@@ -863,8 +837,8 @@
       "Customize your own run with unique modifiers.",
       "Change your controls.",
       "Change your graphics, audio, and gameplay preferences.",
-      "Potion Lab",
-      "Observe the numerous potions found climbing the Spire."
+	  "Potion Lab",
+	  "Observe the numerous potions found climbing the Spire."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -919,7 +893,8 @@
       "Resolution:",
       "Resolution: NL Fullscreen Monitor:",
       "Changes which monitor is utilized when Fullscreen.",
-      "Long-press Confirmations"
+      "Long-press Confirmations",
+      "Bigger Text"
     ]
   },
   "PatchNotesScreen": {
@@ -929,11 +904,6 @@
       " NL (TEMPORARY: Use arrow keys to navigate through older logs)"
     ]
   },
-  "Period": {
-    "TEXT": [
-      "."
-    ]
-  },
   "PotionPopUp": {
     "TEXT": [
       "Throw",
@@ -941,17 +911,6 @@
       "Discard",
       "I cannot use potions!",
       "I can't do that in combat!"
-    ]
-  },
-  "PotionViewScreen": {
-    "TEXT": [
-      "Return",
-      "Common:",
-      "The most frequent potions found in the Spire.",
-      "Uncommon:",
-      "Stronger potions which appear less often than common potions.",
-      "Rare:",
-      "Unique and powerful potions which are rarely seen."
     ]
   },
   "PowerExpireTextEffect": {
@@ -978,6 +937,17 @@
   "RecycleAction": {
     "TEXT": [
       "Exhaust"
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Return",
+      "Common:",
+      "The most frequent potions found in the Spire.",
+      "Uncommon:",
+      "Stronger potions which appear less often than common potions.",
+      "Rare:",
+      "Unique and powerful potions which are rarely seen."
     ]
   },
   "RelicViewScreen": {
@@ -1023,7 +993,7 @@
       "Heal for 100% of your Max HP (",
       " HP from ",
       "Heal for 30% of your Max HP (",
-      ""
+	  ""
     ]
   },
   "RestartForChangesEffect": {
@@ -1048,48 +1018,6 @@
       "Linked",
       "Obtaining this will remove ",
       "."
-    ]
-  },
-  "RichPresence": {
-    "TEXT": [
-      "Daily - Floor %s",
-      "Custom - Floor %s",
-      " - Floor %s",
-      "Main Menu",
-      " (A%s)"
-    ]
-  },
-  "RunHistoryMonsterNames": {
-    "TEXT": [
-      "Gang of Gremlins",
-      "Large Slime",
-      "Exordium Thugs",
-      "Exordium Wildlife",
-      "Swarm of Slimes",
-      "Small Slimes",
-      "City Muggers",
-      "Three Byrds",
-      "Four Byrds",
-      "Triple Cultists",
-      "Chosen Flock",
-      "Sentry and Spheric Guardian",
-      "Centurion and Mystic",
-      "Parasite and Fungi Beast",
-      "Masked Bandits Gang",
-      "Colosseum Nobs",
-      "Colosseum Slavers",
-      "Three Shapes",
-      "Jaw Worm Horde",
-      "Four Shapes",
-      "Spheric Guardian with Shapes",
-      "Double Orb Walkers",
-      "Donu and Deca",
-      "Sentries",
-      "Chosen and Cultist",
-      "(Deprecated) Flame Bruiser",
-      "(Deprecated) Slaver and Parasite",
-      "(Deprecated) Snecko and Mystics",
-      "Shield and Spear"
     ]
   },
   "RunHistoryPathNodes": {
@@ -1126,21 +1054,54 @@
       "#bDug",
       "#bLifted %s/%s",
       "#yPurchased:",
-      "#rSpent ",
-      "#rTook ",
-      "#rLost ",
-      "%s Max HP",
-      "#bHealed ",
-      "#bGained ",
-      "#bIgnored ",
-      "%s HP",
-      "#bObtained %s",
-      "#rCursed #rwith #r%s",
-      "%s Damage",
-      "#bUpgraded %s",
-      "#bTransformed %s",
-      "#rLost %s",
-      "#bRecalled"
+	  "#rSpent ",
+	  "#rTook ",
+	  "#rLost ",
+	  "%s Max HP",
+	  "#bHealed ",
+	  "#bGained ",
+	  "#bIgnored ",
+	  "%s HP",
+	  "#bObtained %s",
+	  "#rCursed #rwith #r%s",
+	  "%s Damage",
+	  "#bUpgraded %s",
+	  "#bTransformed %s",
+	  "#rLost %s",
+	  "#bRecalled"
+    ]
+  },
+  "RunHistoryMonsterNames": {
+    "TEXT": [
+     "Gang of Gremlins",
+	 "Large Slime",
+	 "Exordium Thugs",
+	 "Exordium Wildlife",
+	 "Swarm of Slimes",
+	 "Small Slimes",
+	 "City Muggers",
+	 "Three Byrds",
+	 "Four Byrds",
+	 "Triple Cultists",
+	 "Chosen Flock",
+	 "Sentry and Spheric Guardian",
+	 "Centurion and Mystic",
+	 "Parasite and Fungi Beast",
+	 "Masked Bandits Gang",
+	 "Colosseum Nobs",
+	 "Colosseum Slavers",
+	 "Three Shapes",
+	 "Jaw Worm Horde",
+	 "Four Shapes",
+	 "Spheric Guardian with Shapes",
+	 "Double Orb Walkers",
+	 "Donu and Deca",
+	 "Sentries",
+	 "Chosen and Cultist",
+	 "(Deprecated) Flame Bruiser",
+	 "(Deprecated) Slaver and Parasite",
+	 "(Deprecated) Snecko and Mystics",
+	 "Shield and Spear"
     ]
   },
   "RunHistoryScreen": {
@@ -1183,19 +1144,6 @@
       "The Watcher"
     ]
   },
-  "SaveSlot": {
-    "TEXT": [
-      "Playtime ",
-      "Empty Slot"
-    ]
-  },
-  "SaveSlotScreen": {
-    "TEXT": [
-      "Choose a Save Slot",
-      "Rename",
-      "Delete this Save"
-    ]
-  },
   "SeedPanel": {
     "TEXT": [
       "0000000000",
@@ -1221,14 +1169,14 @@
       "put on top of your draw pile."
     ]
   },
+  "ForethoughtAction": {
+    "TEXT": [
+      "put on bottom of your draw pile."
+    ]
+  },
   "ShopRoom": {
     "TEXT": [
       "Skip Merchant"
-    ]
-  },
-  "SignatureMoveMessage": {
-    "TEXT": [
-      "This must be my only #rAttack!"
     ]
   },
   "SingleCardViewPopup": {
@@ -1361,6 +1309,33 @@
       "New Unlock!"
     ]
   },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Custom Mode",
+      "Achievements and Leaderboards are off.",
+      "Character",
+      "Ascension",
+      "Level ",
+      "Ascension Mode",
+      "Modifiers",
+      "Seed",
+      "Set Seed",
+      "Trophies and Leaderboards are off."
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Playtime ",
+      "Empty Slot"
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Choose a Save Slot",
+      "Rename",
+      "Delete this Save"
+    ]
+  },
   "VictoryScreen": {
     "TEXT": [
       "Proceed",
@@ -1376,6 +1351,34 @@
       "Unspent Gold",
       "HP Bonus",
       "Victory!"
+      ]
+  },
+  "Period": {
+    "TEXT": [
+      "."
+    ]
+  },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Ironclad Beta Card Art Unlocked!",
+      "The Silent Beta Card Art Unlocked!",
+      "Defect Beta Card Art Unlocked!",
+      "All Beta Card Art Unlocked!",
+      "Watcher Beta Card Art Unlocked!"
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Daily - Floor %s",
+      "Custom - Floor %s",
+      " - Floor %s",
+      "Main Menu",
+      " (A%s)"
+    ]
+  },
+  "ClarityAction": {
+    "TEXT": [
+      "Choose 1 card to keep. The rest are exhausted."
     ]
   },
   "WishAction": {

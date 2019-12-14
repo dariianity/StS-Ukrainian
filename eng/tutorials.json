@@ -90,18 +90,6 @@
       "Max Framerate"
     ]
   },
-  "PC Tips": {
-    "TEXT": [
-      "You can right click cards on the card reward screen to see extra info.",
-      "Useful information can be revealed by hovering over most objects.",
-      "Right click will release any cards you are dragging.",
-      "Hover over an enemy to see their name and Power information.",
-      "Use the scroll wheel or click and drag the screen to scroll.",
-      "If you can inspect an item, your cursor will become a magnifying glass.",
-      "Use the scrollwheel or click and drag to scroll maps, card screens, and others."
-    ],
-    "LABEL": []
-  },
   "Player Tips": {
     "TEXT": [
       "This card applies a Power to you when used. NL Powers are passive abilities that remain for the duration of the combat.",
@@ -162,10 +150,23 @@
       "The card removal service increases in price whenever you use it.",
       "The card removal service can only be used once at each shop.",
       "Damage from potions, relics, and powers are not considered attack damage.",
-      "Effects that generate random cards during combat will never heal you."
+	    "Effects that generate random cards during combat will never heal you."
     ],
     "LABEL": [
       "You can discard potions to make room for others."
+    ]
+  },
+  "PC Tips": {
+    "TEXT": [
+      "You can right click cards on the card reward screen to see extra info.",
+      "Useful information can be revealed by hovering over most objects.",
+      "Right click will release any cards you are dragging.",
+      "Hover over an enemy to see their name and Power information.",
+      "Use the scroll wheel or click and drag the screen to scroll.",
+      "If you can inspect an item, your cursor will become a magnifying glass.",
+      "Use the scrollwheel or click and drag to scroll maps, card screens, and others."
+    ],
+    "LABEL": [
     ]
   },
   "Relic Tip": {
