@@ -1,4 +1,10 @@
 {
+  "Ambrosia": {
+    "NAME": "Ambrosia",
+    "DESCRIPTIONS": [
+      "Enter #yDivinity #yStance."
+    ]
+  },
   "Ancient Potion": {
     "NAME": "Ancient Potion",
     "DESCRIPTIONS": [
@@ -11,6 +17,12 @@
     "DESCRIPTIONS": [
       "Choose #b1 of #b3 random #yAttack cards to add to your hand, it costs #b0 this turn.",
       "Choose #b1 of #b3 random #yAttack cards and add #b2 copies to your hand, they cost #b0 this turn."
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "Blessing of the Forge",
+    "DESCRIPTIONS": [
+      "Upgrade all cards in your hand for the rest of combat."
     ]
   },
   "Block Potion": {
@@ -27,11 +39,53 @@
       "% of your Max HP."
     ]
   },
+  "BottledMiracle": {
+    "NAME": "Bottled Miracle",
+    "DESCRIPTIONS": [
+      "Add #b",
+      " #yMiracles to your hand."
+    ]
+  },
+  "ColorlessPotion": {
+    "NAME": "Colorless Potion",
+    "DESCRIPTIONS": [
+      "Choose #b1 of #b3 random #yColorless cards to add to your hand, it costs #b0 this turn.",
+      "Choose #b1 of #b3 random #yColorless cards and add #b2 copies to your hand, they cost #b0 this turn."
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "Cultist Potion",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yRitual."
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "Cunning Potion",
+    "DESCRIPTIONS": [
+      "Add #b",
+      " #yShiv+ to your hand."
+    ]
+  },
   "Dexterity Potion": {
     "NAME": "Dexterity Potion",
     "DESCRIPTIONS": [
       "Gain #b",
       " #yDexterity."
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "Distilled Chaos",
+    "DESCRIPTIONS": [
+      "Play the top #b",
+      " cards of your draw pile."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Duplication Potion",
+    "DESCRIPTIONS": [
+      "This turn, your next card is played twice.",
+      "This turn, your next #b2 cards are played twice."
     ]
   },
   "Elixir": {
@@ -42,6 +96,12 @@
       "DEPRECATED",
       "DEPRECATED",
       "DEPRECATED"
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "Elixir",
+    "DESCRIPTIONS": [
+      "#yExhaust any number of cards in your hand."
     ]
   },
   "Energy Potion": {
@@ -55,6 +115,13 @@
     "NAME": "Entropic Brew",
     "DESCRIPTIONS": [
       "Fill all your empty potion slots with random potions."
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "Essence Of Darkness",
+    "DESCRIPTIONS": [
+      "#yChannel #b",
+      " #yDark for each orb slot."
     ]
   },
   "EssenceOfSteel": {
@@ -74,7 +141,7 @@
   "FairyPotion": {
     "NAME": "Fairy in a Bottle",
     "DESCRIPTIONS": [
-	  "When you would die, heal to #b",
+      "When you would die, heal to #b",
       "% of your Max HP instead and discard this potion."
     ]
   },
@@ -126,11 +193,26 @@
       "DEPRECATED"
     ]
   },
+  "HeartOfIron": {
+    "NAME": "Heart of Iron",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yMetallicize."
+    ]
+  },
   "LiquidBronze": {
     "NAME": "Liquid Bronze",
     "DESCRIPTIONS": [
       "Gain #b",
       " #yThorns."
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "Liquid Memories",
+    "DESCRIPTIONS": [
+      "Choose a card in your discard pile and return it to your hand. It costs #b0 this turn.",
+      "Choose #b",
+      " cards in your discard pile and return them to your hand. They cost #b0 this turn."
     ]
   },
   "Poison Potion": {
@@ -145,6 +227,13 @@
     "DESCRIPTIONS": [
       "Use potions during combat to gain #gbonuses or #rhinder enemies.",
       "Potion Slot"
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "Potion Of Capacity",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " Orb slots."
     ]
   },
   "PowerPotion": {
@@ -192,6 +281,12 @@
       " #yDexterity."
     ]
   },
+  "StancePotion": {
+    "NAME": "Stance Potion",
+    "DESCRIPTIONS": [
+      "Enter #yCalm or #yWrath."
+    ]
+  },
   "SteroidPotion": {
     "NAME": "Flex Potion",
     "DESCRIPTIONS": [
@@ -220,101 +315,6 @@
     "DESCRIPTIONS": [
       "Apply #b",
       " #yWeak."
-    ]
-  },
-  "StancePotion": {
-    "NAME": "Stance Potion",
-    "DESCRIPTIONS": [
-      "Enter #yCalm or #yWrath."
-    ]
-  },
-  "DuplicationPotion": {
-    "NAME": "Duplication Potion",
-    "DESCRIPTIONS": [
-      "This turn, your next card is played twice.",
-      "This turn, your next #b2 cards are played twice."
-    ]
-  },
-  "ElixirPotion": {
-    "NAME": "Elixir",
-    "DESCRIPTIONS": [
-      "#yExhaust any number of cards in your hand."
-    ]
-  },
-  "HeartOfIron": {
-    "NAME": "Heart of Iron",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " #yMetallicize."
-    ]
-  },
-  "CunningPotion": {
-    "NAME": "Cunning Potion",
-    "DESCRIPTIONS": [
-      "Add #b",
-      " #yShiv+ to your hand."
-    ]
-  },
-  "PotionOfCapacity": {
-    "NAME": "Potion Of Capacity",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " Orb slots."
-    ]
-  },
-  "EssenceOfDarkness": {
-    "NAME": "Essence Of Darkness",
-    "DESCRIPTIONS": [
-      "#yChannel #b",
-	  " #yDark for each orb slot."
-    ]
-  },
-  "BottledMiracle": {
-    "NAME": "Bottled Miracle",
-    "DESCRIPTIONS": [
-      "Add #b",
-      " #yMiracles to your hand."
-    ]
-  },
-  "Ambrosia": {
-    "NAME": "Ambrosia",
-    "DESCRIPTIONS": [
-      "Enter #yDivinity #yStance."
-    ]
-  },
-  "DistilledChaos": {
-    "NAME": "Distilled Chaos",
-    "DESCRIPTIONS": [
-      "Play the top #b",
-      " cards of your draw pile."
-    ]
-  },
-  "LiquidMemories": {
-    "NAME": "Liquid Memories",
-    "DESCRIPTIONS": [
-	  "Choose a card in your discard pile and return it to your hand. It costs #b0 this turn.",
-      "Choose #b",
-	  " cards in your discard pile and return them to your hand. They cost #b0 this turn."
-    ]
-  },
-  "CultistPotion": {
-    "NAME": "Cultist Potion",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " #yRitual."
-    ]
-  },
-  "ColorlessPotion": {
-    "NAME": "Colorless Potion",
-    "DESCRIPTIONS": [
-      "Choose #b1 of #b3 random #yColorless cards to add to your hand, it costs #b0 this turn.",
-      "Choose #b1 of #b3 random #yColorless cards and add #b2 copies to your hand, they cost #b0 this turn."
-    ]
-  },
-  "BlessingOfTheForge": {
-    "NAME": "Blessing of the Forge",
-    "DESCRIPTIONS": [
-      "Upgrade all cards in your hand for the rest of combat."
     ]
   }
 }

@@ -1,16 +1,4 @@
 {
-  "Neutral": {
-    "NAME": "",
-    "DESCRIPTION": [
-      ""
-    ]
-  },
-  "Wrath": {
-    "NAME": "Wrath",
-    "DESCRIPTION": [
-      "Your Attacks deal double damage and you take double damage from attacks."
-    ]
-  },
   "Calm": {
     "NAME": "Calm",
     "DESCRIPTION": [
@@ -21,6 +9,18 @@
     "NAME": "Divinity",
     "DESCRIPTION": [
       "Upon entering this #yStance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
+    ]
+  },
+  "Neutral": {
+    "NAME": "",
+    "DESCRIPTION": [
+      ""
+    ]
+  },
+  "Wrath": {
+    "NAME": "Wrath",
+    "DESCRIPTION": [
+      "Your Attacks deal double damage and you take double damage from attacks."
     ]
   }
 }

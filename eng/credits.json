@@ -19,6 +19,14 @@
       "Bruce Brenneise"
     ]
   },
+  "KAKEHASHI": {
+    "HEADER": "Kakehashi Games",
+    "NAMES": [
+      "Kakehashi Games (Official Translation):",
+      "Japanese Publishing Support:  Kakehashi Games",
+      "Japanese Localization:  Rie Ihara"
+    ]
+  },
   "LOC_ADDITIONAL": {
     "HEADER": "Additional Translations",
     "NAMES": [
@@ -27,8 +35,7 @@
   },
   "LOC_CAT": {
     "HEADER": "Catalan Localization",
-    "NAMES": [
-    ]
+    "NAMES": []
   },
   "LOC_DEU": {
     "HEADER": "German Localization",
@@ -383,14 +390,6 @@
     "NAMES": [
       "Tamara Ryan",
       "Michael Schwalbe"
-    ]
-  },
-  "KAKEHASHI": {
-    "HEADER": "Kakehashi Games",
-    "NAMES": [
-      "Kakehashi Games (Official Translation):",
-      "Japanese Publishing Support:  Kakehashi Games",
-      "Japanese Localization:  Rie Ihara"
     ]
   }
 }

@@ -1,98 +1,98 @@
 {
-  "DeadlyEnemies": {
-    "NAME": "Spear of Blight",
-    "DESCRIPTION": [
-      "Enemies deal #b",
-	  "% more damage."
-    ]
-  },
-  "ToughEnemies": {
-    "NAME": "Shield of Blight",
-     "DESCRIPTION": [
-      "Enemies have #b",
-	  "% more HP."
-    ]
-  },
-  "TimeMaze": {
-    "NAME": "Time Maze",
-     "DESCRIPTION": [
-      "You cannot play more than #b",
-      " cards per turn.",
-	  "I can only play up to NL #r"
-    ]
-  },
-  "TwistingMind": {
-    "NAME": "Twisting Mind",
-     "DESCRIPTION": [
-      "At the end of your turn, add #b",
-	  " random Status card to the top of your draw pile.",
-	  ""
-    ]
-  },
   "Accursed": {
     "NAME": "Accursed",
-     "DESCRIPTION": [
+    "DESCRIPTION": [
       "Whenever you defeat a Boss, obtain #b",
-	  " random #yCurses.",
-	  ""
-    ]
-  },
-  "Scatterbrain": {
-    "NAME": "Scatterbrain",
-     "DESCRIPTION": [
-      "Draw #b",
-	  " less card a turn.",
-	  ""
-    ]
-  },
-  "MimicInfestation": {
-    "NAME": "Mimic Infestation",
-     "DESCRIPTION": [
-      "Treasure rooms in future acts are replaced by Elites. Elites no longer drop relics."
-    ]
-  },
-  "FullBelly": {
-    "NAME": "Muzzle",
-     "DESCRIPTION": [
-      "You can no longer increase your Max HP. All healing is halved."
-    ]
-  },
-  "GrotesqueTrophy": {
-    "NAME": "Grotesque Trophy",
-     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-	  " #rPrides.",
-	  "Your Pride is twisted..."
+      " random #yCurses.",
+      ""
     ]
   },
   "BlightedDurian": {
     "NAME": "Post-Durian",
-     "DESCRIPTION": [
+    "DESCRIPTION": [
       "Lose #b",
-	  "% of your Max HP."
+      "% of your Max HP."
     ]
   },
-  "VoidEssence": {
-    "NAME": "Void Essence",
-     "DESCRIPTION": [
-      "Gain #b",
-      " less [E] at the start of each turn."
+  "DeadlyEnemies": {
+    "NAME": "Spear of Blight",
+    "DESCRIPTION": [
+      "Enemies deal #b",
+      "% more damage."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Muzzle",
+    "DESCRIPTION": [
+      "You can no longer increase your Max HP. All healing is halved."
     ]
   },
   "GraspOfShadows": {
     "NAME": "Hauntings",
-     "DESCRIPTION": [
+    "DESCRIPTION": [
       "Enemies start combat with #b",
-	  " #yIntangible."
+      " #yIntangible."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Grotesque Trophy",
+    "DESCRIPTION": [
+      "Upon pickup, obtain #b",
+      " #rPrides.",
+      "Your Pride is twisted..."
     ]
   },
   "MetallicRebirth": {
     "NAME": "Ancient Augmentation",
-     "DESCRIPTION": [
+    "DESCRIPTION": [
       "Enemies start combat with #b",
-	  " #yArtifact, #b",
-	  " #yPlated #yArmor, and #b",
-	  " #yRegenerate."
+      " #yArtifact, #b",
+      " #yPlated #yArmor, and #b",
+      " #yRegenerate."
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Mimic Infestation",
+    "DESCRIPTION": [
+      "Treasure rooms in future acts are replaced by Elites. Elites no longer drop relics."
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Scatterbrain",
+    "DESCRIPTION": [
+      "Draw #b",
+      " less card a turn.",
+      ""
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Time Maze",
+    "DESCRIPTION": [
+      "You cannot play more than #b",
+      " cards per turn.",
+      "I can only play up to NL #r"
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Shield of Blight",
+    "DESCRIPTION": [
+      "Enemies have #b",
+      "% more HP."
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Twisting Mind",
+    "DESCRIPTION": [
+      "At the end of your turn, add #b",
+      " random Status card to the top of your draw pile.",
+      ""
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Void Essence",
+    "DESCRIPTION": [
+      "Gain #b",
+      " less [E] at the start of each turn."
     ]
   }
 }

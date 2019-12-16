@@ -20,6 +20,12 @@
       ],
       "DESCRIPTION": "Burns are unplayable status cards that damage you."
     },
+    "CALM": {
+      "NAMES": [
+        "calm"
+      ],
+      "DESCRIPTION": "Upon exiting this #yStance, gain [W] [W] ."
+    },
     "CHANNEL": {
       "NAMES": [
         "channel",
@@ -58,6 +64,12 @@
       ],
       "DESCRIPTION": "Dexterity improves Block gained from cards."
     },
+    "DIVINITY": {
+      "NAMES": [
+        "divinity"
+      ],
+      "DESCRIPTION": "Upon entering this stance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
+    },
     "ETHEREAL": {
       "NAMES": [
         "ethereal"
@@ -78,6 +90,12 @@
         "exhausts"
       ],
       "DESCRIPTION": "Removed until end of combat."
+    },
+    "FATAL": {
+      "NAMES": [
+        "fatal"
+      ],
+      "DESCRIPTION": "Triggers whenever this card kills a non-minion enemy."
     },
     "FOCUS": {
       "NAMES": [
@@ -149,13 +167,38 @@
       ],
       "DESCRIPTION": "Poisoned creatures lose HP at the start of their turn. Each turn, Poison is reduced by #b1."
     },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "through violence"
+      ],
+      "DESCRIPTION": "When you obtain #b10 #yMantra, enter #yDivinity."
+    },
+    "REGEN": {
+      "NAMES": [
+        "regen"
+      ],
+      "DESCRIPTION": "Regen heals HP at the end of your turn. Each turn, Regen is reduced by #b1."
+    },
     "RETAIN": {
       "NAMES": [
         "retain",
-		"retains",
-		"retained"
+        "retains",
+        "retained"
       ],
       "DESCRIPTION": "Retained cards are not discarded at the end of turn."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "ritual"
+      ],
+      "DESCRIPTION": "Gain #yStrength at the end of your turn."
+    },
+    "SCRY": {
+      "NAMES": [
+        "scry"
+      ],
+      "DESCRIPTION": "Look at the top X cards of your draw pile. You may discard any of them."
     },
     "SHIV": {
       "NAMES": [
@@ -163,6 +206,13 @@
         "shivs"
       ],
       "DESCRIPTION": "Shivs are #b0 cost Attack cards which Exhaust."
+    },
+    "STANCE": {
+      "NAMES": [
+        "stance",
+        "stances"
+      ],
+      "DESCRIPTION": "You can only have one stance at a time."
     },
     "STATUS": {
       "NAMES": [
@@ -226,6 +276,12 @@
       ],
       "DESCRIPTION": "Upgrading cards makes them more powerful. Cards can only be upgraded once."
     },
+    "VIGOR": {
+      "NAMES": [
+        "vigor"
+      ],
+      "DESCRIPTION": "Your next Attack deals additional damage."
+    },
     "VOID": {
       "NAMES": [
         "void",
@@ -260,62 +316,6 @@
         "wrath"
       ],
       "DESCRIPTION": "In this #yStance, you deal and receive double attack damage."
-    },
-    "CALM": {
-      "NAMES": [
-        "calm"
-      ],
-      "DESCRIPTION": "Upon exiting this #yStance, gain [W] [W] ."
-    },
-    "STANCE": {
-      "NAMES": [
-        "stance",
-        "stances"
-      ],
-      "DESCRIPTION": "You can only have one stance at a time."
-    },
-    "SCRY": {
-      "NAMES": [
-        "scry"
-      ],
-      "DESCRIPTION": "Look at the top X cards of your draw pile. You may discard any of them."
-    },
-    "DIVINITY": {
-      "NAMES": [
-        "divinity"
-      ],
-      "DESCRIPTION": "Upon entering this stance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
-    },
-    "PRAYER": {
-      "NAMES": [
-        "mantra",
-		"through violence"
-      ],
-      "DESCRIPTION": "When you obtain #b10 #yMantra, enter #yDivinity."
-    },
-    "VIGOR": {
-      "NAMES": [
-        "vigor"
-      ],
-      "DESCRIPTION": "Your next Attack deals additional damage."
-    },
-    "REGEN": {
-      "NAMES": [
-        "regen"
-      ],
-      "DESCRIPTION": "Regen heals HP at the end of your turn. Each turn, Regen is reduced by #b1."
-    },
-    "RITUAL": {
-      "NAMES": [
-        "ritual"
-      ],
-      "DESCRIPTION": "Gain #yStrength at the end of your turn."
-    },
-    "FATAL": {
-      "NAMES": [
-        "fatal"
-      ],
-      "DESCRIPTION": "Triggers whenever this card kills a non-minion enemy."
     }
   }
 }

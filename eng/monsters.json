@@ -138,7 +138,7 @@
       "@DEFEAT??@ NL @IMPOSSIBLE!!@",
       "~DIE~ ~.~ ~.~ ~.~",
       "Face my wrath!",
-	  "@THAT'S@ NL @MY@ @BELT!!@"
+      "@THAT'S@ NL @MY@ @BELT!!@"
     ]
   },
   "Chosen": {
@@ -170,6 +170,15 @@
       "@MY@ @POWER@ @IS@ NL @UNMATCHED!@",
       "@YOU@ @DO@ @NOT@ NL @BELONG@ @HERE!@",
       "~My~ ~powers~ NL ~were~ ~matched...~"
+    ]
+  },
+  "Dagger": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Dagger",
+    "DIALOG": [
+      ""
     ]
   },
   "Darkling": {
@@ -217,29 +226,11 @@
       ""
     ]
   },
-  "Dagger": {
-    "MOVES": [
-      ""
-    ],
-    "NAME": "Dagger",
-    "DIALOG": [
-      ""
-    ]
-  },
   "FlameBruiser": {
     "MOVES": [
       ""
     ],
     "NAME": "Flame Bruiser",
-    "DIALOG": [
-      ""
-    ]
-  },
-  "Reptomancer": {
-    "MOVES": [
-      ""
-    ],
-    "NAME": "Reptomancer",
     "DIALOG": [
       ""
     ]
@@ -475,6 +466,15 @@
       ""
     ]
   },
+  "Reptomancer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Reptomancer",
+    "DIALOG": [
+      ""
+    ]
+  },
   "Repulsor": {
     "MOVES": [
       ""
@@ -616,6 +616,21 @@
       ""
     ]
   },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire Shield",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire Spear"
+  },
   "TheCollector": {
     "MOVES": [
       ""
@@ -674,23 +689,8 @@
     ],
     "NAME": "Transient",
     "DIALOG": [
-	  ""
-    ]
-  },
-  "SpireShield": {
-    "MOVES": [
       ""
-    ],
-    "NAME": "Spire Shield",
-    "DIALOG": [
-	  ""
     ]
-  },
-  "SpireSpear": {
-    "MOVES": [
-      ""
-    ],
-    "NAME": "Spire Spear"
   },
   "WrithingMass": {
     "MOVES": [
@@ -698,7 +698,7 @@
     ],
     "NAME": "Writhing Mass",
     "DIALOG": [
-	  ""
+      ""
     ]
   }
 }
