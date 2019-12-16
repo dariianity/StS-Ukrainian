@@ -107,7 +107,9 @@
     "NAMES": [
       "Jade \"HobNob\" Stevanovic",
       "Mero Marco",
-      "Luigi Squarzina"
+      "Luigi Squarzina",
+      "Тестування:",
+      "Mattylink Heropon"
     ]
   },
   "LOC_JPN": {
@@ -242,6 +244,19 @@
       "Перевірка тексту та переклад:",
       "Vasyl \"RDSk\" Mykhaliuk",
       "Artem \"Crazytosik\" Zemlianyi"
+    ]
+  },
+  "LOC_VIE": {
+    "HEADER": "Переклад в’єтнамською",
+    "NAMES": [
+      "MercTrans Localization Team",
+      "Переклад:",
+      "Dinh Long Hoang (donkrieg1011)",
+      "Dinh Hoang Nguyen (clesta)",
+      "Координування та лінгвістичне скеровування:",
+      "Hoang Son Do",
+      "Special Thanks:",
+      "Azy Tazer"
     ]
   },
   "LOC_ZHS": {
