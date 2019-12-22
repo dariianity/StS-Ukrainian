@@ -992,7 +992,7 @@
   },
   "Judgement": {
     "NAME": "Засудження",
-    "DESCRIPTION": "Якщо ворог має !M! чи менше ОЗ, прирівнюєте їх NL ОЗ до 0.",
+    "DESCRIPTION": "Якщо ворог має !M! чи менше ОЗ, NL прирівнюєте їх ОЗ до 0.",
     "EXTENDED_DESCRIPTION": [
       "ЗАСУДЖЕНИЙ"
     ]
@@ -1015,7 +1015,7 @@
   },
   "LessonLearned": {
     "NAME": "Урок завчено",
-    "DESCRIPTION": "Завдаєте !D! шкоди. NL Якщо смертельно, покращується випадкова карту з вашої колоди. NL Спалюється."
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL Якщо смертельно, покращує випадкову карту з вашої колоди. NL Спалюється."
   },
   "LetFateDecide": {
     "NAME": "DEPRECATED Let Fate Decide",
@@ -1282,7 +1282,7 @@
   },
   "Prostrate": {
     "NAME": "Знемагання",
-    "DESCRIPTION": "Отримуєте !M! Благань. NL Отримуєте !B! броні.",
+    "DESCRIPTION": "Отримуєте !M! благань. NL Отримуєте !B! броні.",
     "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "Protect": {
