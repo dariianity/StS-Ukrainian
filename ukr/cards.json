@@ -120,15 +120,15 @@
   "BattleHymn": {
     "NAME": "Бойове гасло",
     "DESCRIPTION": "На початку кожного ходу, додаєте *Трощу до своєї руки.",
-	"UPGRADE_DESCRIPTION": "Початкова. NL На початку кожного ходу, додаєте *Трощу до своєї руки."
+    "UPGRADE_DESCRIPTION": "Початкова. NL На початку кожного ходу, додаєте *Трощу до своєї руки."
+  },
+  "Beam Cell": {
+    "NAME": "Промінь світла",
+    "DESCRIPTION": "Завдаєте !D! шкоди. NL Наносите !M! уразливості."
   },
   "BecomeAlmighty": {
     "NAME": "Стати всемогутнім",
     "DESCRIPTION": "Отримуєте !M! міці."
-  },  
-  "Beam Cell": {
-    "NAME": "Промінь світла",
-    "DESCRIPTION": "Завдаєте !D! шкоди. NL Наносите !M! уразливості."
   },
   "Berserk": {
     "NAME": "Шаленість",
@@ -160,7 +160,6 @@
     "NAME": "Богохульство",
     "DESCRIPTION": "Переходите в Божество. NL Помираєте наступного ходу. NL Спалюється.",
     "UPGRADE_DESCRIPTION": "Залишається. NL Переходите в Божество. NL Помираєте наступного ходу. NL Спалюється."
-
   },
   "Blaster": {
     "NAME": "Пістоль",
@@ -381,7 +380,7 @@
     "NAME": "Створи меч",
     "DESCRIPTION": "Додаєте *Крушитель у добір. NL Спалюється.",
     "UPGRADE_DESCRIPTION": "Додаєте *Крушитель з X+1 у добір. NL Спалюється."
-  },  
+  },
   "Consecrate": {
     "NAME": "Освячення",
     "DESCRIPTION": "Завдаєте !D! шкоди УСІМ ворогам."
@@ -542,7 +541,7 @@
   "Discipline": {
     "NAME": "DEPRECATED Discipline",
     "DESCRIPTION": "If you end your turn with unused [W] , draw that many additional cards next turn."
-  },  
+  },
   "Discovery": {
     "NAME": "Відкриття",
     "DESCRIPTION": "Обираєте 1 з 3 випадкових карт та додаєте її у руку, вона коштує 0 у цей хід. NL Спалюється.",
@@ -1286,7 +1285,7 @@
     "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "Protect": {
-    "NAME": "Захист",
+    "NAME": "Оборона",
     "DESCRIPTION": "Залишається. NL Отримуєте !B! броні."
   },
   "Pummel": {
@@ -1805,7 +1804,7 @@
   "WaveOfTheHand2": {
     "NAME": "DEPRECATED",
     "DESCRIPTION": "DEPRECATED"
-  },  
+  },
   "Weave": {
     "NAME": "Сплітання",
     "DESCRIPTION": "Завдаєте !D! шкоди. NL Щоразу як Ви ворожите, повертаєте цю карту з відбою до руки."
@@ -1816,7 +1815,7 @@
     "UPGRADE_DESCRIPTION": "Наприкінці ходу залишаєте у руці до !M! карт."
   },
   "WheelKick": {
-    "NAME": "Wheel Kick",
+    "NAME": "Удар колесом",
     "DESCRIPTION": "Завдаєте !D! шкоди. NL Берете !M! карти.",
     "UPGRADE_DESCRIPTION": ""
   },
