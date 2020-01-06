@@ -685,7 +685,8 @@
     "DESCRIPTION": "Завдаєте !D! шкоди X рази.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      "Завдаєте !D! шкоди !M! рази."
+      "Завдаєте !D! шкоди !M! рази.",
+      "Завдаєте !D! шкоди !M! раз."
     ]
   },
   "FTL": {
