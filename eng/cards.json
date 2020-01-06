@@ -685,7 +685,8 @@
     "DESCRIPTION": "Deal !D! damage X times.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      "Deal !D! damage !M! times."
+      "Deal !D! damage !M! times.",
+      "Deal !D! damage !M! time."
     ]
   },
   "FTL": {
@@ -794,7 +795,7 @@
     "UPGRADE_DESCRIPTION": "Wrath: Enter Calm. NL Calm: Enter Wrath."
   },
   "FlurryOfBlows": {
-    "NAME": "Flurry Of Blows",
+    "NAME": "Flurry of Blows",
     "DESCRIPTION": "Deal !D! damage. NL Whenever you change Stances, return this from the discard pile to your hand."
   },
   "Flux Capacitor": {
@@ -1765,7 +1766,7 @@
   },
   "Vengeance": {
     "NAME": "Simmering Fury",
-    "DESCRIPTION": "Scry !M!. NL Enter Wrath at the start of your next turn."
+    "DESCRIPTION": "At the start of your next turn, enter Wrath and draw !M! cards."
   },
   "Venomology": {
     "NAME": "Alchemize",
